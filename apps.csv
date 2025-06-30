@@ -105,7 +105,7 @@ scrot,graphics,ScreenshotUtility,No,No,CLI,,https://github.com/dreamer/scrot,SCR
 git,git,DistributedVersionControl,No,No,CLI,https://git-scm.com/,https://github.com/git/git,"The winner across all the existing file versioning tools, distributed versioning, fully controllable from the command-line, plenty of configuration and usage options, behind a number of related project that leverage git as backend.",
 git-annex,git,GitforLargeFiles,No,No,CLI,https://git-annex.branchable.com/,git://git-annex.branchable.com/ git-annex,"Manages files with `git`, without checking the file contents into git; very useful to manage large/binary files.",
 git-stats,git,GitStatistics,No,No,CLI,,https://github.com/IonicaBizau/git-stats,Local git statistics including GitHub-like contributions calendars.,
-Mercurial,versioning,AlternativeVCS,No,No,,https://www.mercurial-scm.org/,https://www.mercurial-scm.org/repo/hg,"Free, distributed source control management tool.",
+Mercurial,versioning,AlternativeVCS,No,No,CLI,https://www.mercurial-scm.org/,https://www.mercurial-scm.org/repo/hg,"Free, distributed source control management tool.",
 tig,git,GitInterface(TUI),No,Yes,Yes,,https://github.com/jonas/tig,"An ncurses-based text-mode interface for `git` that can act as a repository browser, but can also assist in staging changes for commit at chunk level.",
 sshfs,file-system,RemoteFilesystemMounting,No,,Yes,,https://github.com/libfuse/sshfs,Locally mount a remote file-system through SSH and access files and directory as they would be on the local machine.,
 TMSU,file-system,TagBasedVirtualFS,No,No,,http://tmsu.org/,https://github.com/oniony/TMSU,"A simple tool for tagging files, providing a virtual filesystem for a tag-based view of your files from within any other program.",
