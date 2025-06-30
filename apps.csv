@@ -635,7 +635,7 @@ Nextcloud share URL downloader,transfer,CloudFileDownloaderCLI,No,Yes,CLI,,https
 pcopy,file-handling,TemporaryPasteCLI,No,Yes,CLI,,https://github.com/binwiederhier/pcopy,"A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.",
 GoCatGo,pastebin,PastebinCLI,No,Yes,CLI,,https://github.com/vaaleyard/gocatgo,GoCatGo is another pastebin tool with a super focus on transparency.,
 NestedTextTo,conversion,DataFormatConverterCLI,No,No,CLI,,https://github.com/AndydeCleyre/nestedtextto,"CLI to convert between NestedText and JSON, YAML, or TOML.",
-matrix-webcam,funny,ImageViewer(ASCII),No,No,Yes,,https://github.com/joschuck/matrix-webcam,Take your video conference from within the matrix.,
+matrix-webcam,funny,MatrixVideoConfCLI,No,Yes,CLI,,https://github.com/joschuck/matrix-webcam,Take your video conference from within the matrix.,
 mprocs,launcher,enhanced cat,No,No,Yes,,https://github.com/pvolok/mprocs,mprocs runs multiple commands in parallel and shows output of each command separately.,
 procmux,launcher,notifications,No,No,Yes,,https://github.com/napisani/procmux,A TUI utility for running multiple commands in parallel in easily switchable terminals.,
 sharing,transfer,command-line translator,No,No,Yes,,https://github.com/parvardegr/sharing,Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app.,
