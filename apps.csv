@@ -397,7 +397,7 @@ wifi-password,security,enhanced cat,No,No,CLI,,https://github.com/rauchg/wifi-pa
 habitctl,time-tracker,AlternativeVCS,No,No,CLI,,https://github.com/blinry/habitctl,Minimalist command line tool you can use to track and examine your habits.,
 kickstart,programming-boilerplate,AlternativeVCS,No,No,CLI,,https://github.com/Keats/kickstart,Scaffolding tool to get new projects up and running quickly.,
 nomino,file-renamer,enhanced cat,No,No,CLI,,https://github.com/yaa110/nomino,Batch rename utility for developers.,
-luneta,option-picker,shell,No,No,Yes,,https://github.com/fbeline/luneta,Interactive filter that can be easily composed within any script.,
+luneta,option-picker,shell,No,No,CLI,,https://github.com/fbeline/luneta,Interactive filter that can be easily composed within any script.,
 jiq,data-management-json,advanced grep,No,No,Yes,,https://github.com/fiatjaf/jiq,jid on jq - interactive JSON query tool using jq expressions.,
 sad,git,enhanced cat,No,No,Yes,,https://github.com/ms-jpq/sad,CLI search and replace. Show you a nice diff of proposed changes before you commit them.,
 wfh,file-watch,ShellSyncBackup,No,,Yes,,https://github.com/kzys/wfh,Continuously watches your local directories and rsync them against a remote host.,
