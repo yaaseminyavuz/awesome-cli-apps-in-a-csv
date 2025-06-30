@@ -398,7 +398,7 @@ habitctl,time-tracker,AlternativeVCS,No,No,CLI,,https://github.com/blinry/habitc
 kickstart,programming-boilerplate,AlternativeVCS,No,No,CLI,,https://github.com/Keats/kickstart,Scaffolding tool to get new projects up and running quickly.,
 nomino,file-renamer,enhanced cat,No,No,CLI,,https://github.com/yaa110/nomino,Batch rename utility for developers.,
 luneta,option-picker,shell,No,No,CLI,,https://github.com/fbeline/luneta,Interactive filter that can be easily composed within any script.,
-jiq,data-management-json,advanced grep,No,No,Yes,,https://github.com/fiatjaf/jiq,jid on jq - interactive JSON query tool using jq expressions.,
+jiq,data-management-json,advanced grep,No,No,CLI,,https://github.com/fiatjaf/jiq,jid on jq - interactive JSON query tool using jq expressions.,
 sad,git,enhanced cat,No,No,Yes,,https://github.com/ms-jpq/sad,CLI search and replace. Show you a nice diff of proposed changes before you commit them.,
 wfh,file-watch,ShellSyncBackup,No,,Yes,,https://github.com/kzys/wfh,Continuously watches your local directories and rsync them against a remote host.,
 teip,text-search-replace,tabular-sql-query,,No,Yes,,https://github.com/greymd/teip,Select partial standard input and replace with the result of another command.,
