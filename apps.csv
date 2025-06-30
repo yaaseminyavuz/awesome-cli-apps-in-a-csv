@@ -236,7 +236,7 @@ TSV Utilities,data-management-tabular,TSVProcessingCLI,No,No,CLI,,https://github
 pastel,graphics,ColorToolCLI,No,No,CLI,,https://github.com/sharkdp/pastel,"A command-line tool to generate, analyze, convert and manipulate colors.",
 asciinema,screen-recorder,terminal sharing,No,No,CLI,,https://github.com/asciinema/asciinema,Terminal session recorder.,
 alder,file-explorer,enhanced cat,No,No,CLI,,https://github.com/aweary/alder,Directory tree visualizer.,
-diff-so-fancy,diff,enhanced cat,No,No,Yes,,https://github.com/so-fancy/diff-so-fancy,Make your diffs human-readable instead of machine-readable.,
+diff-so-fancy,diff,enhanced cat,No,No,CLI,,https://github.com/so-fancy/diff-so-fancy,Make your diffs human-readable instead of machine-readable.,
 ripgrep-all,text-search,PaperBarcodeBackup,No,No,Yes,,https://github.com/phiresky/ripgrep-all,"grep in text files but also search in PDFs, E-Books, office documents, zip, tar.gz, etc.",
 ripgrep,text-search,ShellSyncBackup,No,No,Yes,,https://github.com/BurntSushi/ripgrep,Recursively searches directories for a regex pattern.,
 pmenu,option-picker,terminal sharing,No,No,Yes,,https://github.com/sgtpep/pmenu,A dynamic terminal-based menu inspired by dmenu.,
