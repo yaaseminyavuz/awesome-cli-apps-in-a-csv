@@ -258,7 +258,7 @@ Language-games,games,TerminalGame,No,No,TUI,,https://github.com/Hellisotherpeopl
 xsv,data-management-tabular,CSVQueryCLI,No,No,CLI,https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/,,Doing a SQL join with CSV files.,
 bandwhich,networking,NetworkTrafficMonitor,No,,TUI,,https://github.com/imsnif/bandwhich,Terminal bandwidth utilization tool.,
 dmidecode,monitor,SystemHardwareInspector,No,No,CLI,https://www.nongnu.org/dmidecode/,https://git.savannah.gnu.org/git/dmidecode.git,System information utility.,
-forgit,git,process monitor,No,No,Yes,,https://github.com/wfxr/forgit,A utility tool powered by fzf for using git interactively.,
+forgit,git,GitTUIWrapper,No,No,TUI,,https://github.com/wfxr/forgit,A utility tool powered by fzf for using git interactively.,
 scholarref,science,enhanced cat,No,Yes,,https://adamsgaard.dk/scholarref.html,https://src.adamsgaard.dk/scholarref.git,Tools to never deal with journal webpages again.,
 crappybird-py,games,enhanced cat,No,No,Yes,,https://github.com/JonPizza/crappybird-py,Flappy bird.,
 conrad,science,enhanced cat,No,No,Yes,,https://github.com/vinayak-mehta/conrad,Track conferences and meetups.,
