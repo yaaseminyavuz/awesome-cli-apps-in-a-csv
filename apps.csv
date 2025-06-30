@@ -620,7 +620,7 @@ Redis Viewer,data-management,RedisViewerTUI,No,Yes,TUI,,https://github.com/SaltF
 csvtk,data-management-tabular,CSVProcessorCLI,No,No,CLI,https://bioinf.shenwei.me/csvtk/,https://github.com/shenwei356/csvtk,"A cross-platform, efficient and practical CSV/TSV toolkit written in Go.",
 ehh,cheatsheet,TerminalHelpFetcher,No,No,CLI,,https://github.com/lennardv2/ehh,Command-line tool for remembering Linux/terminal commands.,
 Lakshmi,financial,FinanceCLI,No,No,CLI,,https://github.com/sarvjeets/lakshmi,Investing library and command-line interface inspired by the Bogleheads philosophy.,
-pypi-command-line,package-manager,command-line translator,No,No,Yes,,https://github.com/wasi-master/pypi-command-line,"A powerful, colorful, beautiful command-line-interface for pypi.org.",
+pypi-command-line,package-manager,PyPiSearcherCLI,No,Yes,CLI,,https://github.com/wasi-master/pypi-command-line,"A powerful, colorful, beautiful command-line-interface for pypi.org.",
 Minisign,security,AlternativeVCS,No,No,Yes,,https://github.com/jedisct1/minisign,A dead simple tool to sign files and verify digital signatures.,
 gitsummary,git,CloudSyncManager,No,No,Yes,,https://github.com/glenreesor/gitsummary,"A better git status that lists stashes, file statuses, branch list, all nicely formatted with color.",
 cotp,security,command-line translator,No,No,Yes,,https://github.com/replydev/cotp,"Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.",
