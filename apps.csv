@@ -495,7 +495,7 @@ RecoverPy,rm,DataRecovery,No,No,CLI,,https://github.com/PabloLec/RecoverPy,Recov
 file-type-cli,file-handling,FileInspectorCLI,No,No,CLI,,https://github.com/sindresorhus/file-type-cli,Detect the file type of a file or stdin.,
 trash-cli,rm,FileDeletionTool,No,No,CLI,,https://github.com/sindresorhus/trash-cli,"Move files and folders to the trash on Linux (XDG trash), macOS (`macOS-trash` library) and Windows (`recycle-bin` library).",
 Ultimate Plumber,text-processing,pipeline builder,No,No,TUI,,https://github.com/akavel/up,"Helps to interactively and incrementally explore textual data in Linux, by making it easier to quickly build complex pipelines, thanks to a fast feedback loop.",
-fkill-cli,system,terminal sharing,No,No,Yes,,https://github.com/sindresorhus/fkill-cli,Simple cross-platform process killer.,
+fkill-cli,system,ProcessManagerCLI,No,No,CLI,,https://github.com/sindresorhus/fkill-cli,Simple cross-platform process killer.,
 has,system,command-line translator,No,No,Yes,,https://github.com/kdabir/has,Checks presence of various command line tools on the PATH and reports their installed version.,
 brightnessctl,system,AlternativeVCS,No,No,Yes,,https://github.com/Hummer12007/brightnessctl,"Read and control device brightness. Devices, by default, include backlight and LEDs - searched for in corresponding classes.",
 sncli,note-taking,command-line translator,No,No,Yes,,https://github.com/insanum/sncli,A Python application that gives you access to your Simplenote account via the command line.,
