@@ -461,7 +461,7 @@ CLI-Manager,todo-manager,command-line translator,No,No,CLI,,https://github.com/M
 wordle-curses,games,terminal game,No,No,CLI,,https://github.com/knosmos/wordle-curses,A simple TUI wordle game with curses.,
 termishare,networking,terminal sharing,No,Yes,CLI,,https://github.com/qnkhuat/termishare,Peer to peer terminal sharing.,
 ictree,file-explorer,terminal file explorer,No,No,TUI,,https://github.com/NikitaIvanovV/ictree,Like tree but interactive.,
-Quoter,financial,AlternativeVCS,No,No,Yes,,https://github.com/frossm/quoter,The console based stock quote tool.,
+Quoter,financial,FinanceCLI,No,Yes,CLI,,https://github.com/frossm/quoter,The console based stock quote tool.,
 nala,package-manager,knowledge base,No,No,,,https://gitlab.com/volian/nala,apt package manager front-end with cleaner interface.,
 terminordle,games,enhanced cat,No,Yes,Yes,,https://github.com/HP4k1h5/terminordle,"Inspired by the popular online game wordle made, you can play a pretty close replica of the original locally or multiplayer over the network.",
 gh-s,git,enhanced cat,No,No,Yes,,https://github.com/gennaro-tedesco/gh-s,Search GitHub repositories interactively.,
