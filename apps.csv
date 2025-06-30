@@ -243,7 +243,7 @@ pmenu,option-picker,TerminalMenu,No,No,TUI,,https://github.com/sgtpep/pmenu,A dy
 eon,editors,TerminalTextEditor,No,No,TUI,,https://github.com/tomas/eon,"A light, modern editor for your terminal that doesn't want to be vim.",
 datadash,data-management,TerminalDataVisualizer,No,No,TUI,,https://github.com/keithknott26/datadash,Visualize and graph data in the terminal.,
 Mp3blaster,music,LightweightAudioPlayer,No,No,TUI,http://www.mp3blaster.org/?m=1,https://sourceforge.net/projects/mp3blaster,Audio player for the text console.,
-jqview,data-management-json,enhanced cat,No,No,Yes,,https://github.com/fiatjaf/jqview,Simplest possible native GUI for inspecting JSON.,
+jqview,data-management-json,JSONInspector,No,No,TUI-CLI,,https://github.com/fiatjaf/jqview,Simplest possible native GUI for inspecting JSON.,
 ytmdl,transfer,enhanced cat,No,No,Yes,,https://github.com/deepjyoti30/ytmdl,Get songs from YouTube in mp3 format.,
 sha256-animation,animation,terminal sharing,No,No,Yes,,https://github.com/in3rsha/sha256-animation,Animation of the SHA-256 hash function in your terminal.,
 cli-arxiv,browser,AlternativeVCS,No,No,Yes,,https://github.com/knguyenanhoa/cli-arxiv,CLI tool for exploring arXiv.,
