@@ -234,7 +234,7 @@ Graphene,browser,TextBasedWebBrowser,No,Yes,TUI,,https://github.com/atsepkov/Gra
 navi,cheatsheet,InteractiveCheatsheetCLI,No,No,CLI,,https://github.com/denisidoro/navi,An interactive cheatsheet tool for the command-line.,
 TSV Utilities,data-management-tabular,TSVProcessingCLI,No,No,CLI,,https://github.com/eBay/tsv-utils,"Command line tools for large, tabular data files.",
 pastel,graphics,ColorToolCLI,No,No,CLI,,https://github.com/sharkdp/pastel,"A command-line tool to generate, analyze, convert and manipulate colors.",
-asciinema,screen-recorder,terminal sharing,No,No,Yes,,https://github.com/asciinema/asciinema,Terminal session recorder.,
+asciinema,screen-recorder,terminal sharing,No,No,CLI,,https://github.com/asciinema/asciinema,Terminal session recorder.,
 alder,file-explorer,enhanced cat,No,No,Yes,,https://github.com/aweary/alder,Directory tree visualizer.,
 diff-so-fancy,diff,enhanced cat,No,No,Yes,,https://github.com/so-fancy/diff-so-fancy,Make your diffs human-readable instead of machine-readable.,
 ripgrep-all,text-search,PaperBarcodeBackup,No,No,Yes,,https://github.com/phiresky/ripgrep-all,"grep in text files but also search in PDFs, E-Books, office documents, zip, tar.gz, etc.",
