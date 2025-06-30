@@ -535,7 +535,7 @@ The Logfile Navigator,monitor,LogViewerTUI,No,No,TUI,https://lnav.org/,https://g
 gojq,data-management-json,enhanced cat,No,No,CLI,,https://github.com/itchyny/gojq,Pure Go implementation of jq.,
 pt.sh,science,enhanced cat,No,No,CLI,,https://github.com/alexeytal/pt.sh,CLI periodic table with search and many properties.,
 Zellij,terminal,multiplexer,No,No,TUI,,https://github.com/zellij-org/zellij,"A workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer.",
-xit,todo-manager,text calendar,No,No,Yes,,https://github.com/jotaen/xit,"A plain-text file format for todos and check lists. So, not really a program, but I believe it is worth to list :-)",
+xit,todo-manager,text calendar,No,No,CLI,,https://github.com/jotaen/xit,"A plain-text file format for todos and check lists. So, not really a program, but I believe it is worth to list :-)",
 uacme,security,shell,No,No,Yes,,https://github.com/ndilieto/uacme,ACMEv2 client written in plain C with minimal dependencies.,
 Tizonia,music,LightweightAudioPlayer,No,Yes,Yes,,https://github.com/tizonia/tizonia-openmax-il,"Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.",
 Tera,music,LightweightAudioPlayer,No,No,Yes,,https://github.com/shinokada/tera,"Terminal Radio: an easy-to-use CLI music player to play favorite music, radio stations and explore various radio stations from the terminal only.",
