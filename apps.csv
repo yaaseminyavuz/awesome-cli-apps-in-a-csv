@@ -333,7 +333,7 @@ fossil,versioning,AlternativeVCS,No,Yes,CLI,https://fossil-scm.org/,https://gith
 Diakonos,editors,TUIEditor,No,No,TUI,,https://github.com/Pistos/diakonos,"A powerful editor with “standard"" keybindings and several advanced features; written in Ruby.",
 yank,utility,ClipboardHelperCLI,No,No,TUI,,https://github.com/mptre/yank,Reads input from stdin and display a selection interface that allows a field to be selected and copied to the clipboard.,
 mtm,terminal,terminal sharing,No,No,TUI,,https://github.com/deadpixi/mtm,"Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer.",
-sd,text-search-replace,enhanced cat,No,No,Yes,,https://github.com/chmln/sd,s[earch] & d[isplace] - An intuitive find & replace CLI a possible replacement for sed.,
+sd,text-search-replace,enhanced cat,No,No,CLI,,https://github.com/chmln/sd,s[earch] & d[isplace] - An intuitive find & replace CLI a possible replacement for sed.,
 Watson,time-tracker,enhanced cat,No,No,Yes,,https://github.com/TailorDev/Watson,Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.,
 WOPR,data-management,terminal sharing,No,No,Yes,,https://github.com/yaronn/wopr,"A simple markup language for creating rich terminal reports, presentations, and infographic.",
 Angband,games,LightweightAudioPlayer,No,No,,https://rephial.org/,https://github.com/angband/angband,"Angband is a free, single-player dungeon exploration game.",
