@@ -379,7 +379,7 @@ xcp,file-handling,enhanced cat,No,No,CLI,,https://github.com/tarka/xcp,Extended 
 pazi,cd,enhanced cat,No,No,CLI,,https://github.com/euank/pazi,Fast autojump helper.,
 hunter,file-manager,TerminalFileManager,No,Yes,TUI,,https://github.com/rabite0/hunter,Ranger-like file browser written in rust.,
 ytop,monitor-top,FastFindAlternative,No,No,TUI,,https://github.com/cjbassi/ytop,TUI system monitor written in Rust.,
-noti,monitor,resource monitor,No,No,Yes,,https://github.com/variadico/noti,Monitor a process and trigger a notification.,
+noti,monitor,resource monitor,No,No,CLI,,https://github.com/variadico/noti,Monitor a process and trigger a notification.,
 friendly-find,find,enhanced cat,No,No,Yes,,https://github.com/sjl/friendly-find,Usable replacement for find.,
 fzy,option-picker,enhanced cat,No,No,Yes,,https://github.com/jhawthorn/fzy,Better fuzzy finder.,
 GraphicsMagick,graphics,enhanced cat,No,No,,http://www.graphicsmagick.org/,https://sourceforge.net/projects/graphicsmagick,Swiss army knife of image processing.,
