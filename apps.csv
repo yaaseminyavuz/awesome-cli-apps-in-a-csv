@@ -618,7 +618,7 @@ tz,organizers,TimezoneCLI,No,No,CLI,,https://github.com/oz/tz,tz helps you sched
 tran,transfer,TranslatorCLI,No,Yes,CLI,,https://github.com/abdfnx/tran,Securely transfer and send anything between computers with TUI.,
 Redis Viewer,data-management,RedisViewerTUI,No,Yes,TUI,,https://github.com/SaltFishPr/redis-viewer,A tool to view Redis data in terminal.,
 csvtk,data-management-tabular,CSVProcessorCLI,No,No,CLI,https://bioinf.shenwei.me/csvtk/,https://github.com/shenwei356/csvtk,"A cross-platform, efficient and practical CSV/TSV toolkit written in Go.",
-ehh,cheatsheet,terminal sharing,No,No,Yes,,https://github.com/lennardv2/ehh,Command-line tool for remembering Linux/terminal commands.,
+ehh,cheatsheet,TerminalHelpFetcher,No,No,CLI,,https://github.com/lennardv2/ehh,Command-line tool for remembering Linux/terminal commands.,
 Lakshmi,financial,command-line translator,No,No,Yes,,https://github.com/sarvjeets/lakshmi,Investing library and command-line interface inspired by the Bogleheads philosophy.,
 pypi-command-line,package-manager,command-line translator,No,No,Yes,,https://github.com/wasi-master/pypi-command-line,"A powerful, colorful, beautiful command-line-interface for pypi.org.",
 Minisign,security,AlternativeVCS,No,No,Yes,,https://github.com/jedisct1/minisign,A dead simple tool to sign files and verify digital signatures.,
