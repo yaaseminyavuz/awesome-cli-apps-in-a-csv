@@ -217,7 +217,7 @@ cadmus,note-taking,NoteTakingCLI,No,No,CLI,,https://github.com/RyanGreenup/cadmu
 twf,file-explorer,ModernFileManager,No,No,TUI,,https://github.com/wvanlint/twf,Standalone tree view file explorer.,
 delta,diff,enhanced cat,No,No,CLI,,https://github.com/dandavison/delta,A syntax-highlighter for git and diff output.,
 chafa,graphics,ImageViewer(ASCII),No,No,CLI,,https://github.com/hpjansson/chafa,Terminal graphics for the 21 st century.,
-youtube-viewer,viewers,enhanced cat,No,No,Yes,,https://github.com/trizen/youtube-viewer,Lightweight application that searches and streams videos from YouTube.,
+youtube-viewer,viewers,YouTubeVideoSearcher,No,No,CLI,,https://github.com/trizen/youtube-viewer,Lightweight application that searches and streams videos from YouTube.,
 posce,note-taking,command-line translator,No,No,Yes,,https://github.com/vdt/posce,A note-taking toolkit for your command line.,
 dutree,disk-analyzer,StylizedDiskUsageReporter,No,No,Yes,,https://github.com/nachoparker/dutree,A tool to analyze file system usage written in Rust.,
 ydiff,diff,enhanced cat,No,No,Yes,,https://github.com/ymattw/ydiff,"View colored, incremental diff.",
