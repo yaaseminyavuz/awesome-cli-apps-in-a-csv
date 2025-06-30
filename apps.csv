@@ -238,7 +238,7 @@ asciinema,screen-recorder,terminal sharing,No,No,CLI,,https://github.com/asciine
 alder,file-explorer,enhanced cat,No,No,CLI,,https://github.com/aweary/alder,Directory tree visualizer.,
 diff-so-fancy,diff,enhanced cat,No,No,CLI,,https://github.com/so-fancy/diff-so-fancy,Make your diffs human-readable instead of machine-readable.,
 ripgrep-all,text-search,AdvancedGrepCLI,No,No,CLI,,https://github.com/phiresky/ripgrep-all,"grep in text files but also search in PDFs, E-Books, office documents, zip, tar.gz, etc.",
-ripgrep,text-search,ShellSyncBackup,No,No,Yes,,https://github.com/BurntSushi/ripgrep,Recursively searches directories for a regex pattern.,
+ripgrep,text-search,AdvancedGrepCLI,No,No,CLI,,https://github.com/BurntSushi/ripgrep,Recursively searches directories for a regex pattern.,
 pmenu,option-picker,terminal sharing,No,No,Yes,,https://github.com/sgtpep/pmenu,A dynamic terminal-based menu inspired by dmenu.,
 eon,editors,terminal sharing,No,No,Yes,,https://github.com/tomas/eon,"A light, modern editor for your terminal that doesn't want to be vim.",
 datadash,data-management,terminal sharing,No,No,Yes,,https://github.com/keithknott26/datadash,Visualize and graph data in the terminal.,
