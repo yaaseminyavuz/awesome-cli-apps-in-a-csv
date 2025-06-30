@@ -168,7 +168,7 @@ Lynx,browser,TerminalWebBrowser,No,Yes,TUI,http://lynx.invisible-island.net/,,"A
 w3m,browser,TerminalWebBrowser,No,Yes,TUI,http://w3m.sourceforge.net/,https://sourceforge.net/projects/w3m/,"A text-based web browser as well as a pager like `less`, it can be used as a text formatting tool which typesets HTML into plain text.",
 alpine,email,TerminalEmailClient,No,No,TUI,http://www.washington.edu/alpine/,,"Mail client which aims at being ""fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users"".",
 alot,email,TerminalEmailClient,No,,TUI,,https://github.com/pazz/alot,"MUA written in Python using the [NotMuch](https://notmuchmail.org/) backend, MailDir format support.",
-mbsync,email,AlternativeVCS,No,No,,http://isync.sourceforge.net/mbsync.html,,"Mailboxes synchronization tool, allows downloading email locally, MailDir format supported.",
+mbsync,email,MailSyncTool,No,No,CLI,http://isync.sourceforge.net/mbsync.html,,"Mailboxes synchronization tool, allows downloading email locally, MailDir format supported.",
 Mutt,email,AudioMixer,No,No,No,http://www.mutt.org/,https://gitlab.com/muttmua/mutt,"Mail client with tons of features, customization chances, support for IMAP, POP3, multiple storage formats.",
 sup,email,terminal presentation,No,No,,http://sup-heliotrope.github.io/,https://github.com/sup-heliotrope/sup,"MUA written in Ruby; specifically developed for accounts with ""a lot of emails""; nice thread-based presentation.",
 aria2,transfer,lightweight-userfriendly,No,,Yes,,https://github.com/aria2/aria2,"Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.",
