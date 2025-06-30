@@ -530,7 +530,7 @@ jp2a,graphics,ImageToASCII,No,No,CLI,https://csl.name/jp2a/,https://sourceforge.
 LinuxLogo,graphics,ImageViewer(ASCII),No,No,CLI,https://sourceforge.net/projects/linuxlogo/,https://sourceforge.net/projects/linuxlogo,Display the Linux distribution logo in ASCII format.,
 pv,monitor,IO monitor,No,No,CLI,http://www.ivarch.com/programs/pv.shtml,https://github.com/a-j-wood/pv,The pv command is used to monitor the progress of data through pipe.,
 TStream,networking,terminal sharing,No,No,CLI,,https://github.com/qnkhuat/tstream,"Live streaming from the terminal. Requires the connection to a central server, from which the streaming is dispatched.",
-tsk,todo-manager,terminal sharing,No,No,Yes,,https://github.com/kakengloh/tsk,"Terminal task management app with an emphasis on simplicity, efficiency and ease of use.",
+tsk,todo-manager,ForensicsCLI,No,No,CLI,,https://github.com/kakengloh/tsk,"Terminal task management app with an emphasis on simplicity, efficiency and ease of use.",
 The Logfile Navigator,monitor,resource monitor,No,No,,https://lnav.org/,https://github.com/tstack/lnav,An advanced and colorful log file viewer with TUI interface.,
 gojq,data-management-json,enhanced cat,No,No,Yes,,https://github.com/itchyny/gojq,Pure Go implementation of jq.,
 pt.sh,science,enhanced cat,No,No,Yes,,https://github.com/alexeytal/pt.sh,CLI periodic table with search and many properties.,
