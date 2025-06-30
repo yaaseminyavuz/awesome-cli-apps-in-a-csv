@@ -261,7 +261,7 @@ dmidecode,monitor,SystemHardwareInspector,No,No,CLI,https://www.nongnu.org/dmide
 forgit,git,GitTUIWrapper,No,No,TUI,,https://github.com/wfxr/forgit,A utility tool powered by fzf for using git interactively.,
 scholarref,science,AcademicDownloaderCLI,No,Yes,CLI,https://adamsgaard.dk/scholarref.html,https://src.adamsgaard.dk/scholarref.git,Tools to never deal with journal webpages again.,
 crappybird-py,games,TerminalGame,No,No,TUI,,https://github.com/JonPizza/crappybird-py,Flappy bird.,
-conrad,science,enhanced cat,No,No,Yes,,https://github.com/vinayak-mehta/conrad,Track conferences and meetups.,
+conrad,science,ConferenceTrackerCLI,No,Yes,CLI,,https://github.com/vinayak-mehta/conrad,Track conferences and meetups.,
 dn,note-taking,AlternativeVCS,No,No,Yes,,https://github.com/tomlockwood/dn,Daily notes command line tool.,
 onefetch,git,terminal sharing,No,No,Yes,,https://github.com/o2sh/onefetch,Git repository summary on your terminal.,
 jtc,data-management-json,enhanced cat,No,No,Yes,,https://github.com/ldn-softdev/jtc,JSON manipulation and transformation.,
