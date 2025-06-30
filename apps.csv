@@ -362,7 +362,7 @@ Bartib,time-tracker,TimeTrackerCLI,No,No,CLI,,https://github.com/nikolassv/barti
 gdir,productivity,DirectionsQueryCLI,No,Yes,CLI,,https://github.com/pafoster/gdir,A command line tool which queries Google Directions. The tool displays results as human-readable text.,
 Mycorrhiza Wiki,webdev,GitBackedWikiEngine,No,Yes,CLI,https://mycorrhiza.wiki/,https://github.com/bouncepaw/mycorrhiza,A lightweight file-system wiki engine that uses Git for keeping history.,
 ov,viewers,MarkdownViewer(GUI/CLI),No,No,TUI,,https://github.com/noborus/ov,Feature-rich terminal-based text viewer.,
-fastmod,programming,shell,No,No,Yes,,https://github.com/facebookincubator/fastmod,"A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case ""I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere"".",
+fastmod,programming,RegexRefactorTool,No,No,CLI,,https://github.com/facebookincubator/fastmod,"A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case ""I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere"".",
 watchexec,file-watch,CloudSyncManager,No,No,Yes,,https://github.com/watchexec/watchexec,Executes commands in response to file modifications.,
 yq,data-management-json,command-line translator,No,No,Yes,,https://github.com/mikefarah/yq,Portable command-line YAML processor.,
 squeeze,text-processing,terminal dashboard,No,No,Yes,,https://github.com/aymericbeaumet/squeeze,"Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc).",
