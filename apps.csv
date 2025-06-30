@@ -254,7 +254,7 @@ muCLIar,music,YouTubeAudioCLI,,Yes,CLI,,https://github.com/aayush1205/muCLIar,Yo
 wikit,online,WikipediaCLI,,Yes,CLI,,https://github.com/KorySchneider/wikit,A command line program for getting Wikipedia summaries easily.,
 mitmproxy,networking,HTTPSProxyAnalyzer,No,,TUI-CLI,https://mitmproxy.org/,https://github.com/mitmproxy/mitmproxy,An interactive HTTPS proxy.,
 yt-audio,music,YouTubeToMP3Downloader,No,Yes,CLI,,https://github.com/RijulGulati/yt-audio,"A simple, configurable youtube-dl wrapper to download and manage YouTube audio.",
-Language-games,games,terminal sharing,No,No,Yes,,https://github.com/Hellisotherpeople/Language-games,Dead simple games made with word vectors.,
+Language-games,games,TerminalGame,No,No,TUI,,https://github.com/Hellisotherpeople/Language-games,Dead simple games made with word vectors.,
 xsv,data-management-tabular,fuzzy-filter,No,No,,https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/,,Doing a SQL join with CSV files.,
 bandwhich,networking,AlternativeVCS,No,No,Yes,,https://github.com/imsnif/bandwhich,Terminal bandwidth utilization tool.,
 dmidecode,monitor,process monitor,No,No,,https://www.nongnu.org/dmidecode/,https://git.savannah.gnu.org/git/dmidecode.git,System information utility.,
