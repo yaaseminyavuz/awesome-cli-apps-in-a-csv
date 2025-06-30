@@ -233,7 +233,7 @@ pire,programming,advanced grep,No,No,CLI,,https://github.com/johannestaas/pire,P
 Graphene,browser,TextBasedWebBrowser,No,Yes,TUI,,https://github.com/atsepkov/Graphene,A text-based web browser that's a joy to use.,
 navi,cheatsheet,InteractiveCheatsheetCLI,No,No,CLI,,https://github.com/denisidoro/navi,An interactive cheatsheet tool for the command-line.,
 TSV Utilities,data-management-tabular,TSVProcessingCLI,No,No,CLI,,https://github.com/eBay/tsv-utils,"Command line tools for large, tabular data files.",
-pastel,graphics,AlternativeVCS,No,No,Yes,,https://github.com/sharkdp/pastel,"A command-line tool to generate, analyze, convert and manipulate colors.",
+pastel,graphics,ColorToolCLI,No,No,CLI,,https://github.com/sharkdp/pastel,"A command-line tool to generate, analyze, convert and manipulate colors.",
 asciinema,screen-recorder,terminal sharing,No,No,Yes,,https://github.com/asciinema/asciinema,Terminal session recorder.,
 alder,file-explorer,enhanced cat,No,No,Yes,,https://github.com/aweary/alder,Directory tree visualizer.,
 diff-so-fancy,diff,enhanced cat,No,No,Yes,,https://github.com/so-fancy/diff-so-fancy,Make your diffs human-readable instead of machine-readable.,
