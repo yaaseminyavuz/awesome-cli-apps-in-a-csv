@@ -482,7 +482,7 @@ Artem,graphics,ImageViewer(ASCII),No,No,TUI,,https://github.com/FineFindus/artem
 thokr,typing,typing practice,No,No,TUI,,https://github.com/jrnxf/thokr,Sleek typing TUI with visualized results and historical logging.,
 socialscan,online,username/email availability checker,No,Yes,CLI,,https://github.com/iojw/socialscan,Python library and CLI for accurately querying username and email usage on online platforms.,
 termusic,music,LightweightAudioPlayer,No,No,TUI,,https://github.com/tramhao/termusic,Terminal Music Player written in Rust.,
-cointop,financial,multiplexer,No,No,Yes,,https://github.com/cointop-sh/cointop,A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.,
+cointop,financial,CryptoTUI,No,Yes,TUI,,https://github.com/cointop-sh/cointop,A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.,
 pulsemixer,music,SpeechSynthesizer,No,No,Yes,,https://github.com/GeorgeFilipkin/pulsemixer,CLI and curses mixer for PulseAudio.,
 fastdiract,cd,enhanced cat,No,No,Yes,,https://github.com/dp12/fastdiract,Lightning-fast cd and command execution.,
 inventory,file-dir-cleanup,PaperBarcodeBackup,No,No,Yes,,https://github.com/mothdotmonster/inventory,Move files like an old text adventure.,
