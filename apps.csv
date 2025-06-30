@@ -587,7 +587,7 @@ Minesweeper Game,games,GameCLI,No,No,CLI,,https://github.com/omerkarabacak/mines
 Tilde,editors,TextEditorTUI,No,No,TUI,https://os.ghalkes.nl/tilde/,https://github.com/gphalkes/tilde,"Tilde is a text editor that provides an intuitive interface for people accustomed to GUI environments, usual shortcuts for common operation, a traditional menu bar, etc.",
 spotify-player,music,LightweightAudioPlayer,No,Yes,TUI,,https://github.com/aome510/spotify-player,"spotify-player is a fast, easy to use, and configurable terminal music player having feature parity with the official Spotify application.",
 git-remote-aws,git,GitRemoteHelperCLI,No,Yes,CLI,,https://github.com/nathants/git-remote-aws,Management of encrypted git hosting.,
-Stig,torrent,enhanced cat,No,No,Yes,,https://github.com/rndusr/stig,Stig is a client application to connect and control the BitTorrent Transmission client app.,
+Stig,torrent,TorrentClientTUI,No,Yes,TUI,,https://github.com/rndusr/stig,Stig is a client application to connect and control the BitTorrent Transmission client app.,
 ancv,productivity,terminal sharing,No,Yes,Yes,,https://github.com/alexpovel/ancv,Renders your (JSON) resume/CV for online & pretty terminal display.,
 lf,file-manager,ModernFileManager,No,No,Yes,,https://github.com/gokcehan/lf,"lf (as in ""list files"") is a terminal file manager written in Go with a heavy inspiration from ranger file manager.",
 welcome.sh,prompt,AdvancedCalculators,No,No,Yes,,https://github.com/G2-Games/welcome.sh,"A nice little script that greets you on every launch, with some helpful (and customizable!) information.",
