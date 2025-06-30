@@ -573,7 +573,7 @@ redive,networking,RedditClientTUI,No,No,TUI,,https://github.com/neelkarma/redive
 Cloudcash,financial,CloudSyncManager,No,Yes,CLI,,https://github.com/mrusme/cloudcash,"Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!",
 bluetuith,networking,BluetoothManagerTUI,No,No,TUI,,https://github.com/darkhz/bluetuith,"A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman.",
 Brash,rm,shell,No,No,CLI,,https://github.com/zakariagatter/brash,Move and restore items from the XDG trash. Written in pure Bash.,
-torrentCLI,torrent,terminal sharing,No,No,Yes,,https://github.com/amogusussy/torrentCLI,Get torrents from the Terminal.,
+torrentCLI,torrent,TorrentClientCLI,No,Yes,CLI,,https://github.com/amogusussy/torrentCLI,Get torrents from the Terminal.,
 Spaceship,prompt,enhanced cat,No,No,,https://spaceship-prompt.sh/,https://github.com/spaceship-prompt/spaceship-prompt,"Minimalistic, powerful and extremely customizable Zsh prompt.",
 cloc,programming,AlternativeVCS,No,No,Yes,,https://github.com/AlDanial/cloc,"Tool for counting blank lines, comment lines, and physical lines of source code in many programming languages.",
 Tokei,programming,ascii-text-rendering,No,No,Yes,,https://github.com/XAMPPRocky/tokei,"Tokei is a program that displays statistics about your code. Tokei will show the number of files, total lines within those files and code, comments, and blanks grouped by language.",
