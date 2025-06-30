@@ -404,7 +404,7 @@ wfh,file-watch,ShellSyncBackup,No,Yes,CLI,,https://github.com/kzys/wfh,Continuou
 teip,text-search-replace,tabular-sql-query,No,No,CLI,,https://github.com/greymd/teip,Select partial standard input and replace with the result of another command.,
 espanso,text-processing,command-line translator,,No,CLI,,https://github.com/espanso/espanso,Cross-platform Text Expander written in Rust. Not limited to the command line.,
 huniq,text-processing,command-line translator,No,No,CLI,,https://github.com/koraa/huniq,"Command line utility to remove duplicates from the given input. Note that huniq does not sort the input, it just removes duplicates.",
-nat,ls,RustLsReplacement,No,No,Yes,,https://github.com/willdoescode/nat,Complete replacement for the `ls` command.,
+nat,ls,RustLsReplacement,No,No,TUI-CLI,,https://github.com/willdoescode/nat,Complete replacement for the `ls` command.,
 csvq,data-management-tabular,GitStatistics,No,No,Yes,,https://github.com/mithrandie/csvq,SQL-like query language for CSV.,
 FClones,file-dir-cleanup,ModernFileManager,No,No,Yes,,https://github.com/pkolaczk/fclones,Efficient Duplicate File Finder.,
 dasel,data-management-json,ImageViewer(ASCII),No,No,Yes,,https://github.com/TomWright/dasel,Allows you to query and modify data structures using selector strings.,
