@@ -490,7 +490,7 @@ Draw,funny,terminal drawing tool,No,No,TUI,,https://github.com/maaslalani/draw,d
 toipe,typing,typing practice ,No,No,CLI,,https://github.com/Samyak2/toipe,"Yet another typing test, but crab flavored.",
 bore,networking,tunnelCLI / port forwarder,,Yes,CLI,,https://github.com/ekzhang/bore,A simple CLI tool for making tunnels to localhost.,
 zee,editors,TerminalEditor,No,No,TUI,,https://github.com/zee-editor/zee,"Zee is a modern editor for the terminal, in the spirit of Emacs. It is written in Rust and it is somewhat experimental.",
-watcher,file-watch,RemoteFilesystemMounting,No,No,Yes,,https://github.com/sethigeet/watcher,"Watches all the files present in a directory and whenever a file is changed or a file is created/deleted from the directory, it runs a specified command.",
+watcher,file-watch,DirectoryWatcher,No,No,CLI,,https://github.com/sethigeet/watcher,"Watches all the files present in a directory and whenever a file is changed or a file is created/deleted from the directory, it runs a specified command.",
 RecoverPy,rm,GitforLargeFiles,No,No,Yes,,https://github.com/PabloLec/RecoverPy,Recover deleted files and overwritten data. It scans every block of the partition. You can even find a string in binary files.,
 file-type-cli,file-handling,ModernFileManager,No,No,Yes,,https://github.com/sindresorhus/file-type-cli,Detect the file type of a file or stdin.,
 trash-cli,rm,resource monitor,No,No,Yes,,https://github.com/sindresorhus/trash-cli,"Move files and folders to the trash on Linux (XDG trash), macOS (`macOS-trash` library) and Windows (`recycle-bin` library).",
