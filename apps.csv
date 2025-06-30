@@ -297,7 +297,7 @@ F2,file-renamer,BulkRenamerCLI,No,No,CLI,,https://github.com/ayoisaiah/f2,Cross-
 grit,todo-manager,knowledge base,No,No,CLI,,https://github.com/climech/grit,A multitree-based personal task manager.,
 dstask,todo-manager,GitBackedTodoCLI,No,No,CLI,,https://github.com/naggie/dstask,Single binary terminal-based TODO manager with git-based sync + Markdown notes per task.,
 wutag,file-system,FileTaggerCLI,No,No,CLI,,https://github.com/vv9k/wutag,CLI Tool for tagging and organizing files by tags.,
-xplr,file-explorer,ModernFileManager,No,No,Yes,,https://github.com/sayanarijit/xplr,"A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.",
+xplr,file-explorer,ModernFileManager,No,No,TUI,,https://github.com/sayanarijit/xplr,"A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.",
 eg,cheatsheet,command-line translator,No,No,Yes,,https://github.com/srsudar/eg,Useful examples at the command line.,
 mdt,markdown,terminal sharing,No,No,Yes,,https://github.com/robolab-pavia/mdt,MarkDown in the Terminal. A Markdown viewer with themes defined by JSON files and interactive mode to open links and word-wrapping adaptable to the terminal width.,
 buku,organizers,knowledge base,No,No,Yes,,https://github.com/jarun/buku,A powerful bookmark manager written in Python3 and SQLite3.,
