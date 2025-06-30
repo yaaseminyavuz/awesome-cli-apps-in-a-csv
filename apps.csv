@@ -492,7 +492,7 @@ bore,networking,tunnelCLI / port forwarder,,Yes,CLI,,https://github.com/ekzhang/
 zee,editors,TerminalEditor,No,No,TUI,,https://github.com/zee-editor/zee,"Zee is a modern editor for the terminal, in the spirit of Emacs. It is written in Rust and it is somewhat experimental.",
 watcher,file-watch,DirectoryWatcher,No,No,CLI,,https://github.com/sethigeet/watcher,"Watches all the files present in a directory and whenever a file is changed or a file is created/deleted from the directory, it runs a specified command.",
 RecoverPy,rm,DataRecovery,No,No,CLI,,https://github.com/PabloLec/RecoverPy,Recover deleted files and overwritten data. It scans every block of the partition. You can even find a string in binary files.,
-file-type-cli,file-handling,ModernFileManager,No,No,Yes,,https://github.com/sindresorhus/file-type-cli,Detect the file type of a file or stdin.,
+file-type-cli,file-handling,FileInspectorCLI,No,No,CLI,,https://github.com/sindresorhus/file-type-cli,Detect the file type of a file or stdin.,
 trash-cli,rm,resource monitor,No,No,Yes,,https://github.com/sindresorhus/trash-cli,"Move files and folders to the trash on Linux (XDG trash), macOS (`macOS-trash` library) and Windows (`recycle-bin` library).",
 Ultimate Plumber,text-processing,code search,No,No,Yes,,https://github.com/akavel/up,"Helps to interactively and incrementally explore textual data in Linux, by making it easier to quickly build complex pipelines, thanks to a fast feedback loop.",
 fkill-cli,system,terminal sharing,No,No,Yes,,https://github.com/sindresorhus/fkill-cli,Simple cross-platform process killer.,
