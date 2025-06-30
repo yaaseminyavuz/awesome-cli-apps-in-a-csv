@@ -269,7 +269,7 @@ NeoMutt,email,TerminalEmailClient,No,Yes,TUI,https://neomutt.org/,https://github
 kmdr-cli,cheatsheet,CommandExplainerCLI,No,Yes,CLI,,https://github.com/ediardo/kmdr-cli,The CLI tool for explaining commands from your terminal.,
 Starship,prompt,ShellPromptEnhancer,No,No,CLI,https://starship.rs/,https://github.com/starship/starship,The cross-shell prompt for astronauts.,
 todotxt-machine,todo-manager,TodoListTUI,No,No,TUI,https://pypi.org/project/todotxt-machine/,https://github.com/AnthonyDiGirolamo/todotxt-machine,Interface for todo.txt.,
-usolitaire,games,terminal sharing,No,No,Yes,,https://github.com/eliasdorneles/usolitaire,Solitaire in your terminal.,
+usolitaire,games,TerminalGame,No,No,TUI,,https://github.com/eliasdorneles/usolitaire,Solitaire in your terminal.,
 rnr,file-manager,LightweightFileManager,No,No,Yes,,https://github.com/bugnano/rnr,The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger.,
 cbonsai,animation,ImageViewer(ASCII),No,No,,,https://gitlab.com/jallbrit/cbonsai,"A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree.",
 Dolt,data-management-tabular,GitStatistics,No,,Yes,,https://github.com/dolthub/dolt,"Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.",
