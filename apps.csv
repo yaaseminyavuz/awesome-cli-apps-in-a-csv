@@ -513,7 +513,7 @@ dzr,music,LightweightAudioPlayer,No,No,CLI,,https://github.com/yne/dzr,"Command 
 beets,music,MusicLibraryManager,No,No,CLI,,https://github.com/beetbox/beets,"Beets is the media library management system for obsessive music geeks: catalogs your collection, automatically improving its metadata as it goes.",
 musikcube,music,LightweightAudioPlayer,No,No,TUI-CLI,,https://github.com/clangen/musikcube,"A cross-platform, terminal-based audio engine, library, player and server written in C++.",
 Editly,video,VideoEditorCLI,No,No,CLI,,https://github.com/mifi/editly,A tool and framework for declarative NLE (non-linear video editing) using Node.js and FFmpeg.,
-ffmpeg,video,command-line translator,No,No,No,https://ffmpeg.org/,https://github.com/FFmpeg/FFmpeg,The Swiss knife of video editing from the command line.,
+ffmpeg,video,MediaConverterCLI,No,No,CLI,https://ffmpeg.org/,https://github.com/FFmpeg/FFmpeg,The Swiss knife of video editing from the command line.,
 xonsh,shells,shell,No,No,No,https://xon.sh/,https://github.com/xonsh/xonsh,The xonsh shell lets you easily mix Python and shell commands in a powerful and simplified approach to the command line.,
 hledger,financial,text calendar,No,No,,https://hledger.org/,https://github.com/simonmichael/hledger,"A is fast, reliable, free, multicurrency double-entry accounting software to track money, investments, cryptocurrencies, time, or any other quantifiable commodity; uses a future-proof plain text file format.",
 fzf-git.sh,git,GitStatistics,No,No,Yes,,https://github.com/junegunn/fzf-git.sh,"bash and zsh key bindings for Git objects, powered by fzf.",
