@@ -1788,3 +1788,4 @@ sift,text-search,advanced grep,No,No,CLI,https://sift-tool.org/,https://github.c
 ccat,viewers,enhanced cat,No,No,CLI,,https://github.com/owenthereal/ccat,`cat` with colorized output.,x
 calm-garden-cli,utility,wellness,No,No,TUI,,https://github.com/jaroslaw-weber/calm-garden-cli,"A small, discreet terminal tool for breath exercises with progression: earn coins, buy plants, and upgrade your garden.",x
 fzf,option-picker,fuzzy‑search,No,No,TUI,,https://github.com/junegunn/fzf,"(FuZzy Finder) - a general-purpose command-line finder with fuzzy search/filter capabilities, good integration with `vim`.",x
+grc,text-processing,syntax highlighting,No,No,CLI,,https://github.com/pengwynn/grc,(Generic Colourizer) - parse a given text stream and to colorize it according to regexp written in configuration files; different patterns can be associated to file types.,x
