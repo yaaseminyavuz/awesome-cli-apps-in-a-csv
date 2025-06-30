@@ -335,7 +335,7 @@ yank,utility,ClipboardHelperCLI,No,No,TUI,,https://github.com/mptre/yank,Reads i
 mtm,terminal,terminal sharing,No,No,TUI,,https://github.com/deadpixi/mtm,"Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer.",
 sd,text-search-replace,enhanced cat,No,No,CLI,,https://github.com/chmln/sd,s[earch] & d[isplace] - An intuitive find & replace CLI a possible replacement for sed.,
 Watson,time-tracker,enhanced cat,No,No,CLI,,https://github.com/TailorDev/Watson,Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.,
-WOPR,data-management,terminal sharing,No,No,Yes,,https://github.com/yaronn/wopr,"A simple markup language for creating rich terminal reports, presentations, and infographic.",
+WOPR,data-management,terminal sharing,No,No,CLI,,https://github.com/yaronn/wopr,"A simple markup language for creating rich terminal reports, presentations, and infographic.",
 Angband,games,LightweightAudioPlayer,No,No,,https://rephial.org/,https://github.com/angband/angband,"Angband is a free, single-player dungeon exploration game.",
 grex,programming,advanced grep,No,No,Yes,,https://github.com/pemistahl/grex,A command-line tool for generating regular expressions from user-provided test cases.,
 Amfora,browser,LightweightFileManager,No,Yes,Yes,,https://github.com/makew0rld/amfora,Amfora aims to be the best looking Gemini client with the most features. It does not support Gopher or other non-Web protocols.,
