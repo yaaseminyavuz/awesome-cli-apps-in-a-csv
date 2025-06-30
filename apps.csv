@@ -352,7 +352,7 @@ screenFetch,monitor,ImageViewer(ASCII),No,No,CLI,,https://github.com/KittyKatt/s
 inklayers,graphics,SVGSlideExporterCLI,No,No,CLI,,https://github.com/toolleeo/inklayers,A command line program that exports layers from an SVG file. It can be used to create slide shows by editing a single SVG file.,
 pvcheck,programming,enhanced cat,No,No,CLI,,https://github.com/claudio-unipv/pvcheck,"A tool to apply automated testing to programs that produce textual output. The format of the output is very specific, making pvcheck suitable to test programming quizzes.",
 Jmp,cd,enhanced cat,No,No,CLI,,https://github.com/gholmes829/Jmp,Change directory with smart searching of the path specified through regex.,
-Gitea,git,GitStatistics,No,Yes,,https://gitea.com/,https://github.com/go-gitea/gitea,Single binary self-hosted Git service.,
+Gitea,git,SelfHostedGitServer,No,Yes,CLI,https://gitea.com/,https://github.com/go-gitea/gitea,Single binary self-hosted Git service.,
 Soft Serve,git,command-line translator,No,,Yes,,https://github.com/charmbracelet/soft-serve,Self-hostable Git server for the command line. One distinguished feature is the possibility to create new repositories with a push.,
 deadlink,text-processing,BackupAutomationWrapper,No,,Yes,,https://github.com/nschloe/deadlink,Parses text files for HTTP URLs and checks if they are still valid. Good to use on Markdown documentation files.,
 SmartCd,cd,ShellSyncBackup,No,No,Yes,,https://github.com/CodesOfRishi/smartcd,"A cd command with improved usability features, which can remember your recently visited directory paths and, search and directly traverse to sub-directories and as well as parent directories, all with Fuzzy searching.",
