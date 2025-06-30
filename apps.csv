@@ -164,7 +164,7 @@ nanoc,webdev,StaticSiteGenerator,No,No,CLI,http://nanoc.ws/,https://github.com/n
 Tsung,webdev,LoadTestingTool,No,Yes,CLI,http://tsung.erlang-projects.org/,https://github.com/processone/tsung,"A multi-protocol distributed load testing tool that can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers.",
 Links,browser,TerminalWebBrowser,No,Yes,TUI,http://www.jikos.cz/~mikulas/links//,,A textual Web browser with tables and frames.,
 Elinks,browser,TerminalWebBrowser,No,Yes,TUI,http://elinks.cz/,https://repo.or.cz/elinks.git,"""Advanced and well-established feature-rich text mode web browser""; started as a fork of `Links`; it supports background download with queueing, some support from CSS, text box editing in external text editor.",
-Lynx,browser,GitInterface(TUI),No,Yes,No,http://lynx.invisible-island.net/,,"A highly configurable text-based web browser, one of the oldest CLI browser I'm aware of.",
+Lynx,browser,TerminalWebBrowser,No,Yes,TUI,http://lynx.invisible-island.net/,,"A highly configurable text-based web browser, one of the oldest CLI browser I'm aware of.",
 w3m,browser,IO monitor,No,Yes,,http://w3m.sourceforge.net/,https://sourceforge.net/projects/w3m/,"A text-based web browser as well as a pager like `less`, it can be used as a text formatting tool which typesets HTML into plain text.",
 alpine,email,debugging,No,No,No,http://www.washington.edu/alpine/,,"Mail client which aims at being ""fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users"".",
 alot,email,vcard address book,No,,Yes,,https://github.com/pazz/alot,"MUA written in Python using the [NotMuch](https://notmuchmail.org/) backend, MailDir format support.",
