@@ -457,7 +457,7 @@ gambit,games,terminal game,No,No,TUI,,https://github.com/maaslalani/gambit,Chess
 bin,package-manager,GitforLargeFiles,No,No,CLI,,https://github.com/marcosnils/bin,Manages binary files downloaded from different sources.,
 stew,package-manager,knowledge base,No,Yes,CLI,,https://github.com/marwanhawari/stew,An independent package manager for compiled binaries.,
 clidle,games,enhanced cat,No,No,CLI,,https://github.com/ajeetdsouza/clidle,"Wordle, now over SSH.",
-CLI-Manager,todo-manager,command-line translator,No,No,Yes,,https://github.com/MikyStar/CLI-Manager,Command Line Interface for managing tasks locally on the fly.,
+CLI-Manager,todo-manager,command-line translator,No,No,CLI,,https://github.com/MikyStar/CLI-Manager,Command Line Interface for managing tasks locally on the fly.,
 wordle-curses,games,SpeechSynthesizer,No,No,Yes,,https://github.com/knosmos/wordle-curses,A simple TUI wordle game with curses.,
 termishare,networking,terminal sharing,No,No,Yes,,https://github.com/qnkhuat/termishare,Peer to peer terminal sharing.,
 ictree,file-explorer,shell,No,No,Yes,,https://github.com/NikitaIvanovV/ictree,Like tree but interactive.,
