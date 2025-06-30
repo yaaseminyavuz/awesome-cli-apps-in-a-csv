@@ -401,7 +401,7 @@ luneta,option-picker,shell,No,No,CLI,,https://github.com/fbeline/luneta,Interact
 jiq,data-management-json,advanced grep,No,No,CLI,,https://github.com/fiatjaf/jiq,jid on jq - interactive JSON query tool using jq expressions.,
 sad,git,enhanced cat,No,No,CLI,,https://github.com/ms-jpq/sad,CLI search and replace. Show you a nice diff of proposed changes before you commit them.,
 wfh,file-watch,ShellSyncBackup,No,Yes,CLI,,https://github.com/kzys/wfh,Continuously watches your local directories and rsync them against a remote host.,
-teip,text-search-replace,tabular-sql-query,,No,Yes,,https://github.com/greymd/teip,Select partial standard input and replace with the result of another command.,
+teip,text-search-replace,tabular-sql-query,No,No,CLI,,https://github.com/greymd/teip,Select partial standard input and replace with the result of another command.,
 espanso,text-processing,command-line translator,Yes,No,Yes,,https://github.com/espanso/espanso,Cross-platform Text Expander written in Rust. Not limited to the command line.,
 huniq,text-processing,command-line translator,No,No,Yes,,https://github.com/koraa/huniq,"Command line utility to remove duplicates from the given input. Note that huniq does not sort the input, it just removes duplicates.",
 nat,ls,RustLsReplacement,No,No,Yes,,https://github.com/willdoescode/nat,Complete replacement for the `ls` command.,
