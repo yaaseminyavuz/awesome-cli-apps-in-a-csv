@@ -473,7 +473,7 @@ zq,data-management,DataQueryCLI,No,Yes,CLI,https://zed.brimdata.io/docs/commands
 Mabel,torrent,terminal sharing,No,Yes,TUI,,https://github.com/smmr-software/mabel,A fancy BitTorrent client for the terminal built with Go and the Bubbletea library.,
 tuc,text-processing,TextProcessorCLI,No,No,CLI,,https://github.com/riquito/tuc,"You want to cut on more than just a character, perhaps using negative indexes or format the selected fields as you want... Maybe you want to cut on lines (ever needed to drop first and last line?)... That's where tuc can help.",
 sku,games,terminal game,No,No,TUI,,https://github.com/fedeztk/sku,Simple TUI written in go to play sudoku in the terminal.,
-fasttyper,typing,gui-easy-editor,No,No,Yes,,https://github.com/ickyicky/fasttyper,Fasttyper is minimalistic typing test based on user provided exercising text.,
+fasttyper,typing,typing practice,No,No,TUI,,https://github.com/ickyicky/fasttyper,Fasttyper is minimalistic typing test based on user provided exercising text.,
 GameShell,games,shell,No,No,Yes,,https://github.com/phyver/GameShell,"GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun.",
 Lotus 1-2-3 for Linux,office,enhanced cat,No,No,Yes,,https://github.com/taviso/123elf,A native port of Lotus 1-2-3 Release 3 to Linux.,
 addrb,organizers,vcard address book,No,,Yes,,https://github.com/mrusme/addrb,A lightweight CLI / TUI address book that supports CardDAV.,
