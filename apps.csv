@@ -246,7 +246,7 @@ Mp3blaster,music,LightweightAudioPlayer,No,No,TUI,http://www.mp3blaster.org/?m=1
 jqview,data-management-json,JSONInspector,No,No,TUI-CLI,,https://github.com/fiatjaf/jqview,Simplest possible native GUI for inspecting JSON.,
 ytmdl,transfer,YouTubeToMP3Downloader,No,Yes,CLI,,https://github.com/deepjyoti30/ytmdl,Get songs from YouTube in mp3 format.,
 sha256-animation,animation,EducationalCryptoVisualizer,No,No,TUI,,https://github.com/in3rsha/sha256-animation,Animation of the SHA-256 hash function in your terminal.,
-cli-arxiv,browser,AlternativeVCS,No,No,Yes,,https://github.com/knguyenanhoa/cli-arxiv,CLI tool for exploring arXiv.,
+cli-arxiv,browser,arXivSearcher,No,Yes,CLI,,https://github.com/knguyenanhoa/cli-arxiv,CLI tool for exploring arXiv.,
 mdBook,markdown,vcard address book,No,No,Yes,,https://github.com/rust-lang/mdBook,Create book from Markdown files.,
 SpicyPass,password-manager,knowledge base,No,No,Yes,,https://github.com/JFreegman/SpicyPass,A light-weight password manager with a focus on simplicity and security.,
 jc,data-management-json,command-line translator,,No,Yes,,https://github.com/kellyjonbrazil/jc,Serializes the output of command line tools to JSON.,
