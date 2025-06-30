@@ -438,7 +438,7 @@ Gistup,versioning,terminal sharing,No,Yes,CLI,,https://github.com/mbostock/gistu
 ll,ls,GitStatistics,No,No,CLI,,https://github.com/antonmedv/ll,ls with git status.,
 fx,data-management-json,command-line translator,No,No,CLI,,https://github.com/antonmedv/fx,Command-line JSON viewer.,
 speedtest-net,networking,SpeedTestCLI,No,Yes,CLI,,https://github.com/ddsol/speedtest.net,Test internet connection speed and ping using speedtest.net.,
-shallow-backup,backup,AlternativeVCS,No,No,Yes,,https://github.com/alichtman/shallow-backup,Git integrated backup tool.,
+shallow-backup,backup,AlternativeVCS,No,No,CLI,,https://github.com/alichtman/shallow-backup,Git integrated backup tool.,
 mdp,office,AlternativeVCS,No,No,Yes,,https://github.com/visit1985/mdp,A command-line based Markdown presentation tool.,
 sent,office,AlternativeVCS,No,No,,https://tools.suckless.org/sent/,git://git.suckless.org/sent,Simple plain-text presentation tool.,
 eureka,note-taking,terminal sharing,No,No,Yes,,https://github.com/simeg/eureka,Store your ideas without leaving the terminal.,
