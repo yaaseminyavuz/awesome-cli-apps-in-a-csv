@@ -248,7 +248,7 @@ ytmdl,transfer,YouTubeToMP3Downloader,No,Yes,CLI,,https://github.com/deepjyoti30
 sha256-animation,animation,EducationalCryptoVisualizer,No,No,TUI,,https://github.com/in3rsha/sha256-animation,Animation of the SHA-256 hash function in your terminal.,
 cli-arxiv,browser,arXivSearcher,No,Yes,CLI,,https://github.com/knguyenanhoa/cli-arxiv,CLI tool for exploring arXiv.,
 mdBook,markdown,MarkdownBookBuilder,No,No,CLI,,https://github.com/rust-lang/mdBook,Create book from Markdown files.,
-SpicyPass,password-manager,knowledge base,No,No,Yes,,https://github.com/JFreegman/SpicyPass,A light-weight password manager with a focus on simplicity and security.,
+SpicyPass,password-manager,EncryptedPasswordManager,No,No,CLI,,https://github.com/JFreegman/SpicyPass,A light-weight password manager with a focus on simplicity and security.,
 jc,data-management-json,command-line translator,,No,Yes,,https://github.com/kellyjonbrazil/jc,Serializes the output of command line tools to JSON.,
 muCLIar,music,enhanced cat,Yes,No,Yes,,https://github.com/aayush1205/muCLIar,YouTube automator bringing you your music right on your CLI.,
 wikit,online,command-line translator,Yes,No,Yes,,https://github.com/KorySchneider/wikit,A command line program for getting Wikipedia summaries easily.,
