@@ -337,7 +337,7 @@ sd,text-search-replace,enhanced cat,No,No,CLI,,https://github.com/chmln/sd,s[ear
 Watson,time-tracker,enhanced cat,No,No,CLI,,https://github.com/TailorDev/Watson,Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.,
 WOPR,data-management,terminal sharing,No,No,CLI,,https://github.com/yaronn/wopr,"A simple markup language for creating rich terminal reports, presentations, and infographic.",
 Angband,games,TUI RogueGame,No,No,TUI,https://rephial.org/,https://github.com/angband/angband,"Angband is a free, single-player dungeon exploration game.",
-grex,programming,advanced grep,No,No,Yes,,https://github.com/pemistahl/grex,A command-line tool for generating regular expressions from user-provided test cases.,
+grex,programming,advanced grep,No,No,CLI,,https://github.com/pemistahl/grex,A command-line tool for generating regular expressions from user-provided test cases.,
 Amfora,browser,LightweightFileManager,No,Yes,Yes,,https://github.com/makew0rld/amfora,Amfora aims to be the best looking Gemini client with the most features. It does not support Gopher or other non-Web protocols.,
 Bombadillo,browser,enhanced cat,No,Yes,,https://bombadillo.colorfield.space/,https://tildegit.org/sloum/bombadillo.git,"A non-web browser, designed for a growing list of protocols operating outside of the web. Currently supports Gemini, Finger and Gopher.",
 pycp,file-handling,enhanced cat,No,No,Yes,,https://github.com/dmerejkowsky/pycp,cp and mv with a progress bar.,
