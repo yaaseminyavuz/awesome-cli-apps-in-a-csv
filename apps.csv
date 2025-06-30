@@ -420,7 +420,7 @@ anew,text-processing,FileLineDeduperCLI,No,No,CLI,,https://github.com/tomnomnom/
 TV,data-management-tabular,enhanced cat,No,No,TUI,,https://github.com/alexhallam/tv,Cross-platform CSV pretty printer made to maximize viewer enjoyment.,
 hors,programming,command-line translator,No,Yes,CLI,,https://github.com/WindSoilder/hors,Instant coding answers via the command line.,
 Viddy,file-watch,ProcessMonitorTUI,No,No,TUI,,https://github.com/sachaos/viddy,Modern watch command. Time machine and pager etc.,
-kalker,calc,terminal spreadsheet,No,No,Yes,,https://github.com/PaddiM8/kalker,"Calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers.",
+kalker,calc,MathCLI,No,No,CLI,,https://github.com/PaddiM8/kalker,"Calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers.",
 so,online,terminal sharing,No,No,Yes,,https://github.com/samtay/so,Terminal interface for Stack Overflow.,
 sq,data-management-tabular,command-line translator,No,No,Yes,,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel.",
 rip,rm,enhanced cat,No,No,Yes,,https://github.com/nivekuil/rip,"Move and restore items from the graveyard (by default, `/tmp/graveyard-$USER` if $XDG_DATA_HOME is not set and `$XDG_DATA_HOME/graveyard` otherwise)",
