@@ -322,7 +322,7 @@ Standard Unix Notes,note-taking,knowledge base,No,No,CLI,,https://github.com/Sta
 below,monitor-top,resource monitor,No,No,TUI,,https://github.com/facebookincubator/below,A time traveling resource monitor for modern Linux systems,
 dysk,monitor,DiskInspectorCLI,No,No,CLI,https://dystroy.org/dysk,https://github.com/Canop/dysk,A thing to get information on your mounted disks,
 ain,webdev,terminal sharing,No,Yes,CLI,,https://github.com/jonaslu/ain,An HTTP API client for the terminal.,
-BaFi,conversion,Translation,No,No,,https://mmalcek.github.io/bafi/,https://github.com/mmalcek/bafi,"Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates.",
+BaFi,conversion,Translation,No,No,CLI,https://mmalcek.github.io/bafi/,https://github.com/mmalcek/bafi,"Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates.",
 hck,text-processing,enhanced cat,No,No,Yes,,https://github.com/sstadick/hck,A sharp cut clone.,
 rpg-cli,games,enhanced cat,No,No,Yes,,https://github.com/facundoolano/rpg-cli,Your filesystem as a dungeon!,
 dua,disk-analyzer,StylizedDiskUsageReporter,No,No,Yes,,https://github.com/Byron/dua-cli,Disk Usage Analyzer. Learn about the usage of disk space of a given directory with parallel access to max out SSD exploration.,
