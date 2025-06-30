@@ -645,7 +645,7 @@ rcz,git,CommitMessageHelperCLI,No,No,CLI,,https://github.com/Cassin01/rcz,A tool
 git-cz,git,CommitHelperCLI,No,No,CLI,,https://github.com/streamich/git-cz,Semantic Git commits.,
 jot,note-taking,NoteTakingCLI,No,No,CLI,,https://github.com/araekiel/jot,Jot is a feature-stripped version of Obsidian focused on rapid note management through the terminal. It uses the same format of storage as Obsidian.,
 ROAPI,data-management,APIReaderCLI,No,Yes,CLI,,https://github.com/roapi/roapi,ROAPI automatically spins up read-only APIs for static datasets without requiring you to write a single line of code.,
-git-secret,git,ImageViewer(ASCII),No,No,Yes,,https://github.com/sobolevn/git-secret,"A bash tool which stores private data inside a git repo; it uses users' public keys, allowing trusted users to access encrypted data using PGP and their secret keys.",
+git-secret,git,GitSecretManagerCLI,No,No,CLI,,https://github.com/sobolevn/git-secret,"A bash tool which stores private data inside a git repo; it uses users' public keys, allowing trusted users to access encrypted data using PGP and their secret keys.",
 gita,git,command-line translator,No,No,Yes,,https://github.com/nosarthur/gita,A command-line tool to manage multiple git repositories.,
 anonymine,games,SpeechSynthesizer,No,No,,https://oskog97.com/projects/anonymine/,https://gitlab.com/oskog97/anonymine,Curses mode minesweeper without guessing and other original features.,
 greed,games,enhanced cat,No,No,,http://www.catb.org/~esr/greed/,https://gitlab.com/esr/greed,A game in which the goal is to move and consume all the numbers in a table.,
