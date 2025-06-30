@@ -643,7 +643,7 @@ mazter,games,TerminalGameCLI,No,No,CLI,,https://github.com/Canop/mazter,A maze i
 Tempren,file-renamer,BulkRenamerCLI,No,No,CLI,,https://github.com/idle-code/tempren,A powerful file renaming utility that uses flexible template expressions to create new file paths and names.,
 rcz,git,CommitMessageHelperCLI,No,No,CLI,,https://github.com/Cassin01/rcz,A tool to write a commit message based on “Conventional Commits”.,
 git-cz,git,CommitHelperCLI,No,No,CLI,,https://github.com/streamich/git-cz,Semantic Git commits.,
-jot,note-taking,rule-based calendar,No,No,Yes,,https://github.com/araekiel/jot,Jot is a feature-stripped version of Obsidian focused on rapid note management through the terminal. It uses the same format of storage as Obsidian.,
+jot,note-taking,NoteTakingCLI,No,No,CLI,,https://github.com/araekiel/jot,Jot is a feature-stripped version of Obsidian focused on rapid note management through the terminal. It uses the same format of storage as Obsidian.,
 ROAPI,data-management,command-line translator,No,No,Yes,,https://github.com/roapi/roapi,ROAPI automatically spins up read-only APIs for static datasets without requiring you to write a single line of code.,
 git-secret,git,ImageViewer(ASCII),No,No,Yes,,https://github.com/sobolevn/git-secret,"A bash tool which stores private data inside a git repo; it uses users' public keys, allowing trusted users to access encrypted data using PGP and their secret keys.",
 gita,git,command-line translator,No,No,Yes,,https://github.com/nosarthur/gita,A command-line tool to manage multiple git repositories.,
