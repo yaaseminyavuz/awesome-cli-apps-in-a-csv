@@ -289,7 +289,7 @@ imgcat,graphics,enhanced cat,No,No,TUI,,https://github.com/trashhalo/imgcat,Tool
 bib.awk,science,knowledge base,No,No,CLI,,https://github.com/huijunchen9260/bib.awk,Bibliography manager written in awk.,
 rr,programming,DeterministicDebugger,No,No,CLI,https://rr-project.org/,https://github.com/rr-debugger/rr,"Debug the recording, deterministically, as many times as you want.",
 nbterm,programming,terminal sharing,No,No,TUI,,https://github.com/davidbrochart/nbterm,Jupyter Notebooks in the terminal.,
-qr-filetransfer,transfer,terminal sharing,No,No,Yes,,https://github.com/sdushantha/qr-filetransfer,Transfer files over Wi-Fi between your computer and your smartphone from the terminal.,
+qr-filetransfer,transfer,terminal sharing,No,Yes,CLI,,https://github.com/sdushantha/qr-filetransfer,Transfer files over Wi-Fi between your computer and your smartphone from the terminal.,
 element,science,command-line translator,No,No,Yes,,https://github.com/gennaro-tedesco/element,Periodic table on the command line.,
 termv,viewers,LightweightAudioPlayer,No,No,Yes,,https://github.com/Roshan-R/termv,A terminal IPTV player written in bash.,
 rofi,launcher,enhanced cat,No,No,Yes,,https://github.com/davatorium/rofi,"A window switcher, application launcher and dmenu replacement.",
