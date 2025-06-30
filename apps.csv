@@ -35,7 +35,7 @@ byobu,terminal,window-manager,No,No,TUI,http://byobu.co/,https://github.com/dust
 screen,terminal,multiplexer,No,No,TUI,https://www.gnu.org/software/screen/,https://git.savannah.gnu.org/git/screen.git,"Terminal multiplexer that split a physical terminal between several processes, typically interactive shells."
 Tmate,terminal,shared-terminal,No,Yes,TUI,https://tmate.io/,https://github.com/tmate-io/tmate,"A fork of tmux that allows sharing the terminal with other users. AFAIK, it connects to a centralized server to establish the connection. Someone may see this inconvenient for privacy issues."
 tmux,terminal,terminal multiplexer,No,No,TUI,https://tmux.github.io/,https://github.com/tmux/tmux,"Terminal multiplexer; born to improve `screen`; client-server architecture, `vi` and `emacs` key-bindings, search in window feature and many more."
-warp,terminal,terminal sharing,No,No,Yes,,https://github.com/spolu/warp,Secure and simple terminal sharing.
+warp,terminal,terminal sharing,No,,TUI,,https://github.com/spolu/warp,Secure and simple terminal sharing.
 bpytop,monitor-top,resource monitor,No,No,Yes,,https://github.com/aristocratos/bpytop,Linux/macOS/FreeBSD resource monitor with a nice interface.
 glances,monitor,system monitor,No,No,,https://nicolargo.github.io/glances/,https://github.com/nicolargo/glances,"A comprehensive and detailed system monitor; monitored parameters include: CPU, memory, load, process list, network interfaces, disk I/O, sensors, filesystems, docker, system info, uptime."
 GoTTY,networking,cli-to-web,No,Yes,Yes,,https://github.com/yudai/gotty,"Turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page."
