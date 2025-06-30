@@ -241,7 +241,7 @@ ripgrep-all,text-search,AdvancedGrepCLI,No,No,CLI,,https://github.com/phiresky/r
 ripgrep,text-search,AdvancedGrepCLI,No,No,CLI,,https://github.com/BurntSushi/ripgrep,Recursively searches directories for a regex pattern.,
 pmenu,option-picker,TerminalMenu,No,No,TUI,,https://github.com/sgtpep/pmenu,A dynamic terminal-based menu inspired by dmenu.,
 eon,editors,TerminalTextEditor,No,No,TUI,,https://github.com/tomas/eon,"A light, modern editor for your terminal that doesn't want to be vim.",
-datadash,data-management,terminal sharing,No,No,Yes,,https://github.com/keithknott26/datadash,Visualize and graph data in the terminal.,
+datadash,data-management,TerminalDataVisualizer,No,No,TUI,,https://github.com/keithknott26/datadash,Visualize and graph data in the terminal.,
 Mp3blaster,music,LightweightAudioPlayer,No,No,,http://www.mp3blaster.org/?m=1,https://sourceforge.net/projects/mp3blaster,Audio player for the text console.,
 jqview,data-management-json,enhanced cat,No,No,Yes,,https://github.com/fiatjaf/jqview,Simplest possible native GUI for inspecting JSON.,
 ytmdl,transfer,enhanced cat,No,No,Yes,,https://github.com/deepjyoti30/ytmdl,Get songs from YouTube in mp3 format.,
