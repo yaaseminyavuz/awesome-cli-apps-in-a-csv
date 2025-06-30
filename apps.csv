@@ -522,7 +522,7 @@ ff,cd,shell,No,No,CLI,,https://github.com/akymos/ff,"ff is a command-line tool t
 othello-cli,games,GameCLI,No,No,CLI,,https://github.com/LelsersLasers/othello-cli,"othello-cli is a CLI version of Othello (Reversi) written in Rust. You can play against another player, the AI, or watch two AIs play each other.",
 paycon,financial,log viewer,No,No,CLI,,https://github.com/arcorion/paycon,Converts pay amounts between different time units.,
 Jitter,transfer,knowledge base,No,Yes,CLI,,https://github.com/kevspau/jitter,"A repository-oriented binary manager for Linux, Jitter searches through online repository (currently only on GitHub) for releases with .tar.gz, .tgz, .zip or .AppImage assets.",
-Transgression TUI,torrent,enhanced cat,No,,Yes,,https://github.com/PanAeon/transg-tui,A remote TUI client for the Transmission BitTorrent program.,
+Transgression TUI,torrent,RPGClientTUI,No,,TUI,,https://github.com/PanAeon/transg-tui,A remote TUI client for the Transmission BitTorrent program.,
 pdf-diff,diff,PaperBarcodeBackup,No,No,Yes,,https://github.com/serhack/pdf-diff,A tool for visualizing differences between two PDF files. Mainly dedicated to editors that usually spends a lot of hours on several PDFs.,
 kakikun,graphics,ImageViewer(ASCII),No,No,Yes,,https://github.com/file-acomplaint/kakikun,"Kakikun is a tool to paint, draw and create ASCII art in your terminal using Unicode characters.",
 Aewan,graphics,ImageViewer(ASCII),No,No,No,http://aewan.sourceforge.net/,https://sourceforge.net/projects/aewan,Aewan is a multi-layered ASCII graphics/animation editor. It produces stand-alone cat-able ASCII art files and an easy-to-parse format for integration into terminal applications.,
