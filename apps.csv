@@ -303,7 +303,7 @@ mdt,markdown,terminal sharing,No,No,TUI,,https://github.com/robolab-pavia/mdt,Ma
 buku,organizers,knowledge base,No,No,CLI,,https://github.com/jarun/buku,A powerful bookmark manager written in Python3 and SQLite3.,
 imgp,graphics,command-line translator,No,No,CLI,,https://github.com/jarun/imgp,"A command line image resizer and rotator for JPEG and PNG images. It can resize (or thumbnail) and rotate thousands of images in a go, at lightning speed, while saving significantly on storage.",
 zbackup,backup,AlternativeVCS,,No,CLI,http://zbackup.org/,https://github.com/zbackup/zbackup,"A globally-deduplicating backup tool, based on the ideas found in rsync.",
-Transmission,torrent,AlternativeVCS,,No,No,https://transmissionbt.com/,https://github.com/transmission/transmission,"Fast, easy and free BitTorrent client.",
+Transmission,torrent,AlternativeVCS,,Yes,CLI,https://transmissionbt.com/,https://github.com/transmission/transmission,"Fast, easy and free BitTorrent client.",
 rtorrent,torrent,shell,No,No,Yes,,https://github.com/rakshasa/rtorrent,"BitTorrent client uses ncurses and is ideal for use with tmux, screen or dtach.",
 dtach,terminal,IO monitor,No,No,Yes,,https://github.com/crigler/dtach,A program written in C that emulates the detach feature of screen.,
 vidir,file-handling,gui-easy-editor,No,No,Yes,,https://github.com/trapd00r/vidir,vidir allows editing of the contents of a directory in a text editor.,
