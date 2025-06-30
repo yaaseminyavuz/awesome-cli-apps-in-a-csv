@@ -553,7 +553,7 @@ FAWOC,science,AudioMixer,No,No,CLI,,https://github.com/robolab-pavia/fawoc,FAWOC
 slr-kit,science,enhanced cat,No,No,CLI,,https://github.com/robolab-pavia/slr-kit,Set of CLI tools to assist the writing of Systematic Literature Reviews powered by Natural Language Processing.,
 Helix,editors,TextEditorTUI,No,No,TUI,,https://github.com/helix-editor/helix,"A Kakoune / Neovim inspired editor, written in Rust. The editing model is very heavily based on Kakoune.",
 o,editors,LightweightTextViewer,No,No,CLI,,https://github.com/xyproto/orbiton,"Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming.",
-Pokete,games,terminal sharing,No,No,Yes,,https://github.com/lxgr-linux/pokete,A terminal based Pokemon like game.,
+Pokete,games,GameTUI,No,No,TUI,,https://github.com/lxgr-linux/pokete,A terminal based Pokemon like game.,
 czg,git,enhanced cat,No,No,Yes,,https://github.com/Zhengqbbb/cz-git,Interactively generate standardized commit messages.,
 portal,transfer,command-line translator,No,No,Yes,,https://github.com/SpatiumPortae/portal,A quick and easy command-line file transfer utility from any computer to another.,
 pokeget,funny,terminal sharing,No,No,Yes,,https://github.com/talwat/pokeget-rs,A bash script you can use to display cool sprites of Pokemon in your terminal.,
