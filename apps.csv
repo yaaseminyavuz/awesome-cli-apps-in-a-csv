@@ -584,7 +584,7 @@ terdle,games,WordleGameTUI,No,No,TUI,,https://github.com/neelkarma/terdle,Wordle
 MusicPlayerPlus,music,LightweightAudioPlayer,No,Yes,CLI,,https://github.com/doctorfree/MusicPlayerPlus,"Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more.",
 Limoji,funny,EmojiPickerCLI,No,No,CLI,,https://github.com/GEROGIANNIS/Limoji,Limoji is an open source tool that makes it easy to choose between hundreds of cool ASCII emoticons and share them with your friends.,
 Minesweeper Game,games,GameCLI,No,No,CLI,,https://github.com/omerkarabacak/minesweeper,A small command line Minesweeper Game.,
-Tilde,editors,gui-easy-editor,No,No,,https://os.ghalkes.nl/tilde/,https://github.com/gphalkes/tilde,"Tilde is a text editor that provides an intuitive interface for people accustomed to GUI environments, usual shortcuts for common operation, a traditional menu bar, etc.",
+Tilde,editors,TextEditorTUI,No,No,TUI,https://os.ghalkes.nl/tilde/,https://github.com/gphalkes/tilde,"Tilde is a text editor that provides an intuitive interface for people accustomed to GUI environments, usual shortcuts for common operation, a traditional menu bar, etc.",
 spotify-player,music,LightweightAudioPlayer,No,No,Yes,,https://github.com/aome510/spotify-player,"spotify-player is a fast, easy to use, and configurable terminal music player having feature parity with the official Spotify application.",
 git-remote-aws,git,GitStatistics,No,No,Yes,,https://github.com/nathants/git-remote-aws,Management of encrypted git hosting.,
 Stig,torrent,enhanced cat,No,No,Yes,,https://github.com/rndusr/stig,Stig is a client application to connect and control the BitTorrent Transmission client app.,
