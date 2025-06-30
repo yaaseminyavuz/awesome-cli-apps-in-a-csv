@@ -539,7 +539,7 @@ xit,todo-manager,text calendar,No,No,CLI,,https://github.com/jotaen/xit,"A plain
 uacme,security,shell,No,No,CLI,,https://github.com/ndilieto/uacme,ACMEv2 client written in plain C with minimal dependencies.,
 Tizonia,music,LightweightAudioPlayer,No,Yes,CLI,,https://github.com/tizonia/tizonia-openmax-il,"Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.",
 Tera,music,TerminalMusicVisualizer,No,No,TUI,,https://github.com/shinokada/tera,"Terminal Radio: an easy-to-use CLI music player to play favorite music, radio stations and explore various radio stations from the terminal only.",
-sssnake,games,terminal sharing,No,No,Yes,,https://github.com/AngelJumbo/sssnake,(Smart and sexy snake) The classic snake game for the terminal that can plays itself and be use like a screensaver.,
+sssnake,games,GameCLI,No,No,CLI,,https://github.com/AngelJumbo/sssnake,(Smart and sexy snake) The classic snake game for the terminal that can plays itself and be use like a screensaver.,
 Devbox,devops,command-line translator,No,No,Yes,,https://github.com/jetpack-io/devbox,Devbox is a command-line tool that lets you easily create isolated shells and containers by defining the list of packages required by the environment.,
 gh-stars,git,enhanced cat,No,No,Yes,,https://github.com/aymanbagabas/gh-stars,A GitHub CLI extension to show repository stargazers.,
 asuka,browser,FastFindAlternative,No,No,,https://git.sr.ht/~julienxx/asuka,https://git.sr.ht/~julienxx/asuka,A Gemini Project client written in Rust with ncurses.,
