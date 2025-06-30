@@ -547,7 +547,7 @@ Gremlin,browser,StatusSyncCLI,No,Yes,CLI,,https://github.com/actuday6418/gremlin
 min,browser,fuzzy‑search,No,Yes,CLI,,https://github.com/a-h/min,"A Gemini browser with Vim style keyboard navigation, client certificate support and history and bookmarks saved in TSV files.",
 Telescope,browser,FuzzyFinderPlugin,No,No,CLI,https://telescope.omarpolo.com/,https://github.com/omar-polo/telescope,Gemini client with UI that is strongly inspired from Emacs and W3M.,
 gplaces,browser,PlaceSearchCLI,No,Yes,CLI,,https://github.com/dimkr/gplaces,Simple but powerful terminal Gemini client.,
-Romulus,browser,console sharing,No,No,Yes,,https://github.com/LukeEmmet/Romulus,"A cross-platform Gemini console client in C# with a simple user interface, interactive menus and mouse support.",
+Romulus,browser,console sharing,No,No,CLI,,https://github.com/LukeEmmet/Romulus,"A cross-platform Gemini console client in C# with a simple user interface, interactive menus and mouse support.",
 pymailgen,email,ImageViewer(ASCII),No,No,Yes,,https://github.com/toolleeo/pymailgen,"Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client.",
 FAWOC,science,AudioMixer,No,No,Yes,,https://github.com/robolab-pavia/fawoc,FAWOC is a TUI program for manually labelling a list of words. It has been developed to support the efficient clustering of documents based on topic modeling algorithms such as Dirichlet Latent Allocation.,
 slr-kit,science,enhanced cat,No,No,Yes,,https://github.com/robolab-pavia/slr-kit,Set of CLI tools to assist the writing of Systematic Literature Reviews powered by Natural Language Processing.,
