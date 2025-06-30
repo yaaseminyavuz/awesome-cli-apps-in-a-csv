@@ -556,7 +556,7 @@ o,editors,LightweightTextViewer,No,No,CLI,,https://github.com/xyproto/orbiton,"C
 Pokete,games,GameTUI,No,No,TUI,,https://github.com/lxgr-linux/pokete,A terminal based Pokemon like game.,
 czg,git,enhanced cat,No,No,CLI,,https://github.com/Zhengqbbb/cz-git,Interactively generate standardized commit messages.,
 portal,transfer,FileTransferP2PCLI,No,Yes,CLI,,https://github.com/SpatiumPortae/portal,A quick and easy command-line file transfer utility from any computer to another.,
-pokeget,funny,terminal sharing,No,No,Yes,,https://github.com/talwat/pokeget-rs,A bash script you can use to display cool sprites of Pokemon in your terminal.,
+pokeget,funny,PokemonFetcherCLI,No,Yes,CLI,,https://github.com/talwat/pokeget-rs,A bash script you can use to display cool sprites of Pokemon in your terminal.,
 tiptop,monitor-top,text calendar,No,No,Yes,,https://github.com/nschloe/tiptop,"A command-line system monitoring tool in the spirit of top, written in Python. It displays various interesting system stats and graphs them. Works on all operating systems.",
 iola,webdev,command-line translator,No,No,Yes,,https://github.com/pvarentsov/iola,A command-line socket client with REST API. It helps to work with socket servers using your favorite REST client.,
 lowcharts,data-management,PaperBarcodeBackup,No,No,Yes,,https://github.com/juan-leon/lowcharts,lowcharts is meant to be used in those scenarios where we have numerical data in text files that we want to display in the terminal to do a basic analysis.,
