@@ -467,7 +467,7 @@ terminordle,games,terminal game,No,Yes,TUI,,https://github.com/HP4k1h5/terminord
 gh-s,git,GitSearchCLI,No,Yes,CLI,,https://github.com/gennaro-tedesco/gh-s,Search GitHub repositories interactively.,
 gh-f,git,GitFzfCLI,No,Yes,CLI,,https://github.com/gennaro-tedesco/gh-f,"The ultimate, compact and snappy fzf extension for gh CLI.",
 stargazer,git,GitStatisticsCLI,No,Yes,CLI,,https://github.com/gennaro-tedesco/stargazer,GitHub stats from the command line.,
-http-tanker,webdev,terminal sharing,No,,Yes,,https://github.com/PierreKieffer/http-tanker,"Terminal application used for API testing; easily create, manage and execute HTTP requests from the terminal.",
+http-tanker,webdev,APIClientCLI,No,Yes,CLI,,https://github.com/PierreKieffer/http-tanker,"Terminal application used for API testing; easily create, manage and execute HTTP requests from the terminal.",
 Bevel,history,command-line translator,No,No,Yes,,https://github.com/NorfairKing/bevel,Command line history in an SQLite database for effective reuse.,
 zq,data-management,BackupAutomationWrapper,No,,No,https://zed.brimdata.io/docs/commands/zq/,https://github.com/brimdata/zed,"A command-line tool that uses the Zed language for pipeline-style search and analytics. It can query a variety of data formats (CSV, JSON, etc.) in files, over HTTP, or in S3 storage.",
 Mabel,torrent,terminal sharing,No,No,Yes,,https://github.com/smmr-software/mabel,A fancy BitTorrent client for the terminal built with Go and the Bubbletea library.,
