@@ -49,7 +49,7 @@ Interfaces and front-ends to GPT engines and other tools powered by artificial i
 * [Alibaba-CLI-Scraper](https://github.com/poneoneo/Alibaba-CLI-Scraper) – Create your own Alibaba dataset and interact with it in plain English.  
   _AI: ✅ | Online: ✅ | Interface: CLI | Subcategory: LLM wrapper_
 
-  * [ata](https://github.com/transformrs/ata) – Ask the Terminal Anything: OpenAI GPT in the terminal.  
+* [ata](https://github.com/transformrs/ata) – Ask the Terminal Anything: OpenAI GPT in the terminal.  
   _AI: ✅ | Online: ✅ | Interface: CLI | Subcategory: AI terminal assistant_
 
 <!-- Preview Section End -->
