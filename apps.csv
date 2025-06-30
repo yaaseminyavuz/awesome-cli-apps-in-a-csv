@@ -172,7 +172,7 @@ mbsync,email,MailSyncTool,No,No,CLI,http://isync.sourceforge.net/mbsync.html,,"M
 Mutt,email,TerminalEmailClient,No,No,TUI-CLI,http://www.mutt.org/,https://gitlab.com/muttmua/mutt,"Mail client with tons of features, customization chances, support for IMAP, POP3, multiple storage formats.",
 sup,email,TerminalEmailClient,No,No,TUI,http://sup-heliotrope.github.io/,https://github.com/sup-heliotrope/sup,"MUA written in Ruby; specifically developed for accounts with ""a lot of emails""; nice thread-based presentation.",
 aria2,transfer,DownloadManagerCLI,No,Yes,CLI,,https://github.com/aria2/aria2,"Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.",
-croc,transfer,enhanced cat,No,No,Yes,,https://github.com/schollz/croc,Easily and securely send things from one computer to another.,
+croc,transfer,FileTransferCLI,No,No,CLI,,https://github.com/schollz/croc,Easily and securely send things from one computer to another.,
 curl,transfer,AlternativeVCS,No,No,,https://curl.haxx.se/,https://github.com/curl/curl,"A tool and library for transferring data with URL syntax, supports a lot of protocols.",
 Deluge,torrent,resource monitor,No,Yes,,http://deluge-torrent.org/,https://git.deluge-torrent.org/deluge,"A lightweight, Free Software, cross-platform BitTorrent client; a terminal curses interface, web interface and command line client can connect to a running daemon to manage torrent downloads.",
 lftp,transfer,LightweightFileManager,No,,No,https://lftp.yar.ru/,https://github.com/lavv17/lftp,"""Sophisticated FTP/HTTP client, and a file transfer program supporting a number of network protocols""; support for bookmarks and mirroring features.",
