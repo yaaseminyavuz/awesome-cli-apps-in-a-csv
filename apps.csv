@@ -313,7 +313,7 @@ ddgr,online,command-line translator,No,Yes,CLI,,https://github.com/jarun/ddgr,A 
 chs,games,TerminalChessAI,Yes,No,TUI,,https://github.com/nickzuber/chs,Play chess against the Stockfish engine in your terminal.,
 clifm,file-manager,shell,No,No,CLI,,https://github.com/leo-arch/clifm,"A CLI-based, shell-like, and non-curses terminal file manager written in C: simple, fast, extensible, and lightweight as hell.",
 nmail,email,resource monitor,No,Yes,TUI,,https://github.com/d99kris/nmail,nmail is a console-based email client for Linux and macOS with a user interface similar to alpine / pine.,
-matterhorn,chat,terminal sharing,No,No,Yes,,https://github.com/matterhorn-chat/matterhorn,A terminal client for the Mattermost chat system.,
+matterhorn,chat,terminal sharing,No,Yes,TUI,,https://github.com/matterhorn-chat/matterhorn,A terminal client for the Mattermost chat system.,
 calcurse,organizers,command-line translator,No,No,No,https://calcurse.org/,https://git.calcurse.org/calcurse.git,"A calendar and scheduling application for the command line. It helps keep track of events, appointments and everyday tasks.",
 castero,music,terminal sharing,No,No,Yes,,https://github.com/xgi/castero,A TUI podcast client for the terminal.,
 GnuPG,security,notifications,No,No,,https://gnupg.org/,https://dev.gnupg.org/source/gnupg.git,GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP).,
