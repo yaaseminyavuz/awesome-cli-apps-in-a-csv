@@ -446,7 +446,7 @@ taskell,todo-manager,knowledge base,No,No,TUI,,https://github.com/smallhadroncol
 taskbook,todo-manager,command-line translator,No,No,CLI,,https://github.com/klaudiosinani/taskbook,"Tasks, boards & notes for the command-line habitat.",
 papis,science,knowledge base,No,No,CLI,,https://github.com/alejandrogallo/papis,Extensible document and bibliography manager.,
 TUIR,chat,RedditClientTUI,No,Yes,TUI,,https://gitlab.com/ajak/tuir,"Text-based interface (TUI) to view and interact with Reddit from your terminal; TUIR is a fork of rtv, featuring vim keybindings and themes.",
-xxh,networking,shell,No,No,Yes,,https://github.com/xxh/xxh,Bring your favorite shell wherever you go through the ssh.,
+xxh,networking,shell,No,Yes,CLI,,https://github.com/xxh/xxh,Bring your favorite shell wherever you go through the ssh.,
 browsh,browser,ImageViewer(ASCII),No,Yes,,https://www.brow.sh/,https://github.com/browsh-org/browsh,"It renders anything that a modern browser can; HTML5, CSS3, JS, video and even WebGL. Its main purpose is to be run on a remote server and accessed via SSH/Mosh or the in-browser HTML service in order to significantly reduce bandwidth and thus both increase browsing speeds and decrease bandwidth costs.",
 jless,data-management-json,command-line translator,No,No,No,https://pauljuliusmartinez.github.io/,https://github.com/PaulJuliusMartinez/jless,"Command-line JSON viewer designed for reading, exploring, and searching through JSON data.",
 bat,viewers,enhanced cat,No,No,Yes,,https://github.com/sharkdp/bat,A cat clone with syntax highlighting and Git integration.,
