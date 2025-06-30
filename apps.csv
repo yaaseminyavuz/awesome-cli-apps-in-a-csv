@@ -383,7 +383,7 @@ noti,monitor,resource monitor,No,No,CLI,,https://github.com/variadico/noti,Monit
 friendly-find,find,enhanced cat,No,No,CLI,,https://github.com/sjl/friendly-find,Usable replacement for find.,
 fzy,option-picker,enhanced cat,No,No,CLI,,https://github.com/jhawthorn/fzy,Better fuzzy finder.,
 GraphicsMagick,graphics,ImageProcessorCLI,No,No,CLI,http://www.graphicsmagick.org/,https://sourceforge.net/projects/graphicsmagick,Swiss army knife of image processing.,
-hexyl,viewers,command-line translator,No,No,Yes,,https://github.com/sharkdp/hexyl,Command-line hex viewer.,
+hexyl,viewers,command-line translator,No,No,CLI,,https://github.com/sharkdp/hexyl,Command-line hex viewer.,
 temci,programming,vcard address book,No,No,Yes,,https://github.com/parttimenerd/temci,Advanced benchmarking tool written in Python 3 that supports setting up an environment for benchmarking and the generation of visually appealing reports.,
 just,system,enhanced cat,No,No,Yes,,https://github.com/casey/just,Handy way to save and run project-specific commands.,
 license-up,programming-boilerplate,enhanced cat,No,No,Yes,,https://github.com/nikitavoloboev/license-up,Create a license quickly for a given name.,
