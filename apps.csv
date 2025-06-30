@@ -1787,3 +1787,4 @@ paragrep,text-search,advanced grep,No,No,CLI,http://software.clapper.org/paragre
 sift,text-search,advanced grep,No,No,CLI,https://sift-tool.org/,https://github.com/svent/sift,Fast and powerful alternative to `grep`; it targets flexibility and performance: can be as fast as `grep` and allows specifying complex expressions to find text.,x
 ccat,viewers,enhanced cat,No,No,CLI,,https://github.com/owenthereal/ccat,`cat` with colorized output.,x
 calm-garden-cli,utility,wellness,No,No,TUI,,https://github.com/jaroslaw-weber/calm-garden-cli,"A small, discreet terminal tool for breath exercises with progression: earn coins, buy plants, and upgrade your garden.",x
+fzf,option-picker,fuzzy‑search,No,No,TUI,,https://github.com/junegunn/fzf,"(FuZzy Finder) - a general-purpose command-line finder with fuzzy search/filter capabilities, good integration with `vim`.",x
