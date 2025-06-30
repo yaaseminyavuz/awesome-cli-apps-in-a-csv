@@ -634,7 +634,7 @@ passfzf,password-manager,PasswordWrapperCLI,No,No,CLI,,https://git.sr.ht/~mlapar
 Nextcloud share URL downloader,transfer,CloudFileDownloaderCLI,No,Yes,CLI,,https://github.com/aertslab/nextcloud_share_url_downloader,Download files from and list content of NextCloud (password protected) share directly from the command line without needing a web browser.,
 pcopy,file-handling,TemporaryPasteCLI,No,Yes,CLI,,https://github.com/binwiederhier/pcopy,"A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.",
 GoCatGo,pastebin,PastebinCLI,No,Yes,CLI,,https://github.com/vaaleyard/gocatgo,GoCatGo is another pastebin tool with a super focus on transparency.,
-NestedTextTo,conversion,enhanced cat,No,No,Yes,,https://github.com/AndydeCleyre/nestedtextto,"CLI to convert between NestedText and JSON, YAML, or TOML.",
+NestedTextTo,conversion,DataFormatConverterCLI,No,No,CLI,,https://github.com/AndydeCleyre/nestedtextto,"CLI to convert between NestedText and JSON, YAML, or TOML.",
 matrix-webcam,funny,ImageViewer(ASCII),No,No,Yes,,https://github.com/joschuck/matrix-webcam,Take your video conference from within the matrix.,
 mprocs,launcher,enhanced cat,No,No,Yes,,https://github.com/pvolok/mprocs,mprocs runs multiple commands in parallel and shows output of each command separately.,
 procmux,launcher,notifications,No,No,Yes,,https://github.com/napisani/procmux,A TUI utility for running multiple commands in parallel in easily switchable terminals.,
