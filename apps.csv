@@ -343,7 +343,7 @@ Bombadillo,browser,GeminiClientTUI,No,Yes,TUI,https://bombadillo.colorfield.spac
 pycp,file-handling,enhanced cat,No,No,CLI,,https://github.com/dmerejkowsky/pycp,cp and mv with a progress bar.,
 bcal,calc,StorageCalculatorCLI,No,No,CLI,,https://github.com/jarun/bcal,"Byte CALculator - A REPL CLI utility for storage expression evaluation, SI/IEC conversion, byte address calculation, base conversion and LBA/CHS calculation.",
 cpass,password-manager,enhanced cat,No,No,TUI,,https://github.com/xlucn/cpass,Another console UI for pass.,
-Dust,disk-analyzer,FastFindAlternative,No,No,Yes,,https://github.com/bootandy/dust,du + rust = dust. Like du but more intuitive.,
+Dust,disk-analyzer,FastFindAlternative,No,No,CLI,,https://github.com/bootandy/dust,du + rust = dust. Like du but more intuitive.,
 ash,editors,gui-easy-editor,No,No,Yes,,https://github.com/akashnag/ash,"A simple and clean terminal-based text editor, that aims to be easy to use with modern key-bindings.",
 gee,versioning,knowledge base,No,No,Yes,,https://github.com/human37/gee,CLI repository manager and automation tool written in rust.,
 cobib,science,AlternativeVCS,No,No,No,,https://gitlab.com/mrossinek/cobib,"Simple, command-line based bibliography management tool.",
