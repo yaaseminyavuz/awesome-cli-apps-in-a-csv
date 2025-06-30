@@ -171,7 +171,7 @@ alot,email,TerminalEmailClient,No,,TUI,,https://github.com/pazz/alot,"MUA writte
 mbsync,email,MailSyncTool,No,No,CLI,http://isync.sourceforge.net/mbsync.html,,"Mailboxes synchronization tool, allows downloading email locally, MailDir format supported.",
 Mutt,email,TerminalEmailClient,No,No,TUI-CLI,http://www.mutt.org/,https://gitlab.com/muttmua/mutt,"Mail client with tons of features, customization chances, support for IMAP, POP3, multiple storage formats.",
 sup,email,TerminalEmailClient,No,No,TUI,http://sup-heliotrope.github.io/,https://github.com/sup-heliotrope/sup,"MUA written in Ruby; specifically developed for accounts with ""a lot of emails""; nice thread-based presentation.",
-aria2,transfer,lightweight-userfriendly,No,,Yes,,https://github.com/aria2/aria2,"Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.",
+aria2,transfer,DownloadManagerCLI,No,Yes,CLI,,https://github.com/aria2/aria2,"Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.",
 croc,transfer,enhanced cat,No,No,Yes,,https://github.com/schollz/croc,Easily and securely send things from one computer to another.,
 curl,transfer,AlternativeVCS,No,No,,https://curl.haxx.se/,https://github.com/curl/curl,"A tool and library for transferring data with URL syntax, supports a lot of protocols.",
 Deluge,torrent,resource monitor,No,Yes,,http://deluge-torrent.org/,https://git.deluge-torrent.org/deluge,"A lightweight, Free Software, cross-platform BitTorrent client; a terminal curses interface, web interface and command line client can connect to a running daemon to manage torrent downloads.",
