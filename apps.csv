@@ -278,7 +278,7 @@ Graphtage,data-management-json,command-line translator,No,No,CLI,,https://github
 duf,disk-analyzer,StylizedDiskUsageReporter,No,No,TUI,,https://github.com/muesli/duf,Disk Usage/Free Utility.,
 tuxi,productivity,GoogleScraperCLI,No,Yes,CLI,,https://github.com/Bugswriter/tuxi,A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.,
 Clipboard,note-taking,TerminalKnowledgeBase,No,No,CLI,https://getclipboard.app/,https://github.com/Slackadays/Clipboard,An easy-to-use information management tool that acts like an external brain.,
-Siren,music,LightweightAudioPlayer,No,No,,https://www.kariliq.nl/siren/,https://www.kariliq.nl/git/siren.git,Siren is a text-based audio player for UNIX-like operating systems.,
+Siren,music,LightweightAudioPlayer,No,No,TUI,https://www.kariliq.nl/siren/,https://www.kariliq.nl/git/siren.git,Siren is a text-based audio player for UNIX-like operating systems.,
 Ticker,financial,terminal sharing,No,No,Yes,,https://github.com/achannarasappa/ticker,Terminal stock watcher and stock position tracker.,
 xh,transfer,AlternativeVCS,No,,Yes,,https://github.com/ducaale/xh,xh is a friendly and fast tool for sending HTTP requests. It reimplements as much as possible of HTTPie's excellent design.,
 git-peek,git,GitStatistics,No,,Yes,,https://github.com/Jarred-Sumner/git-peek,git peek is the fastest way to open a remote git repository in your local text editor.,
