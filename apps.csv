@@ -349,7 +349,7 @@ gee,versioning,RepoManagerCLI,No,No,CLI,,https://github.com/human37/gee,CLI repo
 cobib,science,AlternativeVCS,No,No,CLI,,https://gitlab.com/mrossinek/cobib,"Simple, command-line based bibliography management tool.",
 doppelganger,file-handling,shell,No,No,CLI,,https://github.com/witchard/doppelganger,Save and load your shell environment to create doppelganger shells!,
 screenFetch,monitor,ImageViewer(ASCII),No,No,CLI,,https://github.com/KittyKatt/screenFetch,It can be used to generate one of those nifty terminal theme information + ASCII distribution logos. It auto-detects the distribution and display an ASCII version of that distribution's logo and some valuable information to the right.,
-inklayers,graphics,IO monitor,No,No,Yes,,https://github.com/toolleeo/inklayers,A command line program that exports layers from an SVG file. It can be used to create slide shows by editing a single SVG file.,
+inklayers,graphics,SVGSlideExporterCLI,No,No,CLI,,https://github.com/toolleeo/inklayers,A command line program that exports layers from an SVG file. It can be used to create slide shows by editing a single SVG file.,
 pvcheck,programming,enhanced cat,No,No,Yes,,https://github.com/claudio-unipv/pvcheck,"A tool to apply automated testing to programs that produce textual output. The format of the output is very specific, making pvcheck suitable to test programming quizzes.",
 Jmp,cd,enhanced cat,No,No,Yes,,https://github.com/gholmes829/Jmp,Change directory with smart searching of the path specified through regex.,
 Gitea,git,GitStatistics,No,Yes,,https://gitea.com/,https://github.com/go-gitea/gitea,Single binary self-hosted Git service.,
