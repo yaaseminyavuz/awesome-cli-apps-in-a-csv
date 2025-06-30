@@ -250,7 +250,7 @@ cli-arxiv,browser,arXivSearcher,No,Yes,CLI,,https://github.com/knguyenanhoa/cli-
 mdBook,markdown,MarkdownBookBuilder,No,No,CLI,,https://github.com/rust-lang/mdBook,Create book from Markdown files.,
 SpicyPass,password-manager,EncryptedPasswordManager,No,No,CLI,,https://github.com/JFreegman/SpicyPass,A light-weight password manager with a focus on simplicity and security.,
 jc,data-management-json,command-line translator,,No,CLI,,https://github.com/kellyjonbrazil/jc,Serializes the output of command line tools to JSON.,
-muCLIar,music,enhanced cat,Yes,No,Yes,,https://github.com/aayush1205/muCLIar,YouTube automator bringing you your music right on your CLI.,
+muCLIar,music,YouTubeAudioCLI,,Yes,CLI,,https://github.com/aayush1205/muCLIar,YouTube automator bringing you your music right on your CLI.,
 wikit,online,command-line translator,Yes,No,Yes,,https://github.com/KorySchneider/wikit,A command line program for getting Wikipedia summaries easily.,
 mitmproxy,networking,shell,No,,,https://mitmproxy.org/,https://github.com/mitmproxy/mitmproxy,An interactive HTTPS proxy.,
 yt-audio,music,AudioMixer,No,No,Yes,,https://github.com/RijulGulati/yt-audio,"A simple, configurable youtube-dl wrapper to download and manage YouTube audio.",
