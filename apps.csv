@@ -1851,3 +1851,4 @@ ledger,financial,Accounting,No,No,CLI,http://ledger-cli.org/,https://github.com/
 Qalculate,calc,AdvancedCalculators,No,No,CLI,https://qalculate.github.io/,https://github.com/Qalculate/libqalculate,"Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI).",x
 cacaview,viewers,ImageViewer(ASCII),No,No,TUI,http://caca.zoy.org/wiki/libcaca,https://github.com/cacalabs/libcaca,"A library and a program to display JPG, PNG, GIF or BMP images in the terminal using ASCII characters.",x
 glow,markdown,MarkdownTUI,No,Yes,TUI-CLI,,https://github.com/charmbracelet/glow,"TUI that renders Markdown files, with keybindings similar to `less` and support for styles and cloud encrypted storing",x
+Terminal Markdown Viewer,markdown,MarkdownViewer(GUI/CLI),No,No,CLI,,https://github.com/axiros/terminal_markdown_viewer,Python based Markdown viewer with themes source code highlighting and a directory change monitor.,x
