@@ -287,7 +287,7 @@ gdu,disk-analyzer,DiskAnalyzerTUI,No,No,TUI-CLI,,https://github.com/dundee/gdu,"
 kord,music,MusicAppFramework,No,No,,,https://github.com/synestematic/kord,A Python framework that provides programmers with a simple API for the creation of music-based applications.,
 imgcat,graphics,enhanced cat,No,No,TUI,,https://github.com/trashhalo/imgcat,Tool to output images in the terminal. Built with bubbletea.,
 bib.awk,science,knowledge base,No,No,CLI,,https://github.com/huijunchen9260/bib.awk,Bibliography manager written in awk.,
-rr,programming,enhanced cat,No,No,,https://rr-project.org/,https://github.com/rr-debugger/rr,"Debug the recording, deterministically, as many times as you want.",
+rr,programming,DeterministicDebugger,No,No,CLI,https://rr-project.org/,https://github.com/rr-debugger/rr,"Debug the recording, deterministically, as many times as you want.",
 nbterm,programming,terminal sharing,No,No,Yes,,https://github.com/davidbrochart/nbterm,Jupyter Notebooks in the terminal.,
 qr-filetransfer,transfer,terminal sharing,No,No,Yes,,https://github.com/sdushantha/qr-filetransfer,Transfer files over Wi-Fi between your computer and your smartphone from the terminal.,
 element,science,command-line translator,No,No,Yes,,https://github.com/gennaro-tedesco/element,Periodic table on the command line.,
