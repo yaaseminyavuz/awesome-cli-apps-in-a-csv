@@ -407,7 +407,7 @@ huniq,text-processing,command-line translator,No,No,CLI,,https://github.com/kora
 nat,ls,RustLsReplacement,No,No,TUI-CLI,,https://github.com/willdoescode/nat,Complete replacement for the `ls` command.,
 csvq,data-management-tabular,GitStatistics,No,No,CLI,,https://github.com/mithrandie/csvq,SQL-like query language for CSV.,
 FClones,file-dir-cleanup,ModernFileManager,No,No,CLI,,https://github.com/pkolaczk/fclones,Efficient Duplicate File Finder.,
-dasel,data-management-json,ImageViewer(ASCII),No,No,Yes,,https://github.com/TomWright/dasel,Allows you to query and modify data structures using selector strings.,
+dasel,data-management-json,ImageViewer(ASCII),No,No,CLI,,https://github.com/TomWright/dasel,Allows you to query and modify data structures using selector strings.,
 Proji,programming-boilerplate,AlternativeVCS,No,No,Yes,,https://github.com/nikoksr/proji,Powerful cross-platform CLI project templating tool.,
 pbgopy,transfer,enhanced cat,No,No,Yes,,https://github.com/nakabonne/pbgopy,Copy and paste between devices.,
 gnuplot,data-management,enhanced cat,No,No,No,https://www.explainshell.com/explain/1/gnuplot,https://github.com/idank/explainshell,Generate two and three-dimensional plots of data.,
