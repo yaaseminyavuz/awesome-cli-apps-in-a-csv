@@ -295,7 +295,7 @@ termv,viewers,TerminalIPTVPlayer,No,Yes,TUI,,https://github.com/Roshan-R/termv,A
 rofi,launcher,ApplicationLauncherTUI,No,No,TUI,,https://github.com/davatorium/rofi,"A window switcher, application launcher and dmenu replacement.",
 F2,file-renamer,BulkRenamerCLI,No,No,CLI,,https://github.com/ayoisaiah/f2,Cross-platform command-line tool for batch renaming files and directories quickly and safely.,
 grit,todo-manager,knowledge base,No,No,CLI,,https://github.com/climech/grit,A multitree-based personal task manager.,
-dstask,todo-manager,MarkdownViewer(GUI/CLI),No,No,Yes,,https://github.com/naggie/dstask,Single binary terminal-based TODO manager with git-based sync + Markdown notes per task.,
+dstask,todo-manager,GitBackedTodoCLI,No,No,CLI,,https://github.com/naggie/dstask,Single binary terminal-based TODO manager with git-based sync + Markdown notes per task.,
 wutag,file-system,AlternativeVCS,No,No,Yes,,https://github.com/vv9k/wutag,CLI Tool for tagging and organizing files by tags.,
 xplr,file-explorer,ModernFileManager,No,No,Yes,,https://github.com/sayanarijit/xplr,"A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.",
 eg,cheatsheet,command-line translator,No,No,Yes,,https://github.com/srsudar/eg,Useful examples at the command line.,
