@@ -427,7 +427,7 @@ rip,rm,enhanced cat,No,No,CLI,,https://github.com/nivekuil/rip,"Move and restore
 vgrep,text-search,FastFindAlternative,No,No,CLI,,https://github.com/vrothberg/vgrep,User-friendly pager for grep.,
 urlhunter,webdev,ReconToolCLI,No,Yes,CLI,,https://github.com/utkusen/urlhunter,Recon tool that allows searching on URLs that are exposed via shortener services.,
 lychee,webdev,LinkCheckerCLI,No,Yes,CLI,,https://github.com/lycheeverse/lychee,"Fast, async, resource-friendly link checker written in Rust.",
-Rustcat,networking,FastFindAlternative,No,No,Yes,,https://github.com/robiot/rustcat,Netcat Alternative in Rust.,
+Rustcat,networking,NetworkToolCLI,No,Yes,CLI,,https://github.com/robiot/rustcat,Netcat Alternative in Rust.,
 ponysay,funny,enhanced cat,No,No,Yes,,https://github.com/erkin/ponysay,Pony rewrite of cowsay.,
 yosay,funny,enhanced cat,No,No,Yes,,https://github.com/yeoman/yosay,"Like cowsay, but for yeoman.",
 cli-mandelbrot,animation,enhanced cat,No,No,Yes,,https://github.com/danyshaanan/cli-mandelbrot,A CLI for traversing the Mandelbrot fractal.,
