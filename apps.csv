@@ -451,7 +451,7 @@ browsh,browser,TerminalBrowserTUI,No,Yes,TUI,https://www.brow.sh/,https://github
 jless,data-management-json,command-line translator,No,No,TUI,https://pauljuliusmartinez.github.io/,https://github.com/PaulJuliusMartinez/jless,"Command-line JSON viewer designed for reading, exploring, and searching through JSON data.",
 bat,viewers,enhanced cat,No,No,CLI,,https://github.com/sharkdp/bat,A cat clone with syntax highlighting and Git integration.,
 osmf,data-management,command-line translator,No,Yes,CLI,,https://github.com/codesoap/osmar,OpenStreetMap find - A simple command line tool to explore OSM data.,
-haxor-news,viewers,command-line translator,No,No,Yes,,https://github.com/donnemartin/haxor-news,Browse Hacker News like a haxor: A Hacker News command line interface (CLI).,
+haxor-news,viewers,command-line translator,No,Yes,CLI,,https://github.com/donnemartin/haxor-news,Browse Hacker News like a haxor: A Hacker News command line interface (CLI).,
 texel,viewers,command-line translator,No,No,Yes,,https://github.com/Lauriat/texel,Command line interface for reading spreadsheets inside terminal.,
 gambit,games,terminal sharing,No,No,Yes,,https://github.com/maaslalani/gambit,Chess board in your terminal.,
 bin,package-manager,GitforLargeFiles,No,No,Yes,,https://github.com/marcosnils/bin,Manages binary files downloaded from different sources.,
