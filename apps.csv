@@ -215,7 +215,7 @@ whowatch,monitor,resource monitor,No,No,TUI,https://www.tecmint.com/whowatch-mon
 dijo,time-tracker,HabitTrackerTUI,No,No,TUI,,https://github.com/NerdyPepper/dijo,"Scriptable, curses-based, digital habit tracker.",
 cadmus,note-taking,NoteTakingCLI,No,No,CLI,,https://github.com/RyanGreenup/cadmus,Shell Scripts to Facilitate Effective Note Taking.,
 twf,file-explorer,ModernFileManager,No,No,TUI,,https://github.com/wvanlint/twf,Standalone tree view file explorer.,
-delta,diff,enhanced cat,No,No,Yes,,https://github.com/dandavison/delta,A syntax-highlighter for git and diff output.,
+delta,diff,enhanced cat,No,No,CLI,,https://github.com/dandavison/delta,A syntax-highlighter for git and diff output.,
 chafa,graphics,terminal sharing,No,No,Yes,,https://github.com/hpjansson/chafa,Terminal graphics for the 21 st century.,
 youtube-viewer,viewers,enhanced cat,No,No,Yes,,https://github.com/trizen/youtube-viewer,Lightweight application that searches and streams videos from YouTube.,
 posce,note-taking,command-line translator,No,No,Yes,,https://github.com/vdt/posce,A note-taking toolkit for your command line.,
