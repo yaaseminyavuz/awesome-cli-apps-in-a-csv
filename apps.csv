@@ -516,7 +516,7 @@ Editly,video,VideoEditorCLI,No,No,CLI,,https://github.com/mifi/editly,A tool and
 ffmpeg,video,MediaConverterCLI,No,No,CLI,https://ffmpeg.org/,https://github.com/FFmpeg/FFmpeg,The Swiss knife of video editing from the command line.,
 xonsh,shells,shell,No,No,CLI,https://xon.sh/,https://github.com/xonsh/xonsh,The xonsh shell lets you easily mix Python and shell commands in a powerful and simplified approach to the command line.,
 hledger,financial,AccountingCLI,No,No,CLI,https://hledger.org/,https://github.com/simonmichael/hledger,"A is fast, reliable, free, multicurrency double-entry accounting software to track money, investments, cryptocurrencies, time, or any other quantifiable commodity; uses a future-proof plain text file format.",
-fzf-git.sh,git,GitStatistics,No,No,Yes,,https://github.com/junegunn/fzf-git.sh,"bash and zsh key bindings for Git objects, powered by fzf.",
+fzf-git.sh,git,GitStatistics,No,No,TUI-CLI,,https://github.com/junegunn/fzf-git.sh,"bash and zsh key bindings for Git objects, powered by fzf.",
 simtex,conversion,WordToTextConverter,No,No,Yes,,https://github.com/simtex-dev/engine,"simtex (simplified LaTeX) allows you to convert your Markdown or text lectures into LaTeX file with one command, configured with simple .json file.",
 ff,cd,shell,No,No,Yes,,https://github.com/akymos/ff,"ff is a command-line tool to manage favorite folders, creating an alias, to be used via shell directly with the cd command.",
 othello-cli,games,LightweightAudioPlayer,No,No,Yes,,https://github.com/LelsersLasers/othello-cli,"othello-cli is a CLI version of Othello (Reversi) written in Rust. You can play against another player, the AI, or watch two AIs play each other.",
