@@ -1776,3 +1776,4 @@ Speedcrunch,calc,FastFindAlternative,No,No,,,https://heldercorreia.bitbucket.io/
 Chawan,browser,terminal sharing,No,Yes,No,https://sr.ht/~bptato/chawan/,https://git.sr.ht/~bptato/chawan,A text-mode web browser. It displays websites in your terminal and allows you to navigate on them. It can also be used as a terminal pager.,
 termfu,programming,debugging,No,No,CLI-TUI,,https://github.com/jvalcher/termfu,A multi-language debugger frontend that allows users to create and switch between custom layouts.,x
 h-m-m,productivity,mind‑mapping,No,No,TUI,,https://github.com/nadrad/h-m-m,"h-m-m (pronounced like the interjection ""hmm"") is a simple, fast, keyboard-centric terminal-based tool for working with mind maps.",x
+telert,productivity,notifications,No,Yes,CLI,https://github.com/navig-me/telert,https://github.com/navig-me/telert,"Lightweight CLI and Python utility that sends alerts (Telegram, Slack, Teams, Desktop, Audio) when commands complete.",x
