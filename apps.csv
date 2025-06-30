@@ -1839,3 +1839,4 @@ gcalcli,organizers,google calendar client,No,Yes,TUI-CLI,,https://github.com/ins
 khal,organizers,caldav calendar,No,Yes,TUI,,https://github.com/pimutils/khal,Calendar that can synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer).,x
 kb,note-taking,knowledge base,No,No,CLI,,https://github.com/gnebbia/kb,A minimalist knowledge base manager.,x
 khard,organizers,vcard address book,No,Yes,CLI,,https://github.com/lucc/khard,vCard address book written in Python. Supports CardDAV.,x
+iKog,todo-manager,python todo manager,No,No,CLI,https://sites.google.com/site/henspace/ikog/,https://github.com/boyska/ikog,"A fully-featured task manager encapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key.",x
