@@ -423,7 +423,7 @@ Viddy,file-watch,ProcessMonitorTUI,No,No,TUI,,https://github.com/sachaos/viddy,M
 kalker,calc,MathCLI,No,No,CLI,,https://github.com/PaddiM8/kalker,"Calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers.",
 so,online,StackOverflowCLI,No,Yes,CLI,,https://github.com/samtay/so,Terminal interface for Stack Overflow.,
 sq,data-management-tabular,command-line translator,No,No,CLI,,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel.",
-rip,rm,enhanced cat,No,No,Yes,,https://github.com/nivekuil/rip,"Move and restore items from the graveyard (by default, `/tmp/graveyard-$USER` if $XDG_DATA_HOME is not set and `$XDG_DATA_HOME/graveyard` otherwise)",
+rip,rm,enhanced cat,No,No,CLI,,https://github.com/nivekuil/rip,"Move and restore items from the graveyard (by default, `/tmp/graveyard-$USER` if $XDG_DATA_HOME is not set and `$XDG_DATA_HOME/graveyard` otherwise)",
 vgrep,text-search,FastFindAlternative,No,No,Yes,,https://github.com/vrothberg/vgrep,User-friendly pager for grep.,
 urlhunter,webdev,AlternativeVCS,No,No,Yes,,https://github.com/utkusen/urlhunter,Recon tool that allows searching on URLs that are exposed via shortener services.,
 lychee,webdev,FastFindAlternative,No,No,Yes,,https://github.com/lycheeverse/lychee,"Fast, async, resource-friendly link checker written in Rust.",
