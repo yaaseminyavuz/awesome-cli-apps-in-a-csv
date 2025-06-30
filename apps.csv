@@ -231,7 +231,7 @@ Nota,calc,TerminalCalculator,No,No,TUI,https://kary.us/nota/,https://github.com/
 vy,editors,TerminalTextEditor,No,No,TUI,,https://github.com/vyapp/vy,A vim-like in Python made from scratch.,
 pire,programming,advanced grep,No,No,CLI,,https://github.com/johannestaas/pire,Python Interactive Regular Expressions.,
 Graphene,browser,TextBasedWebBrowser,No,Yes,TUI,,https://github.com/atsepkov/Graphene,A text-based web browser that's a joy to use.,
-navi,cheatsheet,AlternativeVCS,No,No,Yes,,https://github.com/denisidoro/navi,An interactive cheatsheet tool for the command-line.,
+navi,cheatsheet,InteractiveCheatsheetCLI,No,No,CLI,,https://github.com/denisidoro/navi,An interactive cheatsheet tool for the command-line.,
 TSV Utilities,data-management-tabular,command-line translator,No,No,Yes,,https://github.com/eBay/tsv-utils,"Command line tools for large, tabular data files.",
 pastel,graphics,AlternativeVCS,No,No,Yes,,https://github.com/sharkdp/pastel,"A command-line tool to generate, analyze, convert and manipulate colors.",
 asciinema,screen-recorder,terminal sharing,No,No,Yes,,https://github.com/asciinema/asciinema,Terminal session recorder.,
