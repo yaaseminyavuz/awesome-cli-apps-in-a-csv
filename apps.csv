@@ -381,7 +381,7 @@ hunter,file-manager,TerminalFileManager,No,Yes,TUI,,https://github.com/rabite0/h
 ytop,monitor-top,FastFindAlternative,No,No,TUI,,https://github.com/cjbassi/ytop,TUI system monitor written in Rust.,
 noti,monitor,resource monitor,No,No,CLI,,https://github.com/variadico/noti,Monitor a process and trigger a notification.,
 friendly-find,find,enhanced cat,No,No,CLI,,https://github.com/sjl/friendly-find,Usable replacement for find.,
-fzy,option-picker,enhanced cat,No,No,Yes,,https://github.com/jhawthorn/fzy,Better fuzzy finder.,
+fzy,option-picker,enhanced cat,No,No,CLI,,https://github.com/jhawthorn/fzy,Better fuzzy finder.,
 GraphicsMagick,graphics,enhanced cat,No,No,,http://www.graphicsmagick.org/,https://sourceforge.net/projects/graphicsmagick,Swiss army knife of image processing.,
 hexyl,viewers,command-line translator,No,No,Yes,,https://github.com/sharkdp/hexyl,Command-line hex viewer.,
 temci,programming,vcard address book,No,No,Yes,,https://github.com/parttimenerd/temci,Advanced benchmarking tool written in Python 3 that supports setting up an environment for benchmarking and the generation of visually appealing reports.,
