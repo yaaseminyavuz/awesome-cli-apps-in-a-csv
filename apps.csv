@@ -264,7 +264,7 @@ crappybird-py,games,TerminalGame,No,No,TUI,,https://github.com/JonPizza/crappybi
 conrad,science,ConferenceTrackerCLI,No,Yes,CLI,,https://github.com/vinayak-mehta/conrad,Track conferences and meetups.,
 dn,note-taking,CLIJournal,No,No,CLI,,https://github.com/tomlockwood/dn,Daily notes command line tool.,
 onefetch,git,GitVisualizerCLI,No,No,CLI,,https://github.com/o2sh/onefetch,Git repository summary on your terminal.,
-jtc,data-management-json,enhanced cat,No,No,Yes,,https://github.com/ldn-softdev/jtc,JSON manipulation and transformation.,
+jtc,data-management-json,JSONTransformerCLI,No,No,CLI,,https://github.com/ldn-softdev/jtc,JSON manipulation and transformation.,
 NeoMutt,email,enhanced cat,No,No,,https://neomutt.org/,https://github.com/neomutt/neomutt,Patched and up-to-dated mutt fork.,
 kmdr-cli,cheatsheet,terminal sharing,No,No,Yes,,https://github.com/ediardo/kmdr-cli,The CLI tool for explaining commands from your terminal.,
 Starship,prompt,shell,No,No,No,https://starship.rs/,https://github.com/starship/starship,The cross-shell prompt for astronauts.,
