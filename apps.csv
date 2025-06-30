@@ -454,7 +454,7 @@ osmf,data-management,command-line translator,No,Yes,CLI,,https://github.com/code
 haxor-news,viewers,command-line translator,No,Yes,CLI,,https://github.com/donnemartin/haxor-news,Browse Hacker News like a haxor: A Hacker News command line interface (CLI).,
 texel,viewers,command-line translator,No,No,CLI,,https://github.com/Lauriat/texel,Command line interface for reading spreadsheets inside terminal.,
 gambit,games,terminal game,No,No,TUI,,https://github.com/maaslalani/gambit,Chess board in your terminal.,
-bin,package-manager,GitforLargeFiles,No,No,Yes,,https://github.com/marcosnils/bin,Manages binary files downloaded from different sources.,
+bin,package-manager,GitforLargeFiles,No,No,CLI,,https://github.com/marcosnils/bin,Manages binary files downloaded from different sources.,
 stew,package-manager,knowledge base,No,No,Yes,,https://github.com/marwanhawari/stew,An independent package manager for compiled binaries.,
 clidle,games,enhanced cat,No,No,Yes,,https://github.com/ajeetdsouza/clidle,"Wordle, now over SSH.",
 CLI-Manager,todo-manager,command-line translator,No,No,Yes,,https://github.com/MikyStar/CLI-Manager,Command Line Interface for managing tasks locally on the fly.,
