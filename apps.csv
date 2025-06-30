@@ -601,7 +601,7 @@ GitUI,git,GitStatistics,No,No,TUI,,https://github.com/extrawurst/gitui,"The comf
 as-tree,text-processing,enhanced cat,No,No,CLI,,https://github.com/jez/as-tree,Print a list of paths as a tree of paths.,
 mkdesk,utility,DesktopEntryGenerator,No,No,CLI,,https://gitlab.com/mr-draxs/mkdesk,A program/command to create .desktop files (program launchers) using the terminal.,
 t,todo-manager,TwitterClientCLI,No,Yes,CLI,,https://github.com/sjl/t,"A command-line todo list manager for people that want to finish tasks, not organize them.",
-topydo,todo-manager,ImageViewer(ASCII),No,No,Yes,,https://github.com/topydo/topydo,"A powerful todo list application for the console, using the todo.txt format.",
+topydo,todo-manager,TaskManagerCLI,No,No,CLI,,https://github.com/topydo/topydo,"A powerful todo list application for the console, using the todo.txt format.",
 Ultralist,todo-manager,AlternativeVCS,No,No,No,https://ultralist.io/,https://github.com/gammons/ultralist,"A simple, powerful, open source task management system for the command line.",
 devtodo,todo-manager,command-line translator,No,No,No,https://swapoff.org/devtodo.html,https://github.com/droundy/goopt,"A hierarchical command-line task manager, with data storage in JSON format.",
 cream,security,IO monitor,No,No,,https://z3bra.org/cream/,git://git.z3bra.org/cream.git,"Encrypt and decrypt streams of data with only a master password. The key is derivated from the password + salt combo, and used to encrypt data byte per byte.",
