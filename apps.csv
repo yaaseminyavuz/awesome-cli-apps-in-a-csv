@@ -1777,3 +1777,4 @@ Chawan,browser,terminal sharing,No,Yes,No,https://sr.ht/~bptato/chawan/,https://
 termfu,programming,debugging,No,No,CLI-TUI,,https://github.com/jvalcher/termfu,A multi-language debugger frontend that allows users to create and switch between custom layouts.,x
 h-m-m,productivity,mind‑mapping,No,No,TUI,,https://github.com/nadrad/h-m-m,"h-m-m (pronounced like the interjection ""hmm"") is a simple, fast, keyboard-centric terminal-based tool for working with mind maps.",x
 telert,productivity,notifications,No,Yes,CLI,https://github.com/navig-me/telert,https://github.com/navig-me/telert,"Lightweight CLI and Python utility that sends alerts (Telegram, Slack, Teams, Desktop, Audio) when commands complete.",x
+ipcalc,networking,subnetting tools,No,No,CLI,http://jodies.de/ipcalc,https://github.com/kjokjo/ipcalc,"Takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range.",x
