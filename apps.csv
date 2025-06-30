@@ -591,7 +591,7 @@ Stig,torrent,TorrentClientTUI,No,Yes,TUI,,https://github.com/rndusr/stig,Stig is
 ancv,productivity,VaccineCertViewerCLI,No,Yes,CLI,,https://github.com/alexpovel/ancv,Renders your (JSON) resume/CV for online & pretty terminal display.,
 lf,file-manager,ModernFileManager,No,No,TUI,,https://github.com/gokcehan/lf,"lf (as in ""list files"") is a terminal file manager written in Go with a heavy inspiration from ranger file manager.",
 welcome.sh,prompt,WelcomeMessageCLI,No,No,CLI,,https://github.com/G2-Games/welcome.sh,"A nice little script that greets you on every launch, with some helpful (and customizable!) information.",
-flash-tui,flashcard,terminal sharing,No,No,Yes,,https://github.com/TBS1996/speki,Flashcard app for the terminal.,
+flash-tui,flashcard,FlashcardTrainerTUI,No,No,TUI,,https://github.com/TBS1996/speki,Flashcard app for the terminal.,
 jqp,data-management-json,enhanced cat,No,No,Yes,,https://github.com/noahgorstein/jqp,A TUI playground for exploring jq.,
 systeroid,system,terminal sharing,No,No,Yes,,https://github.com/orhun/systeroid,A more powerful alternative to sysctl(8) with a terminal user interface.,
 hangman,games,enhanced cat,No,No,Yes,,https://github.com/braheezy/hangman,A Go TUI Hangman game built with the lovely BubbleTea framework.,
