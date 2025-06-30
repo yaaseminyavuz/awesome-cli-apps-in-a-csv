@@ -419,7 +419,7 @@ s,browser,WebSearchCLI,No,Yes,CLI,,https://github.com/zquestz/s,Web search from 
 anew,text-processing,FileLineDeduperCLI,No,No,CLI,,https://github.com/tomnomnom/anew,"Tool for adding new lines to files, skipping duplicates.",
 TV,data-management-tabular,enhanced cat,No,No,TUI,,https://github.com/alexhallam/tv,Cross-platform CSV pretty printer made to maximize viewer enjoyment.,
 hors,programming,command-line translator,No,Yes,CLI,,https://github.com/WindSoilder/hors,Instant coding answers via the command line.,
-Viddy,file-watch,ModernFileManager,No,No,Yes,,https://github.com/sachaos/viddy,Modern watch command. Time machine and pager etc.,
+Viddy,file-watch,ProcessMonitorTUI,No,No,TUI,,https://github.com/sachaos/viddy,Modern watch command. Time machine and pager etc.,
 kalker,calc,terminal spreadsheet,No,No,Yes,,https://github.com/PaddiM8/kalker,"Calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers.",
 so,online,terminal sharing,No,No,Yes,,https://github.com/samtay/so,Terminal interface for Stack Overflow.,
 sq,data-management-tabular,command-line translator,No,No,Yes,,https://github.com/neilotoole/sq,"Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel.",
