@@ -560,7 +560,7 @@ pokeget,funny,PokemonFetcherCLI,No,Yes,CLI,,https://github.com/talwat/pokeget-rs
 tiptop,monitor-top,ResourceMonitorTUI,No,No,TUI,,https://github.com/nschloe/tiptop,"A command-line system monitoring tool in the spirit of top, written in Python. It displays various interesting system stats and graphs them. Works on all operating systems.",
 iola,webdev,TextToMorseCLI,No,No,CLI,,https://github.com/pvarentsov/iola,A command-line socket client with REST API. It helps to work with socket servers using your favorite REST client.,
 lowcharts,data-management,AsciiChartCLI,No,No,CLI,,https://github.com/juan-leon/lowcharts,lowcharts is meant to be used in those scenarios where we have numerical data in text files that we want to display in the terminal to do a basic analysis.,
-nb,note-taking,knowledge base,No,Yes,Yes,,https://github.com/xwmx/nb,"A command line and local web note-taking, bookmarking, archiving, and knowledge base application.",
+nb,note-taking,knowledge base,No,Yes,CLI,,https://github.com/xwmx/nb,"A command line and local web note-taking, bookmarking, archiving, and knowledge base application.",
 ots,security,MarkdownTUI,No,No,Yes,,https://github.com/sniptt-official/ots,Share end-to-end encrypted secrets with others via a one-time URL.,
 rare,text-processing,log viewer,No,No,Yes,,https://github.com/zix99/rare,"Real-time regex-extraction and aggregation into common formats such as histograms, bar graphs, numerical summaries, tables, and more!",
 Awesome CLI,online,command-line translator,No,No,Yes,,https://github.com/umutphp/awesome-cli,Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.,
