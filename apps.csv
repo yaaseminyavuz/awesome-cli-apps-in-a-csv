@@ -1812,3 +1812,4 @@ glances,monitor,system monitor,No,No,TUI,https://nicolargo.github.io/glances/,ht
 GoTTY,networking,cli-to-web,No,Yes,TUI-CLI,,https://github.com/yudai/gotty,"Turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page.",x
 iotop,monitor-top,IO monitor,No,No,TUI,http://guichaz.free.fr/iotop/,https://repo.or.cz/iotop.git,"""A Python program with a top like UI used to show of behalf of which process is the I/O going on"".",x
 htop,monitor-top,process viewer,No,No,TUI,http://hisham.hm/htop/,https://github.com/htop-dev/htop,"An interactive process viewer for Unix; improves the UI of `top`, by adding real-time meters and colors.",x
+multitail,monitor,log viewer,No,No,TUI,https://www.vanheusden.com/multitail/,https://github.com/folkertvanheusden/multitail,Open multiple log files in a single terminal window and monitor them in real-time.,x
