@@ -393,7 +393,7 @@ scons,programming,AlternativeVCS,No,No,CLI,,https://github.com/SCons/scons,Softw
 skim,option-picker,enhanced cat,No,No,TUI,,https://github.com/lotabout/skim,Fuzzy Finder in rust.,
 snallygaster,webdev,AlternativeVCS,No,Yes,CLI,,https://github.com/hannob/snallygaster,Tool to scan for secret files on HTTP servers.,
 svgcleaner,graphics,BackupAutomationWrapper,No,No,CLI,,https://github.com/RazrFalcon/svgcleaner,Clean up your SVG files from the unnecessary data.,
-wifi-password,security,enhanced cat,No,No,Yes,,https://github.com/rauchg/wifi-password,Get Wi-Fi pass.,
+wifi-password,security,enhanced cat,No,No,CLI,,https://github.com/rauchg/wifi-password,Get Wi-Fi pass.,
 habitctl,time-tracker,AlternativeVCS,No,No,Yes,,https://github.com/blinry/habitctl,Minimalist command line tool you can use to track and examine your habits.,
 kickstart,programming-boilerplate,AlternativeVCS,No,No,Yes,,https://github.com/Keats/kickstart,Scaffolding tool to get new projects up and running quickly.,
 nomino,file-renamer,enhanced cat,No,No,Yes,,https://github.com/yaa110/nomino,Batch rename utility for developers.,
