@@ -1858,3 +1858,4 @@ ncmpcpp,music,TerminalMusicPlayer(MPD),No,Yes,TUI,https://rybczak.net/ncmpcpp/,h
 espeak,music,TextToSpeech,No,No,CLI,http://espeak.sourceforge.net/,https://sourceforge.net/p/espeak/code/HEAD/tree,A compact open source software speech synthesizer for English and other languages.,x
 Alsamixer,music,AudioMixer,No,No,TUI,http://www.alsa-project.org/main/index.php/Main_Page,https://github.com/alsa-project/alsa-utils,ALSA mixer with curses interfaces.,x
 cmus,music,TerminalMusicPlayer,No,No,TUI,https://cmus.github.io/,https://github.com/cmus/cmus,A fast and lightweight audio player with configurable keybindings and playlist support.,x
+MOC,music,LightweightAudioPlayer,No,No,TUI,https://moc.daper.net/,,"(music on console) - a powerful and easy to use console audio player, user interface a la Midnight Commander, plenty of features, fully controllable from the keyboard.",x
