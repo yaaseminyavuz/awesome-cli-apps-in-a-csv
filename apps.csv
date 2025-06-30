@@ -599,7 +599,7 @@ Feather,editors,NoteTakingTUI,No,No,TUI,https://www.feathereditor.com/,https://g
 swordfish-rs,text-processing,log viewer,No,Yes,CLI,,https://github.com/vim-zz/swordfish-rs,Mimics real person behavior with real-time typing into terminal uses a screenplay where text and timings are specified.,
 GitUI,git,GitStatistics,No,No,TUI,,https://github.com/extrawurst/gitui,"The comfort of a git GUI but right in your terminal, with keyboard only control, scalable UI, and features all the necessary operations of git.",
 as-tree,text-processing,enhanced cat,No,No,CLI,,https://github.com/jez/as-tree,Print a list of paths as a tree of paths.,
-mkdesk,utility,notifications,No,No,No,,https://gitlab.com/mr-draxs/mkdesk,A program/command to create .desktop files (program launchers) using the terminal.,
+mkdesk,utility,DesktopEntryGenerator,No,No,CLI,,https://gitlab.com/mr-draxs/mkdesk,A program/command to create .desktop files (program launchers) using the terminal.,
 t,todo-manager,knowledge base,No,No,Yes,,https://github.com/sjl/t,"A command-line todo list manager for people that want to finish tasks, not organize them.",
 topydo,todo-manager,ImageViewer(ASCII),No,No,Yes,,https://github.com/topydo/topydo,"A powerful todo list application for the console, using the todo.txt format.",
 Ultralist,todo-manager,AlternativeVCS,No,No,No,https://ultralist.io/,https://github.com/gammons/ultralist,"A simple, powerful, open source task management system for the command line.",
