@@ -283,7 +283,7 @@ Ticker,financial,TerminalFinanceTracker,No,Yes,TUI,,https://github.com/achannara
 xh,transfer,HTTPIEAlternative,No,Yes,CLI,,https://github.com/ducaale/xh,xh is a friendly and fast tool for sending HTTP requests. It reimplements as much as possible of HTTPie's excellent design.,
 git-peek,git,GitStatistics,No,Yes,CLI,,https://github.com/Jarred-Sumner/git-peek,git peek is the fastest way to open a remote git repository in your local text editor.,
 vizex,disk-analyzer,StylizedDiskUsageReporter,No,No,TUI,,https://github.com/bexxmodd/vizex,Visualize the disk space usage for every partition and media on the user's machine.,
-gdu,disk-analyzer,FastFindAlternative,No,No,Yes,,https://github.com/dundee/gdu,"Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However, HDDs work as well, but the performance gain is not so huge.",
+gdu,disk-analyzer,DiskAnalyzerTUI,No,No,TUI-CLI,,https://github.com/dundee/gdu,"Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However, HDDs work as well, but the performance gain is not so huge.",
 kord,music,MarkdownViewer(GUI/CLI),No,No,Yes,,https://github.com/synestematic/kord,A Python framework that provides programmers with a simple API for the creation of music-based applications.,
 imgcat,graphics,enhanced cat,No,No,Yes,,https://github.com/trashhalo/imgcat,Tool to output images in the terminal. Built with bubbletea.,
 bib.awk,science,knowledge base,No,No,Yes,,https://github.com/huijunchen9260/bib.awk,Bibliography manager written in awk.,
