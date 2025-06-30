@@ -1838,3 +1838,4 @@ sc-im,office,spreadsheet calculator,No,No,CLI,,https://github.com/andmarti1424/s
 gcalcli,organizers,google calendar client,No,Yes,TUI-CLI,,https://github.com/insanum/gcalcli,"Access Google Calendars; supports the main tasks: create, delete, and list events.",x
 khal,organizers,caldav calendar,No,Yes,TUI,,https://github.com/pimutils/khal,Calendar that can synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer).,x
 kb,note-taking,knowledge base,No,No,CLI,,https://github.com/gnebbia/kb,A minimalist knowledge base manager.,x
+khard,organizers,vcard address book,No,Yes,CLI,,https://github.com/lucc/khard,vCard address book written in Python. Supports CardDAV.,x
