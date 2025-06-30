@@ -596,7 +596,7 @@ jqp,data-management-json,JSONViewerTUI,No,No,TUI,,https://github.com/noahgorstei
 systeroid,system,SystemMonitorTUI,No,No,TUI,,https://github.com/orhun/systeroid,A more powerful alternative to sysctl(8) with a terminal user interface.,
 hangman,games,GameCLI,No,No,CLI,,https://github.com/braheezy/hangman,A Go TUI Hangman game built with the lovely BubbleTea framework.,
 Feather,editors,NoteTakingTUI,No,No,TUI,https://www.feathereditor.com/,https://github.com/0xBaca/FeatherEditor,The only terminal based text editor designed to work with BIG files.,
-swordfish-rs,text-processing,log viewer,No,No,Yes,,https://github.com/vim-zz/swordfish-rs,Mimics real person behavior with real-time typing into terminal uses a screenplay where text and timings are specified.,
+swordfish-rs,text-processing,log viewer,No,Yes,CLI,,https://github.com/vim-zz/swordfish-rs,Mimics real person behavior with real-time typing into terminal uses a screenplay where text and timings are specified.,
 GitUI,git,GitStatistics,No,No,Yes,,https://github.com/extrawurst/gitui,"The comfort of a git GUI but right in your terminal, with keyboard only control, scalable UI, and features all the necessary operations of git.",
 as-tree,text-processing,enhanced cat,No,No,Yes,,https://github.com/jez/as-tree,Print a list of paths as a tree of paths.,
 mkdesk,utility,notifications,No,No,No,,https://gitlab.com/mr-draxs/mkdesk,A program/command to create .desktop files (program launchers) using the terminal.,
