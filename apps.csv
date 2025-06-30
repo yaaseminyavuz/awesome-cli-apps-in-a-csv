@@ -524,7 +524,7 @@ paycon,financial,log viewer,No,No,CLI,,https://github.com/arcorion/paycon,Conver
 Jitter,transfer,knowledge base,No,Yes,CLI,,https://github.com/kevspau/jitter,"A repository-oriented binary manager for Linux, Jitter searches through online repository (currently only on GitHub) for releases with .tar.gz, .tgz, .zip or .AppImage assets.",
 Transgression TUI,torrent,RPGClientTUI,No,,TUI,,https://github.com/PanAeon/transg-tui,A remote TUI client for the Transmission BitTorrent program.,
 pdf-diff,diff,PDFDiffTool,No,No,CLI,,https://github.com/serhack/pdf-diff,A tool for visualizing differences between two PDF files. Mainly dedicated to editors that usually spends a lot of hours on several PDFs.,
-kakikun,graphics,ImageViewer(ASCII),No,No,Yes,,https://github.com/file-acomplaint/kakikun,"Kakikun is a tool to paint, draw and create ASCII art in your terminal using Unicode characters.",
+kakikun,graphics,ImageViewer(ASCII),No,No,TUI,,https://github.com/file-acomplaint/kakikun,"Kakikun is a tool to paint, draw and create ASCII art in your terminal using Unicode characters.",
 Aewan,graphics,ImageViewer(ASCII),No,No,No,http://aewan.sourceforge.net/,https://sourceforge.net/projects/aewan,Aewan is a multi-layered ASCII graphics/animation editor. It produces stand-alone cat-able ASCII art files and an easy-to-parse format for integration into terminal applications.,
 jp2a,graphics,AlternativeVCS,No,No,No,https://csl.name/jp2a/,https://sourceforge.net/projects/jp2a,Command-line tool that converts images to ASCII art in the Linux terminal.,
 LinuxLogo,graphics,ImageViewer(ASCII),No,No,,https://sourceforge.net/projects/linuxlogo/,https://sourceforge.net/projects/linuxlogo,Display the Linux distribution logo in ASCII format.,
