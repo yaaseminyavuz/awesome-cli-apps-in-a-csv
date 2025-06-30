@@ -227,7 +227,7 @@ terminal_board_games,games,TerminalBoardGames,No,No,TUI,,https://github.com/salt
 minesweeper,games,TerminalGame,No,No,TUI,,https://github.com/gazpachoking/minesweeper,Cross-platform terminal based minesweeper.,
 Terminal Phase,games,TerminalGame,No,No,TUI,https://dustycloud.org/blog/terminal-phase-1.0/,https://gitlab.com/dustyweb/terminal-phase,A space shooter game you can play in your terminal.,
 broot,cd,TerminalFileManager,No,No,TUI,https://dystroy.org/broot/,https://github.com/Canop/broot,"broot displays an optimized (omitting unnecessary content) tree view of the filesystem, allowing to fuzzy search files and folder, and move to specified directories.",
-Nota,calc,terminal sharing,No,No,No,https://kary.us/nota/,https://github.com/pouyakary/Nota,Terminal calculator with rich notation.,
+Nota,calc,TerminalCalculator,No,No,TUI,https://kary.us/nota/,https://github.com/pouyakary/Nota,Terminal calculator with rich notation.,
 vy,editors,IO monitor,No,No,Yes,,https://github.com/vyapp/vy,A vim-like in Python made from scratch.,
 pire,programming,advanced grep,No,No,Yes,,https://github.com/johannestaas/pire,Python Interactive Regular Expressions.,
 Graphene,browser,PaperBarcodeBackup,No,Yes,Yes,,https://github.com/atsepkov/Graphene,A text-based web browser that's a joy to use.,
