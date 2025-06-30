@@ -370,7 +370,7 @@ amber,text-search-replace,CodeReplaceCLI,No,No,CLI,,https://github.com/dalance/a
 mmv,file-renamer,Translation,No,No,CLI,,https://github.com/itchyny/mmv,Rename multiple files using your $EDITOR. The command name is named after multi-mv.,
 linkchecker,webdev,enhanced cat,No,Yes,CLI,,https://github.com/linkchecker/linkchecker,Check links in web documents or full websites.,
 brok,text-processing,LinkCheckerCLI,No,Yes,CLI,,https://github.com/smallhadroncollider/brok,Find broken links in text documents.,
-chars,programming,ImageViewer(ASCII),No,No,Yes,,https://github.com/antifuchs/chars,Display names and codes for various ASCII (and Unicode) characters / code points.,
+chars,programming,ImageViewer(ASCII),No,No,CLI,,https://github.com/antifuchs/chars,Display names and codes for various ASCII (and Unicode) characters / code points.,
 diskus,disk-analyzer,FastFindAlternative,No,No,Yes,,https://github.com/sharkdp/diskus,"Minimal, fast alternative to du -sh.",
 dtool,programming,enhanced cat,No,No,Yes,,https://github.com/guoxbin/dtool,Collection of development tools.,
 viu,viewers,command-line translator,No,No,Yes,,https://github.com/learn-anything/command-line-tools,Command-line application to view images from the terminal written in Rust.,
