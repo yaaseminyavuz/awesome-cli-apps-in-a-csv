@@ -501,7 +501,7 @@ brightnessctl,system,HardwareController,No,No,CLI,,https://github.com/Hummer1200
 sncli,note-taking,command-line translator,No,Yes,CLI,,https://github.com/insanum/sncli,A Python application that gives you access to your Simplenote account via the command line.,
 dnote,note-taking,terminal sharing,No,Yes,CLI,,https://github.com/dnote/dnote,A simple command line notebook for the terminal. It also offers a seamless multi-device sync and a web interface.,
 Geeknote,note-taking,EvernoteClientCLI,,No,CLI,,https://github.com/jeffkowalski/geeknote,"A command line client for Evernote that can be use on Linux, FreeBSD and OS X.",
-Terminal velocity,note-taking,enhanced cat,No,No,No,https://vhp.github.io/terminal_velocity/,https://github.com/vhp/terminal_velocity,"A fast, cross-platform note-taking application for the UNIX terminal.",
+Terminal velocity,note-taking,NoteTakingTUI,No,No,TUI,https://vhp.github.io/terminal_velocity/,https://github.com/vhp/terminal_velocity,"A fast, cross-platform note-taking application for the UNIX terminal.",
 Pubs,science,command-line translator,Yes,No,Yes,,https://github.com/pubs/pubs,Pubs organizes your scientific papers together with their bibliographic data and provides command line access to basic and advanced manipulation of your library.,
 IRedis,data-management,shell,No,No,Yes,,https://github.com/laixintao/iredis,Interactive Redis: A CLI for Redis with autocompletion and Syntax Highlighting.,
 mycli,data-management-tabular,command-line translator,No,No,Yes,,https://github.com/dbcli/mycli,A command line client for MySQL that can do autocompletion and syntax highlighting.,
