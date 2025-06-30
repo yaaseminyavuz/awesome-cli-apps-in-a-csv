@@ -211,7 +211,7 @@ yt-splitter,video,YouTubeAudioSplitter,No,Yes,CLI,,https://github.com/redsolver/
 bupstash,backup,EncryptedBackupCLI,No,No,CLI,,https://github.com/andrewchambers/bupstash,"Secure, encrypted backups with efficient deduplication, client-side encryption, offline decryption, search-tagged data protection, strong privacy, robust performance on slow networks, memory-safe security against attacks, incremental backups, and minimal RAM usage for production use.",
 zoxide,cd,SmartDirectoryNavigatorCLI,No,No,CLI,,https://github.com/ajeetdsouza/zoxide,"It remembers which directories you use most frequently, so you can ""jump"" to them in just a few keystrokes.",
 TerminalImageViewer,viewers,ImageViewer(ASCII),No,No,CLI,,https://github.com/stefanhaustein/TerminalImageViewer,Small C++ program to display images in a (modern) terminal using RGB ANSI codes and Unicode block graphics characters.,
-whowatch,monitor,resource monitor,No,No,,https://www.tecmint.com/whowatch-monitor-linux-users-and-processes-in-real-time/,,Monitor Linux Users and Processes in Real Time.,
+whowatch,monitor,resource monitor,No,No,TUI,https://www.tecmint.com/whowatch-monitor-linux-users-and-processes-in-real-time/,,Monitor Linux Users and Processes in Real Time.,
 dijo,time-tracker,SpeechSynthesizer,No,No,Yes,,https://github.com/NerdyPepper/dijo,"Scriptable, curses-based, digital habit tracker.",
 cadmus,note-taking,shell,No,No,Yes,,https://github.com/RyanGreenup/cadmus,Shell Scripts to Facilitate Effective Note Taking.,
 twf,file-explorer,ModernFileManager,No,No,Yes,,https://github.com/wvanlint/twf,Standalone tree view file explorer.,
