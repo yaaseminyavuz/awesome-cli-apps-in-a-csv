@@ -300,7 +300,7 @@ wutag,file-system,FileTaggerCLI,No,No,CLI,,https://github.com/vv9k/wutag,CLI Too
 xplr,file-explorer,ModernFileManager,No,No,TUI,,https://github.com/sayanarijit/xplr,"A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.",
 eg,cheatsheet,command-line translator,No,No,CLI,,https://github.com/srsudar/eg,Useful examples at the command line.,
 mdt,markdown,terminal sharing,No,No,TUI,,https://github.com/robolab-pavia/mdt,MarkDown in the Terminal. A Markdown viewer with themes defined by JSON files and interactive mode to open links and word-wrapping adaptable to the terminal width.,
-buku,organizers,knowledge base,No,No,Yes,,https://github.com/jarun/buku,A powerful bookmark manager written in Python3 and SQLite3.,
+buku,organizers,knowledge base,No,No,CLI,,https://github.com/jarun/buku,A powerful bookmark manager written in Python3 and SQLite3.,
 imgp,graphics,command-line translator,Yes,No,Yes,,https://github.com/jarun/imgp,"A command line image resizer and rotator for JPEG and PNG images. It can resize (or thumbnail) and rotate thousands of images in a go, at lightning speed, while saving significantly on storage.",
 zbackup,backup,AlternativeVCS,,No,,http://zbackup.org/,https://github.com/zbackup/zbackup,"A globally-deduplicating backup tool, based on the ideas found in rsync.",
 Transmission,torrent,AlternativeVCS,,No,No,https://transmissionbt.com/,https://github.com/transmission/transmission,"Fast, easy and free BitTorrent client.",
