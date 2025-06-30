@@ -486,7 +486,7 @@ cointop,financial,CryptoTUI,No,Yes,TUI,,https://github.com/cointop-sh/cointop,A 
 pulsemixer,music,AudioMixerCLI,No,No,TUI,,https://github.com/GeorgeFilipkin/pulsemixer,CLI and curses mixer for PulseAudio.,
 fastdiract,cd,enhanced cat,No,No,CLI,,https://github.com/dp12/fastdiract,Lightning-fast cd and command execution.,
 inventory,file-dir-cleanup,gamified file manager,No,No,TUI,,https://github.com/mothdotmonster/inventory,Move files like an old text adventure.,
-Draw,funny,terminal sharing,No,No,Yes,,https://github.com/maaslalani/draw,draw is an simple drawing tool in the terminal. Hold your mouse down and move it across the screen to draw anything you want!,
+Draw,funny,terminal drawing tool,No,No,TUI,,https://github.com/maaslalani/draw,draw is an simple drawing tool in the terminal. Hold your mouse down and move it across the screen to draw anything you want!,
 toipe,typing,enhanced cat,No,No,Yes,,https://github.com/Samyak2/toipe,"Yet another typing test, but crab flavored.",
 bore,networking,AlternativeVCS,No,No,Yes,,https://github.com/ekzhang/bore,A simple CLI tool for making tunnels to localhost.,
 zee,editors,FastFindAlternative,No,No,Yes,,https://github.com/zee-editor/zee,"Zee is a modern editor for the terminal, in the spirit of Emacs. It is written in Rust and it is somewhat experimental.",
