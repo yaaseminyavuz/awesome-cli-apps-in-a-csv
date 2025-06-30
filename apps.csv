@@ -648,7 +648,7 @@ ROAPI,data-management,APIReaderCLI,No,Yes,CLI,,https://github.com/roapi/roapi,RO
 git-secret,git,GitSecretManagerCLI,No,No,CLI,,https://github.com/sobolevn/git-secret,"A bash tool which stores private data inside a git repo; it uses users' public keys, allowing trusted users to access encrypted data using PGP and their secret keys.",
 gita,git,GitRepoManagerCLI,,No,CLI,,https://github.com/nosarthur/gita,A command-line tool to manage multiple git repositories.,
 anonymine,games,TerminalGameTUI,No,No,TUI,https://oskog97.com/projects/anonymine/,https://gitlab.com/oskog97/anonymine,Curses mode minesweeper without guessing and other original features.,
-greed,games,enhanced cat,No,No,,http://www.catb.org/~esr/greed/,https://gitlab.com/esr/greed,A game in which the goal is to move and consume all the numbers in a table.,
+greed,games,TerminalGameTUI,No,No,TUI,http://www.catb.org/~esr/greed/,https://gitlab.com/esr/greed,A game in which the goal is to move and consume all the numbers in a table.,
 Mxflow-cli,launcher,ModernFileManager,No,No,Yes,,https://github.com/metaory/mxflow-cli,"A modern, general purpose CLI task runner with human-readable YAML config file.",
 vhs,screen-recorder,terminal sharing,No,No,Yes,,https://github.com/charmbracelet/vhs,Write terminal GIFs as code for integration testing and demoing your CLI tools.,
 checksum.sh,system,terminal sharing,No,No,,https://checksum.sh/,https://github.com/gavinuhma/checksum.sh,"Checksum.sh is a simple way to download, review, and verify install scripts. If the checksum is OK the script will be printed to stdout, which can be piped to sh or elsewhere.",
