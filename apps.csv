@@ -439,7 +439,7 @@ ll,ls,GitStatistics,No,No,CLI,,https://github.com/antonmedv/ll,ls with git statu
 fx,data-management-json,command-line translator,No,No,CLI,,https://github.com/antonmedv/fx,Command-line JSON viewer.,
 speedtest-net,networking,SpeedTestCLI,No,Yes,CLI,,https://github.com/ddsol/speedtest.net,Test internet connection speed and ping using speedtest.net.,
 shallow-backup,backup,AlternativeVCS,No,No,CLI,,https://github.com/alichtman/shallow-backup,Git integrated backup tool.,
-mdp,office,AlternativeVCS,No,No,Yes,,https://github.com/visit1985/mdp,A command-line based Markdown presentation tool.,
+mdp,office,MarkdownPresenterTUI,No,No,TUI,,https://github.com/visit1985/mdp,A command-line based Markdown presentation tool.,
 sent,office,AlternativeVCS,No,No,,https://tools.suckless.org/sent/,git://git.suckless.org/sent,Simple plain-text presentation tool.,
 eureka,note-taking,terminal sharing,No,No,Yes,,https://github.com/simeg/eureka,Store your ideas without leaving the terminal.,
 taskell,todo-manager,knowledge base,No,No,Yes,,https://github.com/smallhadroncollider/taskell,Interactive kanban board/task manager.,
