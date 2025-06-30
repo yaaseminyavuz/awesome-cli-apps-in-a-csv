@@ -378,7 +378,7 @@ tealdeer,cheatsheet,FastFindAlternative,No,No,CLI,,https://github.com/dbrgn/teal
 xcp,file-handling,enhanced cat,No,No,CLI,,https://github.com/tarka/xcp,Extended cp.,
 pazi,cd,enhanced cat,No,No,CLI,,https://github.com/euank/pazi,Fast autojump helper.,
 hunter,file-manager,TerminalFileManager,No,Yes,TUI,,https://github.com/rabite0/hunter,Ranger-like file browser written in rust.,
-ytop,monitor-top,FastFindAlternative,No,No,Yes,,https://github.com/cjbassi/ytop,TUI system monitor written in Rust.,
+ytop,monitor-top,FastFindAlternative,No,No,TUI,,https://github.com/cjbassi/ytop,TUI system monitor written in Rust.,
 noti,monitor,resource monitor,No,No,Yes,,https://github.com/variadico/noti,Monitor a process and trigger a notification.,
 friendly-find,find,enhanced cat,No,No,Yes,,https://github.com/sjl/friendly-find,Usable replacement for find.,
 fzy,option-picker,enhanced cat,No,No,Yes,,https://github.com/jhawthorn/fzy,Better fuzzy finder.,
