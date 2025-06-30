@@ -463,7 +463,7 @@ termishare,networking,terminal sharing,No,Yes,CLI,,https://github.com/qnkhuat/te
 ictree,file-explorer,terminal file explorer,No,No,TUI,,https://github.com/NikitaIvanovV/ictree,Like tree but interactive.,
 Quoter,financial,FinanceCLI,No,Yes,CLI,,https://github.com/frossm/quoter,The console based stock quote tool.,
 nala,package-manager,PackageManagerCLI,No,Yes,CLI,,https://gitlab.com/volian/nala,apt package manager front-end with cleaner interface.,
-terminordle,games,enhanced cat,No,Yes,Yes,,https://github.com/HP4k1h5/terminordle,"Inspired by the popular online game wordle made, you can play a pretty close replica of the original locally or multiplayer over the network.",
+terminordle,games,terminal game,No,Yes,TUI,,https://github.com/HP4k1h5/terminordle,"Inspired by the popular online game wordle made, you can play a pretty close replica of the original locally or multiplayer over the network.",
 gh-s,git,enhanced cat,No,No,Yes,,https://github.com/gennaro-tedesco/gh-s,Search GitHub repositories interactively.,
 gh-f,git,TerminalMusicPlayer(MPD),No,No,Yes,,https://github.com/gennaro-tedesco/gh-f,"The ultimate, compact and snappy fzf extension for gh CLI.",
 stargazer,git,command-line translator,No,No,Yes,,https://github.com/gennaro-tedesco/stargazer,GitHub stats from the command line.,
