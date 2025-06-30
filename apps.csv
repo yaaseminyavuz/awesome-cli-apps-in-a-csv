@@ -504,7 +504,7 @@ Geeknote,note-taking,EvernoteClientCLI,,No,CLI,,https://github.com/jeffkowalski/
 Terminal velocity,note-taking,NoteTakingTUI,No,No,TUI,https://vhp.github.io/terminal_velocity/,https://github.com/vhp/terminal_velocity,"A fast, cross-platform note-taking application for the UNIX terminal.",
 Pubs,science,BibManagerCLI,Yes,No,CLI,,https://github.com/pubs/pubs,Pubs organizes your scientific papers together with their bibliographic data and provides command line access to basic and advanced manipulation of your library.,
 IRedis,data-management,shell,No,No,TUI-CLI,,https://github.com/laixintao/iredis,Interactive Redis: A CLI for Redis with autocompletion and Syntax Highlighting.,
-mycli,data-management-tabular,command-line translator,No,No,Yes,,https://github.com/dbcli/mycli,A command line client for MySQL that can do autocompletion and syntax highlighting.,
+mycli,data-management-tabular,SQLClientCLI,No,No,TUI-CLI,,https://github.com/dbcli/mycli,A command line client for MySQL that can do autocompletion and syntax highlighting.,
 pgcli,data-management-tabular,enhanced cat,No,No,Yes,,https://github.com/dbcli/pgcli,Postgres CLI with autocompletion and syntax highlighting.,
 usql,data-management-tabular,command-line translator,No,No,Yes,,https://github.com/xo/usql,"Universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and others, including NoSQL and non-relational databases.",
 Instant Music Downloader,music,enhanced cat,No,No,Yes,,https://github.com/yask123/Instant-Music-Downloader,Instantly download any song!,
