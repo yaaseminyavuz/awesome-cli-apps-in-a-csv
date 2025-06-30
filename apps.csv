@@ -429,7 +429,7 @@ urlhunter,webdev,ReconToolCLI,No,Yes,CLI,,https://github.com/utkusen/urlhunter,R
 lychee,webdev,LinkCheckerCLI,No,Yes,CLI,,https://github.com/lycheeverse/lychee,"Fast, async, resource-friendly link checker written in Rust.",
 Rustcat,networking,NetworkToolCLI,No,Yes,CLI,,https://github.com/robiot/rustcat,Netcat Alternative in Rust.,
 ponysay,funny,FunCLI,No,No,CLI,,https://github.com/erkin/ponysay,Pony rewrite of cowsay.,
-yosay,funny,enhanced cat,No,No,Yes,,https://github.com/yeoman/yosay,"Like cowsay, but for yeoman.",
+yosay,funny,enhanced cat,No,No,CLI,,https://github.com/yeoman/yosay,"Like cowsay, but for yeoman.",
 cli-mandelbrot,animation,enhanced cat,No,No,Yes,,https://github.com/danyshaanan/cli-mandelbrot,A CLI for traversing the Mandelbrot fractal.,
 cli-fireplace,animation,enhanced cat,No,No,Yes,,https://github.com/dolsup/cli-fireplace,Shows digital fireplace.,
 givegif,graphics,command-line translator,No,No,Yes,,https://github.com/passy/givegif,GIFs on the command line.,
