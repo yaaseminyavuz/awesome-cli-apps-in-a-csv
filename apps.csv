@@ -386,7 +386,7 @@ GraphicsMagick,graphics,ImageProcessorCLI,No,No,CLI,http://www.graphicsmagick.or
 hexyl,viewers,command-line translator,No,No,CLI,,https://github.com/sharkdp/hexyl,Command-line hex viewer.,
 temci,programming,BenchmarkingCLI,No,No,CLI,,https://github.com/parttimenerd/temci,Advanced benchmarking tool written in Python 3 that supports setting up an environment for benchmarking and the generation of visually appealing reports.,
 just,system,enhanced cat,No,No,CLI,,https://github.com/casey/just,Handy way to save and run project-specific commands.,
-license-up,programming-boilerplate,enhanced cat,No,No,Yes,,https://github.com/nikitavoloboev/license-up,Create a license quickly for a given name.,
+license-up,programming-boilerplate,enhanced cat,No,No,CLI,,https://github.com/nikitavoloboev/license-up,Create a license quickly for a given name.,
 mackup,system,enhanced cat,No,No,Yes,,https://github.com/lra/mackup,Keep your application settings in sync (OS X/Linux).,
 massren,file-renamer,gui-easy-editor,No,No,Yes,,https://github.com/laurent22/massren,Easily rename multiple files using your text editor.,
 scons,programming,AlternativeVCS,No,No,Yes,,https://github.com/SCons/scons,Software construction tool.,
