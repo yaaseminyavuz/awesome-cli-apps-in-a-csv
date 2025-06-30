@@ -224,7 +224,7 @@ ydiff,diff,enhanced cat,No,No,CLI,,https://github.com/ymattw/ydiff,"View colored
 kpcli,password-manager,EncryptedPasswordManager,No,No,CLI,http://kpcli.sourceforge.net/,https://github.com/rebkwok/kpcli,A command line interface for KeePass databases.,
 GNU Recutils,data-management,TextDatabaseCLI,No,No,CLI,https://www.gnu.org/software/recutils/manual/,,"Set of tools and libraries to access human-editable, text-based databases called recfiles.",
 terminal_board_games,games,TerminalBoardGames,No,No,TUI,,https://github.com/salt-die/terminally_bored_terminal_board_games,Board games for the terminal.,
-minesweeper,games,terminal sharing,No,No,Yes,,https://github.com/gazpachoking/minesweeper,Cross-platform terminal based minesweeper.,
+minesweeper,games,TerminalGame,No,No,TUI,,https://github.com/gazpachoking/minesweeper,Cross-platform terminal based minesweeper.,
 Terminal Phase,games,terminal sharing,No,No,No,https://dustycloud.org/blog/terminal-phase-1.0/,https://gitlab.com/dustyweb/terminal-phase,A space shooter game you can play in your terminal.,
 broot,cd,ShellSyncBackup,No,No,,https://dystroy.org/broot/,https://github.com/Canop/broot,"broot displays an optimized (omitting unnecessary content) tree view of the filesystem, allowing to fuzzy search files and folder, and move to specified directories.",
 Nota,calc,terminal sharing,No,No,No,https://kary.us/nota/,https://github.com/pouyakary/Nota,Terminal calculator with rich notation.,
