@@ -626,7 +626,7 @@ gitsummary,git,GitEnhancerCLI,No,No,CLI,,https://github.com/glenreesor/gitsummar
 cotp,security,TOTPAuthenticatorCLI,No,No,CLI,,https://github.com/replydev/cotp,"Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.",
 topalias,cheatsheet,AliasGeneratorCLI,No,No,CLI,,https://github.com/meteoritt/topalias,"Linux alias generator from bash/zsh command history with statistics, written on Python.",
 Kool,programming,DevToolboxCLI,No,No,CLI,,https://github.com/kool-dev/kool,"CLI tool that brings the complexities of modern software development making these environments lightweight, fast and reproducible.",
-Optic,networking,TerminalMusicPlayer(MPD),No,No,,https://www.useoptic.com/,https://github.com/opticdev/optic,Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.,
+Optic,networking,OpenAPIEditorCLI,No,Yes,CLI,https://www.useoptic.com/,https://github.com/opticdev/optic,Optic's Open Source tools make OpenAPI and API-first practices easy for any team to adopt.,
 speki,flashcard,CloudSyncManager,No,No,Yes,,https://github.com/tbs1996/speki,Manage flashcards in the terminal similar to anki.,
 sake,launcher,GpgCompressedBackupTool,No,,Yes,,https://github.com/alajmo/sake,A command runner for local and remote hosts. You define servers and tasks in sake.yaml file and then run the tasks on the servers.,
 shcopy,transfer,ImageViewer(ASCII),No,,Yes,,https://github.com/aymanbagabas/shcopy,Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence.,
