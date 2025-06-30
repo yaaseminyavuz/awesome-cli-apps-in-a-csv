@@ -389,7 +389,7 @@ just,system,enhanced cat,No,No,CLI,,https://github.com/casey/just,Handy way to s
 license-up,programming-boilerplate,enhanced cat,No,No,CLI,,https://github.com/nikitavoloboev/license-up,Create a license quickly for a given name.,
 mackup,system,enhanced cat,No,Yes,CLI,,https://github.com/lra/mackup,Keep your application settings in sync (OS X/Linux).,
 massren,file-renamer,gui-easy-editor,No,No,CLI,,https://github.com/laurent22/massren,Easily rename multiple files using your text editor.,
-scons,programming,AlternativeVCS,No,No,Yes,,https://github.com/SCons/scons,Software construction tool.,
+scons,programming,AlternativeVCS,No,No,CLI,,https://github.com/SCons/scons,Software construction tool.,
 skim,option-picker,enhanced cat,No,No,Yes,,https://github.com/lotabout/skim,Fuzzy Finder in rust.,
 snallygaster,webdev,AlternativeVCS,No,,Yes,,https://github.com/hannob/snallygaster,Tool to scan for secret files on HTTP servers.,
 svgcleaner,graphics,BackupAutomationWrapper,No,No,Yes,,https://github.com/RazrFalcon/svgcleaner,Clean up your SVG files from the unnecessary data.,
