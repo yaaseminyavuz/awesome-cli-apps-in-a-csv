@@ -72,7 +72,7 @@ sc-im,office,spreadsheet calculator,No,No,CLI,,https://github.com/andmarti1424/s
 tpp,office,terminal presentation,No,,TUI,http://www.ngolde.de/tpp.html,https://github.com/Kerrick/tpp,(text presentation program) - a ncurses Ruby program that allows producing nice text-based presentation with simple markup language.
 gcalcli,organizers,google calendar client,No,Yes,TUI-CLI,,https://github.com/insanum/gcalcli,"Access Google Calendars; supports the main tasks: create, delete, and list events."
 khal,organizers,caldav calendar,No,Yes,TUI,,https://github.com/pimutils/khal,Calendar that can synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer).
-ppl addressbook,organizers,vcard address book,No,,,http://ppladdressbook.org/,https://github.com/henrycatalinismith/ppl,Address book tool that uses the vCard format. Built on top of Ruby and Git
+ppl addressbook,organizers,vcard address book,No,,CLI,http://ppladdressbook.org/,https://github.com/henrycatalinismith/ppl,Address book tool that uses the vCard format. Built on top of Ruby and Git
 kb,note-taking,knowledge base,No,No,Yes,,https://github.com/gnebbia/kb,A minimalist knowledge base manager.
 khard,organizers,vcard address book,No,,Yes,,https://github.com/lucc/khard,vCard address book written in Python. Supports CardDAV.
 iKog,todo-manager,python todo manager,No,No,No,https://sites.google.com/site/henspace/ikog/,https://github.com/boyska/ikog,"A fully-featured task manager encapsulated within a Python script (just carry around the script to retain all the TODOs). When the script is run, a Python shell is opened, where task-related commands can be entered (ADD, LIST, etc.); a pity that commands are uppercase, which requires the annoying use of the Shift key."
