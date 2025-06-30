@@ -302,7 +302,7 @@ eg,cheatsheet,command-line translator,No,No,CLI,,https://github.com/srsudar/eg,U
 mdt,markdown,terminal sharing,No,No,TUI,,https://github.com/robolab-pavia/mdt,MarkDown in the Terminal. A Markdown viewer with themes defined by JSON files and interactive mode to open links and word-wrapping adaptable to the terminal width.,
 buku,organizers,knowledge base,No,No,CLI,,https://github.com/jarun/buku,A powerful bookmark manager written in Python3 and SQLite3.,
 imgp,graphics,command-line translator,No,No,CLI,,https://github.com/jarun/imgp,"A command line image resizer and rotator for JPEG and PNG images. It can resize (or thumbnail) and rotate thousands of images in a go, at lightning speed, while saving significantly on storage.",
-zbackup,backup,AlternativeVCS,,No,,http://zbackup.org/,https://github.com/zbackup/zbackup,"A globally-deduplicating backup tool, based on the ideas found in rsync.",
+zbackup,backup,AlternativeVCS,,No,CLI,http://zbackup.org/,https://github.com/zbackup/zbackup,"A globally-deduplicating backup tool, based on the ideas found in rsync.",
 Transmission,torrent,AlternativeVCS,,No,No,https://transmissionbt.com/,https://github.com/transmission/transmission,"Fast, easy and free BitTorrent client.",
 rtorrent,torrent,shell,No,No,Yes,,https://github.com/rakshasa/rtorrent,"BitTorrent client uses ncurses and is ideal for use with tmux, screen or dtach.",
 dtach,terminal,IO monitor,No,No,Yes,,https://github.com/crigler/dtach,A program written in C that emulates the detach feature of screen.,
