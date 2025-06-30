@@ -613,7 +613,7 @@ mandelbrot-cli,graphics,FractalCLI,No,No,CLI,,https://github.com/MicheleFiladelf
 Noted,note-taking,NotesCLI,No,No,CLI,,https://github.com/torbratsberg/noted,"Notes library, with viewer and shortcuts to add, delete and edit notes.",
 Wishlist,networking,ListManagerCLI,No,No,CLI,,https://github.com/charmbracelet/wishlist,With Wishlist you can have a single entrypoint for multiple SSH endpoints.,
 termdbms,data-management-tabular,DatabaseManagerTUI,No,No,TUI,,https://github.com/mathaou/termdbms,"A TUI for viewing and editing databases, written in pure Go.",
-Slides,office,AlternativeVCS,No,No,Yes,,https://github.com/maaslalani/slides,Terminal based presentation tool.,
+Slides,office,TerminalPresentation,No,No,TUI,,https://github.com/maaslalani/slides,Terminal based presentation tool.,
 tz,organizers,log viewer,No,No,Yes,,https://github.com/oz/tz,tz helps you schedule things across time zones. It's an interactive TUI program that displays time across the time zones of your choosing.,
 tran,transfer,enhanced cat,No,No,Yes,,https://github.com/abdfnx/tran,Securely transfer and send anything between computers with TUI.,
 Redis Viewer,data-management,AlternativeVCS,No,No,Yes,,https://github.com/SaltFishPr/redis-viewer,A tool to view Redis data in terminal.,
