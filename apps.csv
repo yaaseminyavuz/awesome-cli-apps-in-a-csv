@@ -413,7 +413,7 @@ pbgopy,transfer,enhanced cat,No,Yes,CLI,,https://github.com/nakabonne/pbgopy,Cop
 gnuplot,data-management,enhanced cat,No,No,CLI,https://www.explainshell.com/explain/1/gnuplot,https://github.com/idank/explainshell,Generate two and three-dimensional plots of data.,
 conan,file-handling,ModernFileManager,No,No,CLI,,https://github.com/mirage/conan,Find clue about the type of the file.,
 Difftastic,diff,AlternativeVCS,No,No,CLI,,https://github.com/Wilfred/difftastic,Syntax-aware structured diff tool.,
-Gaze,launcher,CloudSyncManager,No,No,Yes,,https://github.com/wtetsu/gaze,"Runs a command, right after you save a file.",
+Gaze,launcher,FileWatcherCLI,No,No,CLI,,https://github.com/wtetsu/gaze,"Runs a command, right after you save a file.",
 todocheck,programming,enhanced cat,No,No,Yes,,https://github.com/preslavmihaylov/todocheck,Static code analyzer for annotated TODO comments.,
 s,browser,terminal sharing,No,Yes,Yes,,https://github.com/zquestz/s,Web search from the terminal. Just opens in your browser.,
 anew,text-processing,AlternativeVCS,No,No,Yes,,https://github.com/tomnomnom/anew,"Tool for adding new lines to files, skipping duplicates.",
