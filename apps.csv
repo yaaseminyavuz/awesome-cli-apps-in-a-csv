@@ -229,7 +229,7 @@ Terminal Phase,games,TerminalGame,No,No,TUI,https://dustycloud.org/blog/terminal
 broot,cd,TerminalFileManager,No,No,TUI,https://dystroy.org/broot/,https://github.com/Canop/broot,"broot displays an optimized (omitting unnecessary content) tree view of the filesystem, allowing to fuzzy search files and folder, and move to specified directories.",
 Nota,calc,TerminalCalculator,No,No,TUI,https://kary.us/nota/,https://github.com/pouyakary/Nota,Terminal calculator with rich notation.,
 vy,editors,TerminalTextEditor,No,No,TUI,,https://github.com/vyapp/vy,A vim-like in Python made from scratch.,
-pire,programming,advanced grep,No,No,Yes,,https://github.com/johannestaas/pire,Python Interactive Regular Expressions.,
+pire,programming,advanced grep,No,No,CLI,,https://github.com/johannestaas/pire,Python Interactive Regular Expressions.,
 Graphene,browser,PaperBarcodeBackup,No,Yes,Yes,,https://github.com/atsepkov/Graphene,A text-based web browser that's a joy to use.,
 navi,cheatsheet,AlternativeVCS,No,No,Yes,,https://github.com/denisidoro/navi,An interactive cheatsheet tool for the command-line.,
 TSV Utilities,data-management-tabular,command-line translator,No,No,Yes,,https://github.com/eBay/tsv-utils,"Command line tools for large, tabular data files.",
