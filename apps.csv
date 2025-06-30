@@ -484,7 +484,7 @@ socialscan,online,username/email availability checker,No,Yes,CLI,,https://github
 termusic,music,LightweightAudioPlayer,No,No,TUI,,https://github.com/tramhao/termusic,Terminal Music Player written in Rust.,
 cointop,financial,CryptoTUI,No,Yes,TUI,,https://github.com/cointop-sh/cointop,A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies.,
 pulsemixer,music,AudioMixerCLI,No,No,TUI,,https://github.com/GeorgeFilipkin/pulsemixer,CLI and curses mixer for PulseAudio.,
-fastdiract,cd,enhanced cat,No,No,Yes,,https://github.com/dp12/fastdiract,Lightning-fast cd and command execution.,
+fastdiract,cd,enhanced cat,No,No,CLI,,https://github.com/dp12/fastdiract,Lightning-fast cd and command execution.,
 inventory,file-dir-cleanup,PaperBarcodeBackup,No,No,Yes,,https://github.com/mothdotmonster/inventory,Move files like an old text adventure.,
 Draw,funny,terminal sharing,No,No,Yes,,https://github.com/maaslalani/draw,draw is an simple drawing tool in the terminal. Hold your mouse down and move it across the screen to draw anything you want!,
 toipe,typing,enhanced cat,No,No,Yes,,https://github.com/Samyak2/toipe,"Yet another typing test, but crab flavored.",
