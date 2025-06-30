@@ -506,7 +506,7 @@ Pubs,science,BibManagerCLI,Yes,No,CLI,,https://github.com/pubs/pubs,Pubs organiz
 IRedis,data-management,shell,No,No,TUI-CLI,,https://github.com/laixintao/iredis,Interactive Redis: A CLI for Redis with autocompletion and Syntax Highlighting.,
 mycli,data-management-tabular,SQLClientCLI,No,No,TUI-CLI,,https://github.com/dbcli/mycli,A command line client for MySQL that can do autocompletion and syntax highlighting.,
 pgcli,data-management-tabular,SQLClientCLI,No,No,TUI-CLI,,https://github.com/dbcli/pgcli,Postgres CLI with autocompletion and syntax highlighting.,
-usql,data-management-tabular,command-line translator,No,No,Yes,,https://github.com/xo/usql,"Universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and others, including NoSQL and non-relational databases.",
+usql,data-management-tabular,SQLClientCLI,No,No,CLI,,https://github.com/xo/usql,"Universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and others, including NoSQL and non-relational databases.",
 Instant Music Downloader,music,enhanced cat,No,No,Yes,,https://github.com/yask123/Instant-Music-Downloader,Instantly download any song!,
 Spotify TUI,music,terminal sharing,No,No,Yes,,https://github.com/Rigellute/spotify-tui,A Spotify client for the terminal written in Rust.,
 dzr,music,LightweightAudioPlayer,No,No,Yes,,https://github.com/yne/dzr,"Command Line deezer.com Player for Linux, BSD, Android, Windows.",
