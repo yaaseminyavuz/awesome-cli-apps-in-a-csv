@@ -1,6 +1,6 @@
 name,category,Subcategory,AI,Online,TUI/CLI,homepage,git,description
 termfu,programming,debugging,No,No,CLI-TUI,,https://github.com/jvalcher/termfu,A multi-language debugger frontend that allows users to create and switch between custom layouts.
-h-m-m,productivity,mind‑mapping,No,  ,Yes,,https://github.com/nadrad/h-m-m,"h-m-m (pronounced like the interjection ""hmm"") is a simple, fast, keyboard-centric terminal-based tool for working with mind maps."
+h-m-m,productivity,mind‑mapping,No,No,TUI,,https://github.com/nadrad/h-m-m,"h-m-m (pronounced like the interjection ""hmm"") is a simple, fast, keyboard-centric terminal-based tool for working with mind maps."
 telert,productivity,notifications,No,No,Yes,https://github.com/navig-me/telert,https://github.com/navig-me/telert,"Lightweight CLI and Python utility that sends alerts (Telegram, Slack, Teams, Desktop, Audio) when commands complete."
 ipcalc,networking,subnetting tools,No,No,,http://jodies.de/ipcalc,https://github.com/kjokjo/ipcalc,"Takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range."
 PSSH,networking,parallel ssh tools,No,No,,https://code.google.com/archive/p/parallel-ssh/,https://github.com/lilydjwg/pssh,"Parallelized versions of OpenSSH and related tools, such as pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications."
