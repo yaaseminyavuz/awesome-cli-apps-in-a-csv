@@ -477,7 +477,7 @@ fasttyper,typing,typing practice,No,No,TUI,,https://github.com/ickyicky/fasttype
 GameShell,games,shell,No,No,TUI,,https://github.com/phyver/GameShell,"GameShell was devised as a tool to help university students to engage with a real shell, in a way that encourages learning while also having fun.",
 Lotus 1-2-3 for Linux,office,enhanced cat,No,No,TUI,,https://github.com/taviso/123elf,A native port of Lotus 1-2-3 Release 3 to Linux.,
 addrb,organizers,vcard address book,No,Yes,TUI-CLI,,https://github.com/mrusme/addrb,A lightweight CLI / TUI address book that supports CardDAV.,
-atuin,history,history manager,No,No,Yes,,https://github.com/ellie/atuin,"Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronization of your history between machines, via an Atuin server.",
+atuin,history,history manager,No,,TUI-CLI,,https://github.com/ellie/atuin,"Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronization of your history between machines, via an Atuin server.",
 Artem,graphics,ImageViewer(ASCII),No,Yes,Yes,,https://github.com/FineFindus/artem,"Convert images from multiple formats (JPG, PNG, WEBP, etc.) to ASCII art, written in Rust.",
 thokr,typing,enhanced cat,No,No,Yes,,https://github.com/jrnxf/thokr,Sleek typing TUI with visualized results and historical logging.,
 socialscan,online,StylizedDiskUsageReporter,No,Yes,Yes,,https://github.com/iojw/socialscan,Python library and CLI for accurately querying username and email usage on online platforms.,
