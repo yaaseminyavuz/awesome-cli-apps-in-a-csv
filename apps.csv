@@ -375,7 +375,7 @@ diskus,disk-analyzer,FastFindAlternative,No,No,CLI,,https://github.com/sharkdp/d
 dtool,programming,enhanced cat,No,No,CLI,,https://github.com/guoxbin/dtool,Collection of development tools.,
 viu,viewers,TerminalImageViewer,No,No,CLI,,https://github.com/learn-anything/command-line-tools,Command-line application to view images from the terminal written in Rust.,
 tealdeer,cheatsheet,FastFindAlternative,No,No,CLI,,https://github.com/dbrgn/tealdeer,Very fast implementation of tldr in Rust.,
-xcp,file-handling,enhanced cat,No,No,Yes,,https://github.com/tarka/xcp,Extended cp.,
+xcp,file-handling,enhanced cat,No,No,CLI,,https://github.com/tarka/xcp,Extended cp.,
 pazi,cd,enhanced cat,No,No,Yes,,https://github.com/euank/pazi,Fast autojump helper.,
 hunter,file-manager,FastFindAlternative,No,Yes,Yes,,https://github.com/rabite0/hunter,Ranger-like file browser written in rust.,
 ytop,monitor-top,FastFindAlternative,No,No,Yes,,https://github.com/cjbassi/ytop,TUI system monitor written in Rust.,
