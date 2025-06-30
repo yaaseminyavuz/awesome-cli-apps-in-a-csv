@@ -465,7 +465,7 @@ Quoter,financial,FinanceCLI,No,Yes,CLI,,https://github.com/frossm/quoter,The con
 nala,package-manager,PackageManagerCLI,No,Yes,CLI,,https://gitlab.com/volian/nala,apt package manager front-end with cleaner interface.,
 terminordle,games,terminal game,No,Yes,TUI,,https://github.com/HP4k1h5/terminordle,"Inspired by the popular online game wordle made, you can play a pretty close replica of the original locally or multiplayer over the network.",
 gh-s,git,GitSearchCLI,No,Yes,CLI,,https://github.com/gennaro-tedesco/gh-s,Search GitHub repositories interactively.,
-gh-f,git,TerminalMusicPlayer(MPD),No,No,Yes,,https://github.com/gennaro-tedesco/gh-f,"The ultimate, compact and snappy fzf extension for gh CLI.",
+gh-f,git,GitFzfCLI,No,Yes,CLI,,https://github.com/gennaro-tedesco/gh-f,"The ultimate, compact and snappy fzf extension for gh CLI.",
 stargazer,git,command-line translator,No,No,Yes,,https://github.com/gennaro-tedesco/stargazer,GitHub stats from the command line.,
 http-tanker,webdev,terminal sharing,No,,Yes,,https://github.com/PierreKieffer/http-tanker,"Terminal application used for API testing; easily create, manage and execute HTTP requests from the terminal.",
 Bevel,history,command-line translator,No,No,Yes,,https://github.com/NorfairKing/bevel,Command line history in an SQLite database for effective reuse.,
