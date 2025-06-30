@@ -436,7 +436,7 @@ givegif,graphics,command-line translator,No,Yes,CLI,,https://github.com/passy/gi
 git-extras,git,GitStatistics,No,No,CLI,,https://github.com/tj/git-extras,"Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.",
 Gistup,versioning,terminal sharing,No,Yes,CLI,,https://github.com/mbostock/gistup,"Create a gist from terminal, then use git to update it.",
 ll,ls,GitStatistics,No,No,CLI,,https://github.com/antonmedv/ll,ls with git status.,
-fx,data-management-json,command-line translator,No,No,Yes,,https://github.com/antonmedv/fx,Command-line JSON viewer.,
+fx,data-management-json,command-line translator,No,No,CLI,,https://github.com/antonmedv/fx,Command-line JSON viewer.,
 speedtest-net,networking,Translation,No,Yes,Yes,,https://github.com/ddsol/speedtest.net,Test internet connection speed and ping using speedtest.net.,
 shallow-backup,backup,AlternativeVCS,No,No,Yes,,https://github.com/alichtman/shallow-backup,Git integrated backup tool.,
 mdp,office,AlternativeVCS,No,No,Yes,,https://github.com/visit1985/mdp,A command-line based Markdown presentation tool.,
