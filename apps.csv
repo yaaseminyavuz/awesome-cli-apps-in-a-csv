@@ -570,7 +570,7 @@ Bitwarden CLI,password-manager,PasswordManagerCLI,No,Yes,CLI,https://bitwarden.c
 choose,option-picker,FuzzySelectorCLI,No,No,CLI,,https://github.com/jagprog5/choose,NCurses based token selector with a nice terminal user interface for selecting tokens. Selecting a line from the bash history is only one of its use cases.,
 invidtui,video,LightweightAudioPlayer,No,No,TUI,,https://github.com/darkhz/invidtui,"Invidious TUI client, which fetches data from invidious instances and displays a user interface in the terminal, and allows for selecting and playing YouTube audio and video.",
 redive,networking,RedditClientTUI,No,No,TUI,,https://github.com/neelkarma/redive,Trace URL redirections in the terminal.,
-Cloudcash,financial,CloudSyncManager,No,Yes,Yes,,https://github.com/mrusme/cloudcash,"Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!",
+Cloudcash,financial,CloudSyncManager,No,Yes,CLI,,https://github.com/mrusme/cloudcash,"Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!",
 bluetuith,networking,knowledge base,No,No,Yes,,https://github.com/darkhz/bluetuith,"A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman.",
 Brash,rm,shell,No,No,Yes,,https://github.com/zakariagatter/brash,Move and restore items from the XDG trash. Written in pure Bash.,
 torrentCLI,torrent,terminal sharing,No,No,Yes,,https://github.com/amogusussy/torrentCLI,Get torrents from the Terminal.,
