@@ -275,7 +275,7 @@ cbonsai,animation,ImageViewer(ASCII),No,No,TUI,,https://gitlab.com/jallbrit/cbon
 Dolt,data-management-tabular,SQLGitDatabase,No,Yes,CLI,,https://github.com/dolthub/dolt,"Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.",
 ytfzf,transfer,YouTubeSearchPlayerCLI,No,Yes,TUI-CLI,,https://github.com/pystardust/ytfzf,A POSIX script that helps you find YouTube videos (without API) and opens/downloads them using mpv/youtube-dl.,
 Graphtage,data-management-json,command-line translator,No,No,CLI,,https://github.com/trailofbits/graphtage,"Graphtage is a command-line utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files.",
-duf,disk-analyzer,StylizedDiskUsageReporter,No,No,Yes,,https://github.com/muesli/duf,Disk Usage/Free Utility.,
+duf,disk-analyzer,StylizedDiskUsageReporter,No,No,TUI,,https://github.com/muesli/duf,Disk Usage/Free Utility.,
 tuxi,productivity,AlternativeVCS,No,No,Yes,,https://github.com/Bugswriter/tuxi,A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.,
 Clipboard,note-taking,AlternativeVCS,No,No,No,https://getclipboard.app/,https://github.com/Slackadays/Clipboard,An easy-to-use information management tool that acts like an external brain.,
 Siren,music,LightweightAudioPlayer,No,No,,https://www.kariliq.nl/siren/,https://www.kariliq.nl/git/siren.git,Siren is a text-based audio player for UNIX-like operating systems.,
