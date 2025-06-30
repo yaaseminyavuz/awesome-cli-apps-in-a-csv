@@ -594,7 +594,7 @@ welcome.sh,prompt,WelcomeMessageCLI,No,No,CLI,,https://github.com/G2-Games/welco
 flash-tui,flashcard,FlashcardTrainerTUI,No,No,TUI,,https://github.com/TBS1996/speki,Flashcard app for the terminal.,
 jqp,data-management-json,JSONViewerTUI,No,No,TUI,,https://github.com/noahgorstein/jqp,A TUI playground for exploring jq.,
 systeroid,system,SystemMonitorTUI,No,No,TUI,,https://github.com/orhun/systeroid,A more powerful alternative to sysctl(8) with a terminal user interface.,
-hangman,games,enhanced cat,No,No,Yes,,https://github.com/braheezy/hangman,A Go TUI Hangman game built with the lovely BubbleTea framework.,
+hangman,games,GameCLI,No,No,CLI,,https://github.com/braheezy/hangman,A Go TUI Hangman game built with the lovely BubbleTea framework.,
 Feather,editors,gui-easy-editor,No,No,No,https://www.feathereditor.com/,https://github.com/0xBaca/FeatherEditor,The only terminal based text editor designed to work with BIG files.,
 swordfish-rs,text-processing,log viewer,No,No,Yes,,https://github.com/vim-zz/swordfish-rs,Mimics real person behavior with real-time typing into terminal uses a screenplay where text and timings are specified.,
 GitUI,git,GitStatistics,No,No,Yes,,https://github.com/extrawurst/gitui,"The comfort of a git GUI but right in your terminal, with keyboard only control, scalable UI, and features all the necessary operations of git.",
