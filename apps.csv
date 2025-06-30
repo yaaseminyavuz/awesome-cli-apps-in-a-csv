@@ -271,7 +271,7 @@ Starship,prompt,ShellPromptEnhancer,No,No,CLI,https://starship.rs/,https://githu
 todotxt-machine,todo-manager,TodoListTUI,No,No,TUI,https://pypi.org/project/todotxt-machine/,https://github.com/AnthonyDiGirolamo/todotxt-machine,Interface for todo.txt.,
 usolitaire,games,TerminalGame,No,No,TUI,,https://github.com/eliasdorneles/usolitaire,Solitaire in your terminal.,
 rnr,file-manager,LightweightFileManager,No,No,TUI,,https://github.com/bugnano/rnr,The RNR File Manager (RNR's Not Ranger) is a text based file manager that combines the best features of Midnight Commander and Ranger.,
-cbonsai,animation,ImageViewer(ASCII),No,No,,,https://gitlab.com/jallbrit/cbonsai,"A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree.",
+cbonsai,animation,ImageViewer(ASCII),No,No,TUI,,https://gitlab.com/jallbrit/cbonsai,"A bonsai tree generator, written in C using ncurses. It intelligently creates, colors, and positions a bonsai tree.",
 Dolt,data-management-tabular,GitStatistics,No,,Yes,,https://github.com/dolthub/dolt,"Dolt is Git for Data! Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.",
 ytfzf,transfer,Translation,No,No,Yes,,https://github.com/pystardust/ytfzf,A POSIX script that helps you find YouTube videos (without API) and opens/downloads them using mpv/youtube-dl.,
 Graphtage,data-management-json,command-line translator,No,No,Yes,,https://github.com/trailofbits/graphtage,"Graphtage is a command-line utility and underlying library for semantically comparing and merging tree-like structures, such as JSON, XML, HTML, YAML, plist, and CSS files.",
