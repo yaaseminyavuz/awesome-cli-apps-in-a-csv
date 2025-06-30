@@ -310,7 +310,7 @@ vidir,file-handling,gui-easy-editor,No,No,CLI,,https://github.com/trapd00r/vidir
 Firejail,security,SecuritySandboxCLI,No,No,CLI,https://firejail.wordpress.com/,https://github.com/netblue30/firejail,A SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.,
 Kakoune,editors,gui-easy-editor,No,No,TUI,http://kakoune.org/,https://github.com/mawww/kakoune,"Modal editor, faster as in less keystrokes, multiple selections, orthogonal design.",
 ddgr,online,command-line translator,No,Yes,CLI,,https://github.com/jarun/ddgr,A command line utility to search DuckDuckGo (HTML version) from the terminal.,
-chs,games,terminal sharing,No,No,Yes,,https://github.com/nickzuber/chs,Play chess against the Stockfish engine in your terminal.,
+chs,games,TerminalChessAI,Yes,No,TUI,,https://github.com/nickzuber/chs,Play chess against the Stockfish engine in your terminal.,
 clifm,file-manager,shell,No,No,Yes,,https://github.com/leo-arch/clifm,"A CLI-based, shell-like, and non-curses terminal file manager written in C: simple, fast, extensible, and lightweight as hell.",
 nmail,email,resource monitor,No,No,Yes,,https://github.com/d99kris/nmail,nmail is a console-based email client for Linux and macOS with a user interface similar to alpine / pine.,
 matterhorn,chat,terminal sharing,No,No,Yes,,https://github.com/matterhorn-chat/matterhorn,A terminal client for the Mattermost chat system.,
