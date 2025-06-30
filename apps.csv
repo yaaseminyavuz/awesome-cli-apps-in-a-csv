@@ -252,7 +252,7 @@ SpicyPass,password-manager,EncryptedPasswordManager,No,No,CLI,,https://github.co
 jc,data-management-json,command-line translator,,No,CLI,,https://github.com/kellyjonbrazil/jc,Serializes the output of command line tools to JSON.,
 muCLIar,music,YouTubeAudioCLI,,Yes,CLI,,https://github.com/aayush1205/muCLIar,YouTube automator bringing you your music right on your CLI.,
 wikit,online,WikipediaCLI,,Yes,CLI,,https://github.com/KorySchneider/wikit,A command line program for getting Wikipedia summaries easily.,
-mitmproxy,networking,shell,No,,,https://mitmproxy.org/,https://github.com/mitmproxy/mitmproxy,An interactive HTTPS proxy.,
+mitmproxy,networking,HTTPSProxyAnalyzer,No,,TUI-CLI,https://mitmproxy.org/,https://github.com/mitmproxy/mitmproxy,An interactive HTTPS proxy.,
 yt-audio,music,AudioMixer,No,No,Yes,,https://github.com/RijulGulati/yt-audio,"A simple, configurable youtube-dl wrapper to download and manage YouTube audio.",
 Language-games,games,terminal sharing,No,No,Yes,,https://github.com/Hellisotherpeople/Language-games,Dead simple games made with word vectors.,
 xsv,data-management-tabular,fuzzy-filter,No,No,,https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/,,Doing a SQL join with CSV files.,
