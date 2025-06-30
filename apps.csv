@@ -326,7 +326,7 @@ BaFi,conversion,Translation,No,No,CLI,https://mmalcek.github.io/bafi/,https://gi
 hck,text-processing,enhanced cat,No,No,CLI,,https://github.com/sstadick/hck,A sharp cut clone.,
 rpg-cli,games,enhanced cat,No,No,CLI,,https://github.com/facundoolano/rpg-cli,Your filesystem as a dungeon!,
 dua,disk-analyzer,StylizedDiskUsageReporter,No,No,CLI,,https://github.com/Byron/dua-cli,Disk Usage Analyzer. Learn about the usage of disk space of a given directory with parallel access to max out SSD exploration.,
-tabview,data-management-tabular,command-line translator,No,No,Yes,,https://github.com/TabViewer/tabview,Python curses command line CSV and tabular data viewer.,
+tabview,data-management-tabular,command-line translator,No,No,TUI,,https://github.com/TabViewer/tabview,Python curses command line CSV and tabular data viewer.,
 Bazaar,versioning,AlternativeVCS,No,No,,http://bazaar.canonical.com/en/,,"Multiplatform version control system supporting different workflows; it is part of the GNU Project, and it is free software sponsored by Canonical.",
 grv,git,GitInterface(TUI),No,No,Yes,,https://github.com/rgburke/grv,"Git Repository Viewer - A terminal based interface for viewing Git repositories. It allows refs, commits, and diffs to be viewed, searched and filtered.",
 fossil,versioning,feature-rich todo manager,No,Yes,,https://fossil-scm.org/,https://github.com/drhsqlite/fossil-mirror,"A simple, high-reliability, distributed software configuration management system with these advanced features: project management, built-in web interface, friendly self-hosting, simple networking, all-in-one standalone executable, and much more.",
