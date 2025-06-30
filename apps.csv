@@ -307,7 +307,7 @@ Transmission,torrent,AlternativeVCS,,Yes,CLI,https://transmissionbt.com/,https:/
 rtorrent,torrent,TUIBitTorrentClient,No,Yes,TUI,,https://github.com/rakshasa/rtorrent,"BitTorrent client uses ncurses and is ideal for use with tmux, screen or dtach.",
 dtach,terminal,SessionDetachTool,No,No,CLI,,https://github.com/crigler/dtach,A program written in C that emulates the detach feature of screen.,
 vidir,file-handling,gui-easy-editor,No,No,CLI,,https://github.com/trapd00r/vidir,vidir allows editing of the contents of a directory in a text editor.,
-Firejail,security,ImageViewer(ASCII),No,No,,https://firejail.wordpress.com/,https://github.com/netblue30/firejail,A SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.,
+Firejail,security,SecuritySandboxCLI,No,No,CLI,https://firejail.wordpress.com/,https://github.com/netblue30/firejail,A SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.,
 Kakoune,editors,gui-easy-editor,No,No,,http://kakoune.org/,https://github.com/mawww/kakoune,"Modal editor, faster as in less keystrokes, multiple selections, orthogonal design.",
 ddgr,online,command-line translator,No,No,Yes,,https://github.com/jarun/ddgr,A command line utility to search DuckDuckGo (HTML version) from the terminal.,
 chs,games,terminal sharing,No,No,Yes,,https://github.com/nickzuber/chs,Play chess against the Stockfish engine in your terminal.,
