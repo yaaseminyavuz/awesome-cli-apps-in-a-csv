@@ -391,7 +391,7 @@ mackup,system,enhanced cat,No,Yes,CLI,,https://github.com/lra/mackup,Keep your a
 massren,file-renamer,gui-easy-editor,No,No,CLI,,https://github.com/laurent22/massren,Easily rename multiple files using your text editor.,
 scons,programming,AlternativeVCS,No,No,CLI,,https://github.com/SCons/scons,Software construction tool.,
 skim,option-picker,enhanced cat,No,No,TUI,,https://github.com/lotabout/skim,Fuzzy Finder in rust.,
-snallygaster,webdev,AlternativeVCS,No,,Yes,,https://github.com/hannob/snallygaster,Tool to scan for secret files on HTTP servers.,
+snallygaster,webdev,AlternativeVCS,No,Yes,CLI,,https://github.com/hannob/snallygaster,Tool to scan for secret files on HTTP servers.,
 svgcleaner,graphics,BackupAutomationWrapper,No,No,Yes,,https://github.com/RazrFalcon/svgcleaner,Clean up your SVG files from the unnecessary data.,
 wifi-password,security,enhanced cat,No,No,Yes,,https://github.com/rauchg/wifi-password,Get Wi-Fi pass.,
 habitctl,time-tracker,AlternativeVCS,No,No,Yes,,https://github.com/blinry/habitctl,Minimalist command line tool you can use to track and examine your habits.,
