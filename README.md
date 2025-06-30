@@ -38,38 +38,6 @@ Summary:
 
 Interfaces and front-ends to GPT engines and other tools powered by artificial intelligence and Natural Language Processing.
 
-<!-- Preview Section Start -->
-> 🧠 [ata](https://github.com/transformrs/ata)  
-> Ask the Terminal Anything: OpenAI GPT in the terminal  
-> - AI: ✅  
-> - Online: ✅  
-> - Interface: CLI  
-> - Subcategory: AI terminal assistant
-
-> 🧠 [AI](https://github.com/nitefood/ai-bash-gpt)  
-> A command-line ChatGPT client in BASH with conversation/completion support  
-> - AI: ✅  
-> - Online: ✅  
-> - Interface: CLI  
-> - Subcategory: ChatGPT client
-
-> 🧠 [AIChat](https://github.com/sigoden/aichat)  
-> Using ChatGPT/GPT-3.5/GPT-4 in the terminal  
-> - AI: ✅  
-> - Online: ✅  
-> - Interface: CLI  
-> - Subcategory: AI terminal assistant
-
-> 🧠 [Alibaba-CLI-Scraper](https://github.com/poneoneo/Alibaba-CLI-Scraper)  
-> Create your own Alibaba dataset and interact with it in plain English  
-> - AI: ✅  
-> - Online: ✅  
-> - Interface: CLI  
-> - Subcategory: LLM wrapper
-<!-- Preview Section End -->
-
-
-
 * [AI](https://github.com/nitefood/ai-bash-gpt) - A command-line ChatGPT client in BASH with conversation/completion support.
 * [AIChat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 * [Alibaba-CLI-Scraper](https://github.com/poneoneo/Alibaba-CLI-Scraper) - Create your own Alibaba dataset and interact with it in plain English.
