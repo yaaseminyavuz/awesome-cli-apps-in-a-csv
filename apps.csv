@@ -194,7 +194,7 @@ dasht,programming,OfflineDocsetSearcher,No,No,CLI,http://sunaku.github.io/dasht/
 arch-wiki,online,ArchWikiCLI,No,Yes,CLI,,https://github.com/deadhead420/arch-wiki,Search the Arch Wiki anywhere from the command line.,
 googler,online,GoogleSearchCLI,No,Yes,CLI,,https://github.com/jarun/googler,"Google Search, Google Site Search, Google News from the terminal.",
 lolcat,text-processing,enhanced cat,No,No,CLI,,https://github.com/busyloop/lolcat,Ruby Gem to colorize the output of the cat command.,
-neofetch,monitor,ImageViewer(ASCII),No,No,Yes,,https://github.com/dylanaraps/neofetch,"Neofetch is a CLI system information tool written in BASH. Neofetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice. Currently abandoned.",
+neofetch,monitor,ImageViewer(ASCII),No,No,CLI,,https://github.com/dylanaraps/neofetch,"Neofetch is a CLI system information tool written in BASH. Neofetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice. Currently abandoned.",
 pdd,calc,shell,No,No,Yes,,https://github.com/jarun/pdd,"Tiny date, time diff calculator.",
 powerline,prompt,GitStatistics,No,No,Yes,,https://github.com/powerline/powerline,"Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.",
 socli,online,command-line translator,No,No,Yes,,https://github.com/gautamkrishnar/socli,Stack overflow command line client written in Python. Search and browse stack overflow without leaving the terminal,
