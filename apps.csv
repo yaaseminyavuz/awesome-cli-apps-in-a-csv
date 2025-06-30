@@ -487,7 +487,7 @@ pulsemixer,music,AudioMixerCLI,No,No,TUI,,https://github.com/GeorgeFilipkin/puls
 fastdiract,cd,enhanced cat,No,No,CLI,,https://github.com/dp12/fastdiract,Lightning-fast cd and command execution.,
 inventory,file-dir-cleanup,gamified file manager,No,No,TUI,,https://github.com/mothdotmonster/inventory,Move files like an old text adventure.,
 Draw,funny,terminal drawing tool,No,No,TUI,,https://github.com/maaslalani/draw,draw is an simple drawing tool in the terminal. Hold your mouse down and move it across the screen to draw anything you want!,
-toipe,typing,enhanced cat,No,No,Yes,,https://github.com/Samyak2/toipe,"Yet another typing test, but crab flavored.",
+toipe,typing,typing practice ,No,No,CLI,,https://github.com/Samyak2/toipe,"Yet another typing test, but crab flavored.",
 bore,networking,AlternativeVCS,No,No,Yes,,https://github.com/ekzhang/bore,A simple CLI tool for making tunnels to localhost.,
 zee,editors,FastFindAlternative,No,No,Yes,,https://github.com/zee-editor/zee,"Zee is a modern editor for the terminal, in the spirit of Emacs. It is written in Rust and it is somewhat experimental.",
 watcher,file-watch,RemoteFilesystemMounting,No,No,Yes,,https://github.com/sethigeet/watcher,"Watches all the files present in a directory and whenever a file is changed or a file is created/deleted from the directory, it runs a specified command.",
