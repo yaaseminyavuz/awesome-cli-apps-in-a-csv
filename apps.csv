@@ -630,7 +630,7 @@ Optic,networking,OpenAPIEditorCLI,No,Yes,CLI,https://www.useoptic.com/,https://g
 speki,flashcard,FlashcardTrainerTUI,No,No,CLI,,https://github.com/tbs1996/speki,Manage flashcards in the terminal similar to anki.,
 sake,launcher,CommandOrchestratorCLI,No,Yes,CLI,,https://github.com/alajmo/sake,A command runner for local and remote hosts. You define servers and tasks in sake.yaml file and then run the tasks on the servers.,
 shcopy,transfer,ClipboardManagerCLI,No,No,CLI,,https://github.com/aymanbagabas/shcopy,Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence.,
-passfzf,password-manager,debugging,No,No,,,https://git.sr.ht/~mlaparie/passfzf,"A simple fzf wrapper for pass (the UNIX password-store). It allows fuzzy finding your pass passwords to copy, show, edit, delete, rename and duplicate them.",
+passfzf,password-manager,PasswordWrapperCLI,No,No,CLI,,https://git.sr.ht/~mlaparie/passfzf,"A simple fzf wrapper for pass (the UNIX password-store). It allows fuzzy finding your pass passwords to copy, show, edit, delete, rename and duplicate them.",
 Nextcloud share URL downloader,transfer,command-line translator,No,Yes,Yes,,https://github.com/aertslab/nextcloud_share_url_downloader,Download files from and list content of NextCloud (password protected) share directly from the command line without needing a web browser.,
 pcopy,file-handling,IO monitor,No,Yes,Yes,,https://github.com/binwiederhier/pcopy,"A temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.",
 GoCatGo,pastebin,AlternativeVCS,No,No,Yes,,https://github.com/vaaleyard/gocatgo,GoCatGo is another pastebin tool with a super focus on transparency.,
