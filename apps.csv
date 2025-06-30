@@ -319,7 +319,7 @@ castero,music,PodcastClientTUI,No,Yes,TUI,,https://github.com/xgi/castero,A TUI 
 GnuPG,security,EncryptionCLI,No,,CLI,https://gnupg.org/,https://dev.gnupg.org/source/gnupg.git,GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP).,
 tiny,chat,TerminalIRCClient,No,Yes,TUI,,https://github.com/osa1/tiny,tiny is an IRC client written in Rust.,
 Standard Unix Notes,note-taking,knowledge base,No,No,CLI,,https://github.com/Standard-Unix-Notes/unix-notes,GPG Encrypted Notes/Notebook manager for BSD/Linux.,
-below,monitor-top,resource monitor,No,No,Yes,,https://github.com/facebookincubator/below,A time traveling resource monitor for modern Linux systems,
+below,monitor-top,resource monitor,No,No,TUI,,https://github.com/facebookincubator/below,A time traveling resource monitor for modern Linux systems,
 dysk,monitor,SpeechSynthesizer,No,No,,https://dystroy.org/dysk,https://github.com/Canop/dysk,A thing to get information on your mounted disks,
 ain,webdev,terminal sharing,No,,Yes,,https://github.com/jonaslu/ain,An HTTP API client for the terminal.,
 BaFi,conversion,Translation,No,No,,https://mmalcek.github.io/bafi/,https://github.com/mmalcek/bafi,"Universal JSON, BSON, YAML, CSV, XML translator to ANY format using templates.",
