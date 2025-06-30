@@ -51,7 +51,7 @@ smem,monitor,memory usage,No,No,CLI,https://www.selenic.com/smem/,https://seleni
 top,monitor-top,process monitor,No,No,TUI,,https://gitlab.com/procps-ng/procps,The classical Unix utility that provides a rolling display of top CPU using processes.
 watch,utility,command watcher,No,No,CLI,http://www.linfo.org/watch.html,https://gitlab.com/procps-ng/procps/,"Periodically runs a command in the console while temporarily clearing the screen content; it makes it easy to check differences between the output of two subsequent commands; it provides ""diff"" functionality to highlight the changing characters between outputs."
 wtf,productivity,terminal dashboard,No,,TUI,,https://github.com/wtfutil/wtf,"The personal information dashboard for your terminal, including todos, calendar, JIRA, etc."
-Bash,shells,shell,No,No,No,https://www.gnu.org/software/bash/,https://git.savannah.gnu.org/git/bash.git,(Bourne Again SHell) The most widespread system shell to date.
+Bash,shells,shell,No,No,CLI,https://www.gnu.org/software/bash/,https://git.savannah.gnu.org/git/bash.git,(Bourne Again SHell) The most widespread system shell to date.
 Fish,shells,shell,No,No,No,https://fishshell.com/,https://github.com/fish-shell/fish-shell,"""A command line shell for the 90s""; focused on user-friendliness, with powerful autosuggestions, colors, ""sane scripting"" (w.r.t. to Bash)."
 Zsh,shells,shell,No,No,No,http://www.zsh.org/,https://sourceforge.net/p/zsh/code/ci/master/tree/,Alternative shell designed for interactive use.
 conspy,system,console sharing,No,,,http://conspy.sourceforge.net/,https://sourceforge.net/p/conspy/code/ci/default/tree/,"""Conspy allows a (possibly remote) user to see what is displayed on a Linux virtual console, and send keystrokes to it."" "
