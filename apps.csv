@@ -498,7 +498,7 @@ Ultimate Plumber,text-processing,pipeline builder,No,No,TUI,,https://github.com/
 fkill-cli,system,ProcessManagerCLI,No,No,CLI,,https://github.com/sindresorhus/fkill-cli,Simple cross-platform process killer.,
 has,system,command-line translator,No,No,CLI,,https://github.com/kdabir/has,Checks presence of various command line tools on the PATH and reports their installed version.,
 brightnessctl,system,HardwareController,No,No,CLI,,https://github.com/Hummer12007/brightnessctl,"Read and control device brightness. Devices, by default, include backlight and LEDs - searched for in corresponding classes.",
-sncli,note-taking,command-line translator,No,No,Yes,,https://github.com/insanum/sncli,A Python application that gives you access to your Simplenote account via the command line.,
+sncli,note-taking,command-line translator,No,Yes,CLI,,https://github.com/insanum/sncli,A Python application that gives you access to your Simplenote account via the command line.,
 dnote,note-taking,terminal sharing,No,Yes,Yes,,https://github.com/dnote/dnote,A simple command line notebook for the terminal. It also offers a seamless multi-device sync and a web interface.,
 Geeknote,note-taking,command-line translator,,No,Yes,,https://github.com/jeffkowalski/geeknote,"A command line client for Evernote that can be use on Linux, FreeBSD and OS X.",
 Terminal velocity,note-taking,enhanced cat,No,No,No,https://vhp.github.io/terminal_velocity/,https://github.com/vhp/terminal_velocity,"A fast, cross-platform note-taking application for the UNIX terminal.",
