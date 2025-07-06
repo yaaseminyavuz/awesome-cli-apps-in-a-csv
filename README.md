@@ -19,86 +19,86 @@ Summary:
 
 Below is a categorized overview of all **1777** tools.
 
-- **[ai](#ai)** (37 tools): [AI assistant](#ai-assistant) (1), [AI terminal assistant](#ai-terminal-assistant) (1), [ai assistant](#ai-assistant) (6), [ai chatbot](#ai-chatbot) (1), [ai cli](#ai-cli) (1), [ai toolkit](#ai-toolkit) (1), [ai workflow engine](#ai-workflow-engine) (1), [alibaba scraper](#alibaba-scraper) (1), [autonomous agent](#autonomous-agent) (1), [chatgpt cli](#chatgpt-cli) (6), [chatgpt client](#chatgpt-client) (1), [chatgpt tools](#chatgpt-tools) (3), [chatgpt](#chatgpt) (1), [cli assistant](#cli-assistant) (1), [git tool](#git-tool) (1), [gpt-powered parser](#gpt-powered-parser) (1), [http tools](#http-tools) (1), [llm runner](#llm-runner) (1), [natural language](#natural-language) (1), [ollama client](#ollama-client) (1), [pipeable ai chat](#pipeable-ai-chat) (1), [team knowledge AI](#team-knowledge-ai) (1), [terminal assistant](#terminal-assistant) (2), [terminal ui](#terminal-ui) (1)
-- **[animation](#animation)** (33 tools): [AsciiTerminalAnimation](#asciiterminalanimation) (5), [EducationalCryptoVisualizer](#educationalcryptovisualizer) (1), [ImageViewer(ASCII)](#imageviewerascii) (1), [SpinnerCLI](#spinnercli) (1), [ascii animation](#ascii-animation) (6), [ascii art](#ascii-art) (1), [ascii effects](#ascii-effects) (1), [ascii renderer](#ascii-renderer) (3), [ascii tree generator](#ascii-tree-generator) (1), [cli clocks](#cli-clocks) (1), [enhanced cat](#enhanced-cat) (2), [maze generator](#maze-generator) (1), [simulation](#simulation) (1), [terminal animation](#terminal-animation) (6), [terminal fun](#terminal-fun) (1), [text effects](#text-effects) (1)
-- **[backup](#backup)** (19 tools): [AlternativeVCS](#alternativevcs) (2), [BackupAutomationWrapper](#backupautomationwrapper) (1), [EncryptedBackupCLI](#encryptedbackupcli) (1), [EncryptedBackupTool](#encryptedbackuptool) (1), [GpgCompressedBackupTool](#gpgcompressedbackuptool) (1), [PaperBarcodeBackup](#paperbarcodebackup) (1), [ShellSyncBackup](#shellsyncbackup) (1), [backup tool](#backup-tool) (3), [cli backup](#cli-backup) (1), [git backup](#git-backup) (1), [git-based backup](#git-based-backup) (1), [network backup](#network-backup) (1), [restic config](#restic-config) (1), [restic wrapper](#restic-wrapper) (1), [thread archiver](#thread-archiver) (1), [workspace backup](#workspace-backup) (1)
-- **[browser](#browser)** (19 tools): [FastFindAlternative](#fastfindalternative) (1), [FuzzyFinderPlugin](#fuzzyfinderplugin) (1), [GeminiClientTUI](#geminiclienttui) (2), [PlaceSearchCLI](#placesearchcli) (1), [StatusSyncCLI](#statussynccli) (1), [TerminalBrowserTUI](#terminalbrowsertui) (1), [TerminalWebBrowser](#terminalwebbrowser) (4), [TextBasedWebBrowser](#textbasedwebbrowser) (1), [WebSearchCLI](#websearchcli) (1), [arXivSearcher](#arxivsearcher) (1), [console sharing](#console-sharing) (1), [fuzzy‑search](#fuzzysearch) (1), [rss reader](#rss-reader) (1), [text browser](#text-browser) (1), [web browser](#web-browser) (1)
-- **[calc](#calc)** (18 tools): [AdvancedCalculators](#advancedcalculators) (1), [MathCLI](#mathcli) (1), [StorageCalculatorCLI](#storagecalculatorcli) (1), [TerminalCalculator](#terminalcalculator) (1), [TimeDiffCalculatorCLI](#timediffcalculatorcli) (1), [bitwise tools](#bitwise-tools) (1), [calculator](#calculator) (8), [calculators](#calculators) (1), [expression calc](#expression-calc) (1), [math engine](#math-engine) (1), [programmer tools](#programmer-tools) (1)
-- **[cd](#cd)** (23 tools): [FastCdTool](#fastcdtool) (1), [ShellSyncBackup](#shellsyncbackup) (1), [SmartDirectoryNavigatorCLI](#smartdirectorynavigatorcli) (1), [TerminalFileManager](#terminalfilemanager) (1), [cd enhancement](#cd-enhancement) (1), [cd enhancer](#cd-enhancer) (2), [cd tool](#cd-tool) (1), [directory jumper](#directory-jumper) (2), [directory jumpers](#directory-jumpers) (2), [directory switcher](#directory-switcher) (1), [enhanced cat](#enhanced-cat) (3), [file browser](#file-browser) (1), [navigation tools](#navigation-tools) (1), [path manager](#path-manager) (1), [project switchers](#project-switchers) (1), [shell completion](#shell-completion) (1), [shell](#shell) (2)
-- **[chat](#chat)** (36 tools): [RedditClientTUI](#redditclienttui) (1), [SSHChatServerCLI](#sshchatservercli) (1), [TerminalIRCClient](#terminalircclient) (1), [TerminalMessenger](#terminalmessenger) (3), [TerminalTwitterClient](#terminaltwitterclient) (1), [bbs client](#bbs-client) (1), [chat clients](#chat-clients) (1), [chat over ssh](#chat-over-ssh) (1), [chat](#chat) (1), [decentralized chat](#decentralized-chat) (1), [discord client](#discord-client) (1), [fediverse client](#fediverse-client) (1), [irc client](#irc-client) (2), [mastodon client](#mastodon-client) (1), [matrix client](#matrix-client) (5), [messaging](#messaging) (2), [notification tools](#notification-tools) (1), [signal client](#signal-client) (1), [social clients](#social-clients) (1), [telegram client](#telegram-client) (1), [terminal sharing](#terminal-sharing) (1), [tox client](#tox-client) (1), [twitch clients](#twitch-clients) (1), [twitch tools](#twitch-tools) (1), [xmpp client](#xmpp-client) (4)
-- **[cheatsheet](#cheatsheet)** (27 tools): [AliasGeneratorCLI](#aliasgeneratorcli) (1), [CommandExplainerCLI](#commandexplainercli) (1), [FastFindAlternative](#fastfindalternative) (2), [InteractiveCheatsheetCLI](#interactivecheatsheetcli) (1), [TerminalHelpFetcher](#terminalhelpfetcher) (1), [autocomplete](#autocomplete) (2), [cheatsheets](#cheatsheets) (1), [cli assistant](#cli-assistant) (1), [command correctors](#command-correctors) (1), [command history](#command-history) (1), [command-line translator](#command-line-translator) (1), [devops notebook runner](#devops-notebook-runner) (1), [enhanced cat](#enhanced-cat) (1), [fuzzy finder](#fuzzy-finder) (1), [fzf cheatsheet](#fzf-cheatsheet) (1), [fzf tools](#fzf-tools) (1), [knowledge base](#knowledge-base) (1), [manuals](#manuals) (1), [script launcher](#script-launcher) (1), [snippet manager](#snippet-manager) (5), [table generator](#table-generator) (1)
-- **[conversion](#conversion)** (16 tools): [DataFormatConverterCLI](#dataformatconvertercli) (1), [MultiFormatDocumentConverter](#multiformatdocumentconverter) (1), [Translation](#translation) (1), [WordToTextConverter](#wordtotextconverter) (2), [audio tools](#audio-tools) (1), [css tools](#css-tools) (1), [data automation](#data-automation) (1), [doc extractor](#doc-extractor) (1), [doc viewer](#doc-viewer) (1), [document converter](#document-converter) (2), [file conversion](#file-conversion) (1), [format converters](#format-converters) (1), [pdf converter](#pdf-converter) (1), [resume tools](#resume-tools) (1)
-- **[copilot](#copilot)** (11 tools): [AI assistant](#ai-assistant) (1), [ai assistant](#ai-assistant) (1), [ai coding assistant](#ai-coding-assistant) (1), [chatgpt cli](#chatgpt-cli) (1), [chatgpt](#chatgpt) (1), [copilot](#copilot) (1), [gpt assistant](#gpt-assistant) (1), [gpt cli](#gpt-cli) (1), [llama cli](#llama-cli) (1), [shell assistant](#shell-assistant) (1), [shell](#shell) (1)
-- **[data-management](#data-management)** (16 tools): [APIReaderCLI](#apireadercli) (1), [AsciiChartCLI](#asciichartcli) (1), [DataQueryCLI](#dataquerycli) (1), [DateTimeProcessingCLI](#datetimeprocessingcli) (1), [RedisViewerTUI](#redisviewertui) (1), [TerminalDataVisualizer](#terminaldatavisualizer) (1), [TextDatabaseCLI](#textdatabasecli) (1), [command-line translator](#command-line-translator) (1), [data processing](#data-processing) (1), [database client](#database-client) (1), [dataset generator](#dataset-generator) (1), [enhanced cat](#enhanced-cat) (1), [process monitor](#process-monitor) (1), [shell](#shell) (1), [terminal dashboard](#terminal-dashboard) (1), [terminal sharing](#terminal-sharing) (1)
-- **[data-management-json](#data-management-json)** (44 tools): [ImageViewer(ASCII)](#imageviewerascii) (1), [JSONInspector](#jsoninspector) (1), [JSONTransformerCLI](#jsontransformercli) (1), [JSONViewerTUI](#jsonviewertui) (1), [advanced grep](#advanced-grep) (2), [cli scripting](#cli-scripting) (1), [command-line translator](#command-line-translator) (5), [enhanced cat](#enhanced-cat) (2), [format converter](#format-converter) (1), [json editor](#json-editor) (2), [json filter](#json-filter) (1), [json formatter](#json-formatter) (3), [json generator](#json-generator) (1), [json parser](#json-parser) (1), [json processor](#json-processor) (2), [json processors](#json-processors) (1), [json query tools](#json-query-tools) (1), [json query](#json-query) (1), [json search](#json-search) (1), [json table](#json-table) (1), [json toolkit](#json-toolkit) (1), [json tools](#json-tools) (3), [json viewer](#json-viewer) (1), [json viewers](#json-viewers) (1), [json-processing](#json-processing) (2), [json-yaml converter](#json-yaml-converter) (1), [record analysis](#record-analysis) (1), [shell](#shell) (2), [task management](#task-management) (1), [yaml tools](#yaml-tools) (1)
-- **[data-management-tabular](#data-management-tabular)** (30 tools): [CSVProcessingCLI](#csvprocessingcli) (1), [CSVProcessorCLI](#csvprocessorcli) (1), [CSVQueryCLI](#csvquerycli) (1), [DatabaseManagerTUI](#databasemanagertui) (1), [GitStatistics](#gitstatistics) (1), [SQLClientCLI](#sqlclientcli) (3), [SQLGitDatabase](#sqlgitdatabase) (1), [TSVProcessingCLI](#tsvprocessingcli) (1), [TabularDataTUI](#tabulardatatui) (1), [cli client](#cli-client) (1), [command-line translator](#command-line-translator) (2), [csv tool](#csv-tool) (1), [csv tools](#csv-tools) (3), [csv viewer](#csv-viewer) (2), [database manager](#database-manager) (2), [enhanced cat](#enhanced-cat) (1), [json-processing](#json-processing) (1), [sql tools](#sql-tools) (1), [sql tui](#sql-tui) (1), [sql-on-csv](#sql-on-csv) (1), [sqlite client](#sqlite-client) (1), [sqlite server](#sqlite-server) (1), [sqlite](#sqlite) (1)
-- **[devops](#devops)** (8 tools): [DevEnvironmentManager](#devenvironmentmanager) (1), [aws cli](#aws-cli) (1), [build tools](#build-tools) (1), [cloud clients](#cloud-clients) (1), [kubectl context switcher](#kubectl-context-switcher) (1), [kubernetes log viewer](#kubernetes-log-viewer) (1), [kubernetes](#kubernetes) (1), [unikernel](#unikernel) (1)
-- **[diff](#diff)** (11 tools): [AlternativeVCS](#alternativevcs) (1), [GitStatistics](#gitstatistics) (1), [PDFDiffTool](#pdfdifftool) (1), [csv comparison](#csv-comparison) (1), [diff visualizer](#diff-visualizer) (1), [directory diff](#directory-diff) (1), [enhanced cat](#enhanced-cat) (3), [string distance](#string-distance) (1), [yaml diff](#yaml-diff) (1)
-- **[disk-analyzer](#disk-analyzer)** (12 tools): [DiskAnalyzerTUI](#diskanalyzertui) (1), [DiskUsageHistogram](#diskusagehistogram) (1), [FastFindAlternative](#fastfindalternative) (2), [NcursesDiskAnalyzer](#ncursesdiskanalyzer) (2), [StylizedDiskUsageReporter](#stylizeddiskusagereporter) (6)
-- **[editors](#editors)** (27 tools): [NoteTakingTUI](#notetakingtui) (1), [TUIEditor](#tuieditor) (1), [TerminalEditor](#terminaleditor) (1), [TerminalTextEditor](#terminaltexteditor) (2), [TextEditorTUI](#texteditortui) (2), [advanced-extensible](#advanced-extensible) (1), [gui-easy-editor](#gui-easy-editor) (5), [gui-sublime-inspired](#gui-sublime-inspired) (1), [lightweight-stable](#lightweight-stable) (1), [lightweight-userfriendly](#lightweight-userfriendly) (1), [line editor](#line-editor) (1), [minimalist-writing](#minimalist-writing) (1), [modal-powerful](#modal-powerful) (1), [modal-traditional](#modal-traditional) (1), [modern-nano-like](#modern-nano-like) (1), [neovim frontend](#neovim-frontend) (1), [text editor](#text-editor) (3), [vim-inspired-minimal](#vim-inspired-minimal) (1), [vim-like-lightweight](#vim-like-lightweight) (1)
-- **[email](#email)** (18 tools): [EmailGeneratorCLI](#emailgeneratorcli) (1), [MailSyncTool](#mailsynctool) (1), [TemporaryEmailCLI](#temporaryemailcli) (1), [TerminalEmailClient](#terminalemailclient) (5), [cli email](#cli-email) (1), [disposable email](#disposable-email) (1), [email alias manager](#email-alias-manager) (1), [email analyzer](#email-analyzer) (1), [email client](#email-client) (3), [email tools](#email-tools) (1), [resource monitor](#resource-monitor) (1), [slack mail interface](#slack-mail-interface) (1)
-- **[file-dir-cleanup](#file-dir-cleanup)** (13 tools): [DirectoryOrganizer](#directoryorganizer) (1), [DuplicateFileFinder](#duplicatefilefinder) (1), [FilenameSanitizer](#filenamesanitizer) (1), [ModernFileManager](#modernfilemanager) (1), [deduplication](#deduplication) (1), [directory organizer](#directory-organizer) (1), [duplicate finder](#duplicate-finder) (1), [file cleanup](#file-cleanup) (1), [file deduplication](#file-deduplication) (1), [file organizers](#file-organizers) (1), [folder organizer](#folder-organizer) (1), [gamified file manager](#gamified-file-manager) (1), [metadata remover](#metadata-remover) (1)
-- **[file-explorer](#file-explorer)** (11 tools): [DirectoryTreePrinter](#directorytreeprinter) (1), [ModernFileManager](#modernfilemanager) (2), [directory viewers](#directory-viewers) (1), [enhanced cat](#enhanced-cat) (1), [file browser](#file-browser) (1), [file explorer](#file-explorer) (1), [file manager](#file-manager) (2), [terminal file explorer](#terminal-file-explorer) (1), [tui file explorer](#tui-file-explorer) (1)
-- **[file-handling](#file-handling)** (28 tools): [ArchiveAutoExtractor](#archiveautoextractor) (1), [FileInspectorCLI](#fileinspectorcli) (1), [ModernFileManager](#modernfilemanager) (1), [ProgressCopyTool](#progresscopytool) (1), [ShellSyncBackup](#shellsyncbackup) (1), [TemporaryPasteCLI](#temporarypastecli) (1), [archive manager](#archive-manager) (1), [cloud storage](#cloud-storage) (1), [compression](#compression) (1), [copy progress monitor](#copy-progress-monitor) (1), [directory visualizer](#directory-visualizer) (1), [downloads organizer](#downloads-organizer) (1), [enhanced cat](#enhanced-cat) (2), [file deployer](#file-deployer) (1), [file permissions](#file-permissions) (1), [file transfer](#file-transfer) (1), [file utilities](#file-utilities) (1), [filesystem sandbox](#filesystem-sandbox) (1), [filesystem tools](#filesystem-tools) (1), [gui-easy-editor](#gui-easy-editor) (1), [library browser](#library-browser) (1), [log management](#log-management) (1), [media streamer](#media-streamer) (1), [shell](#shell) (1), [symlink tools](#symlink-tools) (1), [system monitor](#system-monitor) (1), [vcs client](#vcs-client) (1)
-- **[file-manager](#file-manager)** (22 tools): [DualPaneFileManager](#dualpanefilemanager) (1), [LightweightFileManager](#lightweightfilemanager) (2), [ModalFileManager](#modalfilemanager) (1), [ModernFileManager](#modernfilemanager) (8), [TerminalFileManager](#terminalfilemanager) (1), [ViKeybindingsFileManager](#vikeybindingsfilemanager) (1), [VisualFileManager](#visualfilemanager) (1), [file manager](#file-manager) (2), [project manager](#project-manager) (1), [shell](#shell) (1), [terminal file manager](#terminal-file-manager) (2), [terminal file managers](#terminal-file-managers) (1)
-- **[file-renamer](#file-renamer)** (14 tools): [BulkRenamerCLI](#bulkrenamercli) (2), [BulkRenamer](#bulkrenamer) (1), [InteractiveRenamer](#interactiverenamer) (1), [Translation](#translation) (1), [enhanced cat](#enhanced-cat) (1), [file manager](#file-manager) (1), [file renamer](#file-renamer) (1), [file renamers](#file-renamers) (1), [gui-easy-editor](#gui-easy-editor) (2), [image renamer](#image-renamer) (1), [music file tools](#music-file-tools) (1), [search tools](#search-tools) (1)
-- **[file-system](#file-system)** (4 tools): [FileTaggerCLI](#filetaggercli) (1), [RemoteFilesystemMounting](#remotefilesystemmounting) (1), [TagBasedVirtualFS](#tagbasedvirtualfs) (1), [deployment tools](#deployment-tools) (1)
-- **[file-watch](#file-watch)** (7 tools): [DirectoryWatcher](#directorywatcher) (1), [FileWatcherCLI](#filewatchercli) (1), [ProcessMonitorTUI](#processmonitortui) (1), [ShellSyncBackup](#shellsyncbackup) (1), [file monitor](#file-monitor) (1), [file watcher](#file-watcher) (1), [file watchers](#file-watchers) (1)
-- **[financial](#financial)** (17 tools): [AccountingCLI](#accountingcli) (1), [Accounting](#accounting) (2), [CloudSyncManager](#cloudsyncmanager) (1), [CryptoTUI](#cryptotui) (1), [FinanceCLI](#financecli) (2), [TerminalFinanceTracker](#terminalfinancetracker) (1), [accounting](#accounting) (1), [bitcoin cli](#bitcoin-cli) (1), [budget tracking](#budget-tracking) (1), [currency converters](#currency-converters) (2), [enhanced cat](#enhanced-cat) (1), [exchange rates](#exchange-rates) (1), [invoice generator](#invoice-generator) (1), [log viewer](#log-viewer) (1)
-- **[find](#find)** (8 tools): [FastFileLocator](#fastfilelocator) (1), [FastFindAlternative](#fastfindalternative) (1), [enhanced cat](#enhanced-cat) (1), [file finder](#file-finder) (1), [file search](#file-search) (1), [fuzzy finders](#fuzzy-finders) (1), [fuzzy‑search](#fuzzysearch) (1), [grep alternative](#grep-alternative) (1)
-- **[flashcard](#flashcard)** (10 tools): [FlashcardTrainerTUI](#flashcardtrainertui) (2), [anki tool](#anki-tool) (1), [cli learning tools](#cli-learning-tools) (1), [flashcard tool](#flashcard-tool) (1), [flashcard tools](#flashcard-tools) (1), [flashcards](#flashcards) (2), [nextcloud tool](#nextcloud-tool) (1), [vocabulary trainer](#vocabulary-trainer) (1)
-- **[font](#font)** (4 tools): [ascii art](#ascii-art) (1), [ascii-text-rendering](#ascii-text-rendering) (1), [font manager](#font-manager) (1), [visual-effects-rendering](#visual-effects-rendering) (1)
-- **[funny](#funny)** (18 tools): [AsciiSpeechGenerato](#asciispeechgenerato) (1), [AsciiSpeechGenerator](#asciispeechgenerator) (1), [EmojiPickerCLI](#emojipickercli) (1), [FunCLI](#funcli) (1), [MatrixVideoConfCLI](#matrixvideoconfcli) (1), [PokemonFetcherCLI](#pokemonfetchercli) (1), [QuoteGeneratorCLI](#quotegeneratorcli) (1), [cli fun](#cli-fun) (2), [enhanced cat](#enhanced-cat) (1), [fun / novelty](#fun-novelty) (1), [fun](#fun) (2), [funny aliases](#funny-aliases) (1), [funny tools](#funny-tools) (1), [terminal animation](#terminal-animation) (1), [terminal drawing tool](#terminal-drawing-tool) (1), [text decoration](#text-decoration) (1)
-- **[games](#games)** (62 tools): [APIClientCLI](#apiclientcli) (1), [AdvancedCalculators](#advancedcalculators) (1), [GameCLI](#gamecli) (4), [GameTUI](#gametui) (1), [TUI RogueGame](#tui-roguegame) (1), [TerminalBoardGames](#terminalboardgames) (1), [TerminalChessAI](#terminalchessai) (1), [TerminalGame(Minesweeper)](#terminalgameminesweeper) (1), [TerminalGame(PuzzlePlatformer)](#terminalgamepuzzleplatformer) (1), [TerminalGame(Roguelike)](#terminalgameroguelike) (1), [TerminalGame(SimulationStrategy)](#terminalgamesimulationstrategy) (1), [TerminalGame(SurvivalRPG)](#terminalgamesurvivalrpg) (1), [TerminalGame(Tetris)](#terminalgametetris) (1), [TerminalGameCLI](#terminalgamecli) (1), [TerminalGameTUI](#terminalgametui) (2), [TerminalGame](#terminalgame) (5), [WordleGameTUI](#wordlegametui) (1), [ascii fps game](#ascii-fps-game) (1), [chess](#chess) (1), [cli game](#cli-game) (3), [enhanced cat](#enhanced-cat) (2), [game editor](#game-editor) (1), [game](#game) (4), [interactive fiction](#interactive-fiction) (1), [irc bot game](#irc-bot-game) (1), [minesweeper](#minesweeper) (1), [puzzle game](#puzzle-game) (1), [shell](#shell) (1), [terminal chess](#terminal-chess) (1), [terminal game](#terminal-game) (12), [terminal games](#terminal-games) (3), [tetris game](#tetris-game) (1), [tui chess client](#tui-chess-client) (1), [word games](#word-games) (1), [wordle solver](#wordle-solver) (1)
-- **[git](#git)** (62 tools): [AlternativeVCS](#alternativevcs) (1), [CloudSyncManager](#cloudsyncmanager) (1), [CommitHelperCLI](#commithelpercli) (1), [CommitMessageHelperCLI](#commitmessagehelpercli) (1), [DistributedVersionControl](#distributedversioncontrol) (1), [GitEnhancerCLI](#gitenhancercli) (1), [GitFzfCLI](#gitfzfcli) (1), [GitInterface(TUI)](#gitinterfacetui) (2), [GitRemoteHelperCLI](#gitremotehelpercli) (1), [GitRepoManagerCLI](#gitrepomanagercli) (1), [GitSearchCLI](#gitsearchcli) (1), [GitSecretManagerCLI](#gitsecretmanagercli) (1), [GitServerTUI](#gitservertui) (1), [GitStatisticsCLI](#gitstatisticscli) (1), [GitStatistics](#gitstatistics) (9), [GitTUIWrapper](#gittuiwrapper) (1), [GitVisualizerCLI](#gitvisualizercli) (1), [GitforLargeFiles](#gitforlargefiles) (1), [SelfHostedGitServer](#selfhostedgitserver) (1), [cd helper](#cd-helper) (1), [changelog tools](#changelog-tools) (1), [dotfiles manager](#dotfiles-manager) (1), [enhanced cat](#enhanced-cat) (3), [git TUI tools](#git-tui-tools) (1), [git analytics](#git-analytics) (1), [git assistant](#git-assistant) (1), [git automation](#git-automation) (1), [git autosync](#git-autosync) (1), [git clients](#git-clients) (1), [git commit tools](#git-commit-tools) (1), [git diff viewer](#git-diff-viewer) (2), [git export](#git-export) (1), [git helper](#git-helper) (2), [git helpers](#git-helpers) (2), [git hook](#git-hook) (1), [git profile](#git-profile) (1), [git tool](#git-tool) (2), [git tools](#git-tools) (3), [git tui](#git-tui) (1), [github dashboard](#github-dashboard) (1), [github graph](#github-graph) (1), [github prs tracker](#github-prs-tracker) (1), [repo cleaner](#repo-cleaner) (1), [secret scanner](#secret-scanner) (1), [sourcehut git client](#sourcehut-git-client) (1)
-- **[graphics](#graphics)** (45 tools): [BackupAutomationWrapper](#backupautomationwrapper) (1), [ColorToolCLI](#colortoolcli) (1), [FractalCLI](#fractalcli) (1), [ImageEditingConversion](#imageeditingconversion) (1), [ImageProcessorCLI](#imageprocessorcli) (1), [ImageToASCII](#imagetoascii) (1), [ImageViewer(ASCII)](#imageviewerascii) (6), [SVGSlideExporterCLI](#svgslideexportercli) (1), [ScreenshotUtility](#screenshotutility) (1), [ai image search](#ai-image-search) (1), [ascii art](#ascii-art) (2), [ascii diagram](#ascii-diagram) (1), [ascii paint](#ascii-paint) (1), [ascii renderer](#ascii-renderer) (1), [ascii screenshot tool](#ascii-screenshot-tool) (1), [barcode scanner](#barcode-scanner) (1), [color picker](#color-picker) (1), [command-line translator](#command-line-translator) (2), [diagram scripting](#diagram-scripting) (1), [enhanced cat](#enhanced-cat) (1), [gif editors](#gif-editors) (1), [gif tools](#gif-tools) (1), [graph visualization](#graph-visualization) (1), [image optimizer](#image-optimizer) (1), [image preview](#image-preview) (1), [image processing](#image-processing) (1), [image tool](#image-tool) (1), [map viewers](#map-viewers) (1), [maps](#maps) (1), [meme generator](#meme-generator) (1), [screenshot decorators](#screenshot-decorators) (1), [screenshot tools](#screenshot-tools) (1), [space visualizer](#space-visualizer) (1), [svg color modifier](#svg-color-modifier) (1), [svg optimizers](#svg-optimizers) (1), [syntax highlighting](#syntax-highlighting) (1), [terminal image](#terminal-image) (1), [terrain generator](#terrain-generator) (1)
-- **[history](#history)** (4 tools): [command-line translator](#command-line-translator) (1), [history manager](#history-manager) (2), [productivity](#productivity) (1)
-- **[launcher](#launcher)** (23 tools): [ApplicationLauncherTUI](#applicationlaunchertui) (1), [CLI task runner](#cli-task-runner) (1), [CommandOrchestratorCLI](#commandorchestratorcli) (1), [FileWatcherCLI](#filewatchercli) (1), [MultiCommandRunnerTUI](#multicommandrunnertui) (2), [app launcher](#app-launcher) (1), [batch queue](#batch-queue) (1), [build tool](#build-tool) (1), [command palette](#command-palette) (1), [file watchers](#file-watchers) (1), [launcher](#launcher) (4), [parallel execution](#parallel-execution) (1), [shell launcher](#shell-launcher) (1), [shell](#shell) (2), [task manager](#task-manager) (1), [task runner](#task-runner) (2), [vagrant helper](#vagrant-helper) (1)
-- **[ls](#ls)** (10 tools): [EnhancedLsRewrite](#enhancedlsrewrite) (1), [GitStatistics](#gitstatistics) (1), [ModernFileManager](#modernfilemanager) (1), [RustLsReplacement](#rustlsreplacement) (3), [enhanced cat](#enhanced-cat) (1), [ls color tool](#ls-color-tool) (1), [ls color](#ls-color) (1), [tree viewer](#tree-viewer) (1)
-- **[markdown](#markdown)** (10 tools): [MarkdownBookBuilder](#markdownbookbuilder) (1), [MarkdownTUI](#markdowntui) (1), [MarkdownViewer(GUI/CLI)](#markdownviewerguicli) (1), [knowledge base](#knowledge-base) (1), [markdown parser](#markdown-parser) (1), [markdown preview](#markdown-preview) (1), [markdown tool](#markdown-tool) (1), [markdown tools](#markdown-tools) (1), [markdown viewer](#markdown-viewer) (2)
-- **[monitor](#monitor)** (36 tools): [BenchmarkCLI](#benchmarkcli) (1), [DiskInspectorCLI](#diskinspectorcli) (1), [IO monitor](#io-monitor) (1), [ImageViewer(ASCII)](#imageviewerascii) (2), [LogViewerTUI](#logviewertui) (1), [SystemHardwareInspector](#systemhardwareinspector) (1), [battery monitor](#battery-monitor) (1), [load monitor](#load-monitor) (1), [log viewer](#log-viewer) (1), [memory usage](#memory-usage) (1), [monitoring](#monitoring) (1), [neofetch](#neofetch) (1), [network grep](#network-grep) (1), [network scanner](#network-scanner) (1), [packet analyzer](#packet-analyzer) (1), [power monitor](#power-monitor) (1), [ram info](#ram-info) (1), [resource monitor](#resource-monitor) (4), [serial monitor](#serial-monitor) (1), [syscall monitor](#syscall-monitor) (1), [system fetcher](#system-fetcher) (3), [system info](#system-info) (5), [system information](#system-information) (1), [system monitor](#system-monitor) (2), [terminal sharing](#terminal-sharing) (1)
-- **[monitor-top](#monitor-top)** (26 tools): [FastFindAlternative](#fastfindalternative) (1), [IO monitor](#io-monitor) (1), [ResourceMonitorTUI](#resourcemonitortui) (1), [gpu monitor](#gpu-monitor) (4), [process monitor](#process-monitor) (2), [process viewer,](#process-viewer) (1), [process viewer](#process-viewer) (2), [resource monitor](#resource-monitor) (7), [system monitor](#system-monitor) (6), [task manager](#task-manager) (1)
-- **[music](#music)** (55 tools): [AudioMixerCLI](#audiomixercli) (1), [AudioMixer](#audiomixer) (1), [LightweightAudioPlayer](#lightweightaudioplayer) (19), [MusicAppFramework](#musicappframework) (1), [MusicDownloaderCLI](#musicdownloadercli) (1), [MusicLibraryManager](#musiclibrarymanager) (1), [PodcastClientTUI](#podcastclienttui) (1), [SpotifyClientTUI](#spotifyclienttui) (1), [TerminalAudioPlayer(ogg)](#terminalaudioplayerogg) (1), [TerminalMusicPlayer(MPD)](#terminalmusicplayermpd) (1), [TerminalMusicPlayer](#terminalmusicplayer) (1), [TerminalMusicVisualizer](#terminalmusicvisualizer) (1), [TextToSpeech](#texttospeech) (1), [YouTubeAudioCLI](#youtubeaudiocli) (1), [YouTubeToMP3Downloader](#youtubetomp3downloader) (1), [audio player](#audio-player) (3), [audio visualizer](#audio-visualizer) (1), [audiobook manager](#audiobook-manager) (1), [cli midi](#cli-midi) (1), [cli music player](#cli-music-player) (1), [debugging](#debugging) (1), [media control](#media-control) (1), [music catalog](#music-catalog) (1), [music player](#music-player) (5), [music scraper](#music-scraper) (1), [music theory](#music-theory) (1), [podcast downloader](#podcast-downloader) (1), [podcast ui for newsboat](#podcast-ui-for-newsboat) (1), [radio player](#radio-player) (1), [spotify client](#spotify-client) (1), [youtube client](#youtube-client) (1)
-- **[networking](#networking)** (82 tools): [BluetoothManagerTUI](#bluetoothmanagertui) (1), [HTTPSProxyAnalyzer](#httpsproxyanalyzer) (1), [ListManagerCLI](#listmanagercli) (1), [NetworkToolCLI](#networktoolcli) (1), [NetworkTrafficMonitor](#networktrafficmonitor) (1), [OpenAPIEditorCLI](#openapieditorcli) (1), [RedditClientTUI](#redditclienttui) (1), [SpeedTestCLI](#speedtestcli) (1), [ad blocker](#ad-blocker) (1), [api client](#api-client) (1), [bandwidth monitor](#bandwidth-monitor) (1), [bluetooth tool](#bluetooth-tool) (1), [cli-to-web](#cli-to-web) (1), [debugging](#debugging) (1), [dns client](#dns-client) (1), [dns tools](#dns-tools) (2), [file manager](#file-manager) (1), [file‑sharing](#filesharing) (1), [grpc client](#grpc-client) (1), [http client](#http-client) (2), [http proxy](#http-proxy) (1), [ip generator](#ip-generator) (1), [ip geolocation](#ip-geolocation) (1), [kubectl port forwarder](#kubectl-port-forwarder) (1), [load testing](#load-testing) (1), [log analyzer](#log-analyzer) (1), [mock server](#mock-server) (1), [monitoring](#monitoring) (1), [network diagnostics](#network-diagnostics) (1), [network info](#network-info) (1), [network interface info](#network-interface-info) (1), [network monitor](#network-monitor) (3), [network proxy](#network-proxy) (1), [network scanner](#network-scanner) (2), [network tools](#network-tools) (2), [network traffic viewer](#network-traffic-viewer) (1), [oauth manager](#oauth-manager) (1), [packet sender](#packet-sender) (1), [parallel ssh tools](#parallel-ssh-tools) (1), [proxy tool](#proxy-tool) (1), [reconnaissance](#reconnaissance) (1), [remote shells](#remote-shells) (1), [remote terminal server](#remote-terminal-server) (1), [shell](#shell) (2), [sip analyzer](#sip-analyzer) (1), [smb tools](#smb-tools) (1), [socket monitor](#socket-monitor) (1), [ssh file transfer client](#ssh-file-transfer-client) (1), [ssh manager](#ssh-manager) (2), [ssh tools](#ssh-tools) (3), [static server](#static-server) (1), [subnetting tools](#subnetting-tools) (1), [system information](#system-information) (1), [tcp client](#tcp-client) (1), [terminal API client](#terminal-api-client) (1), [terminal sharing](#terminal-sharing) (5), [tunnelCLI / port forwarder](#tunnelcli-port-forwarder) (1), [tunneling](#tunneling) (1), [vpn tools](#vpn-tools) (2), [vpn](#vpn) (1), [web server](#web-server) (2), [web tools](#web-tools) (1), [websocket](#websocket) (1), [wifi manager](#wifi-manager) (1), [xmpp server](#xmpp-server) (2)
-- **[note-taking](#note-taking)** (29 tools): [CLIJournal](#clijournal) (1), [EvernoteClientCLI](#evernoteclientcli) (1), [NoteTakingCLI](#notetakingcli) (3), [NoteTakingTUI](#notetakingtui) (1), [NotesCLI](#notescli) (1), [TerminalKnowledgeBase](#terminalknowledgebase) (1), [calendar & notes](#calendar-notes) (1), [cli kanban notes](#cli-kanban-notes) (1), [command-line translator](#command-line-translator) (1), [journal](#journal) (2), [knowledge base](#knowledge-base) (4), [markdown viewer](#markdown-viewer) (1), [note taking](#note-taking) (2), [note-taking](#note-taking) (5), [terminal journal](#terminal-journal) (1), [terminal notes](#terminal-notes) (1), [terminal sharing](#terminal-sharing) (2)
-- **[office](#office)** (19 tools): [MarkdownPresenterTUI](#markdownpresentertui) (1), [PlaintextPresenterCLI](#plaintextpresentercli) (1), [TerminalPresentation](#terminalpresentation) (1), [calculator](#calculator) (1), [cli presentation](#cli-presentation) (1), [code tutorial](#code-tutorial) (1), [enhanced cat](#enhanced-cat) (1), [form sharing](#form-sharing) (1), [markdown slides](#markdown-slides) (1), [pdf tools](#pdf-tools) (2), [presentation tool](#presentation-tool) (1), [presentation tools](#presentation-tools) (2), [presentations](#presentations) (1), [search tool](#search-tool) (1), [spreadsheet calculator](#spreadsheet-calculator) (1), [terminal presentation](#terminal-presentation) (1), [terminal spreadsheet](#terminal-spreadsheet) (1)
-- **[online](#online)** (26 tools): [ArchWikiCLI](#archwikicli) (1), [CLICatalog](#clicatalog) (1), [GoogleSearchCLI](#googlesearchcli) (1), [StackOverflowCLI](#stackoverflowcli) (1), [StackOverflowSearchCLI](#stackoverflowsearchcli) (1), [WikipediaCLI](#wikipediacli) (1), [awesome list tools](#awesome-list-tools) (1), [command-line translator](#command-line-translator) (1), [fuzzy finder](#fuzzy-finder) (1), [git tool](#git-tool) (1), [github tools](#github-tools) (1), [hackernews tracker](#hackernews-tracker) (1), [jira tools](#jira-tools) (2), [output sharing tools](#output-sharing-tools) (1), [read-later tools](#read-later-tools) (1), [recipe tools](#recipe-tools) (1), [reddit cleaner](#reddit-cleaner) (1), [subdomain finder](#subdomain-finder) (1), [terminal messaging](#terminal-messaging) (1), [terminal sharing](#terminal-sharing) (1), [username/email availability checker](#usernameemail-availability-checker) (1), [vcs performance](#vcs-performance) (1), [web scraper](#web-scraper) (1), [wikipedia client](#wikipedia-client) (2)
-- **[option-picker](#option-picker)** (17 tools): [TerminalMenu](#terminalmenu) (1), [date picker](#date-picker) (1), [enhanced cat](#enhanced-cat) (2), [file search](#file-search) (1), [fuzzy finder](#fuzzy-finder) (1), [fuzzy selector](#fuzzy-selector) (1), [fuzzy-filter](#fuzzy-filter) (1), [fuzzy‑search](#fuzzysearch) (1), [fzf selector](#fzf-selector) (1), [interactive selector](#interactive-selector) (1), [interactive-line-select](#interactive-line-select) (1), [menu builder](#menu-builder) (1), [menu tools](#menu-tools) (1), [menu](#menu) (1), [shell](#shell) (2)
-- **[organizers](#organizers)** (22 tools): [EmailSenderCLI](#emailsendercli) (1), [GoogleContactsCLI](#googlecontactscli) (1), [TerminalCalendarTasker](#terminalcalendartasker) (1), [TimezoneCLI](#timezonecli) (1), [caldav calendar](#caldav-calendar) (2), [calendar sync tools](#calendar-sync-tools) (1), [calendar tools](#calendar-tools) (2), [calendar](#calendar) (2), [contact manager](#contact-manager) (1), [google calendar client](#google-calendar-client) (1), [knowledge base](#knowledge-base) (1), [remind frontend](#remind-frontend) (1), [reminders](#reminders) (1), [rule-based calendar](#rule-based-calendar) (1), [scheduler](#scheduler) (1), [text calendar](#text-calendar) (1), [vcard address book](#vcard-address-book) (3)
-- **[package-manager](#package-manager)** (20 tools): [AlternativeVCS](#alternativevcs) (1), [GitforLargeFiles](#gitforlargefiles) (1), [PackageManagerCLI](#packagemanagercli) (1), [PyPiSearcherCLI](#pypisearchercli) (1), [Translation](#translation) (1), [binary installer](#binary-installer) (1), [dev env manager](#dev-env-manager) (1), [knowledge base](#knowledge-base) (1), [kubectl plugin manager](#kubectl-plugin-manager) (1), [package manager frontend](#package-manager-frontend) (1), [package manager](#package-manager) (6), [runtime managers](#runtime-managers) (1), [shell](#shell) (1), [system info](#system-info) (1), [system updater](#system-updater) (1)
-- **[password-manager](#password-manager)** (21 tools): [EncryptedPasswordManager](#encryptedpasswordmanager) (5), [PasswordGeneratorCLI](#passwordgeneratorcli) (1), [PasswordManagerCLI](#passwordmanagercli) (1), [PasswordWrapperCLI](#passwordwrappercli) (1), [bitwarden cli](#bitwarden-cli) (1), [enhanced cat](#enhanced-cat) (1), [password generator](#password-generator) (1), [password manager](#password-manager) (8), [secrets manager](#secrets-manager) (1), [secure archive manager](#secure-archive-manager) (1)
-- **[pastebin](#pastebin)** (3 tools): [PastebinCLI](#pastebincli) (1), [pastebin](#pastebin) (1), [terminal sharing](#terminal-sharing) (1)
-- **[productivity](#productivity)** (11 tools): [DirectionsQueryCLI](#directionsquerycli) (1), [GoogleScraperCLI](#googlescrapercli) (1), [Translation](#translation) (1), [VaccineCertViewerCLI](#vaccinecertviewercli) (1), [mind‑mapping](#mindmapping) (1), [notifications](#notifications) (1), [speed reading](#speed-reading) (1), [task manager](#task-manager) (1), [terminal dashboard](#terminal-dashboard) (1), [time tools](#time-tools) (1), [tui utils](#tui-utils) (1)
-- **[programming](#programming)** (52 tools): [AlternativeVCS](#alternativevcs) (1), [BenchmarkingCLI](#benchmarkingcli) (1), [CodeStatsCLI](#codestatscli) (3), [DeterministicDebugger](#deterministicdebugger) (1), [DevToolboxCLI](#devtoolboxcli) (1), [GDBEnhancerTUI](#gdbenhancertui) (1), [ImageViewer(ASCII)](#imageviewerascii) (1), [LightweightTextViewer](#lightweighttextviewer) (1), [OfflineDocsetSearcher](#offlinedocsetsearcher) (1), [RegexRefactorTool](#regexrefactortool) (1), [StaticAnalyzerCLI](#staticanalyzercli) (2), [advanced grep](#advanced-grep) (2), [api testing](#api-testing) (1), [argument parser](#argument-parser) (1), [assembly visualizers](#assembly-visualizers) (1), [benchmark dashboard](#benchmark-dashboard) (1), [build tool](#build-tool) (1), [build tools](#build-tools) (1), [cli generator](#cli-generator) (1), [code bundler](#code-bundler) (1), [code runner](#code-runner) (1), [code submission](#code-submission) (1), [command-line translator](#command-line-translator) (2), [contributor helper](#contributor-helper) (1), [debug assistant](#debug-assistant) (1), [debugging](#debugging) (2), [dev environment manager](#dev-environment-manager) (1), [dev environment](#dev-environment) (1), [devops tools](#devops-tools) (1), [enhanced cat](#enhanced-cat) (3), [env manager](#env-manager) (1), [file renamer](#file-renamer) (1), [go tools](#go-tools) (1), [javascript minifier](#javascript-minifier) (1), [leetcode client](#leetcode-client) (1), [live reloader](#live-reloader) (1), [npm tools](#npm-tools) (1), [release automation](#release-automation) (2), [scripting](#scripting) (1), [shell builder](#shell-builder) (1), [stack tools](#stack-tools) (1), [terminal sharing](#terminal-sharing) (1), [vcs tool](#vcs-tool) (1)
-- **[programming-boilerplate](#programming-boilerplate)** (12 tools): [AlternativeVCS](#alternativevcs) (2), [changelog generators](#changelog-generators) (1), [contributing.md generator](#contributingmd-generator) (1), [enhanced cat](#enhanced-cat) (1), [git tools](#git-tools) (1), [license generators](#license-generators) (2), [project boilerplate](#project-boilerplate) (1), [project scaffolding ](#project-scaffolding) (1), [readme generators](#readme-generators) (1), [template generators](#template-generators) (1)
-- **[prompt](#prompt)** (13 tools): [ShellPromptEnhancer](#shellpromptenhancer) (1), [ShellPromptTheme](#shellprompttheme) (1), [TerminalStatusLineEnhancer](#terminalstatuslineenhancer) (1), [WelcomeMessageCLI](#welcomemessagecli) (1), [bash tool](#bash-tool) (1), [custom prompt](#custom-prompt) (2), [shell prompt](#shell-prompt) (2), [shell](#shell) (2), [zsh prompt](#zsh-prompt) (2)
-- **[religion](#religion)** (4 tools): [bible readers](#bible-readers) (1), [cli bible viewer](#cli-bible-viewer) (1), [command-line translator](#command-line-translator) (1), [text readers](#text-readers) (1)
-- **[rm](#rm)** (13 tools): [DataRecovery](#datarecovery) (1), [FileDeletionTool](#filedeletiontool) (1), [ShellSyncBackup](#shellsyncbackup) (1), [command-line translator](#command-line-translator) (1), [enhanced cat](#enhanced-cat) (1), [file management](#file-management) (1), [file recovery](#file-recovery) (2), [safe delete](#safe-delete) (3), [shell](#shell) (1), [trash management](#trash-management) (1)
-- **[rss](#rss)** (10 tools): [rss parser](#rss-parser) (1), [rss reader](#rss-reader) (6), [rss readers](#rss-readers) (1), [rss tool](#rss-tool) (1), [rss](#rss) (1)
-- **[science](#science)** (20 tools): [AcademicDownloaderCLI](#academicdownloadercli) (1), [AlternativeVCS](#alternativevcs) (1), [AudioMixer](#audiomixer) (1), [BibManagerCLI](#bibmanagercli) (1), [ConferenceTrackerCLI](#conferencetrackercli) (1), [bioinformatics](#bioinformatics) (1), [command-line translator](#command-line-translator) (1), [education](#education) (1), [enhanced cat](#enhanced-cat) (2), [fun tools](#fun-tools) (1), [game](#game) (1), [knowledge base](#knowledge-base) (3), [periodic table](#periodic-table) (2), [reference manager](#reference-manager) (1), [terminal animation](#terminal-animation) (1), [terminal games](#terminal-games) (1)
-- **[screen-recorder](#screen-recorder)** (11 tools): [svg generator](#svg-generator) (1), [terminal animation](#terminal-animation) (1), [terminal recorder](#terminal-recorder) (8), [terminal sharing](#terminal-sharing) (1)
-- **[screensaver](#screensaver)** (6 tools): [TerminalScreensaver](#terminalscreensaver) (1), [ascii aquarium](#ascii-aquarium) (1), [ascii screensaver](#ascii-screensaver) (1), [screensaver](#screensaver) (2), [terminal animations ](#terminal-animations) (1)
-- **[security](#security)** (38 tools): [EncryptionCLI](#encryptioncli) (1), [FastFindAlternative](#fastfindalternative) (1), [FileSignerCLI](#filesignercli) (1), [OneTimeSecretCLI](#onetimesecretcli) (1), [SecuritySandboxCLI](#securitysandboxcli) (1), [TOTPAuthenticatorCLI](#totpauthenticatorcli) (1), [VimEnhancer](#vimenhancer) (1), [cli encryption](#cli-encryption) (1), [code signer](#code-signer) (1), [encrypted filesystem](#encrypted-filesystem) (2), [encryption module](#encryption-module) (1), [encryption](#encryption) (2), [enhanced cat](#enhanced-cat) (1), [file encryption](#file-encryption) (1), [fuzzer](#fuzzer) (1), [gpg tools](#gpg-tools) (1), [license manager](#license-manager) (1), [oauth client](#oauth-client) (1), [package scanner](#package-scanner) (1), [password generator](#password-generator) (1), [password manager](#password-manager) (1), [password recovery](#password-recovery) (1), [secret manager](#secret-manager) (1), [secure backups](#secure-backups) (1), [security audit](#security-audit) (1), [security tools](#security-tools) (1), [shell](#shell) (1), [ssh vulnerability scan](#ssh-vulnerability-scan) (1), [ssl tools](#ssl-tools) (1), [steganography](#steganography) (5), [vulnerability scanner](#vulnerability-scanner) (1), [vulnerability viewer](#vulnerability-viewer) (1)
-- **[shells](#shells)** (25 tools): [automation shell](#automation-shell) (1), [kornshell](#kornshell) (1), [modern shell](#modern-shell) (1), [shell](#shell) (21), [text-based window manager](#text-based-window-manager) (1)
-- **[system](#system)** (39 tools): [CloudSyncManager](#cloudsyncmanager) (1), [DirectoryOrganizer](#directoryorganizer) (1), [HardwareController](#hardwarecontroller) (1), [ProcessManagerCLI](#processmanagercli) (1), [SystemMonitorTUI](#systemmonitortui) (1), [autocomplete](#autocomplete) (2), [brightness control](#brightness-control) (1), [checksum tools](#checksum-tools) (1), [clipboard manager](#clipboard-manager) (1), [clipboard tool](#clipboard-tool) (1), [command-line translator](#command-line-translator) (1), [console sharing](#console-sharing) (2), [dotfiles manager](#dotfiles-manager) (2), [enhanced cat](#enhanced-cat) (2), [env manager](#env-manager) (1), [hardware info](#hardware-info) (1), [man page viewer](#man-page-viewer) (1), [mount tools](#mount-tools) (1), [notification tool](#notification-tool) (1), [notifications](#notifications) (1), [port killer](#port-killer) (1), [process killer](#process-killer) (1), [sandbox runner](#sandbox-runner) (1), [shell logger](#shell-logger) (1), [shell](#shell) (2), [sound notifier](#sound-notifier) (1), [system inspector](#system-inspector) (1), [system manager](#system-manager) (2), [task killer](#task-killer) (1), [user management](#user-management) (1), [vcs benchmark](#vcs-benchmark) (1), [viewport tools](#viewport-tools) (1), [window info tools](#window-info-tools) (1)
-- **[terminal](#terminal)** (24 tools): [ProjectNavigatorTUI](#projectnavigatortui) (1), [SessionDetachTool](#sessiondetachtool) (1), [TmuxSessionManager](#tmuxsessionmanager) (1), [minimal terminal](#minimal-terminal) (1), [multiplexer](#multiplexer) (3), [shared-terminal](#shared-terminal) (1), [terminal emulator](#terminal-emulator) (5), [terminal manager](#terminal-manager) (1), [terminal multiplexer](#terminal-multiplexer) (1), [terminal sharing](#terminal-sharing) (5), [tmux tools](#tmux-tools) (2), [wayland terminal](#wayland-terminal) (1), [window-manager](#window-manager) (1)
-- **[text-processing](#text-processing)** (52 tools): [FileLineDeduperCLI](#filelinededupercli) (1), [FuzzySelectorCLI](#fuzzyselectorcli) (1), [LinkCheckerCLI](#linkcheckercli) (2), [TextProcessorCLI](#textprocessorcli) (1), [ascii-text-rendering](#ascii-text-rendering) (1), [browser utilities](#browser-utilities) (1), [character frequency](#character-frequency) (1), [cli formatter](#cli-formatter) (1), [code format checkers](#code-format-checkers) (1), [command-line translator](#command-line-translator) (5), [country normalizer](#country-normalizer) (1), [data extractor](#data-extractor) (1), [directory tree](#directory-tree) (1), [documentation](#documentation) (1), [enhanced cat](#enhanced-cat) (3), [file size tools](#file-size-tools) (1), [fuzzy text matcher](#fuzzy-text-matcher) (1), [hashing tools](#hashing-tools) (1), [html parsers](#html-parsers) (1), [lexicon matcher](#lexicon-matcher) (1), [line selector](#line-selector) (1), [log debugger](#log-debugger) (1), [log pattern extractor](#log-pattern-extractor) (1), [log viewer](#log-viewer) (2), [markdown viewer](#markdown-viewer) (2), [ngrams frequency analyzer](#ngrams-frequency-analyzer) (1), [output formatter](#output-formatter) (1), [pipeline builder](#pipeline-builder) (1), [scraping](#scraping) (1), [spell checker](#spell-checker) (1), [syntax highlighting](#syntax-highlighting) (1), [system info tools](#system-info-tools) (1), [terminal dashboard](#terminal-dashboard) (2), [text formatter](#text-formatter) (2), [text processing](#text-processing) (1), [text sampler](#text-sampler) (1), [text tokenizer](#text-tokenizer) (1), [text transformers](#text-transformers) (2), [url parser](#url-parser) (1), [vpn tools](#vpn-tools) (1)
-- **[text-search](#text-search)** (15 tools): [AdvancedGrepCLI](#advancedgrepcli) (2), [FastFindAlternative](#fastfindalternative) (1), [advanced grep](#advanced-grep) (2), [code analysis](#code-analysis) (1), [code search](#code-search) (2), [file search](#file-search) (1), [interactive-line-select](#interactive-line-select) (1), [natural language](#natural-language) (1), [search tool](#search-tool) (1), [semantic text search](#semantic-text-search) (1), [text search](#text-search) (2)
-- **[text-search-replace](#text-search-replace)** (6 tools): [CodeReplaceCLI](#codereplacecli) (1), [code refactoring](#code-refactoring) (1), [enhanced cat](#enhanced-cat) (1), [search tools](#search-tools) (1), [tabular-sql-query](#tabular-sql-query) (1), [text replace](#text-replace) (1)
-- **[time-tracker](#time-tracker)** (23 tools): [AlternativeVCS](#alternativevcs) (1), [HabitTrackerTUI](#habittrackertui) (1), [TimeTrackerCLI](#timetrackercli) (1), [automatic time tracker](#automatic-time-tracker) (1), [command-line translator](#command-line-translator) (1), [enhanced cat](#enhanced-cat) (1), [habit tracker](#habit-tracker) (2), [habit trackers](#habit-trackers) (1), [load monitor](#load-monitor) (1), [pomodoro tracker](#pomodoro-tracker) (1), [pomodoro](#pomodoro) (3), [productivity](#productivity) (1), [time trackers](#time-trackers) (2), [time tracking](#time-tracking) (3), [time-tracker](#time-tracker) (2), [timers](#timers) (1)
-- **[todo-manager](#todo-manager)** (35 tools): [ForensicsCLI](#forensicscli) (1), [GitBackedTodoCLI](#gitbackedtodocli) (1), [TaskManagerCLI](#taskmanagercli) (3), [TodoListTUI](#todolisttui) (1), [TwitterClientCLI](#twitterclientcli) (1), [command-line translator](#command-line-translator) (2), [feature-rich todo manager](#feature-rich-todo-manager) (1), [hierarchical todo manager](#hierarchical-todo-manager) (1), [interactive todo.txt](#interactive-todotxt) (1), [kanban](#kanban) (2), [knowledge base](#knowledge-base) (3), [note-taking](#note-taking) (1), [plain-text todo manager](#plain-text-todo-manager) (1), [project-based todo manager](#project-based-todo-manager) (1), [python todo manager](#python-todo-manager) (1), [shell history](#shell-history) (1), [task manager](#task-manager) (2), [terminal sharing](#terminal-sharing) (1), [text calendar](#text-calendar) (1), [todo manager](#todo-manager) (6), [todo managers](#todo-managers) (1), [todoist client](#todoist-client) (1), [wishlist](#wishlist) (1)
-- **[torrent](#torrent)** (8 tools): [AlternativeVCS](#alternativevcs) (1), [RPGClientTUI](#rpgclienttui) (1), [TUIBitTorrentClient](#tuibittorrentclient) (1), [TorrentClientCLI](#torrentclientcli) (1), [TorrentClientTUI](#torrentclienttui) (1), [TorrentClient](#torrentclient) (1), [terminal sharing](#terminal-sharing) (1), [torrent streamer](#torrent-streamer) (1)
-- **[transfer](#transfer)** (44 tools): [ClipboardManagerCLI](#clipboardmanagercli) (1), [CloudFileDownloaderCLI](#cloudfiledownloadercli) (1), [CloudSyncManager](#cloudsyncmanager) (1), [DownloadManagerCLI](#downloadmanagercli) (1), [FTPClient](#ftpclient) (1), [FileSharingCLI](#filesharingcli) (1), [FileSharingOverTor](#filesharingovertor) (1), [FileSynchronizer](#filesynchronizer) (1), [FileTransferCLI](#filetransfercli) (4), [FileTransferP2PCLI](#filetransferp2pcli) (1), [HTTPIEAlternative](#httpiealternative) (1), [LocalHTTPFileServer](#localhttpfileserver) (1), [NetworkDataFetcherCLI](#networkdatafetchercli) (1), [ShellSyncBackup](#shellsyncbackup) (1), [SiteSyncOverFTP](#sitesyncoverftp) (1), [TranslatorCLI](#translatorcli) (1), [VideoDownloaderCLI](#videodownloadercli) (1), [YouTubeSearchPlayerCLI](#youtubesearchplayercli) (1), [YouTubeToMP3Downloader](#youtubetomp3downloader) (1), [clipboard sync](#clipboard-sync) (2), [code sharing](#code-sharing) (1), [downloader](#downloader) (1), [enhanced cat](#enhanced-cat) (1), [file sharing tool](#file-sharing-tool) (1), [file sharing](#file-sharing) (3), [file sync](#file-sync) (1), [github file downloader](#github-file-downloader) (1), [knowledge base](#knowledge-base) (1), [media downloader](#media-downloader) (1), [rclone frontend](#rclone-frontend) (1), [rss tools](#rss-tools) (1), [scp alternative](#scp-alternative) (1), [shell](#shell) (1), [telegram tools](#telegram-tools) (1), [terminal sharing](#terminal-sharing) (1), [video downloader](#video-downloader) (2), [youtube downloader](#youtube-downloader) (1)
-- **[typing](#typing)** (16 tools): [HotkeyManager](#hotkeymanager) (1), [TerminalGame(TypingTrainer)](#terminalgametypingtrainer) (1), [typing game](#typing-game) (3), [typing practice ](#typing-practice) (1), [typing practice](#typing-practice) (3), [typing speed test](#typing-speed-test) (1), [typing test](#typing-test) (5), [typing tutor](#typing-tutor) (1)
-- **[utility](#utility)** (46 tools): [ClipboardHelperCLI](#clipboardhelpercli) (1), [DesktopEntryGenerator](#desktopentrygenerator) (1), [alerting](#alerting) (1), [bash learning tool](#bash-learning-tool) (1), [bash utils](#bash-utils) (1), [caching](#caching) (1), [checksum tool](#checksum-tool) (1), [colorizer](#colorizer) (1), [command launcher](#command-launcher) (1), [command watcher](#command-watcher) (1), [config validator](#config-validator) (1), [developer automation](#developer-automation) (1), [devtools](#devtools) (1), [emoji generators](#emoji-generators) (1), [enhanced cat](#enhanced-cat) (1), [env manager](#env-manager) (1), [file remover](#file-remover) (1), [file utilities](#file-utilities) (1), [fzf tools](#fzf-tools) (1), [image recognition](#image-recognition) (1), [installer](#installer) (1), [language learning](#language-learning) (1), [log generators](#log-generators) (1), [movie info tools](#movie-info-tools) (1), [performance tools](#performance-tools) (1), [process monitor](#process-monitor) (1), [progress viewer](#progress-viewer) (1), [regex practice](#regex-practice) (1), [semantic search](#semantic-search) (1), [shell customization](#shell-customization) (1), [shell enhancements](#shell-enhancements) (1), [shell](#shell) (2), [spell checker](#spell-checker) (1), [stock tracker](#stock-tracker) (1), [table generator](#table-generator) (1), [terminal games](#terminal-games) (1), [terminal navigation](#terminal-navigation) (1), [terminal sharing](#terminal-sharing) (2), [terminal testing](#terminal-testing) (1), [terminal themes](#terminal-themes) (1), [unicode tools](#unicode-tools) (1), [weather](#weather) (2), [wellness](#wellness) (1)
-- **[versioning](#versioning)** (9 tools): [AlternativeVCS](#alternativevcs) (3), [RepoManagerCLI](#repomanagercli) (1), [fossil interface](#fossil-interface) (1), [git manage](#git-manage) (1), [git translator](#git-translator) (1), [terminal sharing](#terminal-sharing) (1), [version control](#version-control) (1)
-- **[video](#video)** (14 tools): [LightweightAudioPlayer](#lightweightaudioplayer) (1), [MediaConverterCLI](#mediaconvertercli) (1), [VideoEditorCLI](#videoeditorcli) (1), [YouTubeAudioSplitter](#youtubeaudiosplitter) (1), [ascii video](#ascii-video) (1), [audio translator](#audio-translator) (1), [downloader](#downloader) (1), [screen recording](#screen-recording) (1), [video converter](#video-converter) (1), [video info](#video-info) (1), [video meme](#video-meme) (1), [video streaming](#video-streaming) (1), [youtube browser](#youtube-browser) (1), [youtube client](#youtube-client) (1)
-- **[viewers](#viewers)** (34 tools): [ImageViewer(ASCII)](#imageviewerascii) (2), [MarkdownViewer(GUI/CLI)](#markdownviewerguicli) (1), [TerminalIPTVPlayer](#terminaliptvplayer) (1), [TerminalImageViewer](#terminalimageviewer) (1), [VideoAudioPlayer(GUI/CLI)](#videoaudioplayerguicli) (2), [YouTubeVideoSearcher](#youtubevideosearcher) (1), [article readers](#article-readers) (1), [audio visualizer](#audio-visualizer) (1), [cli reader](#cli-reader) (1), [comic reader](#comic-reader) (1), [command-line translator](#command-line-translator) (4), [ebook reader](#ebook-reader) (2), [enhanced cat](#enhanced-cat) (2), [github tools](#github-tools) (1), [interactive tail viewer](#interactive-tail-viewer) (1), [ipynb viewer](#ipynb-viewer) (1), [jupyter notebook viewer](#jupyter-notebook-viewer) (1), [kafka viewer](#kafka-viewer) (1), [markdown viewer](#markdown-viewer) (1), [media viewer](#media-viewer) (1), [news reader](#news-reader) (3), [rss reader](#rss-reader) (1), [terminal process viewer](#terminal-process-viewer) (1), [vcs viewer](#vcs-viewer) (1), [youtube client](#youtube-client) (1)
-- **[vm](#vm)** (23 tools): [QEMU UI](#qemu-ui) (1), [android emulation](#android-emulation) (1), [container inspector](#container-inspector) (1), [container manager](#container-manager) (2), [container tools](#container-tools) (1), [container](#container) (5), [dev environment](#dev-environment) (1), [docker analysis](#docker-analysis) (1), [docker management](#docker-management) (2), [docker manager](#docker-manager) (1), [docker tool](#docker-tool) (1), [docker tools](#docker-tools) (1), [docker tui](#docker-tui) (1), [emulator](#emulator) (1), [resource monitor](#resource-monitor) (1), [shell](#shell) (1), [virtualization](#virtualization) (1)
-- **[webdev](#webdev)** (30 tools): [APIClientCLI](#apiclientcli) (1), [AlternativeVCS](#alternativevcs) (1), [GitBackedWikiEngine](#gitbackedwikiengine) (1), [LinkCheckerCLI](#linkcheckercli) (1), [LoadTestingTool](#loadtestingtool) (1), [Network tools](#network-tools) (1), [ReconToolCLI](#recontoolcli) (1), [StaticSiteGenerator](#staticsitegenerator) (3), [TextToMorseCLI](#texttomorsecli) (1), [api client](#api-client) (1), [api tool](#api-tool) (1), [cleanup tools](#cleanup-tools) (1), [cloud storage clients](#cloud-storage-clients) (1), [deployment tools](#deployment-tools) (1), [django tools](#django-tools) (1), [enhanced cat](#enhanced-cat) (1), [file generator](#file-generator) (1), [html/xml tools](#htmlxml-tools) (1), [http clients](#http-clients) (1), [load testing](#load-testing) (2), [pentest suite](#pentest-suite) (1), [screenshot tools](#screenshot-tools) (1), [shopify dev](#shopify-dev) (1), [static site deployers](#static-site-deployers) (1), [terminal sharing](#terminal-sharing) (1), [uptime checkers](#uptime-checkers) (1), [web crawlers](#web-crawlers) (1)
-- **[writing](#writing)** (11 tools): [Translation](#translation) (1), [command-line translator](#command-line-translator) (1), [dictionary](#dictionary) (2), [grammar checker](#grammar-checker) (1), [markdown tools](#markdown-tools) (1), [story generator](#story-generator) (1), [terminal sharing](#terminal-sharing) (1), [text linting](#text-linting) (1), [vocabulary builder](#vocabulary-builder) (1), [writing linter](#writing-linter) (1)
+- **[ai](#ai-)** (37 tools): [AI assistant](#ai-assistant-), [AI terminal assistant](#ai-terminal-assistant-), [ai assistant](#ai-assistant-), [ai chatbot](#ai-chatbot-), [ai cli](#ai-cli-), [ai toolkit](#ai-toolkit-), [ai workflow engine](#ai-workflow-engine-), [alibaba scraper](#alibaba-scraper-), [autonomous agent](#autonomous-agent-), [chatgpt cli](#chatgpt-cli-), [chatgpt client](#chatgpt-client-), [chatgpt tools](#chatgpt-tools-), [chatgpt](#chatgpt-), [cli assistant](#cli-assistant-), [git tool](#git-tool-), [gpt-powered parser](#gpt-powered-parser-), [http tools](#http-tools-), [llm runner](#llm-runner-), [natural language](#natural-language-), [ollama client](#ollama-client-), [pipeable ai chat](#pipeable-ai-chat-), [team knowledge AI](#team-knowledge-ai-), [terminal assistant](#terminal-assistant-), [terminal ui](#terminal-ui-)
+- **[animation](#animation-)** (33 tools): [AsciiTerminalAnimation](#asciiterminalanimation-), [EducationalCryptoVisualizer](#educationalcryptovisualizer-), [ImageViewer(ASCII)](#imageviewerascii-), [SpinnerCLI](#spinnercli-), [ascii animation](#ascii-animation-), [ascii art](#ascii-art-), [ascii effects](#ascii-effects-), [ascii renderer](#ascii-renderer-), [ascii tree generator](#ascii-tree-generator-), [cli clocks](#cli-clocks-), [enhanced cat](#enhanced-cat-), [maze generator](#maze-generator-), [simulation](#simulation-), [terminal animation](#terminal-animation-), [terminal fun](#terminal-fun-), [text effects](#text-effects-)
+- **[backup](#backup-)** (19 tools): [AlternativeVCS](#alternativevcs-), [BackupAutomationWrapper](#backupautomationwrapper-), [EncryptedBackupCLI](#encryptedbackupcli-), [EncryptedBackupTool](#encryptedbackuptool-), [GpgCompressedBackupTool](#gpgcompressedbackuptool-), [PaperBarcodeBackup](#paperbarcodebackup-), [ShellSyncBackup](#shellsyncbackup-), [backup tool](#backup-tool-), [cli backup](#cli-backup-), [git backup](#git-backup-), [git-based backup](#git-based-backup-), [network backup](#network-backup-), [restic config](#restic-config-), [restic wrapper](#restic-wrapper-), [thread archiver](#thread-archiver-), [workspace backup](#workspace-backup-)
+- **[browser](#browser-)** (19 tools): [FastFindAlternative](#fastfindalternative-), [FuzzyFinderPlugin](#fuzzyfinderplugin-), [GeminiClientTUI](#geminiclienttui-), [PlaceSearchCLI](#placesearchcli-), [StatusSyncCLI](#statussynccli-), [TerminalBrowserTUI](#terminalbrowsertui-), [TerminalWebBrowser](#terminalwebbrowser-), [TextBasedWebBrowser](#textbasedwebbrowser-), [WebSearchCLI](#websearchcli-), [arXivSearcher](#arxivsearcher-), [console sharing](#console-sharing-), [fuzzy‑search](#fuzzysearch-), [rss reader](#rss-reader-), [text browser](#text-browser-), [web browser](#web-browser-)
+- **[calc](#calc-)** (18 tools): [AdvancedCalculators](#advancedcalculators-), [MathCLI](#mathcli-), [StorageCalculatorCLI](#storagecalculatorcli-), [TerminalCalculator](#terminalcalculator-), [TimeDiffCalculatorCLI](#timediffcalculatorcli-), [bitwise tools](#bitwise-tools-), [calculator](#calculator-), [calculators](#calculators-), [expression calc](#expression-calc-), [math engine](#math-engine-), [programmer tools](#programmer-tools-)
+- **[cd](#cd-)** (23 tools): [FastCdTool](#fastcdtool-), [ShellSyncBackup](#shellsyncbackup-), [SmartDirectoryNavigatorCLI](#smartdirectorynavigatorcli-), [TerminalFileManager](#terminalfilemanager-), [cd enhancement](#cd-enhancement-), [cd enhancer](#cd-enhancer-), [cd tool](#cd-tool-), [directory jumper](#directory-jumper-), [directory jumpers](#directory-jumpers-), [directory switcher](#directory-switcher-), [enhanced cat](#enhanced-cat-), [file browser](#file-browser-), [navigation tools](#navigation-tools-), [path manager](#path-manager-), [project switchers](#project-switchers-), [shell completion](#shell-completion-), [shell](#shell-)
+- **[chat](#chat-)** (36 tools): [RedditClientTUI](#redditclienttui-), [SSHChatServerCLI](#sshchatservercli-), [TerminalIRCClient](#terminalircclient-), [TerminalMessenger](#terminalmessenger-), [TerminalTwitterClient](#terminaltwitterclient-), [bbs client](#bbs-client-), [chat clients](#chat-clients-), [chat over ssh](#chat-over-ssh-), [chat](#chat-), [decentralized chat](#decentralized-chat-), [discord client](#discord-client-), [fediverse client](#fediverse-client-), [irc client](#irc-client-), [mastodon client](#mastodon-client-), [matrix client](#matrix-client-), [messaging](#messaging-), [notification tools](#notification-tools-), [signal client](#signal-client-), [social clients](#social-clients-), [telegram client](#telegram-client-), [terminal sharing](#terminal-sharing-), [tox client](#tox-client-), [twitch clients](#twitch-clients-), [twitch tools](#twitch-tools-), [xmpp client](#xmpp-client-)
+- **[cheatsheet](#cheatsheet-)** (27 tools): [AliasGeneratorCLI](#aliasgeneratorcli-), [CommandExplainerCLI](#commandexplainercli-), [FastFindAlternative](#fastfindalternative-), [InteractiveCheatsheetCLI](#interactivecheatsheetcli-), [TerminalHelpFetcher](#terminalhelpfetcher-), [autocomplete](#autocomplete-), [cheatsheets](#cheatsheets-), [cli assistant](#cli-assistant-), [command correctors](#command-correctors-), [command history](#command-history-), [command-line translator](#command-line-translator-), [devops notebook runner](#devops-notebook-runner-), [enhanced cat](#enhanced-cat-), [fuzzy finder](#fuzzy-finder-), [fzf cheatsheet](#fzf-cheatsheet-), [fzf tools](#fzf-tools-), [knowledge base](#knowledge-base-), [manuals](#manuals-), [script launcher](#script-launcher-), [snippet manager](#snippet-manager-), [table generator](#table-generator-)
+- **[conversion](#conversion-)** (16 tools): [DataFormatConverterCLI](#dataformatconvertercli-), [MultiFormatDocumentConverter](#multiformatdocumentconverter-), [Translation](#translation-), [WordToTextConverter](#wordtotextconverter-), [audio tools](#audio-tools-), [css tools](#css-tools-), [data automation](#data-automation-), [doc extractor](#doc-extractor-), [doc viewer](#doc-viewer-), [document converter](#document-converter-), [file conversion](#file-conversion-), [format converters](#format-converters-), [pdf converter](#pdf-converter-), [resume tools](#resume-tools-)
+- **[copilot](#copilot-)** (11 tools): [AI assistant](#ai-assistant-), [ai assistant](#ai-assistant-), [ai coding assistant](#ai-coding-assistant-), [chatgpt cli](#chatgpt-cli-), [chatgpt](#chatgpt-), [copilot](#copilot-), [gpt assistant](#gpt-assistant-), [gpt cli](#gpt-cli-), [llama cli](#llama-cli-), [shell assistant](#shell-assistant-), [shell](#shell-)
+- **[data-management](#data-management-)** (16 tools): [APIReaderCLI](#apireadercli-), [AsciiChartCLI](#asciichartcli-), [DataQueryCLI](#dataquerycli-), [DateTimeProcessingCLI](#datetimeprocessingcli-), [RedisViewerTUI](#redisviewertui-), [TerminalDataVisualizer](#terminaldatavisualizer-), [TextDatabaseCLI](#textdatabasecli-), [command-line translator](#command-line-translator-), [data processing](#data-processing-), [database client](#database-client-), [dataset generator](#dataset-generator-), [enhanced cat](#enhanced-cat-), [process monitor](#process-monitor-), [shell](#shell-), [terminal dashboard](#terminal-dashboard-), [terminal sharing](#terminal-sharing-)
+- **[data-management-json](#data-management-json-)** (44 tools): [ImageViewer(ASCII)](#imageviewerascii-), [JSONInspector](#jsoninspector-), [JSONTransformerCLI](#jsontransformercli-), [JSONViewerTUI](#jsonviewertui-), [advanced grep](#advanced-grep-), [cli scripting](#cli-scripting-), [command-line translator](#command-line-translator-), [enhanced cat](#enhanced-cat-), [format converter](#format-converter-), [json editor](#json-editor-), [json filter](#json-filter-), [json formatter](#json-formatter-), [json generator](#json-generator-), [json parser](#json-parser-), [json processor](#json-processor-), [json processors](#json-processors-), [json query tools](#json-query-tools-), [json query](#json-query-), [json search](#json-search-), [json table](#json-table-), [json toolkit](#json-toolkit-), [json tools](#json-tools-), [json viewer](#json-viewer-), [json viewers](#json-viewers-), [json-processing](#json-processing-), [json-yaml converter](#json-yaml-converter-), [record analysis](#record-analysis-), [shell](#shell-), [task management](#task-management-), [yaml tools](#yaml-tools-)
+- **[data-management-tabular](#data-management-tabular-)** (30 tools): [CSVProcessingCLI](#csvprocessingcli-), [CSVProcessorCLI](#csvprocessorcli-), [CSVQueryCLI](#csvquerycli-), [DatabaseManagerTUI](#databasemanagertui-), [GitStatistics](#gitstatistics-), [SQLClientCLI](#sqlclientcli-), [SQLGitDatabase](#sqlgitdatabase-), [TSVProcessingCLI](#tsvprocessingcli-), [TabularDataTUI](#tabulardatatui-), [cli client](#cli-client-), [command-line translator](#command-line-translator-), [csv tool](#csv-tool-), [csv tools](#csv-tools-), [csv viewer](#csv-viewer-), [database manager](#database-manager-), [enhanced cat](#enhanced-cat-), [json-processing](#json-processing-), [sql tools](#sql-tools-), [sql tui](#sql-tui-), [sql-on-csv](#sql-on-csv-), [sqlite client](#sqlite-client-), [sqlite server](#sqlite-server-), [sqlite](#sqlite-)
+- **[devops](#devops-)** (8 tools): [DevEnvironmentManager](#devenvironmentmanager-), [aws cli](#aws-cli-), [build tools](#build-tools-), [cloud clients](#cloud-clients-), [kubectl context switcher](#kubectl-context-switcher-), [kubernetes log viewer](#kubernetes-log-viewer-), [kubernetes](#kubernetes-), [unikernel](#unikernel-)
+- **[diff](#diff-)** (11 tools): [AlternativeVCS](#alternativevcs-), [GitStatistics](#gitstatistics-), [PDFDiffTool](#pdfdifftool-), [csv comparison](#csv-comparison-), [diff visualizer](#diff-visualizer-), [directory diff](#directory-diff-), [enhanced cat](#enhanced-cat-), [string distance](#string-distance-), [yaml diff](#yaml-diff-)
+- **[disk-analyzer](#disk-analyzer-)** (12 tools): [DiskAnalyzerTUI](#diskanalyzertui-), [DiskUsageHistogram](#diskusagehistogram-), [FastFindAlternative](#fastfindalternative-), [NcursesDiskAnalyzer](#ncursesdiskanalyzer-), [StylizedDiskUsageReporter](#stylizeddiskusagereporter-)
+- **[editors](#editors-)** (27 tools): [NoteTakingTUI](#notetakingtui-), [TUIEditor](#tuieditor-), [TerminalEditor](#terminaleditor-), [TerminalTextEditor](#terminaltexteditor-), [TextEditorTUI](#texteditortui-), [advanced-extensible](#advanced-extensible-), [gui-easy-editor](#gui-easy-editor-), [gui-sublime-inspired](#gui-sublime-inspired-), [lightweight-stable](#lightweight-stable-), [lightweight-userfriendly](#lightweight-userfriendly-), [line editor](#line-editor-), [minimalist-writing](#minimalist-writing-), [modal-powerful](#modal-powerful-), [modal-traditional](#modal-traditional-), [modern-nano-like](#modern-nano-like-), [neovim frontend](#neovim-frontend-), [text editor](#text-editor-), [vim-inspired-minimal](#vim-inspired-minimal-), [vim-like-lightweight](#vim-like-lightweight-)
+- **[email](#email-)** (18 tools): [EmailGeneratorCLI](#emailgeneratorcli-), [MailSyncTool](#mailsynctool-), [TemporaryEmailCLI](#temporaryemailcli-), [TerminalEmailClient](#terminalemailclient-), [cli email](#cli-email-), [disposable email](#disposable-email-), [email alias manager](#email-alias-manager-), [email analyzer](#email-analyzer-), [email client](#email-client-), [email tools](#email-tools-), [resource monitor](#resource-monitor-), [slack mail interface](#slack-mail-interface-)
+- **[file-dir-cleanup](#file-dir-cleanup-)** (13 tools): [DirectoryOrganizer](#directoryorganizer-), [DuplicateFileFinder](#duplicatefilefinder-), [FilenameSanitizer](#filenamesanitizer-), [ModernFileManager](#modernfilemanager-), [deduplication](#deduplication-), [directory organizer](#directory-organizer-), [duplicate finder](#duplicate-finder-), [file cleanup](#file-cleanup-), [file deduplication](#file-deduplication-), [file organizers](#file-organizers-), [folder organizer](#folder-organizer-), [gamified file manager](#gamified-file-manager-), [metadata remover](#metadata-remover-)
+- **[file-explorer](#file-explorer-)** (11 tools): [DirectoryTreePrinter](#directorytreeprinter-), [ModernFileManager](#modernfilemanager-), [directory viewers](#directory-viewers-), [enhanced cat](#enhanced-cat-), [file browser](#file-browser-), [file explorer](#file-explorer-), [file manager](#file-manager-), [terminal file explorer](#terminal-file-explorer-), [tui file explorer](#tui-file-explorer-)
+- **[file-handling](#file-handling-)** (28 tools): [ArchiveAutoExtractor](#archiveautoextractor-), [FileInspectorCLI](#fileinspectorcli-), [ModernFileManager](#modernfilemanager-), [ProgressCopyTool](#progresscopytool-), [ShellSyncBackup](#shellsyncbackup-), [TemporaryPasteCLI](#temporarypastecli-), [archive manager](#archive-manager-), [cloud storage](#cloud-storage-), [compression](#compression-), [copy progress monitor](#copy-progress-monitor-), [directory visualizer](#directory-visualizer-), [downloads organizer](#downloads-organizer-), [enhanced cat](#enhanced-cat-), [file deployer](#file-deployer-), [file permissions](#file-permissions-), [file transfer](#file-transfer-), [file utilities](#file-utilities-), [filesystem sandbox](#filesystem-sandbox-), [filesystem tools](#filesystem-tools-), [gui-easy-editor](#gui-easy-editor-), [library browser](#library-browser-), [log management](#log-management-), [media streamer](#media-streamer-), [shell](#shell-), [symlink tools](#symlink-tools-), [system monitor](#system-monitor-), [vcs client](#vcs-client-)
+- **[file-manager](#file-manager-)** (22 tools): [DualPaneFileManager](#dualpanefilemanager-), [LightweightFileManager](#lightweightfilemanager-), [ModalFileManager](#modalfilemanager-), [ModernFileManager](#modernfilemanager-), [TerminalFileManager](#terminalfilemanager-), [ViKeybindingsFileManager](#vikeybindingsfilemanager-), [VisualFileManager](#visualfilemanager-), [file manager](#file-manager-), [project manager](#project-manager-), [shell](#shell-), [terminal file manager](#terminal-file-manager-), [terminal file managers](#terminal-file-managers-)
+- **[file-renamer](#file-renamer-)** (14 tools): [BulkRenamerCLI](#bulkrenamercli-), [BulkRenamer](#bulkrenamer-), [InteractiveRenamer](#interactiverenamer-), [Translation](#translation-), [enhanced cat](#enhanced-cat-), [file manager](#file-manager-), [file renamer](#file-renamer-), [file renamers](#file-renamers-), [gui-easy-editor](#gui-easy-editor-), [image renamer](#image-renamer-), [music file tools](#music-file-tools-), [search tools](#search-tools-)
+- **[file-system](#file-system-)** (4 tools): [FileTaggerCLI](#filetaggercli-), [RemoteFilesystemMounting](#remotefilesystemmounting-), [TagBasedVirtualFS](#tagbasedvirtualfs-), [deployment tools](#deployment-tools-)
+- **[file-watch](#file-watch-)** (7 tools): [DirectoryWatcher](#directorywatcher-), [FileWatcherCLI](#filewatchercli-), [ProcessMonitorTUI](#processmonitortui-), [ShellSyncBackup](#shellsyncbackup-), [file monitor](#file-monitor-), [file watcher](#file-watcher-), [file watchers](#file-watchers-)
+- **[financial](#financial-)** (17 tools): [AccountingCLI](#accountingcli-), [Accounting](#accounting-), [CloudSyncManager](#cloudsyncmanager-), [CryptoTUI](#cryptotui-), [FinanceCLI](#financecli-), [TerminalFinanceTracker](#terminalfinancetracker-), [accounting](#accounting-), [bitcoin cli](#bitcoin-cli-), [budget tracking](#budget-tracking-), [currency converters](#currency-converters-), [enhanced cat](#enhanced-cat-), [exchange rates](#exchange-rates-), [invoice generator](#invoice-generator-), [log viewer](#log-viewer-)
+- **[find](#find-)** (8 tools): [FastFileLocator](#fastfilelocator-), [FastFindAlternative](#fastfindalternative-), [enhanced cat](#enhanced-cat-), [file finder](#file-finder-), [file search](#file-search-), [fuzzy finders](#fuzzy-finders-), [fuzzy‑search](#fuzzysearch-), [grep alternative](#grep-alternative-)
+- **[flashcard](#flashcard-)** (10 tools): [FlashcardTrainerTUI](#flashcardtrainertui-), [anki tool](#anki-tool-), [cli learning tools](#cli-learning-tools-), [flashcard tool](#flashcard-tool-), [flashcard tools](#flashcard-tools-), [flashcards](#flashcards-), [nextcloud tool](#nextcloud-tool-), [vocabulary trainer](#vocabulary-trainer-)
+- **[font](#font-)** (4 tools): [ascii art](#ascii-art-), [ascii-text-rendering](#ascii-text-rendering-), [font manager](#font-manager-), [visual-effects-rendering](#visual-effects-rendering-)
+- **[funny](#funny-)** (18 tools): [AsciiSpeechGenerato](#asciispeechgenerato-), [AsciiSpeechGenerator](#asciispeechgenerator-), [EmojiPickerCLI](#emojipickercli-), [FunCLI](#funcli-), [MatrixVideoConfCLI](#matrixvideoconfcli-), [PokemonFetcherCLI](#pokemonfetchercli-), [QuoteGeneratorCLI](#quotegeneratorcli-), [cli fun](#cli-fun-), [enhanced cat](#enhanced-cat-), [fun / novelty](#fun-novelty-), [fun](#fun-), [funny aliases](#funny-aliases-), [funny tools](#funny-tools-), [terminal animation](#terminal-animation-), [terminal drawing tool](#terminal-drawing-tool-), [text decoration](#text-decoration-)
+- **[games](#games-)** (62 tools): [APIClientCLI](#apiclientcli-), [AdvancedCalculators](#advancedcalculators-), [GameCLI](#gamecli-), [GameTUI](#gametui-), [TUI RogueGame](#tui-roguegame-), [TerminalBoardGames](#terminalboardgames-), [TerminalChessAI](#terminalchessai-), [TerminalGame(Minesweeper)](#terminalgameminesweeper-), [TerminalGame(PuzzlePlatformer)](#terminalgamepuzzleplatformer-), [TerminalGame(Roguelike)](#terminalgameroguelike-), [TerminalGame(SimulationStrategy)](#terminalgamesimulationstrategy-), [TerminalGame(SurvivalRPG)](#terminalgamesurvivalrpg-), [TerminalGame(Tetris)](#terminalgametetris-), [TerminalGameCLI](#terminalgamecli-), [TerminalGameTUI](#terminalgametui-), [TerminalGame](#terminalgame-), [WordleGameTUI](#wordlegametui-), [ascii fps game](#ascii-fps-game-), [chess](#chess-), [cli game](#cli-game-), [enhanced cat](#enhanced-cat-), [game editor](#game-editor-), [game](#game-), [interactive fiction](#interactive-fiction-), [irc bot game](#irc-bot-game-), [minesweeper](#minesweeper-), [puzzle game](#puzzle-game-), [shell](#shell-), [terminal chess](#terminal-chess-), [terminal game](#terminal-game-), [terminal games](#terminal-games-), [tetris game](#tetris-game-), [tui chess client](#tui-chess-client-), [word games](#word-games-), [wordle solver](#wordle-solver-)
+- **[git](#git-)** (62 tools): [AlternativeVCS](#alternativevcs-), [CloudSyncManager](#cloudsyncmanager-), [CommitHelperCLI](#commithelpercli-), [CommitMessageHelperCLI](#commitmessagehelpercli-), [DistributedVersionControl](#distributedversioncontrol-), [GitEnhancerCLI](#gitenhancercli-), [GitFzfCLI](#gitfzfcli-), [GitInterface(TUI)](#gitinterfacetui-), [GitRemoteHelperCLI](#gitremotehelpercli-), [GitRepoManagerCLI](#gitrepomanagercli-), [GitSearchCLI](#gitsearchcli-), [GitSecretManagerCLI](#gitsecretmanagercli-), [GitServerTUI](#gitservertui-), [GitStatisticsCLI](#gitstatisticscli-), [GitStatistics](#gitstatistics-), [GitTUIWrapper](#gittuiwrapper-), [GitVisualizerCLI](#gitvisualizercli-), [GitforLargeFiles](#gitforlargefiles-), [SelfHostedGitServer](#selfhostedgitserver-), [cd helper](#cd-helper-), [changelog tools](#changelog-tools-), [dotfiles manager](#dotfiles-manager-), [enhanced cat](#enhanced-cat-), [git TUI tools](#git-tui-tools-), [git analytics](#git-analytics-), [git assistant](#git-assistant-), [git automation](#git-automation-), [git autosync](#git-autosync-), [git clients](#git-clients-), [git commit tools](#git-commit-tools-), [git diff viewer](#git-diff-viewer-), [git export](#git-export-), [git helper](#git-helper-), [git helpers](#git-helpers-), [git hook](#git-hook-), [git profile](#git-profile-), [git tool](#git-tool-), [git tools](#git-tools-), [git tui](#git-tui-), [github dashboard](#github-dashboard-), [github graph](#github-graph-), [github prs tracker](#github-prs-tracker-), [repo cleaner](#repo-cleaner-), [secret scanner](#secret-scanner-), [sourcehut git client](#sourcehut-git-client-)
+- **[graphics](#graphics-)** (45 tools): [BackupAutomationWrapper](#backupautomationwrapper-), [ColorToolCLI](#colortoolcli-), [FractalCLI](#fractalcli-), [ImageEditingConversion](#imageeditingconversion-), [ImageProcessorCLI](#imageprocessorcli-), [ImageToASCII](#imagetoascii-), [ImageViewer(ASCII)](#imageviewerascii-), [SVGSlideExporterCLI](#svgslideexportercli-), [ScreenshotUtility](#screenshotutility-), [ai image search](#ai-image-search-), [ascii art](#ascii-art-), [ascii diagram](#ascii-diagram-), [ascii paint](#ascii-paint-), [ascii renderer](#ascii-renderer-), [ascii screenshot tool](#ascii-screenshot-tool-), [barcode scanner](#barcode-scanner-), [color picker](#color-picker-), [command-line translator](#command-line-translator-), [diagram scripting](#diagram-scripting-), [enhanced cat](#enhanced-cat-), [gif editors](#gif-editors-), [gif tools](#gif-tools-), [graph visualization](#graph-visualization-), [image optimizer](#image-optimizer-), [image preview](#image-preview-), [image processing](#image-processing-), [image tool](#image-tool-), [map viewers](#map-viewers-), [maps](#maps-), [meme generator](#meme-generator-), [screenshot decorators](#screenshot-decorators-), [screenshot tools](#screenshot-tools-), [space visualizer](#space-visualizer-), [svg color modifier](#svg-color-modifier-), [svg optimizers](#svg-optimizers-), [syntax highlighting](#syntax-highlighting-), [terminal image](#terminal-image-), [terrain generator](#terrain-generator-)
+- **[history](#history-)** (4 tools): [command-line translator](#command-line-translator-), [history manager](#history-manager-), [productivity](#productivity-)
+- **[launcher](#launcher-)** (23 tools): [ApplicationLauncherTUI](#applicationlaunchertui-), [CLI task runner](#cli-task-runner-), [CommandOrchestratorCLI](#commandorchestratorcli-), [FileWatcherCLI](#filewatchercli-), [MultiCommandRunnerTUI](#multicommandrunnertui-), [app launcher](#app-launcher-), [batch queue](#batch-queue-), [build tool](#build-tool-), [command palette](#command-palette-), [file watchers](#file-watchers-), [launcher](#launcher-), [parallel execution](#parallel-execution-), [shell launcher](#shell-launcher-), [shell](#shell-), [task manager](#task-manager-), [task runner](#task-runner-), [vagrant helper](#vagrant-helper-)
+- **[ls](#ls-)** (10 tools): [EnhancedLsRewrite](#enhancedlsrewrite-), [GitStatistics](#gitstatistics-), [ModernFileManager](#modernfilemanager-), [RustLsReplacement](#rustlsreplacement-), [enhanced cat](#enhanced-cat-), [ls color tool](#ls-color-tool-), [ls color](#ls-color-), [tree viewer](#tree-viewer-)
+- **[markdown](#markdown-)** (10 tools): [MarkdownBookBuilder](#markdownbookbuilder-), [MarkdownTUI](#markdowntui-), [MarkdownViewer(GUI/CLI)](#markdownviewerguicli-), [knowledge base](#knowledge-base-), [markdown parser](#markdown-parser-), [markdown preview](#markdown-preview-), [markdown tool](#markdown-tool-), [markdown tools](#markdown-tools-), [markdown viewer](#markdown-viewer-)
+- **[monitor](#monitor-)** (36 tools): [BenchmarkCLI](#benchmarkcli-), [DiskInspectorCLI](#diskinspectorcli-), [IO monitor](#io-monitor-), [ImageViewer(ASCII)](#imageviewerascii-), [LogViewerTUI](#logviewertui-), [SystemHardwareInspector](#systemhardwareinspector-), [battery monitor](#battery-monitor-), [load monitor](#load-monitor-), [log viewer](#log-viewer-), [memory usage](#memory-usage-), [monitoring](#monitoring-), [neofetch](#neofetch-), [network grep](#network-grep-), [network scanner](#network-scanner-), [packet analyzer](#packet-analyzer-), [power monitor](#power-monitor-), [ram info](#ram-info-), [resource monitor](#resource-monitor-), [serial monitor](#serial-monitor-), [syscall monitor](#syscall-monitor-), [system fetcher](#system-fetcher-), [system info](#system-info-), [system information](#system-information-), [system monitor](#system-monitor-), [terminal sharing](#terminal-sharing-)
+- **[monitor-top](#monitor-top-)** (26 tools): [FastFindAlternative](#fastfindalternative-), [IO monitor](#io-monitor-), [ResourceMonitorTUI](#resourcemonitortui-), [gpu monitor](#gpu-monitor-), [process monitor](#process-monitor-), [process viewer,](#process-viewer-), [process viewer](#process-viewer-), [resource monitor](#resource-monitor-), [system monitor](#system-monitor-), [task manager](#task-manager-)
+- **[music](#music-)** (55 tools): [AudioMixerCLI](#audiomixercli-), [AudioMixer](#audiomixer-), [LightweightAudioPlayer](#lightweightaudioplayer-), [MusicAppFramework](#musicappframework-), [MusicDownloaderCLI](#musicdownloadercli-), [MusicLibraryManager](#musiclibrarymanager-), [PodcastClientTUI](#podcastclienttui-), [SpotifyClientTUI](#spotifyclienttui-), [TerminalAudioPlayer(ogg)](#terminalaudioplayerogg-), [TerminalMusicPlayer(MPD)](#terminalmusicplayermpd-), [TerminalMusicPlayer](#terminalmusicplayer-), [TerminalMusicVisualizer](#terminalmusicvisualizer-), [TextToSpeech](#texttospeech-), [YouTubeAudioCLI](#youtubeaudiocli-), [YouTubeToMP3Downloader](#youtubetomp3downloader-), [audio player](#audio-player-), [audio visualizer](#audio-visualizer-), [audiobook manager](#audiobook-manager-), [cli midi](#cli-midi-), [cli music player](#cli-music-player-), [debugging](#debugging-), [media control](#media-control-), [music catalog](#music-catalog-), [music player](#music-player-), [music scraper](#music-scraper-), [music theory](#music-theory-), [podcast downloader](#podcast-downloader-), [podcast ui for newsboat](#podcast-ui-for-newsboat-), [radio player](#radio-player-), [spotify client](#spotify-client-), [youtube client](#youtube-client-)
+- **[networking](#networking-)** (82 tools): [BluetoothManagerTUI](#bluetoothmanagertui-), [HTTPSProxyAnalyzer](#httpsproxyanalyzer-), [ListManagerCLI](#listmanagercli-), [NetworkToolCLI](#networktoolcli-), [NetworkTrafficMonitor](#networktrafficmonitor-), [OpenAPIEditorCLI](#openapieditorcli-), [RedditClientTUI](#redditclienttui-), [SpeedTestCLI](#speedtestcli-), [ad blocker](#ad-blocker-), [api client](#api-client-), [bandwidth monitor](#bandwidth-monitor-), [bluetooth tool](#bluetooth-tool-), [cli-to-web](#cli-to-web-), [debugging](#debugging-), [dns client](#dns-client-), [dns tools](#dns-tools-), [file manager](#file-manager-), [file‑sharing](#filesharing-), [grpc client](#grpc-client-), [http client](#http-client-), [http proxy](#http-proxy-), [ip generator](#ip-generator-), [ip geolocation](#ip-geolocation-), [kubectl port forwarder](#kubectl-port-forwarder-), [load testing](#load-testing-), [log analyzer](#log-analyzer-), [mock server](#mock-server-), [monitoring](#monitoring-), [network diagnostics](#network-diagnostics-), [network info](#network-info-), [network interface info](#network-interface-info-), [network monitor](#network-monitor-), [network proxy](#network-proxy-), [network scanner](#network-scanner-), [network tools](#network-tools-), [network traffic viewer](#network-traffic-viewer-), [oauth manager](#oauth-manager-), [packet sender](#packet-sender-), [parallel ssh tools](#parallel-ssh-tools-), [proxy tool](#proxy-tool-), [reconnaissance](#reconnaissance-), [remote shells](#remote-shells-), [remote terminal server](#remote-terminal-server-), [shell](#shell-), [sip analyzer](#sip-analyzer-), [smb tools](#smb-tools-), [socket monitor](#socket-monitor-), [ssh file transfer client](#ssh-file-transfer-client-), [ssh manager](#ssh-manager-), [ssh tools](#ssh-tools-), [static server](#static-server-), [subnetting tools](#subnetting-tools-), [system information](#system-information-), [tcp client](#tcp-client-), [terminal API client](#terminal-api-client-), [terminal sharing](#terminal-sharing-), [tunnelCLI / port forwarder](#tunnelcli-port-forwarder-), [tunneling](#tunneling-), [vpn tools](#vpn-tools-), [vpn](#vpn-), [web server](#web-server-), [web tools](#web-tools-), [websocket](#websocket-), [wifi manager](#wifi-manager-), [xmpp server](#xmpp-server-)
+- **[note-taking](#note-taking-)** (29 tools): [CLIJournal](#clijournal-), [EvernoteClientCLI](#evernoteclientcli-), [NoteTakingCLI](#notetakingcli-), [NoteTakingTUI](#notetakingtui-), [NotesCLI](#notescli-), [TerminalKnowledgeBase](#terminalknowledgebase-), [calendar & notes](#calendar-notes-), [cli kanban notes](#cli-kanban-notes-), [command-line translator](#command-line-translator-), [journal](#journal-), [knowledge base](#knowledge-base-), [markdown viewer](#markdown-viewer-), [note taking](#note-taking-), [note-taking](#note-taking-), [terminal journal](#terminal-journal-), [terminal notes](#terminal-notes-), [terminal sharing](#terminal-sharing-)
+- **[office](#office-)** (19 tools): [MarkdownPresenterTUI](#markdownpresentertui-), [PlaintextPresenterCLI](#plaintextpresentercli-), [TerminalPresentation](#terminalpresentation-), [calculator](#calculator-), [cli presentation](#cli-presentation-), [code tutorial](#code-tutorial-), [enhanced cat](#enhanced-cat-), [form sharing](#form-sharing-), [markdown slides](#markdown-slides-), [pdf tools](#pdf-tools-), [presentation tool](#presentation-tool-), [presentation tools](#presentation-tools-), [presentations](#presentations-), [search tool](#search-tool-), [spreadsheet calculator](#spreadsheet-calculator-), [terminal presentation](#terminal-presentation-), [terminal spreadsheet](#terminal-spreadsheet-)
+- **[online](#online-)** (26 tools): [ArchWikiCLI](#archwikicli-), [CLICatalog](#clicatalog-), [GoogleSearchCLI](#googlesearchcli-), [StackOverflowCLI](#stackoverflowcli-), [StackOverflowSearchCLI](#stackoverflowsearchcli-), [WikipediaCLI](#wikipediacli-), [awesome list tools](#awesome-list-tools-), [command-line translator](#command-line-translator-), [fuzzy finder](#fuzzy-finder-), [git tool](#git-tool-), [github tools](#github-tools-), [hackernews tracker](#hackernews-tracker-), [jira tools](#jira-tools-), [output sharing tools](#output-sharing-tools-), [read-later tools](#read-later-tools-), [recipe tools](#recipe-tools-), [reddit cleaner](#reddit-cleaner-), [subdomain finder](#subdomain-finder-), [terminal messaging](#terminal-messaging-), [terminal sharing](#terminal-sharing-), [username/email availability checker](#usernameemail-availability-checker-), [vcs performance](#vcs-performance-), [web scraper](#web-scraper-), [wikipedia client](#wikipedia-client-)
+- **[option-picker](#option-picker-)** (17 tools): [TerminalMenu](#terminalmenu-), [date picker](#date-picker-), [enhanced cat](#enhanced-cat-), [file search](#file-search-), [fuzzy finder](#fuzzy-finder-), [fuzzy selector](#fuzzy-selector-), [fuzzy-filter](#fuzzy-filter-), [fuzzy‑search](#fuzzysearch-), [fzf selector](#fzf-selector-), [interactive selector](#interactive-selector-), [interactive-line-select](#interactive-line-select-), [menu builder](#menu-builder-), [menu tools](#menu-tools-), [menu](#menu-), [shell](#shell-)
+- **[organizers](#organizers-)** (22 tools): [EmailSenderCLI](#emailsendercli-), [GoogleContactsCLI](#googlecontactscli-), [TerminalCalendarTasker](#terminalcalendartasker-), [TimezoneCLI](#timezonecli-), [caldav calendar](#caldav-calendar-), [calendar sync tools](#calendar-sync-tools-), [calendar tools](#calendar-tools-), [calendar](#calendar-), [contact manager](#contact-manager-), [google calendar client](#google-calendar-client-), [knowledge base](#knowledge-base-), [remind frontend](#remind-frontend-), [reminders](#reminders-), [rule-based calendar](#rule-based-calendar-), [scheduler](#scheduler-), [text calendar](#text-calendar-), [vcard address book](#vcard-address-book-)
+- **[package-manager](#package-manager-)** (20 tools): [AlternativeVCS](#alternativevcs-), [GitforLargeFiles](#gitforlargefiles-), [PackageManagerCLI](#packagemanagercli-), [PyPiSearcherCLI](#pypisearchercli-), [Translation](#translation-), [binary installer](#binary-installer-), [dev env manager](#dev-env-manager-), [knowledge base](#knowledge-base-), [kubectl plugin manager](#kubectl-plugin-manager-), [package manager frontend](#package-manager-frontend-), [package manager](#package-manager-), [runtime managers](#runtime-managers-), [shell](#shell-), [system info](#system-info-), [system updater](#system-updater-)
+- **[password-manager](#password-manager-)** (21 tools): [EncryptedPasswordManager](#encryptedpasswordmanager-), [PasswordGeneratorCLI](#passwordgeneratorcli-), [PasswordManagerCLI](#passwordmanagercli-), [PasswordWrapperCLI](#passwordwrappercli-), [bitwarden cli](#bitwarden-cli-), [enhanced cat](#enhanced-cat-), [password generator](#password-generator-), [password manager](#password-manager-), [secrets manager](#secrets-manager-), [secure archive manager](#secure-archive-manager-)
+- **[pastebin](#pastebin-)** (3 tools): [PastebinCLI](#pastebincli-), [pastebin](#pastebin-), [terminal sharing](#terminal-sharing-)
+- **[productivity](#productivity-)** (11 tools): [DirectionsQueryCLI](#directionsquerycli-), [GoogleScraperCLI](#googlescrapercli-), [Translation](#translation-), [VaccineCertViewerCLI](#vaccinecertviewercli-), [mind‑mapping](#mindmapping-), [notifications](#notifications-), [speed reading](#speed-reading-), [task manager](#task-manager-), [terminal dashboard](#terminal-dashboard-), [time tools](#time-tools-), [tui utils](#tui-utils-)
+- **[programming](#programming-)** (52 tools): [AlternativeVCS](#alternativevcs-), [BenchmarkingCLI](#benchmarkingcli-), [CodeStatsCLI](#codestatscli-), [DeterministicDebugger](#deterministicdebugger-), [DevToolboxCLI](#devtoolboxcli-), [GDBEnhancerTUI](#gdbenhancertui-), [ImageViewer(ASCII)](#imageviewerascii-), [LightweightTextViewer](#lightweighttextviewer-), [OfflineDocsetSearcher](#offlinedocsetsearcher-), [RegexRefactorTool](#regexrefactortool-), [StaticAnalyzerCLI](#staticanalyzercli-), [advanced grep](#advanced-grep-), [api testing](#api-testing-), [argument parser](#argument-parser-), [assembly visualizers](#assembly-visualizers-), [benchmark dashboard](#benchmark-dashboard-), [build tool](#build-tool-), [build tools](#build-tools-), [cli generator](#cli-generator-), [code bundler](#code-bundler-), [code runner](#code-runner-), [code submission](#code-submission-), [command-line translator](#command-line-translator-), [contributor helper](#contributor-helper-), [debug assistant](#debug-assistant-), [debugging](#debugging-), [dev environment manager](#dev-environment-manager-), [dev environment](#dev-environment-), [devops tools](#devops-tools-), [enhanced cat](#enhanced-cat-), [env manager](#env-manager-), [file renamer](#file-renamer-), [go tools](#go-tools-), [javascript minifier](#javascript-minifier-), [leetcode client](#leetcode-client-), [live reloader](#live-reloader-), [npm tools](#npm-tools-), [release automation](#release-automation-), [scripting](#scripting-), [shell builder](#shell-builder-), [stack tools](#stack-tools-), [terminal sharing](#terminal-sharing-), [vcs tool](#vcs-tool-)
+- **[programming-boilerplate](#programming-boilerplate-)** (12 tools): [AlternativeVCS](#alternativevcs-), [changelog generators](#changelog-generators-), [contributing.md generator](#contributingmd-generator-), [enhanced cat](#enhanced-cat-), [git tools](#git-tools-), [license generators](#license-generators-), [project boilerplate](#project-boilerplate-), [project scaffolding ](#project-scaffolding-), [readme generators](#readme-generators-), [template generators](#template-generators-)
+- **[prompt](#prompt-)** (13 tools): [ShellPromptEnhancer](#shellpromptenhancer-), [ShellPromptTheme](#shellprompttheme-), [TerminalStatusLineEnhancer](#terminalstatuslineenhancer-), [WelcomeMessageCLI](#welcomemessagecli-), [bash tool](#bash-tool-), [custom prompt](#custom-prompt-), [shell prompt](#shell-prompt-), [shell](#shell-), [zsh prompt](#zsh-prompt-)
+- **[religion](#religion-)** (4 tools): [bible readers](#bible-readers-), [cli bible viewer](#cli-bible-viewer-), [command-line translator](#command-line-translator-), [text readers](#text-readers-)
+- **[rm](#rm-)** (13 tools): [DataRecovery](#datarecovery-), [FileDeletionTool](#filedeletiontool-), [ShellSyncBackup](#shellsyncbackup-), [command-line translator](#command-line-translator-), [enhanced cat](#enhanced-cat-), [file management](#file-management-), [file recovery](#file-recovery-), [safe delete](#safe-delete-), [shell](#shell-), [trash management](#trash-management-)
+- **[rss](#rss-)** (10 tools): [rss parser](#rss-parser-), [rss reader](#rss-reader-), [rss readers](#rss-readers-), [rss tool](#rss-tool-), [rss](#rss-)
+- **[science](#science-)** (20 tools): [AcademicDownloaderCLI](#academicdownloadercli-), [AlternativeVCS](#alternativevcs-), [AudioMixer](#audiomixer-), [BibManagerCLI](#bibmanagercli-), [ConferenceTrackerCLI](#conferencetrackercli-), [bioinformatics](#bioinformatics-), [command-line translator](#command-line-translator-), [education](#education-), [enhanced cat](#enhanced-cat-), [fun tools](#fun-tools-), [game](#game-), [knowledge base](#knowledge-base-), [periodic table](#periodic-table-), [reference manager](#reference-manager-), [terminal animation](#terminal-animation-), [terminal games](#terminal-games-)
+- **[screen-recorder](#screen-recorder-)** (11 tools): [svg generator](#svg-generator-), [terminal animation](#terminal-animation-), [terminal recorder](#terminal-recorder-), [terminal sharing](#terminal-sharing-)
+- **[screensaver](#screensaver-)** (6 tools): [TerminalScreensaver](#terminalscreensaver-), [ascii aquarium](#ascii-aquarium-), [ascii screensaver](#ascii-screensaver-), [screensaver](#screensaver-), [terminal animations ](#terminal-animations-)
+- **[security](#security-)** (38 tools): [EncryptionCLI](#encryptioncli-), [FastFindAlternative](#fastfindalternative-), [FileSignerCLI](#filesignercli-), [OneTimeSecretCLI](#onetimesecretcli-), [SecuritySandboxCLI](#securitysandboxcli-), [TOTPAuthenticatorCLI](#totpauthenticatorcli-), [VimEnhancer](#vimenhancer-), [cli encryption](#cli-encryption-), [code signer](#code-signer-), [encrypted filesystem](#encrypted-filesystem-), [encryption module](#encryption-module-), [encryption](#encryption-), [enhanced cat](#enhanced-cat-), [file encryption](#file-encryption-), [fuzzer](#fuzzer-), [gpg tools](#gpg-tools-), [license manager](#license-manager-), [oauth client](#oauth-client-), [package scanner](#package-scanner-), [password generator](#password-generator-), [password manager](#password-manager-), [password recovery](#password-recovery-), [secret manager](#secret-manager-), [secure backups](#secure-backups-), [security audit](#security-audit-), [security tools](#security-tools-), [shell](#shell-), [ssh vulnerability scan](#ssh-vulnerability-scan-), [ssl tools](#ssl-tools-), [steganography](#steganography-), [vulnerability scanner](#vulnerability-scanner-), [vulnerability viewer](#vulnerability-viewer-)
+- **[shells](#shells-)** (25 tools): [automation shell](#automation-shell-), [kornshell](#kornshell-), [modern shell](#modern-shell-), [shell](#shell-), [text-based window manager](#text-based-window-manager-)
+- **[system](#system-)** (39 tools): [CloudSyncManager](#cloudsyncmanager-), [DirectoryOrganizer](#directoryorganizer-), [HardwareController](#hardwarecontroller-), [ProcessManagerCLI](#processmanagercli-), [SystemMonitorTUI](#systemmonitortui-), [autocomplete](#autocomplete-), [brightness control](#brightness-control-), [checksum tools](#checksum-tools-), [clipboard manager](#clipboard-manager-), [clipboard tool](#clipboard-tool-), [command-line translator](#command-line-translator-), [console sharing](#console-sharing-), [dotfiles manager](#dotfiles-manager-), [enhanced cat](#enhanced-cat-), [env manager](#env-manager-), [hardware info](#hardware-info-), [man page viewer](#man-page-viewer-), [mount tools](#mount-tools-), [notification tool](#notification-tool-), [notifications](#notifications-), [port killer](#port-killer-), [process killer](#process-killer-), [sandbox runner](#sandbox-runner-), [shell logger](#shell-logger-), [shell](#shell-), [sound notifier](#sound-notifier-), [system inspector](#system-inspector-), [system manager](#system-manager-), [task killer](#task-killer-), [user management](#user-management-), [vcs benchmark](#vcs-benchmark-), [viewport tools](#viewport-tools-), [window info tools](#window-info-tools-)
+- **[terminal](#terminal-)** (24 tools): [ProjectNavigatorTUI](#projectnavigatortui-), [SessionDetachTool](#sessiondetachtool-), [TmuxSessionManager](#tmuxsessionmanager-), [minimal terminal](#minimal-terminal-), [multiplexer](#multiplexer-), [shared-terminal](#shared-terminal-), [terminal emulator](#terminal-emulator-), [terminal manager](#terminal-manager-), [terminal multiplexer](#terminal-multiplexer-), [terminal sharing](#terminal-sharing-), [tmux tools](#tmux-tools-), [wayland terminal](#wayland-terminal-), [window-manager](#window-manager-)
+- **[text-processing](#text-processing-)** (52 tools): [FileLineDeduperCLI](#filelinededupercli-), [FuzzySelectorCLI](#fuzzyselectorcli-), [LinkCheckerCLI](#linkcheckercli-), [TextProcessorCLI](#textprocessorcli-), [ascii-text-rendering](#ascii-text-rendering-), [browser utilities](#browser-utilities-), [character frequency](#character-frequency-), [cli formatter](#cli-formatter-), [code format checkers](#code-format-checkers-), [command-line translator](#command-line-translator-), [country normalizer](#country-normalizer-), [data extractor](#data-extractor-), [directory tree](#directory-tree-), [documentation](#documentation-), [enhanced cat](#enhanced-cat-), [file size tools](#file-size-tools-), [fuzzy text matcher](#fuzzy-text-matcher-), [hashing tools](#hashing-tools-), [html parsers](#html-parsers-), [lexicon matcher](#lexicon-matcher-), [line selector](#line-selector-), [log debugger](#log-debugger-), [log pattern extractor](#log-pattern-extractor-), [log viewer](#log-viewer-), [markdown viewer](#markdown-viewer-), [ngrams frequency analyzer](#ngrams-frequency-analyzer-), [output formatter](#output-formatter-), [pipeline builder](#pipeline-builder-), [scraping](#scraping-), [spell checker](#spell-checker-), [syntax highlighting](#syntax-highlighting-), [system info tools](#system-info-tools-), [terminal dashboard](#terminal-dashboard-), [text formatter](#text-formatter-), [text processing](#text-processing-), [text sampler](#text-sampler-), [text tokenizer](#text-tokenizer-), [text transformers](#text-transformers-), [url parser](#url-parser-), [vpn tools](#vpn-tools-)
+- **[text-search](#text-search-)** (15 tools): [AdvancedGrepCLI](#advancedgrepcli-), [FastFindAlternative](#fastfindalternative-), [advanced grep](#advanced-grep-), [code analysis](#code-analysis-), [code search](#code-search-), [file search](#file-search-), [interactive-line-select](#interactive-line-select-), [natural language](#natural-language-), [search tool](#search-tool-), [semantic text search](#semantic-text-search-), [text search](#text-search-)
+- **[text-search-replace](#text-search-replace-)** (6 tools): [CodeReplaceCLI](#codereplacecli-), [code refactoring](#code-refactoring-), [enhanced cat](#enhanced-cat-), [search tools](#search-tools-), [tabular-sql-query](#tabular-sql-query-), [text replace](#text-replace-)
+- **[time-tracker](#time-tracker-)** (23 tools): [AlternativeVCS](#alternativevcs-), [HabitTrackerTUI](#habittrackertui-), [TimeTrackerCLI](#timetrackercli-), [automatic time tracker](#automatic-time-tracker-), [command-line translator](#command-line-translator-), [enhanced cat](#enhanced-cat-), [habit tracker](#habit-tracker-), [habit trackers](#habit-trackers-), [load monitor](#load-monitor-), [pomodoro tracker](#pomodoro-tracker-), [pomodoro](#pomodoro-), [productivity](#productivity-), [time trackers](#time-trackers-), [time tracking](#time-tracking-), [time-tracker](#time-tracker-), [timers](#timers-)
+- **[todo-manager](#todo-manager-)** (35 tools): [ForensicsCLI](#forensicscli-), [GitBackedTodoCLI](#gitbackedtodocli-), [TaskManagerCLI](#taskmanagercli-), [TodoListTUI](#todolisttui-), [TwitterClientCLI](#twitterclientcli-), [command-line translator](#command-line-translator-), [feature-rich todo manager](#feature-rich-todo-manager-), [hierarchical todo manager](#hierarchical-todo-manager-), [interactive todo.txt](#interactive-todotxt-), [kanban](#kanban-), [knowledge base](#knowledge-base-), [note-taking](#note-taking-), [plain-text todo manager](#plain-text-todo-manager-), [project-based todo manager](#project-based-todo-manager-), [python todo manager](#python-todo-manager-), [shell history](#shell-history-), [task manager](#task-manager-), [terminal sharing](#terminal-sharing-), [text calendar](#text-calendar-), [todo manager](#todo-manager-), [todo managers](#todo-managers-), [todoist client](#todoist-client-), [wishlist](#wishlist-)
+- **[torrent](#torrent-)** (8 tools): [AlternativeVCS](#alternativevcs-), [RPGClientTUI](#rpgclienttui-), [TUIBitTorrentClient](#tuibittorrentclient-), [TorrentClientCLI](#torrentclientcli-), [TorrentClientTUI](#torrentclienttui-), [TorrentClient](#torrentclient-), [terminal sharing](#terminal-sharing-), [torrent streamer](#torrent-streamer-)
+- **[transfer](#transfer-)** (44 tools): [ClipboardManagerCLI](#clipboardmanagercli-), [CloudFileDownloaderCLI](#cloudfiledownloadercli-), [CloudSyncManager](#cloudsyncmanager-), [DownloadManagerCLI](#downloadmanagercli-), [FTPClient](#ftpclient-), [FileSharingCLI](#filesharingcli-), [FileSharingOverTor](#filesharingovertor-), [FileSynchronizer](#filesynchronizer-), [FileTransferCLI](#filetransfercli-), [FileTransferP2PCLI](#filetransferp2pcli-), [HTTPIEAlternative](#httpiealternative-), [LocalHTTPFileServer](#localhttpfileserver-), [NetworkDataFetcherCLI](#networkdatafetchercli-), [ShellSyncBackup](#shellsyncbackup-), [SiteSyncOverFTP](#sitesyncoverftp-), [TranslatorCLI](#translatorcli-), [VideoDownloaderCLI](#videodownloadercli-), [YouTubeSearchPlayerCLI](#youtubesearchplayercli-), [YouTubeToMP3Downloader](#youtubetomp3downloader-), [clipboard sync](#clipboard-sync-), [code sharing](#code-sharing-), [downloader](#downloader-), [enhanced cat](#enhanced-cat-), [file sharing tool](#file-sharing-tool-), [file sharing](#file-sharing-), [file sync](#file-sync-), [github file downloader](#github-file-downloader-), [knowledge base](#knowledge-base-), [media downloader](#media-downloader-), [rclone frontend](#rclone-frontend-), [rss tools](#rss-tools-), [scp alternative](#scp-alternative-), [shell](#shell-), [telegram tools](#telegram-tools-), [terminal sharing](#terminal-sharing-), [video downloader](#video-downloader-), [youtube downloader](#youtube-downloader-)
+- **[typing](#typing-)** (16 tools): [HotkeyManager](#hotkeymanager-), [TerminalGame(TypingTrainer)](#terminalgametypingtrainer-), [typing game](#typing-game-), [typing practice ](#typing-practice-), [typing practice](#typing-practice-), [typing speed test](#typing-speed-test-), [typing test](#typing-test-), [typing tutor](#typing-tutor-)
+- **[utility](#utility-)** (46 tools): [ClipboardHelperCLI](#clipboardhelpercli-), [DesktopEntryGenerator](#desktopentrygenerator-), [alerting](#alerting-), [bash learning tool](#bash-learning-tool-), [bash utils](#bash-utils-), [caching](#caching-), [checksum tool](#checksum-tool-), [colorizer](#colorizer-), [command launcher](#command-launcher-), [command watcher](#command-watcher-), [config validator](#config-validator-), [developer automation](#developer-automation-), [devtools](#devtools-), [emoji generators](#emoji-generators-), [enhanced cat](#enhanced-cat-), [env manager](#env-manager-), [file remover](#file-remover-), [file utilities](#file-utilities-), [fzf tools](#fzf-tools-), [image recognition](#image-recognition-), [installer](#installer-), [language learning](#language-learning-), [log generators](#log-generators-), [movie info tools](#movie-info-tools-), [performance tools](#performance-tools-), [process monitor](#process-monitor-), [progress viewer](#progress-viewer-), [regex practice](#regex-practice-), [semantic search](#semantic-search-), [shell customization](#shell-customization-), [shell enhancements](#shell-enhancements-), [shell](#shell-), [spell checker](#spell-checker-), [stock tracker](#stock-tracker-), [table generator](#table-generator-), [terminal games](#terminal-games-), [terminal navigation](#terminal-navigation-), [terminal sharing](#terminal-sharing-), [terminal testing](#terminal-testing-), [terminal themes](#terminal-themes-), [unicode tools](#unicode-tools-), [weather](#weather-), [wellness](#wellness-)
+- **[versioning](#versioning-)** (9 tools): [AlternativeVCS](#alternativevcs-), [RepoManagerCLI](#repomanagercli-), [fossil interface](#fossil-interface-), [git manage](#git-manage-), [git translator](#git-translator-), [terminal sharing](#terminal-sharing-), [version control](#version-control-)
+- **[video](#video-)** (14 tools): [LightweightAudioPlayer](#lightweightaudioplayer-), [MediaConverterCLI](#mediaconvertercli-), [VideoEditorCLI](#videoeditorcli-), [YouTubeAudioSplitter](#youtubeaudiosplitter-), [ascii video](#ascii-video-), [audio translator](#audio-translator-), [downloader](#downloader-), [screen recording](#screen-recording-), [video converter](#video-converter-), [video info](#video-info-), [video meme](#video-meme-), [video streaming](#video-streaming-), [youtube browser](#youtube-browser-), [youtube client](#youtube-client-)
+- **[viewers](#viewers-)** (34 tools): [ImageViewer(ASCII)](#imageviewerascii-), [MarkdownViewer(GUI/CLI)](#markdownviewerguicli-), [TerminalIPTVPlayer](#terminaliptvplayer-), [TerminalImageViewer](#terminalimageviewer-), [VideoAudioPlayer(GUI/CLI)](#videoaudioplayerguicli-), [YouTubeVideoSearcher](#youtubevideosearcher-), [article readers](#article-readers-), [audio visualizer](#audio-visualizer-), [cli reader](#cli-reader-), [comic reader](#comic-reader-), [command-line translator](#command-line-translator-), [ebook reader](#ebook-reader-), [enhanced cat](#enhanced-cat-), [github tools](#github-tools-), [interactive tail viewer](#interactive-tail-viewer-), [ipynb viewer](#ipynb-viewer-), [jupyter notebook viewer](#jupyter-notebook-viewer-), [kafka viewer](#kafka-viewer-), [markdown viewer](#markdown-viewer-), [media viewer](#media-viewer-), [news reader](#news-reader-), [rss reader](#rss-reader-), [terminal process viewer](#terminal-process-viewer-), [vcs viewer](#vcs-viewer-), [youtube client](#youtube-client-)
+- **[vm](#vm-)** (23 tools): [QEMU UI](#qemu-ui-), [android emulation](#android-emulation-), [container inspector](#container-inspector-), [container manager](#container-manager-), [container tools](#container-tools-), [container](#container-), [dev environment](#dev-environment-), [docker analysis](#docker-analysis-), [docker management](#docker-management-), [docker manager](#docker-manager-), [docker tool](#docker-tool-), [docker tools](#docker-tools-), [docker tui](#docker-tui-), [emulator](#emulator-), [resource monitor](#resource-monitor-), [shell](#shell-), [virtualization](#virtualization-)
+- **[webdev](#webdev-)** (30 tools): [APIClientCLI](#apiclientcli-), [AlternativeVCS](#alternativevcs-), [GitBackedWikiEngine](#gitbackedwikiengine-), [LinkCheckerCLI](#linkcheckercli-), [LoadTestingTool](#loadtestingtool-), [Network tools](#network-tools-), [ReconToolCLI](#recontoolcli-), [StaticSiteGenerator](#staticsitegenerator-), [TextToMorseCLI](#texttomorsecli-), [api client](#api-client-), [api tool](#api-tool-), [cleanup tools](#cleanup-tools-), [cloud storage clients](#cloud-storage-clients-), [deployment tools](#deployment-tools-), [django tools](#django-tools-), [enhanced cat](#enhanced-cat-), [file generator](#file-generator-), [html/xml tools](#htmlxml-tools-), [http clients](#http-clients-), [load testing](#load-testing-), [pentest suite](#pentest-suite-), [screenshot tools](#screenshot-tools-), [shopify dev](#shopify-dev-), [static site deployers](#static-site-deployers-), [terminal sharing](#terminal-sharing-), [uptime checkers](#uptime-checkers-), [web crawlers](#web-crawlers-)
+- **[writing](#writing-)** (11 tools): [Translation](#translation-), [command-line translator](#command-line-translator-), [dictionary](#dictionary-), [grammar checker](#grammar-checker-), [markdown tools](#markdown-tools-), [story generator](#story-generator-), [terminal sharing](#terminal-sharing-), [text linting](#text-linting-), [vocabulary builder](#vocabulary-builder-), [writing linter](#writing-linter-)
 
-# ai
+# ai 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -211,7 +211,7 @@ Command-line based intelligent assistants or shell helpers.
 Command-line tool for managing or interacting with related tasks.
 * [termite](https://github.com/shobrook/termite) [🤖 ❌ 🖥️TUI] - Generative UI in your terminal.
 
-# animation
+# animation 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -296,7 +296,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) [❌ ❌ 🖥️TUI] - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 
-# backup
+# backup 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -367,7 +367,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [gwbackupy](https://github.com/smartondev/gwbackupy) [❌ ❌ 🖥️CLI] - Open source Google Workspace™ backup solution.
 
-# browser
+# browser 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -435,7 +435,7 @@ Terminal-based or minimal browsers for various protocols.
 Terminal-based or minimal browsers for various protocols.
 * [carbonyl](https://github.com/fathyb/carbonyl) [❌ 🌐 🖥️TUI] - Chromium running inside your terminal.
 
-# calc
+# calc 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -490,7 +490,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [Programmer calculator](https://github.com/alt-romes/programmer-calculator) [❌ ❌ 🖥️TUI] - Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits.
 
-# cd
+# cd 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -568,7 +568,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [fz](https://github.com/changyuheng/fz.sh) [❌ ❌ 🖥️CLI] - Fuzzy tab completion for z.
 
-# chat
+# chat 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -683,7 +683,7 @@ Command-line tool for managing or interacting with related tasks.
 * [Poezio](https://poez.io/en/) [❌ 🌐 🖥️TUI] - Poezio is a free console XMPP client. It lets you connect very easily (no account creation needed) to the network and join various chatrooms. Many commands are identical to common IRC clients. Configuration can be made in a configuration file or directly from the client.
 * [Profanity](https://profanity-im.github.io/) [❌ 🌐 🖥️TUI] - Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi.
 
-# cheatsheet
+# cheatsheet 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -777,7 +777,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [asciit](https://github.com/Q1CHENL/asciit) [❌ ❌ 🖥️CLI] - A more compact and intuitive ASCII table in your terminal: an alternative to "man 7 ascii" and "ascii".
 
-# conversion
+# conversion 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -839,7 +839,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [jsonify-resume](https://github.com/ashishbinu/jsonify-resume) [❌ ❌ 🖥️CLI] - A CLI that converts resumes into JSON Resume schema.
 
-# copilot
+# copilot 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -887,7 +887,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line based intelligent assistants or shell helpers.
 * [shy-sh](https://github.com/mceck/shy-sh) [🤖 🌐 🖥️TUI] - Shell AI copilot.
 
-# data-management
+# data-management 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -955,7 +955,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [WOPR](https://github.com/yaronn/wopr) [❌ ❌ 🖥️CLI] - A simple markup language for creating rich terminal reports, presentations, and infographic.
 
-# data-management-json
+# data-management-json 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1093,7 +1093,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [YAML Paths](https://github.com/wwkimball/yamlpath) [❌ ❌ 🖥️CLI] - YAML/JSON/EYAML/Compatible get/set/merge/validate/scan/convert/diff processors using powerful, intuitive, command-line friendly syntax.
 
-# data-management-tabular
+# data-management-tabular 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1196,7 +1196,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [Soul](https://github.com/thevahidal/soul) [❌ 🌐 🖥️CLI] - A SQLite REST and real-time server.
 
-# devops
+# devops 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1232,7 +1232,7 @@ Text or file explorers and viewers in the terminal.
 Command-line tool for managing or interacting with related tasks.
 * [OPS](https://github.com/nanovms/ops) [❌ 🌐 🖥️CLI] - Ops is a tool for creating and running a [Nanos](https://github.com/nanovms/nanos) unikernel. It is used to package, create, and run your application as a [Nanos](https://github.com/nanovms/nanos) unikernel instance.
 
-# diff
+# diff 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1274,7 +1274,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [dyff](https://github.com/homeport/dyff) [❌ ❌ 🖥️CLI] - A diff tool for YAML files, and sometimes JSON.
 
-# disk-analyzer
+# disk-analyzer 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1305,7 +1305,7 @@ Command-line tool for managing or interacting with related tasks.
 * [erdtree](https://github.com/solidiquis/erdtree) [❌ ❌ 🖥️CLI/🖥️TUI] - A multithreaded file-tree visualizer and disk usage analyzer.
 * [vizex](https://github.com/bexxmodd/vizex) [❌ ❌ 🖥️TUI] - Visualize the disk space usage for every partition and media on the user's machine.
 
-# editors
+# editors 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1393,7 +1393,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [vai](https://github.com/stefanoborini/vai) [❌ ❌ 🖥️TUI] - Text editor similar to `vim` written in Python; many features are nicely replicated, some are still missing; however, the advantage of this implementation is its simplicity, maintainability and extensibility, thanks to the Python implementation.
 
-# email
+# email 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1451,7 +1451,7 @@ Tools that monitor system resources or services from CLI.
 Command-line tool for managing or interacting with related tasks.
 * [paws](https://github.com/tomhrr/paws) [❌ ❌ 🖥️TUI] - sendmail/maildir interface to Slack.
 
-# file-dir-cleanup
+# file-dir-cleanup 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1507,7 +1507,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [mat2](https://0xacab.org/jvoisin/mat2.git) [❌ ❌ 🖥️CLI] - Metadata removal tool, supporting a wide range of commonly used file formats.
 
-# file-explorer
+# file-explorer 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1549,7 +1549,7 @@ Text or file explorers and viewers in the terminal.
 Text or file explorers and viewers in the terminal.
 * [tere](https://github.com/mgunyho/tere) [❌ ❌ 🖥️TUI] - Terminal file explorer that is a faster alternative to using cd and ls to browse folders in your terminal.
 
-# file-handling
+# file-handling 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1662,7 +1662,7 @@ Tools that monitor system resources or services from CLI.
 Command-line tool for managing or interacting with related tasks.
 * [choof](https://github.com/elParadigm/choof) [❌ ❌ 🖥️CLI] - Choof is a fast and minimal CLI tool for managing files, built with Bubble Tea for Linux.
 
-# file-manager
+# file-manager 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1724,7 +1724,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [fff](https://github.com/dylanaraps/fff) [❌ ❌ 🖥️TUI] - Fast, simple file manager written in bash.
 
-# file-renamer
+# file-renamer 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1778,7 +1778,7 @@ Command-line tool for managing or interacting with related tasks.
 CLI tools for searching content, code, or online resources.
 * [Bren](https://www.byteptr.com/bren/) [❌ ❌ 🖥️CLI] - Bren is a command line tool for GNU/Linux (and many others). It has support for GNU Guile scripting. Bren is simple, fast, and it's written in C.
 
-# file-system
+# file-system 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1798,7 +1798,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) [❌ 🌐 🖥️CLI] - Zero-Config CLI to Deploy Static Websites to IPFS [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System).
 
-# file-watch
+# file-watch 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1830,7 +1830,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [Chokidar CLI](https://github.com/open-cli-tools/chokidar-cli) [❌ ❌ 🖥️CLI] - Fast cross-platform command line utility to watch file system changes.
 
-# financial
+# financial 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1893,7 +1893,7 @@ Command-line tool for managing or interacting with related tasks.
 Text or file explorers and viewers in the terminal.
 * [paycon](https://github.com/arcorion/paycon) [❌ ❌ 🖥️CLI] - Converts pay amounts between different time units.
 
-# find
+# find 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1929,7 +1929,7 @@ CLI tools for searching content, code, or online resources.
 Command-line tool for managing or interacting with related tasks.
 * [gret](https://github.com/4imothy/gret) [❌ ❌ 🖥️CLI] - A command-line utility designed to search through directories and files for a regex expression that matches.
 
-# flashcard
+# flashcard 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1967,7 +1967,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [vocage](https://git.sr.ht/~proycon/vocage/) [❌ ❌ 🖥️CLI] - Vocage is a minimalistic terminal-based vocabulary-learning tool. It presents flashcards using a spaced-repetition algorithm (e.g. Leitner). Data is stored in a simple plain-text tab-separated values format (TSV).
 
-# font
+# font 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -1987,7 +1987,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [toilet](http://caca.zoy.org/wiki/toilet) [❌ ❌ 🖥️CLI] - Tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, color fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects.
 
-# funny
+# funny 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -2057,7 +2057,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [boxes](https://github.com/ascii-boxes/boxes) [❌ ❌ 🖥️CLI] - Boxes is a command line filter program which draws ASCII art boxes around your input text.
 
-# games
+# games 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -2228,7 +2228,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [Wordle Solver](https://gitlab.com/christosangel/wordle-solver) [❌ ❌ 🖥️CLI] - A bash script that can solve wordle riddles.
 
-# git
+# git 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -2429,7 +2429,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [hut](https://git.sr.ht/~xenrox/hut) [❌ 🌐 🖥️CLI] - A CLI tool for sr.ht.
 
-# graphics
+# graphics 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -2592,7 +2592,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [TerrainGenerator](https://github.com/NM711/TerrainGenerator) [❌ ❌ 🖥️TUI] - 2D Terrain Generator to create procedural 2D worlds and maps.
 
-# history
+# history 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -2609,7 +2609,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [hiSHtory](https://github.com/ddworken/hishtory) [❌ 🌐 ❌] - A better shell history that stores context (directory, succeeded or failed, how long it took, etc). The history is stored locally and end-to-end encrypted for syncing to other computers.
 
-# launcher
+# launcher 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -2687,7 +2687,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [Violet](https://github.com/braheezy/violet) [❌ ❌ 🖥️TUI] - Colorful TUI frontend to run Vagrant commands.
 
-# ls
+# ls 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -2725,7 +2725,7 @@ Command-line tool for managing or interacting with related tasks.
 Text or file explorers and viewers in the terminal.
 * [stree](https://github.com/orangekame3/stree) [❌ ❌ 🖥️CLI] - A CLI tool designed to visualize the directory tree structure of an S3 bucket.
 
-# markdown
+# markdown 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -2766,7 +2766,7 @@ Text or file explorers and viewers in the terminal.
 * [Frogmouth](https://github.com/Textualize/frogmouth) [❌ 🌐 🖥️TUI] - A Markdown viewer / browser for the terminal.
 * [mdcat](https://github.com/swsnr/mdcat) [❌ ❌ 🖥️CLI] - cat for Markdown
 
-# monitor
+# monitor 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -2881,7 +2881,7 @@ Tools that monitor system resources or services from CLI.
 Command-line tool for managing or interacting with related tasks.
 * [sntop](https://sourceforge.net/projects/sntop) [❌ ❌ ❌] - A simple network top for monitoring connectivity.
 
-# monitor-top
+# monitor-top 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -2941,7 +2941,7 @@ Tools that monitor system resources or services from CLI.
 Command-line tool for managing or interacting with related tasks.
 * [TTV](https://github.com/caio-ishikawa/term-task-viewer) [❌ ❌ 🖥️TUI] - terminal-task-viewer: a lightweight terminal tool to manage processes in Unix machines.
 
-# music
+# music 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -3093,7 +3093,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [ytui-music](https://github.com/sudipghimire533/ytui-music) [❌ 🌐 🖥️TUI] - YouTube client in terminal for music (lightweight YouTube client).
 
-# networking
+# networking 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -3374,7 +3374,7 @@ Command-line tool for managing or interacting with related tasks.
 * [ejabberd](https://www.ejabberd.im/) [❌ ❌ 🖥️CLI] - ejabberd is an XMPP application server and an MQTT broker, written mainly in the Erlang programming language.
 * [Prosody](https://prosody.im/) [❌ ❌ 🖥️CLI] - Prosody is a modern XMPP communication server. It aims to be easy to set up and configure, and efficient with system resources.
 
-# note-taking
+# note-taking 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -3458,7 +3458,7 @@ Command-line tool for managing or interacting with related tasks.
 * [dnote](https://github.com/dnote/dnote) [❌ 🌐 🖥️CLI] - A simple command line notebook for the terminal. It also offers a seamless multi-device sync and a web interface.
 * [eureka](https://github.com/simeg/eureka) [❌ ❌ 🖥️CLI] - Store your ideas without leaving the terminal.
 
-# office
+# office 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -3532,7 +3532,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [Teapot](https://www.syntax-k.de/projekte/teapot/) [❌ ❌ 🖥️TUI] - Compact ncurses-based spreadsheet with original syntax, 3D-style and built-in functions.
 
-# online
+# online 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -3634,7 +3634,7 @@ Command-line tool for managing or interacting with related tasks.
 * [wiki-tui](https://github.com/Builditluc/wiki-tui) [❌ 🌐 🖥️TUI] - A simple and easy to use Wikipedia Text User Interface.
 * [Wikipedia-Command-Line-Interface](https://github.com/DaDevMikey/Wikipedia-Command-Line-Interface) [❌ 🌐 🖥️CLI] - Use wikipedia in your command prompt.
 
-# option-picker
+# option-picker 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -3700,7 +3700,7 @@ Command-line tool for managing or interacting with related tasks.
 * [fuzzysh](https://github.com/yazgoo/fuzzysh) [❌ ❌ 🖥️CLI] - Minimalist selector in shell, inspired by fzf.
 * [luneta](https://github.com/fbeline/luneta) [❌ ❌ 🖥️CLI] - Interactive filter that can be easily composed within any script.
 
-# organizers
+# organizers 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -3777,7 +3777,7 @@ Command-line tool for managing or interacting with related tasks.
 * [khard](https://github.com/lucc/khard) [❌ 🌐 🖥️CLI] - vCard address book written in Python. Supports CardDAV.
 * [ppl addressbook](http://ppladdressbook.org/) [❌ ❌ 🖥️CLI] - Address book tool that uses the vCard format. Built on top of Ruby and Git
 
-# package-manager
+# package-manager 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -3846,7 +3846,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [topgrade](https://github.com/topgrade-rs/topgrade) [❌ 🌐 🖥️CLI] - Upgrade all the things.
 
-# password-manager
+# password-manager 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -3901,7 +3901,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [safe.sh](https://github.com/windowsrefund/safe) [❌ ❌ 🖥️CLI] - Pure Bash script to manage secure archives; simple and clean; uses [gnugpg](https://gnupg.org/) for encryption/decryption, thus can leverage tools like [GPG Agent](https://www.gnupg.org/documentation/manuals/gnupg/Invoking-GPG_002dAGENT.html).
 
-# pastebin
+# pastebin 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -3917,7 +3917,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [feuille](https://basedwa.re/tmtt/feuille.git) [❌ 🌐 🖥️CLI] - A fast, dead-simple socket-based pastebin.
 
-# productivity
+# productivity 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -3965,7 +3965,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [TUI apps](https://github.com/learnbyexample/TUI-apps) [❌ ❌ 🖥️TUI] - A repository containing a couple of one-script programs, mainly dedicated to training/learning CLI tools such as grep, awk, etc.
 
-# programming
+# programming 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -4150,7 +4150,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [llm-fuse](https://github.com/antonbelev/llm-fuse) [❌ ❌ 🖥️CLI] - A tool designed to quickly generate an aggregated text file, or multiple files when chunking is enabled, from numerous files within a repository that can then be pasted into a LLM prompt to provide context from multiple source files.
 
-# programming-boilerplate
+# programming-boilerplate 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -4197,7 +4197,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [boilr](https://github.com/tmrts/boilr) [❌ ❌ 🖥️CLI] - Boilerplate template manager that generates files or directories from template repositories.
 
-# prompt
+# prompt 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -4241,7 +4241,7 @@ Command-line tool for managing or interacting with related tasks.
 * [Powerlevel10k](https://github.com/romkatv/powerlevel10k) [❌ ❌ 🖥️CLI] - A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 * [Pure](https://github.com/sindresorhus/pure) [❌ ❌ 🖥️CLI] - Pretty, minimal, and fast ZSH prompt.
 
-# religion
+# religion 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -4261,7 +4261,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [bbl](https://github.com/nehemiaharchives/bbl) [❌ ❌ 🖥️CLI] - Read, search Holy Bible in command line.
 
-# rm
+# rm 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -4308,7 +4308,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [trasher](https://github.com/clementnerma/trasher) [❌ ❌ 🖥️TUI] - Delete files to a trash directory instead of deleting them immediately. Uses its own trash instead of the XDG one.
 
-# rss
+# rss 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -4337,7 +4337,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [openring](https://git.sr.ht/~sircmpwn/openring) [❌ 🌐 🖥️CLI] - A tool for generating a webring from RSS feeds, so you can link to other blogs you like on your own blog.
 
-# science
+# science 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -4409,7 +4409,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [Go-L](https://github.com/Jeadie/Go-L) [❌ ❌ 🖥️CLI] - Game of Life with different update rules and on a bunch of different topologies (sphere, torus, klein bottle, etc.).
 
-# screen-recorder
+# screen-recorder 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -4436,7 +4436,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [asciinema](https://github.com/asciinema/asciinema) [❌ ❌ 🖥️CLI] - Terminal session recorder.
 
-# screensaver
+# screensaver 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -4462,7 +4462,7 @@ _... description of the subcategory ..._
 
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh) [❌ ❌ 🖥️TUI] - Animated pipes terminal screensaver.
 
-# security
+# security 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -4600,7 +4600,7 @@ Command-line tool for managing or interacting with related tasks.
 Text or file explorers and viewers in the terminal.
 * [flawz](https://github.com/orhun/flawz) [❌ ❌ 🖥️TUI] - A Terminal UI for browsing security vulnerabilities (CVEs).
 
-# shells
+# shells 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -4644,7 +4644,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [Twin](https://github.com/cosmos72/twin) [❌ ❌ 🖥️TUI] - Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server.
 
-# system
+# system 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -4786,7 +4786,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [active-win-cli](https://github.com/sindresorhus/active-win-cli) [❌ ❌ 🖥️CLI] - Get the title/id/etc of the active window.
 
-# terminal
+# terminal 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -4853,7 +4853,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [byobu](http://byobu.co/) [❌ ❌ 🖥️TUI] - A text-based window manager and terminal multiplexer; it features enhanced profiles, convenient keybindings, configuration utilities, and toggle-able system status notifications; compatible with `screen` and `tmux`.
 
-# text-processing
+# text-processing 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -5029,7 +5029,7 @@ Tools for parsing and analyzing code, logs, or content.
 Command-line tool for managing or interacting with related tasks.
 * [wg-cmd](https://github.com/AndrianBdn/wg-cmd) [❌ ❌ 🖥️TUI] - TUI for managing WireGuard configuration files.
 
-# text-search
+# text-search 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -5081,7 +5081,7 @@ CLI tools for searching content, code, or online resources.
 * [hypergrep](https://github.com/p-ranav/hypergrep) [❌ ❌ 🖥️CLI] - Recursively search directories for a regex pattern using Intel Hypescan.
 * [krep](https://github.com/davidesantangelo/krep) [❌ ❌ 🖥️CLI/🖥️TUI] - Blazingly fast text search tool with multiple algorithms (Boyer-Moore, KMP, Rabin-Karp), SIMD acceleration, multi-threading, and regex support. Outperforms traditional tools with memory-mapped I/O and hardware optimizations for who need rapid pattern matching at scale.
 
-# text-search-replace
+# text-search-replace 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -5109,7 +5109,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [repgrep](https://github.com/acheronfail/repgrep) [❌ ❌ 🖥️CLI] - A replacer that uses ripgrep for finding and provides an interactive interface to replace the text.
 
-# time-tracker
+# time-tracker 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -5184,7 +5184,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [MyTimer](https://github.com/sepandhaghighi/mytimer) [❌ ❌ 🖥️CLI] - Simple timer for the terminal with timer-mode and alarm.
 
-# todo-manager
+# todo-manager 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -5292,7 +5292,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [wish](https://github.com/levkush/wish) [❌ ❌ 🖥️TUI] - A delightful wish list manager to keep track of your dreams and desires!
 
-# torrent
+# torrent 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -5328,7 +5328,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [toru](https://github.com/sweetbbak/toru) [❌ 🌐 🖥️CLI] - BitTorrent streaming CLI tool to stream anime torrents in real-time with no waiting for downloads.
 
-# transfer
+# transfer 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -5487,7 +5487,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [Yark](https://github.com/Owez/yark) [❌ 🌐 🖥️CLI] - YouTube archiving made simple.
 
-# typing
+# typing 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -5532,7 +5532,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [Typr](https://github.com/DriftingOtter/Typr) [❌ ❌ 🖥️TUI] - `typr` is a Python-based application that utilizes the 'rich' module to provide you with a simple yet satisfying TUI when typing, `typr` is designed to be simple and easy to use.
 
-# utility
+# utility 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -5711,7 +5711,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [calm-garden-cli](https://github.com/jaroslaw-weber/calm-garden-cli) [❌ ❌ 🖥️TUI] - A small, discreet terminal tool for breath exercises with progression: earn coins, buy plants, and upgrade your garden.
 
-# versioning
+# versioning 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -5745,7 +5745,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [Jujutsu](https://github.com/martinvonz/jj) [❌ ❌ 🖥️CLI] - A Git-compatible VCS that is both simple and powerful.
 
-# video
+# video 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -5805,7 +5805,7 @@ Terminal-based or minimal browsers for various protocols.
 Command-line tool for managing or interacting with related tasks.
 * [yt-x](https://github.com/Benexl/yt-x) [❌ 🌐 🖥️TUI] - Browse youtube from your terminal, with text-based UI using `fzf` or `rofi` for seamless navigation.
 
-# viewers
+# viewers 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -5918,7 +5918,7 @@ Text or file explorers and viewers in the terminal.
 Command-line tool for managing or interacting with related tasks.
 * [TubiTui](https://codeberg.org/777/TubiTui.git) [❌ 🌐 🖥️TUI] - A lightweight, libre, TUI-based YouTube client
 
-# vm
+# vm 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -5996,7 +5996,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [QEMU](https://qemu.org) [❌ ❌ 🖥️CLI] - A generic machine & userspace emulator and virtualizer.
 
-# webdev
+# webdev 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
@@ -6111,7 +6111,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [crawley](https://github.com/s0rg/crawley) [❌ 🌐 🖥️CLI] - Unix-way web crawler: crawls web pages and prints any link it can find.
 
-# writing
+# writing 📚
 [Back to TOC](#📚-contents)
 
 _... description of the category ..._
