@@ -1,3 +1,4 @@
+
 # Awesome Command Line (CLI/TUI) Programs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repository - to the best of my knowledge - contains the largest collection of command line (CLI/TUI) tools available in the form of awesome list.
@@ -47,7 +48,7 @@ Below is a categorized overview of all **1777** tools.
 - **[find](#find)** (8 tools): [FastFileLocator](#fastfilelocator) (1), [FastFindAlternative](#fastfindalternative) (1), [enhanced cat](#enhanced-cat) (1), [file finder](#file-finder) (1), [file search](#file-search) (1), [fuzzy finders](#fuzzy-finders) (1), [fuzzy‑search](#fuzzysearch) (1), [grep alternative](#grep-alternative) (1)
 - **[flashcard](#flashcard)** (10 tools): [FlashcardTrainerTUI](#flashcardtrainertui) (2), [anki tool](#anki-tool) (1), [cli learning tools](#cli-learning-tools) (1), [flashcard tool](#flashcard-tool) (1), [flashcard tools](#flashcard-tools) (1), [flashcards](#flashcards) (2), [nextcloud tool](#nextcloud-tool) (1), [vocabulary trainer](#vocabulary-trainer) (1)
 - **[font](#font)** (4 tools): [ascii art](#ascii-art) (1), [ascii-text-rendering](#ascii-text-rendering) (1), [font manager](#font-manager) (1), [visual-effects-rendering](#visual-effects-rendering) (1)
-- **[funny](#funny)** (18 tools): [AsciiSpeechGenerato](#asciispeechgenerato) (1), [AsciiSpeechGenerator](#asciispeechgenerator) (1), [EmojiPickerCLI](#emojipickercli) (1), [FunCLI](#funcli) (1), [MatrixVideoConfCLI](#matrixvideoconfcli) (1), [PokemonFetcherCLI](#pokemonfetchercli) (1), [QuoteGeneratorCLI](#quotegeneratorcli) (1), [cli fun](#cli-fun) (2), [enhanced cat](#enhanced-cat) (1), [fun / novelty](#fun--novelty) (1), [fun](#fun) (2), [funny aliases](#funny-aliases) (1), [funny tools](#funny-tools) (1), [terminal animation](#terminal-animation) (1), [terminal drawing tool](#terminal-drawing-tool) (1), [text decoration](#text-decoration) (1)
+- **[funny](#funny)** (18 tools): [AsciiSpeechGenerato](#asciispeechgenerato) (1), [AsciiSpeechGenerator](#asciispeechgenerator) (1), [EmojiPickerCLI](#emojipickercli) (1), [FunCLI](#funcli) (1), [MatrixVideoConfCLI](#matrixvideoconfcli) (1), [PokemonFetcherCLI](#pokemonfetchercli) (1), [QuoteGeneratorCLI](#quotegeneratorcli) (1), [cli fun](#cli-fun) (2), [enhanced cat](#enhanced-cat) (1), [fun / novelty](#fun-novelty) (1), [fun](#fun) (2), [funny aliases](#funny-aliases) (1), [funny tools](#funny-tools) (1), [terminal animation](#terminal-animation) (1), [terminal drawing tool](#terminal-drawing-tool) (1), [text decoration](#text-decoration) (1)
 - **[games](#games)** (62 tools): [APIClientCLI](#apiclientcli) (1), [AdvancedCalculators](#advancedcalculators) (1), [GameCLI](#gamecli) (4), [GameTUI](#gametui) (1), [TUI RogueGame](#tui-roguegame) (1), [TerminalBoardGames](#terminalboardgames) (1), [TerminalChessAI](#terminalchessai) (1), [TerminalGame(Minesweeper)](#terminalgameminesweeper) (1), [TerminalGame(PuzzlePlatformer)](#terminalgamepuzzleplatformer) (1), [TerminalGame(Roguelike)](#terminalgameroguelike) (1), [TerminalGame(SimulationStrategy)](#terminalgamesimulationstrategy) (1), [TerminalGame(SurvivalRPG)](#terminalgamesurvivalrpg) (1), [TerminalGame(Tetris)](#terminalgametetris) (1), [TerminalGameCLI](#terminalgamecli) (1), [TerminalGameTUI](#terminalgametui) (2), [TerminalGame](#terminalgame) (5), [WordleGameTUI](#wordlegametui) (1), [ascii fps game](#ascii-fps-game) (1), [chess](#chess) (1), [cli game](#cli-game) (3), [enhanced cat](#enhanced-cat) (2), [game editor](#game-editor) (1), [game](#game) (4), [interactive fiction](#interactive-fiction) (1), [irc bot game](#irc-bot-game) (1), [minesweeper](#minesweeper) (1), [puzzle game](#puzzle-game) (1), [shell](#shell) (1), [terminal chess](#terminal-chess) (1), [terminal game](#terminal-game) (12), [terminal games](#terminal-games) (3), [tetris game](#tetris-game) (1), [tui chess client](#tui-chess-client) (1), [word games](#word-games) (1), [wordle solver](#wordle-solver) (1)
 - **[git](#git)** (62 tools): [AlternativeVCS](#alternativevcs) (1), [CloudSyncManager](#cloudsyncmanager) (1), [CommitHelperCLI](#commithelpercli) (1), [CommitMessageHelperCLI](#commitmessagehelpercli) (1), [DistributedVersionControl](#distributedversioncontrol) (1), [GitEnhancerCLI](#gitenhancercli) (1), [GitFzfCLI](#gitfzfcli) (1), [GitInterface(TUI)](#gitinterfacetui) (2), [GitRemoteHelperCLI](#gitremotehelpercli) (1), [GitRepoManagerCLI](#gitrepomanagercli) (1), [GitSearchCLI](#gitsearchcli) (1), [GitSecretManagerCLI](#gitsecretmanagercli) (1), [GitServerTUI](#gitservertui) (1), [GitStatisticsCLI](#gitstatisticscli) (1), [GitStatistics](#gitstatistics) (9), [GitTUIWrapper](#gittuiwrapper) (1), [GitVisualizerCLI](#gitvisualizercli) (1), [GitforLargeFiles](#gitforlargefiles) (1), [SelfHostedGitServer](#selfhostedgitserver) (1), [cd helper](#cd-helper) (1), [changelog tools](#changelog-tools) (1), [dotfiles manager](#dotfiles-manager) (1), [enhanced cat](#enhanced-cat) (3), [git TUI tools](#git-tui-tools) (1), [git analytics](#git-analytics) (1), [git assistant](#git-assistant) (1), [git automation](#git-automation) (1), [git autosync](#git-autosync) (1), [git clients](#git-clients) (1), [git commit tools](#git-commit-tools) (1), [git diff viewer](#git-diff-viewer) (2), [git export](#git-export) (1), [git helper](#git-helper) (2), [git helpers](#git-helpers) (2), [git hook](#git-hook) (1), [git profile](#git-profile) (1), [git tool](#git-tool) (2), [git tools](#git-tools) (3), [git tui](#git-tui) (1), [github dashboard](#github-dashboard) (1), [github graph](#github-graph) (1), [github prs tracker](#github-prs-tracker) (1), [repo cleaner](#repo-cleaner) (1), [secret scanner](#secret-scanner) (1), [sourcehut git client](#sourcehut-git-client) (1)
 - **[graphics](#graphics)** (45 tools): [BackupAutomationWrapper](#backupautomationwrapper) (1), [ColorToolCLI](#colortoolcli) (1), [FractalCLI](#fractalcli) (1), [ImageEditingConversion](#imageeditingconversion) (1), [ImageProcessorCLI](#imageprocessorcli) (1), [ImageToASCII](#imagetoascii) (1), [ImageViewer(ASCII)](#imageviewerascii) (6), [SVGSlideExporterCLI](#svgslideexportercli) (1), [ScreenshotUtility](#screenshotutility) (1), [ai image search](#ai-image-search) (1), [ascii art](#ascii-art) (2), [ascii diagram](#ascii-diagram) (1), [ascii paint](#ascii-paint) (1), [ascii renderer](#ascii-renderer) (1), [ascii screenshot tool](#ascii-screenshot-tool) (1), [barcode scanner](#barcode-scanner) (1), [color picker](#color-picker) (1), [command-line translator](#command-line-translator) (2), [diagram scripting](#diagram-scripting) (1), [enhanced cat](#enhanced-cat) (1), [gif editors](#gif-editors) (1), [gif tools](#gif-tools) (1), [graph visualization](#graph-visualization) (1), [image optimizer](#image-optimizer) (1), [image preview](#image-preview) (1), [image processing](#image-processing) (1), [image tool](#image-tool) (1), [map viewers](#map-viewers) (1), [maps](#maps) (1), [meme generator](#meme-generator) (1), [screenshot decorators](#screenshot-decorators) (1), [screenshot tools](#screenshot-tools) (1), [space visualizer](#space-visualizer) (1), [svg color modifier](#svg-color-modifier) (1), [svg optimizers](#svg-optimizers) (1), [syntax highlighting](#syntax-highlighting) (1), [terminal image](#terminal-image) (1), [terrain generator](#terrain-generator) (1)
@@ -58,8 +59,8 @@ Below is a categorized overview of all **1777** tools.
 - **[monitor](#monitor)** (36 tools): [BenchmarkCLI](#benchmarkcli) (1), [DiskInspectorCLI](#diskinspectorcli) (1), [IO monitor](#io-monitor) (1), [ImageViewer(ASCII)](#imageviewerascii) (2), [LogViewerTUI](#logviewertui) (1), [SystemHardwareInspector](#systemhardwareinspector) (1), [battery monitor](#battery-monitor) (1), [load monitor](#load-monitor) (1), [log viewer](#log-viewer) (1), [memory usage](#memory-usage) (1), [monitoring](#monitoring) (1), [neofetch](#neofetch) (1), [network grep](#network-grep) (1), [network scanner](#network-scanner) (1), [packet analyzer](#packet-analyzer) (1), [power monitor](#power-monitor) (1), [ram info](#ram-info) (1), [resource monitor](#resource-monitor) (4), [serial monitor](#serial-monitor) (1), [syscall monitor](#syscall-monitor) (1), [system fetcher](#system-fetcher) (3), [system info](#system-info) (5), [system information](#system-information) (1), [system monitor](#system-monitor) (2), [terminal sharing](#terminal-sharing) (1)
 - **[monitor-top](#monitor-top)** (26 tools): [FastFindAlternative](#fastfindalternative) (1), [IO monitor](#io-monitor) (1), [ResourceMonitorTUI](#resourcemonitortui) (1), [gpu monitor](#gpu-monitor) (4), [process monitor](#process-monitor) (2), [process viewer,](#process-viewer) (1), [process viewer](#process-viewer) (2), [resource monitor](#resource-monitor) (7), [system monitor](#system-monitor) (6), [task manager](#task-manager) (1)
 - **[music](#music)** (55 tools): [AudioMixerCLI](#audiomixercli) (1), [AudioMixer](#audiomixer) (1), [LightweightAudioPlayer](#lightweightaudioplayer) (19), [MusicAppFramework](#musicappframework) (1), [MusicDownloaderCLI](#musicdownloadercli) (1), [MusicLibraryManager](#musiclibrarymanager) (1), [PodcastClientTUI](#podcastclienttui) (1), [SpotifyClientTUI](#spotifyclienttui) (1), [TerminalAudioPlayer(ogg)](#terminalaudioplayerogg) (1), [TerminalMusicPlayer(MPD)](#terminalmusicplayermpd) (1), [TerminalMusicPlayer](#terminalmusicplayer) (1), [TerminalMusicVisualizer](#terminalmusicvisualizer) (1), [TextToSpeech](#texttospeech) (1), [YouTubeAudioCLI](#youtubeaudiocli) (1), [YouTubeToMP3Downloader](#youtubetomp3downloader) (1), [audio player](#audio-player) (3), [audio visualizer](#audio-visualizer) (1), [audiobook manager](#audiobook-manager) (1), [cli midi](#cli-midi) (1), [cli music player](#cli-music-player) (1), [debugging](#debugging) (1), [media control](#media-control) (1), [music catalog](#music-catalog) (1), [music player](#music-player) (5), [music scraper](#music-scraper) (1), [music theory](#music-theory) (1), [podcast downloader](#podcast-downloader) (1), [podcast ui for newsboat](#podcast-ui-for-newsboat) (1), [radio player](#radio-player) (1), [spotify client](#spotify-client) (1), [youtube client](#youtube-client) (1)
-- **[networking](#networking)** (82 tools): [BluetoothManagerTUI](#bluetoothmanagertui) (1), [HTTPSProxyAnalyzer](#httpsproxyanalyzer) (1), [ListManagerCLI](#listmanagercli) (1), [NetworkToolCLI](#networktoolcli) (1), [NetworkTrafficMonitor](#networktrafficmonitor) (1), [OpenAPIEditorCLI](#openapieditorcli) (1), [RedditClientTUI](#redditclienttui) (1), [SpeedTestCLI](#speedtestcli) (1), [ad blocker](#ad-blocker) (1), [api client](#api-client) (1), [bandwidth monitor](#bandwidth-monitor) (1), [bluetooth tool](#bluetooth-tool) (1), [cli-to-web](#cli-to-web) (1), [debugging](#debugging) (1), [dns client](#dns-client) (1), [dns tools](#dns-tools) (2), [file manager](#file-manager) (1), [file‑sharing](#filesharing) (1), [grpc client](#grpc-client) (1), [http client](#http-client) (2), [http proxy](#http-proxy) (1), [ip generator](#ip-generator) (1), [ip geolocation](#ip-geolocation) (1), [kubectl port forwarder](#kubectl-port-forwarder) (1), [load testing](#load-testing) (1), [log analyzer](#log-analyzer) (1), [mock server](#mock-server) (1), [monitoring](#monitoring) (1), [network diagnostics](#network-diagnostics) (1), [network info](#network-info) (1), [network interface info](#network-interface-info) (1), [network monitor](#network-monitor) (3), [network proxy](#network-proxy) (1), [network scanner](#network-scanner) (2), [network tools](#network-tools) (2), [network traffic viewer](#network-traffic-viewer) (1), [oauth manager](#oauth-manager) (1), [packet sender](#packet-sender) (1), [parallel ssh tools](#parallel-ssh-tools) (1), [proxy tool](#proxy-tool) (1), [reconnaissance](#reconnaissance) (1), [remote shells](#remote-shells) (1), [remote terminal server](#remote-terminal-server) (1), [shell](#shell) (2), [sip analyzer](#sip-analyzer) (1), [smb tools](#smb-tools) (1), [socket monitor](#socket-monitor) (1), [ssh file transfer client](#ssh-file-transfer-client) (1), [ssh manager](#ssh-manager) (2), [ssh tools](#ssh-tools) (3), [static server](#static-server) (1), [subnetting tools](#subnetting-tools) (1), [system information](#system-information) (1), [tcp client](#tcp-client) (1), [terminal API client](#terminal-api-client) (1), [terminal sharing](#terminal-sharing) (5), [tunnelCLI / port forwarder](#tunnelcli--port-forwarder) (1), [tunneling](#tunneling) (1), [vpn tools](#vpn-tools) (2), [vpn](#vpn) (1), [web server](#web-server) (2), [web tools](#web-tools) (1), [websocket](#websocket) (1), [wifi manager](#wifi-manager) (1), [xmpp server](#xmpp-server) (2)
-- **[note-taking](#note-taking)** (29 tools): [CLIJournal](#clijournal) (1), [EvernoteClientCLI](#evernoteclientcli) (1), [NoteTakingCLI](#notetakingcli) (3), [NoteTakingTUI](#notetakingtui) (1), [NotesCLI](#notescli) (1), [TerminalKnowledgeBase](#terminalknowledgebase) (1), [calendar & notes](#calendar--notes) (1), [cli kanban notes](#cli-kanban-notes) (1), [command-line translator](#command-line-translator) (1), [journal](#journal) (2), [knowledge base](#knowledge-base) (4), [markdown viewer](#markdown-viewer) (1), [note taking](#note-taking) (2), [note-taking](#note-taking) (5), [terminal journal](#terminal-journal) (1), [terminal notes](#terminal-notes) (1), [terminal sharing](#terminal-sharing) (2)
+- **[networking](#networking)** (82 tools): [BluetoothManagerTUI](#bluetoothmanagertui) (1), [HTTPSProxyAnalyzer](#httpsproxyanalyzer) (1), [ListManagerCLI](#listmanagercli) (1), [NetworkToolCLI](#networktoolcli) (1), [NetworkTrafficMonitor](#networktrafficmonitor) (1), [OpenAPIEditorCLI](#openapieditorcli) (1), [RedditClientTUI](#redditclienttui) (1), [SpeedTestCLI](#speedtestcli) (1), [ad blocker](#ad-blocker) (1), [api client](#api-client) (1), [bandwidth monitor](#bandwidth-monitor) (1), [bluetooth tool](#bluetooth-tool) (1), [cli-to-web](#cli-to-web) (1), [debugging](#debugging) (1), [dns client](#dns-client) (1), [dns tools](#dns-tools) (2), [file manager](#file-manager) (1), [file‑sharing](#filesharing) (1), [grpc client](#grpc-client) (1), [http client](#http-client) (2), [http proxy](#http-proxy) (1), [ip generator](#ip-generator) (1), [ip geolocation](#ip-geolocation) (1), [kubectl port forwarder](#kubectl-port-forwarder) (1), [load testing](#load-testing) (1), [log analyzer](#log-analyzer) (1), [mock server](#mock-server) (1), [monitoring](#monitoring) (1), [network diagnostics](#network-diagnostics) (1), [network info](#network-info) (1), [network interface info](#network-interface-info) (1), [network monitor](#network-monitor) (3), [network proxy](#network-proxy) (1), [network scanner](#network-scanner) (2), [network tools](#network-tools) (2), [network traffic viewer](#network-traffic-viewer) (1), [oauth manager](#oauth-manager) (1), [packet sender](#packet-sender) (1), [parallel ssh tools](#parallel-ssh-tools) (1), [proxy tool](#proxy-tool) (1), [reconnaissance](#reconnaissance) (1), [remote shells](#remote-shells) (1), [remote terminal server](#remote-terminal-server) (1), [shell](#shell) (2), [sip analyzer](#sip-analyzer) (1), [smb tools](#smb-tools) (1), [socket monitor](#socket-monitor) (1), [ssh file transfer client](#ssh-file-transfer-client) (1), [ssh manager](#ssh-manager) (2), [ssh tools](#ssh-tools) (3), [static server](#static-server) (1), [subnetting tools](#subnetting-tools) (1), [system information](#system-information) (1), [tcp client](#tcp-client) (1), [terminal API client](#terminal-api-client) (1), [terminal sharing](#terminal-sharing) (5), [tunnelCLI / port forwarder](#tunnelcli-port-forwarder) (1), [tunneling](#tunneling) (1), [vpn tools](#vpn-tools) (2), [vpn](#vpn) (1), [web server](#web-server) (2), [web tools](#web-tools) (1), [websocket](#websocket) (1), [wifi manager](#wifi-manager) (1), [xmpp server](#xmpp-server) (2)
+- **[note-taking](#note-taking)** (29 tools): [CLIJournal](#clijournal) (1), [EvernoteClientCLI](#evernoteclientcli) (1), [NoteTakingCLI](#notetakingcli) (3), [NoteTakingTUI](#notetakingtui) (1), [NotesCLI](#notescli) (1), [TerminalKnowledgeBase](#terminalknowledgebase) (1), [calendar & notes](#calendar-notes) (1), [cli kanban notes](#cli-kanban-notes) (1), [command-line translator](#command-line-translator) (1), [journal](#journal) (2), [knowledge base](#knowledge-base) (4), [markdown viewer](#markdown-viewer) (1), [note taking](#note-taking) (2), [note-taking](#note-taking) (5), [terminal journal](#terminal-journal) (1), [terminal notes](#terminal-notes) (1), [terminal sharing](#terminal-sharing) (2)
 - **[office](#office)** (19 tools): [MarkdownPresenterTUI](#markdownpresentertui) (1), [PlaintextPresenterCLI](#plaintextpresentercli) (1), [TerminalPresentation](#terminalpresentation) (1), [calculator](#calculator) (1), [cli presentation](#cli-presentation) (1), [code tutorial](#code-tutorial) (1), [enhanced cat](#enhanced-cat) (1), [form sharing](#form-sharing) (1), [markdown slides](#markdown-slides) (1), [pdf tools](#pdf-tools) (2), [presentation tool](#presentation-tool) (1), [presentation tools](#presentation-tools) (2), [presentations](#presentations) (1), [search tool](#search-tool) (1), [spreadsheet calculator](#spreadsheet-calculator) (1), [terminal presentation](#terminal-presentation) (1), [terminal spreadsheet](#terminal-spreadsheet) (1)
 - **[online](#online)** (26 tools): [ArchWikiCLI](#archwikicli) (1), [CLICatalog](#clicatalog) (1), [GoogleSearchCLI](#googlesearchcli) (1), [StackOverflowCLI](#stackoverflowcli) (1), [StackOverflowSearchCLI](#stackoverflowsearchcli) (1), [WikipediaCLI](#wikipediacli) (1), [awesome list tools](#awesome-list-tools) (1), [command-line translator](#command-line-translator) (1), [fuzzy finder](#fuzzy-finder) (1), [git tool](#git-tool) (1), [github tools](#github-tools) (1), [hackernews tracker](#hackernews-tracker) (1), [jira tools](#jira-tools) (2), [output sharing tools](#output-sharing-tools) (1), [read-later tools](#read-later-tools) (1), [recipe tools](#recipe-tools) (1), [reddit cleaner](#reddit-cleaner) (1), [subdomain finder](#subdomain-finder) (1), [terminal messaging](#terminal-messaging) (1), [terminal sharing](#terminal-sharing) (1), [username/email availability checker](#usernameemail-availability-checker) (1), [vcs performance](#vcs-performance) (1), [web scraper](#web-scraper) (1), [wikipedia client](#wikipedia-client) (2)
 - **[option-picker](#option-picker)** (17 tools): [TerminalMenu](#terminalmenu) (1), [date picker](#date-picker) (1), [enhanced cat](#enhanced-cat) (2), [file search](#file-search) (1), [fuzzy finder](#fuzzy-finder) (1), [fuzzy selector](#fuzzy-selector) (1), [fuzzy-filter](#fuzzy-filter) (1), [fuzzy‑search](#fuzzysearch) (1), [fzf selector](#fzf-selector) (1), [interactive selector](#interactive-selector) (1), [interactive-line-select](#interactive-line-select) (1), [menu builder](#menu-builder) (1), [menu tools](#menu-tools) (1), [menu](#menu) (1), [shell](#shell) (2)
@@ -69,14 +70,14 @@ Below is a categorized overview of all **1777** tools.
 - **[pastebin](#pastebin)** (3 tools): [PastebinCLI](#pastebincli) (1), [pastebin](#pastebin) (1), [terminal sharing](#terminal-sharing) (1)
 - **[productivity](#productivity)** (11 tools): [DirectionsQueryCLI](#directionsquerycli) (1), [GoogleScraperCLI](#googlescrapercli) (1), [Translation](#translation) (1), [VaccineCertViewerCLI](#vaccinecertviewercli) (1), [mind‑mapping](#mindmapping) (1), [notifications](#notifications) (1), [speed reading](#speed-reading) (1), [task manager](#task-manager) (1), [terminal dashboard](#terminal-dashboard) (1), [time tools](#time-tools) (1), [tui utils](#tui-utils) (1)
 - **[programming](#programming)** (52 tools): [AlternativeVCS](#alternativevcs) (1), [BenchmarkingCLI](#benchmarkingcli) (1), [CodeStatsCLI](#codestatscli) (3), [DeterministicDebugger](#deterministicdebugger) (1), [DevToolboxCLI](#devtoolboxcli) (1), [GDBEnhancerTUI](#gdbenhancertui) (1), [ImageViewer(ASCII)](#imageviewerascii) (1), [LightweightTextViewer](#lightweighttextviewer) (1), [OfflineDocsetSearcher](#offlinedocsetsearcher) (1), [RegexRefactorTool](#regexrefactortool) (1), [StaticAnalyzerCLI](#staticanalyzercli) (2), [advanced grep](#advanced-grep) (2), [api testing](#api-testing) (1), [argument parser](#argument-parser) (1), [assembly visualizers](#assembly-visualizers) (1), [benchmark dashboard](#benchmark-dashboard) (1), [build tool](#build-tool) (1), [build tools](#build-tools) (1), [cli generator](#cli-generator) (1), [code bundler](#code-bundler) (1), [code runner](#code-runner) (1), [code submission](#code-submission) (1), [command-line translator](#command-line-translator) (2), [contributor helper](#contributor-helper) (1), [debug assistant](#debug-assistant) (1), [debugging](#debugging) (2), [dev environment manager](#dev-environment-manager) (1), [dev environment](#dev-environment) (1), [devops tools](#devops-tools) (1), [enhanced cat](#enhanced-cat) (3), [env manager](#env-manager) (1), [file renamer](#file-renamer) (1), [go tools](#go-tools) (1), [javascript minifier](#javascript-minifier) (1), [leetcode client](#leetcode-client) (1), [live reloader](#live-reloader) (1), [npm tools](#npm-tools) (1), [release automation](#release-automation) (2), [scripting](#scripting) (1), [shell builder](#shell-builder) (1), [stack tools](#stack-tools) (1), [terminal sharing](#terminal-sharing) (1), [vcs tool](#vcs-tool) (1)
-- **[programming-boilerplate](#programming-boilerplate)** (12 tools): [AlternativeVCS](#alternativevcs) (2), [changelog generators](#changelog-generators) (1), [contributing.md generator](#contributingmd-generator) (1), [enhanced cat](#enhanced-cat) (1), [git tools](#git-tools) (1), [license generators](#license-generators) (2), [project boilerplate](#project-boilerplate) (1), [project scaffolding ](#project-scaffolding-) (1), [readme generators](#readme-generators) (1), [template generators](#template-generators) (1)
+- **[programming-boilerplate](#programming-boilerplate)** (12 tools): [AlternativeVCS](#alternativevcs) (2), [changelog generators](#changelog-generators) (1), [contributing.md generator](#contributingmd-generator) (1), [enhanced cat](#enhanced-cat) (1), [git tools](#git-tools) (1), [license generators](#license-generators) (2), [project boilerplate](#project-boilerplate) (1), [project scaffolding ](#project-scaffolding) (1), [readme generators](#readme-generators) (1), [template generators](#template-generators) (1)
 - **[prompt](#prompt)** (13 tools): [ShellPromptEnhancer](#shellpromptenhancer) (1), [ShellPromptTheme](#shellprompttheme) (1), [TerminalStatusLineEnhancer](#terminalstatuslineenhancer) (1), [WelcomeMessageCLI](#welcomemessagecli) (1), [bash tool](#bash-tool) (1), [custom prompt](#custom-prompt) (2), [shell prompt](#shell-prompt) (2), [shell](#shell) (2), [zsh prompt](#zsh-prompt) (2)
 - **[religion](#religion)** (4 tools): [bible readers](#bible-readers) (1), [cli bible viewer](#cli-bible-viewer) (1), [command-line translator](#command-line-translator) (1), [text readers](#text-readers) (1)
 - **[rm](#rm)** (13 tools): [DataRecovery](#datarecovery) (1), [FileDeletionTool](#filedeletiontool) (1), [ShellSyncBackup](#shellsyncbackup) (1), [command-line translator](#command-line-translator) (1), [enhanced cat](#enhanced-cat) (1), [file management](#file-management) (1), [file recovery](#file-recovery) (2), [safe delete](#safe-delete) (3), [shell](#shell) (1), [trash management](#trash-management) (1)
 - **[rss](#rss)** (10 tools): [rss parser](#rss-parser) (1), [rss reader](#rss-reader) (6), [rss readers](#rss-readers) (1), [rss tool](#rss-tool) (1), [rss](#rss) (1)
 - **[science](#science)** (20 tools): [AcademicDownloaderCLI](#academicdownloadercli) (1), [AlternativeVCS](#alternativevcs) (1), [AudioMixer](#audiomixer) (1), [BibManagerCLI](#bibmanagercli) (1), [ConferenceTrackerCLI](#conferencetrackercli) (1), [bioinformatics](#bioinformatics) (1), [command-line translator](#command-line-translator) (1), [education](#education) (1), [enhanced cat](#enhanced-cat) (2), [fun tools](#fun-tools) (1), [game](#game) (1), [knowledge base](#knowledge-base) (3), [periodic table](#periodic-table) (2), [reference manager](#reference-manager) (1), [terminal animation](#terminal-animation) (1), [terminal games](#terminal-games) (1)
 - **[screen-recorder](#screen-recorder)** (11 tools): [svg generator](#svg-generator) (1), [terminal animation](#terminal-animation) (1), [terminal recorder](#terminal-recorder) (8), [terminal sharing](#terminal-sharing) (1)
-- **[screensaver](#screensaver)** (6 tools): [TerminalScreensaver](#terminalscreensaver) (1), [ascii aquarium](#ascii-aquarium) (1), [ascii screensaver](#ascii-screensaver) (1), [screensaver](#screensaver) (2), [terminal animations ](#terminal-animations-) (1)
+- **[screensaver](#screensaver)** (6 tools): [TerminalScreensaver](#terminalscreensaver) (1), [ascii aquarium](#ascii-aquarium) (1), [ascii screensaver](#ascii-screensaver) (1), [screensaver](#screensaver) (2), [terminal animations ](#terminal-animations) (1)
 - **[security](#security)** (38 tools): [EncryptionCLI](#encryptioncli) (1), [FastFindAlternative](#fastfindalternative) (1), [FileSignerCLI](#filesignercli) (1), [OneTimeSecretCLI](#onetimesecretcli) (1), [SecuritySandboxCLI](#securitysandboxcli) (1), [TOTPAuthenticatorCLI](#totpauthenticatorcli) (1), [VimEnhancer](#vimenhancer) (1), [cli encryption](#cli-encryption) (1), [code signer](#code-signer) (1), [encrypted filesystem](#encrypted-filesystem) (2), [encryption module](#encryption-module) (1), [encryption](#encryption) (2), [enhanced cat](#enhanced-cat) (1), [file encryption](#file-encryption) (1), [fuzzer](#fuzzer) (1), [gpg tools](#gpg-tools) (1), [license manager](#license-manager) (1), [oauth client](#oauth-client) (1), [package scanner](#package-scanner) (1), [password generator](#password-generator) (1), [password manager](#password-manager) (1), [password recovery](#password-recovery) (1), [secret manager](#secret-manager) (1), [secure backups](#secure-backups) (1), [security audit](#security-audit) (1), [security tools](#security-tools) (1), [shell](#shell) (1), [ssh vulnerability scan](#ssh-vulnerability-scan) (1), [ssl tools](#ssl-tools) (1), [steganography](#steganography) (5), [vulnerability scanner](#vulnerability-scanner) (1), [vulnerability viewer](#vulnerability-viewer) (1)
 - **[shells](#shells)** (25 tools): [automation shell](#automation-shell) (1), [kornshell](#kornshell) (1), [modern shell](#modern-shell) (1), [shell](#shell) (21), [text-based window manager](#text-based-window-manager) (1)
 - **[system](#system)** (39 tools): [CloudSyncManager](#cloudsyncmanager) (1), [DirectoryOrganizer](#directoryorganizer) (1), [HardwareController](#hardwarecontroller) (1), [ProcessManagerCLI](#processmanagercli) (1), [SystemMonitorTUI](#systemmonitortui) (1), [autocomplete](#autocomplete) (2), [brightness control](#brightness-control) (1), [checksum tools](#checksum-tools) (1), [clipboard manager](#clipboard-manager) (1), [clipboard tool](#clipboard-tool) (1), [command-line translator](#command-line-translator) (1), [console sharing](#console-sharing) (2), [dotfiles manager](#dotfiles-manager) (2), [enhanced cat](#enhanced-cat) (2), [env manager](#env-manager) (1), [hardware info](#hardware-info) (1), [man page viewer](#man-page-viewer) (1), [mount tools](#mount-tools) (1), [notification tool](#notification-tool) (1), [notifications](#notifications) (1), [port killer](#port-killer) (1), [process killer](#process-killer) (1), [sandbox runner](#sandbox-runner) (1), [shell logger](#shell-logger) (1), [shell](#shell) (2), [sound notifier](#sound-notifier) (1), [system inspector](#system-inspector) (1), [system manager](#system-manager) (2), [task killer](#task-killer) (1), [user management](#user-management) (1), [vcs benchmark](#vcs-benchmark) (1), [viewport tools](#viewport-tools) (1), [window info tools](#window-info-tools) (1)
@@ -88,7 +89,7 @@ Below is a categorized overview of all **1777** tools.
 - **[todo-manager](#todo-manager)** (35 tools): [ForensicsCLI](#forensicscli) (1), [GitBackedTodoCLI](#gitbackedtodocli) (1), [TaskManagerCLI](#taskmanagercli) (3), [TodoListTUI](#todolisttui) (1), [TwitterClientCLI](#twitterclientcli) (1), [command-line translator](#command-line-translator) (2), [feature-rich todo manager](#feature-rich-todo-manager) (1), [hierarchical todo manager](#hierarchical-todo-manager) (1), [interactive todo.txt](#interactive-todotxt) (1), [kanban](#kanban) (2), [knowledge base](#knowledge-base) (3), [note-taking](#note-taking) (1), [plain-text todo manager](#plain-text-todo-manager) (1), [project-based todo manager](#project-based-todo-manager) (1), [python todo manager](#python-todo-manager) (1), [shell history](#shell-history) (1), [task manager](#task-manager) (2), [terminal sharing](#terminal-sharing) (1), [text calendar](#text-calendar) (1), [todo manager](#todo-manager) (6), [todo managers](#todo-managers) (1), [todoist client](#todoist-client) (1), [wishlist](#wishlist) (1)
 - **[torrent](#torrent)** (8 tools): [AlternativeVCS](#alternativevcs) (1), [RPGClientTUI](#rpgclienttui) (1), [TUIBitTorrentClient](#tuibittorrentclient) (1), [TorrentClientCLI](#torrentclientcli) (1), [TorrentClientTUI](#torrentclienttui) (1), [TorrentClient](#torrentclient) (1), [terminal sharing](#terminal-sharing) (1), [torrent streamer](#torrent-streamer) (1)
 - **[transfer](#transfer)** (44 tools): [ClipboardManagerCLI](#clipboardmanagercli) (1), [CloudFileDownloaderCLI](#cloudfiledownloadercli) (1), [CloudSyncManager](#cloudsyncmanager) (1), [DownloadManagerCLI](#downloadmanagercli) (1), [FTPClient](#ftpclient) (1), [FileSharingCLI](#filesharingcli) (1), [FileSharingOverTor](#filesharingovertor) (1), [FileSynchronizer](#filesynchronizer) (1), [FileTransferCLI](#filetransfercli) (4), [FileTransferP2PCLI](#filetransferp2pcli) (1), [HTTPIEAlternative](#httpiealternative) (1), [LocalHTTPFileServer](#localhttpfileserver) (1), [NetworkDataFetcherCLI](#networkdatafetchercli) (1), [ShellSyncBackup](#shellsyncbackup) (1), [SiteSyncOverFTP](#sitesyncoverftp) (1), [TranslatorCLI](#translatorcli) (1), [VideoDownloaderCLI](#videodownloadercli) (1), [YouTubeSearchPlayerCLI](#youtubesearchplayercli) (1), [YouTubeToMP3Downloader](#youtubetomp3downloader) (1), [clipboard sync](#clipboard-sync) (2), [code sharing](#code-sharing) (1), [downloader](#downloader) (1), [enhanced cat](#enhanced-cat) (1), [file sharing tool](#file-sharing-tool) (1), [file sharing](#file-sharing) (3), [file sync](#file-sync) (1), [github file downloader](#github-file-downloader) (1), [knowledge base](#knowledge-base) (1), [media downloader](#media-downloader) (1), [rclone frontend](#rclone-frontend) (1), [rss tools](#rss-tools) (1), [scp alternative](#scp-alternative) (1), [shell](#shell) (1), [telegram tools](#telegram-tools) (1), [terminal sharing](#terminal-sharing) (1), [video downloader](#video-downloader) (2), [youtube downloader](#youtube-downloader) (1)
-- **[typing](#typing)** (16 tools): [HotkeyManager](#hotkeymanager) (1), [TerminalGame(TypingTrainer)](#terminalgametypingtrainer) (1), [typing game](#typing-game) (3), [typing practice ](#typing-practice-) (1), [typing practice](#typing-practice) (3), [typing speed test](#typing-speed-test) (1), [typing test](#typing-test) (5), [typing tutor](#typing-tutor) (1)
+- **[typing](#typing)** (16 tools): [HotkeyManager](#hotkeymanager) (1), [TerminalGame(TypingTrainer)](#terminalgametypingtrainer) (1), [typing game](#typing-game) (3), [typing practice ](#typing-practice) (1), [typing practice](#typing-practice) (3), [typing speed test](#typing-speed-test) (1), [typing test](#typing-test) (5), [typing tutor](#typing-tutor) (1)
 - **[utility](#utility)** (46 tools): [ClipboardHelperCLI](#clipboardhelpercli) (1), [DesktopEntryGenerator](#desktopentrygenerator) (1), [alerting](#alerting) (1), [bash learning tool](#bash-learning-tool) (1), [bash utils](#bash-utils) (1), [caching](#caching) (1), [checksum tool](#checksum-tool) (1), [colorizer](#colorizer) (1), [command launcher](#command-launcher) (1), [command watcher](#command-watcher) (1), [config validator](#config-validator) (1), [developer automation](#developer-automation) (1), [devtools](#devtools) (1), [emoji generators](#emoji-generators) (1), [enhanced cat](#enhanced-cat) (1), [env manager](#env-manager) (1), [file remover](#file-remover) (1), [file utilities](#file-utilities) (1), [fzf tools](#fzf-tools) (1), [image recognition](#image-recognition) (1), [installer](#installer) (1), [language learning](#language-learning) (1), [log generators](#log-generators) (1), [movie info tools](#movie-info-tools) (1), [performance tools](#performance-tools) (1), [process monitor](#process-monitor) (1), [progress viewer](#progress-viewer) (1), [regex practice](#regex-practice) (1), [semantic search](#semantic-search) (1), [shell customization](#shell-customization) (1), [shell enhancements](#shell-enhancements) (1), [shell](#shell) (2), [spell checker](#spell-checker) (1), [stock tracker](#stock-tracker) (1), [table generator](#table-generator) (1), [terminal games](#terminal-games) (1), [terminal navigation](#terminal-navigation) (1), [terminal sharing](#terminal-sharing) (2), [terminal testing](#terminal-testing) (1), [terminal themes](#terminal-themes) (1), [unicode tools](#unicode-tools) (1), [weather](#weather) (2), [wellness](#wellness) (1)
 - **[versioning](#versioning)** (9 tools): [AlternativeVCS](#alternativevcs) (3), [RepoManagerCLI](#repomanagercli) (1), [fossil interface](#fossil-interface) (1), [git manage](#git-manage) (1), [git translator](#git-translator) (1), [terminal sharing](#terminal-sharing) (1), [version control](#version-control) (1)
 - **[video](#video)** (14 tools): [LightweightAudioPlayer](#lightweightaudioplayer) (1), [MediaConverterCLI](#mediaconvertercli) (1), [VideoEditorCLI](#videoeditorcli) (1), [YouTubeAudioSplitter](#youtubeaudiosplitter) (1), [ascii video](#ascii-video) (1), [audio translator](#audio-translator) (1), [downloader](#downloader) (1), [screen recording](#screen-recording) (1), [video converter](#video-converter) (1), [video info](#video-info) (1), [video meme](#video-meme) (1), [video streaming](#video-streaming) (1), [youtube browser](#youtube-browser) (1), [youtube client](#youtube-client) (1)
@@ -100,7 +101,7 @@ Below is a categorized overview of all **1777** tools.
 # ai
 [Back to TOC](#📚-contents)
 
-Interfaces and front-ends to GPT engines and other tools powered by artificial intelligence and Natural Language Processing
+_... description of the category ..._
 ## AI assistant 📁
 Command-line based intelligent assistants or shell helpers.
 * [gemini-cli](https://github.com/reugn/gemini-cli) [🤖 🌐 🖥️CLI] - A command-line interface (CLI) for Google Gemini.
@@ -113,9 +114,9 @@ Command-line based intelligent assistants or shell helpers.
 Command-line based intelligent assistants or shell helpers.
 * [clai](https://github.com/iivvoo/clai) [🤖 🌐 🖥️CLI] - Command Line AI is a command line integration for openai. It's setup to help you learn new shell commands and construct more complex commands.
 * [clevercli](https://github.com/clevercli/clevercli) [🤖 🌐 🖥️CLI] - ChatGPT powered CLI utilities. Easily add new prompt types.
-* [Instrukt](https://github.com/blob42/Instrukt) [❌ ❌ 🖥️CLI 🖥️TUI] - A integrated AI environment in the terminal. Build, test and instruct agents.
+* [Instrukt](https://github.com/blob42/Instrukt) [❌ ❌ 🖥️CLI/🖥️TUI] - A integrated AI environment in the terminal. Build, test and instruct agents.
 * [Mods!](https://github.com/charmbracelet/mods) [🤖 🌐 🖥️CLI] - AI for the command line, built for pipelines.
-* [safespace](https://github.com/danlou/safespace) [🤖 ❌ 🖥️CLI 🖥️TUI] - Your local AI counselor. LLM app that runs offline from a single binary.
+* [safespace](https://github.com/danlou/safespace) [🤖 ❌ 🖥️CLI/🖥️TUI] - Your local AI counselor. LLM app that runs offline from a single binary.
 * [wtg](https://github.com/brylee10/wtg) [🤖 ❌ 🖥️CLI] - What The GPT (wtg), a CLI to chat with your program logs.
 
 ## ai chatbot 📁
@@ -213,7 +214,7 @@ Command-line tool for managing or interacting with related tasks.
 # animation
 [Back to TOC](#📚-contents)
 
-Generate or display animated graphics and effects
+_... description of the category ..._
 ## AsciiTerminalAnimation 📁
 Command-line tool for managing or interacting with related tasks.
 * [asciicquarium](http://www.robobunny.com/projects/asciiquarium/html/) [❌ ❌ 🖥️TUI] - Enjoy the mysteries of the sea from the safety of your own terminal!
@@ -298,7 +299,7 @@ Command-line tool for managing or interacting with related tasks.
 # backup
 [Back to TOC](#📚-contents)
 
-Tools to manage the backup of files and directories
+_... description of the category ..._
 ## AlternativeVCS 📁
 Command-line tool for managing or interacting with related tasks.
 * [shallow-backup](https://github.com/alichtman/shallow-backup) [❌ ❌ 🖥️CLI] - Git integrated backup tool.
@@ -369,7 +370,7 @@ Command-line tool for managing or interacting with related tasks.
 # browser
 [Back to TOC](#📚-contents)
 
-Web browsers with textual interface
+_... description of the category ..._
 ## FastFindAlternative 📁
 Command-line tool for managing or interacting with related tasks.
 * [asuka](https://git.sr.ht/~julienxx/asuka) [❌ ❌ 🖥️CLI] - A Gemini Project client written in Rust with ncurses.
@@ -424,11 +425,11 @@ CLI tools for searching content, code, or online resources.
 
 ## rss reader 📁
 Command-line tool for managing or interacting with related tasks.
-* [Litter](https://github.com/tuxcanfly/litter) [❌ 🌐 🖥️CLI 🖥️TUI] - Litter is a minimalistic, terminal-based read-only browser that allows users to browse the web without the bloat and distractions of modern web browsers.
+* [Litter](https://github.com/tuxcanfly/litter) [❌ 🌐 🖥️CLI/🖥️TUI] - Litter is a minimalistic, terminal-based read-only browser that allows users to browse the web without the bloat and distractions of modern web browsers.
 
 ## text browser 📁
 Terminal-based or minimal browsers for various protocols.
-* [Chawan](https://sr.ht/~bptato/chawan/) [❌ 🌐 🖥️CLI 🖥️TUI] - A text-mode web browser. It displays websites in your terminal and allows you to navigate on them. It can also be used as a terminal pager.
+* [Chawan](https://sr.ht/~bptato/chawan/) [❌ 🌐 🖥️CLI/🖥️TUI] - A text-mode web browser. It displays websites in your terminal and allows you to navigate on them. It can also be used as a terminal pager.
 
 ## web browser 📁
 Terminal-based or minimal browsers for various protocols.
@@ -437,7 +438,7 @@ Terminal-based or minimal browsers for various protocols.
 # calc
 [Back to TOC](#📚-contents)
 
-Calculators for mathematical operations among numbers, dates, base conversions, etc.
+_... description of the category ..._
 ## AdvancedCalculators 📁
 Command-line tool for managing or interacting with related tasks.
 * [Qalculate](https://qalculate.github.io/) [❌ ❌ 🖥️CLI] - Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI).
@@ -492,7 +493,7 @@ Command-line tool for managing or interacting with related tasks.
 # cd
 [Back to TOC](#📚-contents)
 
-Programs for improving the efficiency of directory traversal by remembering common paths and other approaches; alternatives to the `cd` command
+_... description of the category ..._
 ## FastCdTool 📁
 Command-line tool for managing or interacting with related tasks.
 * [fasd](https://github.com/clvv/fasd) [❌ ❌ 🖥️CLI] - It offers quick access to files and directories for POSIX shells by keeping track of files and directories you have accessed, so that you can quickly reference them in the command line.
@@ -570,7 +571,7 @@ Command-line tool for managing or interacting with related tasks.
 # chat
 [Back to TOC](#📚-contents)
 
-Clients for chat and other instant messaging protocols, e.g., IRC, Discord, Mattermost, Matrix, Slack, Telegram, Reddit
+_... description of the category ..._
 ## RedditClientTUI 📁
 Command-line tool for managing or interacting with related tasks.
 * [TUIR](https://gitlab.com/ajak/tuir) [❌ 🌐 🖥️TUI] - Text-based interface (TUI) to view and interact with Reddit from your terminal; TUIR is a fork of rtv, featuring vim keybindings and themes.
@@ -636,7 +637,7 @@ Command-line tool for managing or interacting with related tasks.
 * [iamb](https://iamb.chat/) [❌ 🌐 🖥️CLI] - A Matrix client for the terminal that uses Vim keybindings.
 * [matrix-commander](https://github.com/8go/matrix-commander) [❌ 🌐 🖥️CLI] - Simple but convenient CLI-based Matrix client app for sending and receiving.
 * [matrixcli](https://github.com/saadjsct/matrixcli) [❌ 🌐 🖥️CLI] - A minimal command line matrix client.
-* [Weechat-Matrix](https://github.com/poljar/weechat-matrix) [❌ 🌐 🖥️CLI 🖥️TUI] - A Python script for Weechat that lets Weechat communicate over the Matrix protocol.
+* [Weechat-Matrix](https://github.com/poljar/weechat-matrix) [❌ 🌐 🖥️CLI/🖥️TUI] - A Python script for Weechat that lets Weechat communicate over the Matrix protocol.
 
 ## messaging 📁
 Command-line tool for managing or interacting with related tasks.
@@ -653,7 +654,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## social clients 📁
 Command-line tool for managing or interacting with related tasks.
-* [toot](https://github.com/ihabunek/toot) [❌ 🌐 🖥️CLI 🖥️TUI] - Mastodon CLI & TUI.
+* [toot](https://github.com/ihabunek/toot) [❌ 🌐 🖥️CLI/🖥️TUI] - Mastodon CLI & TUI.
 
 ## telegram client 📁
 Command-line tool for managing or interacting with related tasks.
@@ -677,7 +678,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## xmpp client 📁
 Command-line tool for managing or interacting with related tasks.
-* [GNU Freetalk](https://www.gnu.org/software/freetalk/) [❌ 🌐 🖥️CLI 🖥️TUI] - A console based chat client for Jabber and other XMPP servers. It has context-sensitive autocompletion for buddy names, commands, and even ordinary English words.
+* [GNU Freetalk](https://www.gnu.org/software/freetalk/) [❌ 🌐 🖥️CLI/🖥️TUI] - A console based chat client for Jabber and other XMPP servers. It has context-sensitive autocompletion for buddy names, commands, and even ordinary English words.
 * [MCABBER](https://mcabber.com/) [❌ 🌐 🖥️TUI] - A small XMPP (Jabber) console client including features such as SASL/SSL/TLS support, MUC (Multi-User Chat) support, history logging, command completion, OpenPGP encryption and more.
 * [Poezio](https://poez.io/en/) [❌ 🌐 🖥️TUI] - Poezio is a free console XMPP client. It lets you connect very easily (no account creation needed) to the network and join various chatrooms. Many commands are identical to common IRC clients. Configuration can be made in a configuration file or directly from the client.
 * [Profanity](https://profanity-im.github.io/) [❌ 🌐 🖥️TUI] - Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi.
@@ -685,7 +686,7 @@ Command-line tool for managing or interacting with related tasks.
 # cheatsheet
 [Back to TOC](#📚-contents)
 
-Tools to manage often used commands, code snippets, and alternative manual pages
+_... description of the category ..._
 ## AliasGeneratorCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [topalias](https://github.com/meteoritt/topalias) [❌ ❌ 🖥️CLI] - Linux alias generator from bash/zsh command history with statistics, written on Python.
@@ -779,7 +780,7 @@ Command-line tool for managing or interacting with related tasks.
 # conversion
 [Back to TOC](#📚-contents)
 
-File format converters
+_... description of the category ..._
 ## DataFormatConverterCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [NestedTextTo](https://github.com/AndydeCleyre/nestedtextto) [❌ ❌ 🖥️CLI] - CLI to convert between NestedText and JSON, YAML, or TOML.
@@ -799,7 +800,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## audio tools 📁
 Command-line tool for managing or interacting with related tasks.
-* [transflac](https://bitbucket.org/gbcox/transflac.git/) [❌ ❌ 🖥️CLI 🖥️TUI] - A repository containing a series of utilities to assist in the maintenance and organization of FLAC based music collections.
+* [transflac](https://bitbucket.org/gbcox/transflac.git/) [❌ ❌ 🖥️CLI/🖥️TUI] - A repository containing a series of utilities to assist in the maintenance and organization of FLAC based music collections.
 
 ## css tools 📁
 Command-line tool for managing or interacting with related tasks.
@@ -841,7 +842,7 @@ Command-line tool for managing or interacting with related tasks.
 # copilot
 [Back to TOC](#📚-contents)
 
-Programs that use GPT and GPT-like engines to generate commands at the command line or code in general from natural language
+_... description of the category ..._
 ## AI assistant 📁
 Command-line based intelligent assistants or shell helpers.
 * [Open Interpreter](https://github.com/KillianLucas/open-interpreter) [🤖 ❌ 🖥️CLI] - OpenAI's Code Interpreter in your terminal, running locally.
@@ -889,7 +890,7 @@ Command-line based intelligent assistants or shell helpers.
 # data-management
 [Back to TOC](#📚-contents)
 
-Tools to manage data files
+_... description of the category ..._
 ## APIReaderCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [ROAPI](https://github.com/roapi/roapi) [❌ 🌐 🖥️CLI] - ROAPI automatically spins up read-only APIs for static datasets without requiring you to write a single line of code.
@@ -928,7 +929,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## database client 📁
 Command-line tool for managing or interacting with related tasks.
-* [redis_tui](https://github.com/mat2cc/redis_tui) [❌ 🌐 🖥️CLI 🖥️TUI] - Redis terminal browser application.
+* [redis_tui](https://github.com/mat2cc/redis_tui) [❌ 🌐 🖥️CLI/🖥️TUI] - Redis terminal browser application.
 
 ## dataset generator 📁
 Command-line tool for managing or interacting with related tasks.
@@ -944,7 +945,7 @@ Tools that monitor system resources or services from CLI.
 
 ## shell 📁
 Command-line tool for managing or interacting with related tasks.
-* [IRedis](https://github.com/laixintao/iredis) [❌ ❌ 🖥️CLI 🖥️TUI] - Interactive Redis: A CLI for Redis with autocompletion and Syntax Highlighting.
+* [IRedis](https://github.com/laixintao/iredis) [❌ ❌ 🖥️CLI/🖥️TUI] - Interactive Redis: A CLI for Redis with autocompletion and Syntax Highlighting.
 
 ## terminal dashboard 📁
 Command-line tool for managing or interacting with related tasks.
@@ -957,14 +958,14 @@ Command-line tool for managing or interacting with related tasks.
 # data-management-json
 [Back to TOC](#📚-contents)
 
-Tools to manage data files, dedicated to JSON, YAML and other similar formats
+_... description of the category ..._
 ## ImageViewer(ASCII) 📁
 Text or file explorers and viewers in the terminal.
 * [dasel](https://github.com/TomWright/dasel) [❌ ❌ 🖥️CLI] - Allows you to query and modify data structures using selector strings.
 
 ## JSONInspector 📁
 Command-line tool for managing or interacting with related tasks.
-* [jqview](https://github.com/fiatjaf/jqview) [❌ ❌ 🖥️CLI 🖥️TUI] - Simplest possible native GUI for inspecting JSON.
+* [jqview](https://github.com/fiatjaf/jqview) [❌ ❌ 🖥️CLI/🖥️TUI] - Simplest possible native GUI for inspecting JSON.
 
 ## JSONTransformerCLI 📁
 Command-line tool for managing or interacting with related tasks.
@@ -1064,7 +1065,7 @@ Text or file explorers and viewers in the terminal.
 
 ## json viewers 📁
 Text or file explorers and viewers in the terminal.
-* [vj](https://github.com/busyloop/vj) [❌ ❌ 🖥️CLI 🖥️TUI] - JSON Humanizer makes JSON human-readable by applying visual formatting.
+* [vj](https://github.com/busyloop/vj) [❌ ❌ 🖥️CLI/🖥️TUI] - JSON Humanizer makes JSON human-readable by applying visual formatting.
 
 ## json-processing 📁
 Command-line tool for managing or interacting with related tasks.
@@ -1095,7 +1096,7 @@ Command-line tool for managing or interacting with related tasks.
 # data-management-tabular
 [Back to TOC](#📚-contents)
 
-Tools to manage tabular data files, such as CSV, spreadsheets, and database tables
+_... description of the category ..._
 ## CSVProcessingCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [csvkit](https://github.com/wireservice/csvkit) [❌ ❌ 🖥️CLI] - A suite of command-line tools for converting to and working with CSV, the king of tabular file formats.
@@ -1118,8 +1119,8 @@ Command-line tool for managing or interacting with related tasks.
 
 ## SQLClientCLI 📁
 Command-line tool for managing or interacting with related tasks.
-* [mycli](https://github.com/dbcli/mycli) [❌ ❌ 🖥️CLI 🖥️TUI] - A command line client for MySQL that can do autocompletion and syntax highlighting.
-* [pgcli](https://github.com/dbcli/pgcli) [❌ ❌ 🖥️CLI 🖥️TUI] - Postgres CLI with autocompletion and syntax highlighting.
+* [mycli](https://github.com/dbcli/mycli) [❌ ❌ 🖥️CLI/🖥️TUI] - A command line client for MySQL that can do autocompletion and syntax highlighting.
+* [pgcli](https://github.com/dbcli/pgcli) [❌ ❌ 🖥️CLI/🖥️TUI] - Postgres CLI with autocompletion and syntax highlighting.
 * [usql](https://github.com/xo/usql) [❌ ❌ 🖥️CLI] - Universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and others, including NoSQL and non-relational databases.
 
 ## SQLGitDatabase 📁
@@ -1198,7 +1199,7 @@ Command-line tool for managing or interacting with related tasks.
 # devops
 [Back to TOC](#📚-contents)
 
-Applications for supporting DevOps tasks, such as containers or cloud systems management
+_... description of the category ..._
 ## DevEnvironmentManager 📁
 Command-line tool for managing or interacting with related tasks.
 * [Devbox](https://github.com/jetpack-io/devbox) [❌ ❌ 🖥️CLI] - Devbox is a command-line tool that lets you easily create isolated shells and containers by defining the list of packages required by the environment.
@@ -1234,7 +1235,7 @@ Command-line tool for managing or interacting with related tasks.
 # diff
 [Back to TOC](#📚-contents)
 
-Calculation of diffs between files and data, even with context or semantic awareness (i.e., considering the meaning of the data)
+_... description of the category ..._
 ## AlternativeVCS 📁
 Command-line tool for managing or interacting with related tasks.
 * [Difftastic](https://github.com/Wilfred/difftastic) [❌ ❌ 🖥️CLI] - Syntax-aware structured diff tool.
@@ -1276,10 +1277,10 @@ Command-line tool for managing or interacting with related tasks.
 # disk-analyzer
 [Back to TOC](#📚-contents)
 
-Programs to analyze and summarize the usage of disks, visualize and report the size of directories and sub-directories, etc.
+_... description of the category ..._
 ## DiskAnalyzerTUI 📁
 Tools for parsing and analyzing code, logs, or content.
-* [gdu](https://github.com/dundee/gdu) [❌ ❌ 🖥️CLI 🖥️TUI] - Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However, HDDs work as well, but the performance gain is not so huge.
+* [gdu](https://github.com/dundee/gdu) [❌ ❌ 🖥️CLI/🖥️TUI] - Pretty fast disk usage analyzer written in Go. Gdu is intended primarily for SSD disks where it can fully utilize parallel processing. However, HDDs work as well, but the performance gain is not so huge.
 
 ## DiskUsageHistogram 📁
 Command-line tool for managing or interacting with related tasks.
@@ -1301,13 +1302,13 @@ Command-line tool for managing or interacting with related tasks.
 * [dua](https://github.com/Byron/dua-cli) [❌ ❌ 🖥️CLI] - Disk Usage Analyzer. Learn about the usage of disk space of a given directory with parallel access to max out SSD exploration.
 * [duf](https://github.com/muesli/duf) [❌ ❌ 🖥️TUI] - Disk Usage/Free Utility.
 * [dutree](https://github.com/nachoparker/dutree) [❌ ❌ 🖥️TUI] - A tool to analyze file system usage written in Rust.
-* [erdtree](https://github.com/solidiquis/erdtree) [❌ ❌ 🖥️CLI 🖥️TUI] - A multithreaded file-tree visualizer and disk usage analyzer.
+* [erdtree](https://github.com/solidiquis/erdtree) [❌ ❌ 🖥️CLI/🖥️TUI] - A multithreaded file-tree visualizer and disk usage analyzer.
 * [vizex](https://github.com/bexxmodd/vizex) [❌ ❌ 🖥️TUI] - Visualize the disk space usage for every partition and media on the user's machine.
 
 # editors
 [Back to TOC](#📚-contents)
 
-Text editors
+_... description of the category ..._
 ## NoteTakingTUI 📁
 CLI-based note management or markdown editors.
 * [Feather](https://www.feathereditor.com/) [❌ ❌ 🖥️TUI] - The only terminal based text editor designed to work with BIG files.
@@ -1332,7 +1333,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## advanced-extensible 📁
 Command-line tool for managing or interacting with related tasks.
-* [Emacs](https://www.gnu.org/software/emacs/) [❌ ❌ 🖥️CLI 🖥️TUI] - One of the oldest text editors, free long-standing software project, with a huge amount of functionalities and extensions; implemented and extendable with E-Lisp.
+* [Emacs](https://www.gnu.org/software/emacs/) [❌ ❌ 🖥️CLI/🖥️TUI] - One of the oldest text editors, free long-standing software project, with a huge amount of functionalities and extensions; implemented and extendable with E-Lisp.
 
 ## gui-easy-editor 📁
 Command-line tool for managing or interacting with related tasks.
@@ -1364,11 +1365,11 @@ Command-line tool for managing or interacting with related tasks.
 
 ## modal-powerful 📁
 Command-line tool for managing or interacting with related tasks.
-* [neovim](https://neovim.io/) [❌ ❌ 🖥️CLI 🖥️TUI] - A work in progress attempt to improve [vim](http://www.vim.org/), dropping older/unused OS compatibility, improving the codebase readability, modularity, and maintainability; it has chances to become the next choice of vim users.
+* [neovim](https://neovim.io/) [❌ ❌ 🖥️CLI/🖥️TUI] - A work in progress attempt to improve [vim](http://www.vim.org/), dropping older/unused OS compatibility, improving the codebase readability, modularity, and maintainability; it has chances to become the next choice of vim users.
 
 ## modal-traditional 📁
 Command-line tool for managing or interacting with related tasks.
-* [vim](http://www.vim.org/) [❌ ❌ 🖥️CLI 🖥️TUI] - Historically one of the preferred text editors, behavior based on editing modes, plenty of plugins and tips to address every possible editing problem.
+* [vim](http://www.vim.org/) [❌ ❌ 🖥️CLI/🖥️TUI] - Historically one of the preferred text editors, behavior based on editing modes, plenty of plugins and tips to address every possible editing problem.
 
 ## modern-nano-like 📁
 Command-line tool for managing or interacting with related tasks.
@@ -1395,7 +1396,7 @@ Command-line tool for managing or interacting with related tasks.
 # email
 [Back to TOC](#📚-contents)
 
-Email clients (MUA - Mail User Agents), mail synchronization, generation indexing and search
+_... description of the category ..._
 ## EmailGeneratorCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [pymailgen](https://github.com/toolleeo/pymailgen) [❌ ❌ 🖥️CLI] - Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client.
@@ -1412,7 +1413,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [alot](https://github.com/pazz/alot) [❌ ❌ 🖥️TUI] - MUA written in Python using the [NotMuch](https://notmuchmail.org/) backend, MailDir format support.
 * [alpine](http://www.washington.edu/alpine/) [❌ ❌ 🖥️TUI] - Mail client which aims at being "fast, easy to use email client that is suitable for both the inexperienced email user as well as for the most demanding of power users".
-* [Mutt](http://www.mutt.org/) [❌ ❌ 🖥️CLI 🖥️TUI] - Mail client with tons of features, customization chances, support for IMAP, POP3, multiple storage formats.
+* [Mutt](http://www.mutt.org/) [❌ ❌ 🖥️CLI/🖥️TUI] - Mail client with tons of features, customization chances, support for IMAP, POP3, multiple storage formats.
 * [NeoMutt](https://neomutt.org/) [❌ 🌐 🖥️TUI] - Patched and up-to-dated mutt fork.
 * [sup](http://sup-heliotrope.github.io/) [❌ ❌ 🖥️TUI] - MUA written in Ruby; specifically developed for accounts with "a lot of emails"; nice thread-based presentation.
 
@@ -1453,7 +1454,7 @@ Command-line tool for managing or interacting with related tasks.
 # file-dir-cleanup
 [Back to TOC](#📚-contents)
 
-Find/remove duplicate files, automatically organize files, etc.
+_... description of the category ..._
 ## DirectoryOrganizer 📁
 Command-line tool for managing or interacting with related tasks.
 * [classifier](https://github.com/bhrigu123/classifier) [❌ ❌ 🖥️CLI] - Organize files in your current directory, by classifying them into folders of music, PDFs, images, etc.
@@ -1509,7 +1510,7 @@ Command-line tool for managing or interacting with related tasks.
 # file-explorer
 [Back to TOC](#📚-contents)
 
-Show directory trees and navigate through the file system (but not full-featured file managers)
+_... description of the category ..._
 ## DirectoryTreePrinter 📁
 Command-line tool for managing or interacting with related tasks.
 * [tree](http://mama.indstate.edu/users/ice/tree/) [❌ ❌ 🖥️CLI] - Recursive directory listing command that produces a depth indented list of files.
@@ -1551,7 +1552,7 @@ Text or file explorers and viewers in the terminal.
 # file-handling
 [Back to TOC](#📚-contents)
 
-Tools for managing files and directories (copy, move, extraction from compressed archives, change permissions, etc.)
+_... description of the category ..._
 ## ArchiveAutoExtractor 📁
 Command-line tool for managing or interacting with related tasks.
 * [dtrx](https://brettcsmith.org/2007/dtrx/) [❌ ❌ 🖥️CLI] - (Do The Right eXtraction) aims at taking "all the hassle out of extracting archives"; allows using one command to extract archives in different formats, recursive extraction (files into file) and extracts files into dedicated directories.
@@ -1578,7 +1579,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## archive manager 📁
 Command-line tool for managing or interacting with related tasks.
-* [TUI Archiver](https://www.nexus0.net/pub/sw/tuiarchiver/) [❌ ❌ 🖥️CLI 🖥️TUI] - A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers
+* [TUI Archiver](https://www.nexus0.net/pub/sw/tuiarchiver/) [❌ ❌ 🖥️CLI/🖥️TUI] - A TUI/CLI application to list / manage archives. Can be used stand-alone and has some features for integrating with TUI file managers
 
 ## cloud storage 📁
 Command-line tool for managing or interacting with related tasks.
@@ -1590,7 +1591,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## copy progress monitor 📁
 Tools that monitor system resources or services from CLI.
-* [progress](https://github.com/Xfennec/progress) [❌ ❌ 🖥️CLI 🖥️TUI] - Monitor the progress of common Coreutils command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it uses a ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation.
+* [progress](https://github.com/Xfennec/progress) [❌ ❌ 🖥️CLI/🖥️TUI] - Monitor the progress of common Coreutils command-line tools (`cp`, `mv`, `dd`, `tar`, `rsync`, etc.); it uses a ncurses interface to display the percentage of data copied; it works by reading from system files and retrieving the necessary information for the estimation.
 
 ## directory visualizer 📁
 Command-line tool for managing or interacting with related tasks.
@@ -1664,7 +1665,7 @@ Command-line tool for managing or interacting with related tasks.
 # file-manager
 [Back to TOC](#📚-contents)
 
-Applications for interactively managing files and directories
+_... description of the category ..._
 ## DualPaneFileManager 📁
 Command-line tool for managing or interacting with related tasks.
 * [lfm](https://inigo.katxi.org/devel/lfm/) [❌ ❌ 🖥️TUI] - (Last File Manager) - a file manager written in Python; it comes with lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, search in files, customizable keybindings and themes.
@@ -1704,7 +1705,7 @@ Command-line tool for managing or interacting with related tasks.
 ## file manager 📁
 Command-line tool for managing or interacting with related tasks.
 * [fzfm](https://github.com/ashish0kumar/fzfm) [❌ ❌ 🖥️TUI] - A command-line fuzzy finder file manager.
-* [Yazi](https://github.com/sxyazi/yazi) [❌ ❌ 🖥️CLI 🖥️TUI] - Blazing fast terminal file manager written in Rust, based on async I/O.
+* [Yazi](https://github.com/sxyazi/yazi) [❌ ❌ 🖥️CLI/🖥️TUI] - Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ## project manager 📁
 Command-line tool for managing or interacting with related tasks.
@@ -1726,7 +1727,7 @@ Command-line tool for managing or interacting with related tasks.
 # file-renamer
 [Back to TOC](#📚-contents)
 
-Utilities to rename files and directories: address multiple items with one command, interactively edit the name within an editor, etc.
+_... description of the category ..._
 ## BulkRenamer 📁
 Command-line tool for managing or interacting with related tasks.
 * [rename](https://www.kernel.org/pub/linux/utils/util-linux/) [❌ ❌ 🖥️CLI] - Included in `util-linux`, allows bulk rename of files with regex support.
@@ -1780,7 +1781,7 @@ CLI tools for searching content, code, or online resources.
 # file-system
 [Back to TOC](#📚-contents)
 
-File systems with specific features; e.g., the possibility to add tags and labels to files
+_... description of the category ..._
 ## FileTaggerCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [wutag](https://github.com/vv9k/wutag) [❌ ❌ 🖥️CLI] - CLI Tool for tagging and organizing files by tags.
@@ -1800,7 +1801,7 @@ Command-line tool for managing or interacting with related tasks.
 # file-watch
 [Back to TOC](#📚-contents)
 
-Services that watch files for changes and perform actions when something happens
+_... description of the category ..._
 ## DirectoryWatcher 📁
 Command-line tool for managing or interacting with related tasks.
 * [watcher](https://github.com/sethigeet/watcher) [❌ ❌ 🖥️CLI] - Watches all the files present in a directory and whenever a file is changed or a file is created/deleted from the directory, it runs a specified command.
@@ -1832,7 +1833,7 @@ Command-line tool for managing or interacting with related tasks.
 # financial
 [Back to TOC](#📚-contents)
 
-Personal ledger trackers, currency converters, and tools to manage and track cryptocurrencies
+_... description of the category ..._
 ## Accounting 📁
 Command-line tool for managing or interacting with related tasks.
 * [abandon](https://github.com/hrj/abandon) [❌ ❌ 🖥️CLI] - A text based, double-entry accounting system inspired by Ledger with infinite precision arithmetic. Made in Java. Includes a GUI.
@@ -1895,7 +1896,7 @@ Text or file explorers and viewers in the terminal.
 # find
 [Back to TOC](#📚-contents)
 
-Search the filesystem looking for files with specific characteristics, e.g., names; alternatives to `find`
+_... description of the category ..._
 ## FastFileLocator 📁
 Command-line tool for managing or interacting with related tasks.
 * [plocate](https://plocate.sesse.net/) [❌ ❌ 🖥️CLI] - A much faster locate; plocate is a locate based on posting lists, completely replacing mlocate with a much faster (and smaller) index.
@@ -1931,7 +1932,7 @@ Command-line tool for managing or interacting with related tasks.
 # flashcard
 [Back to TOC](#📚-contents)
 
-Manage decks of flashcards and Anki decks
+_... description of the category ..._
 ## FlashcardTrainerTUI 📁
 Command-line tool for managing or interacting with related tasks.
 * [flash-tui](https://github.com/TBS1996/speki) [❌ ❌ 🖥️TUI] - Flashcard app for the terminal.
@@ -1969,7 +1970,7 @@ Command-line tool for managing or interacting with related tasks.
 # font
 [Back to TOC](#📚-contents)
 
-Utilities to manage system fonts and to generate text using ASCII-art-like characters
+_... description of the category ..._
 ## ascii art 📁
 Command-line tool for managing or interacting with related tasks.
 * [cfonts](https://github.com/dominikwilkowski/cfonts) [❌ ❌ 🖥️CLI] - А command line tool for generating ANSI fonts in the console.
@@ -1989,7 +1990,7 @@ Command-line tool for managing or interacting with related tasks.
 # funny
 [Back to TOC](#📚-contents)
 
-Miscellaneous of tools that provide some funny/aesthetical functionality (animations, funny quotes, original message visualization, etc.)
+_... description of the category ..._
 ## AsciiSpeechGenerato 📁
 Command-line tool for managing or interacting with related tasks.
 * [cowsay](https://en.wikipedia.org/wiki/Cowsay) [❌ ❌ 🖥️CLI] - Generate an ASCII art of a cow with a bubble containing the specified message (I provide the Wikipedia link since at the moment the link to the author's homepage results to be unreachable).
@@ -2059,7 +2060,7 @@ Command-line tool for managing or interacting with related tasks.
 # games
 [Back to TOC](#📚-contents)
 
-Board games, puzzles, roguelikes, role-play, adventures, card games, etc.
+_... description of the category ..._
 ## APIClientCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [Flapioca](https://github.com/kbrgl/flapioca) [❌ ❌ 🖥️CLI] - A Flappy Bird-inspired terminal game written in Go.
@@ -2199,7 +2200,7 @@ Command-line tool for managing or interacting with related tasks.
 * [nc2048](https://github.com/t0xk/nc2048) [❌ ❌ 🖥️TUI] - A ncurses 2048 game that can be played in the terminal.
 * [rooshk](https://github.com/cmspeedrunner/rooshk) [❌ ❌ 🖥️TUI] - A command line game in which you act as god over a sandbox world.
 * [sku](https://github.com/fedeztk/sku) [❌ ❌ 🖥️TUI] - Simple TUI written in go to play sudoku in the terminal.
-* [sshattrick](https://github.com/ricott1/sshattrick) [❌ ❌ 🖥️CLI 🖥️TUI] - Play Hattrick in your terminal over SSH.
+* [sshattrick](https://github.com/ricott1/sshattrick) [❌ ❌ 🖥️CLI/🖥️TUI] - Play Hattrick in your terminal over SSH.
 * [T-RexC](https://github.com/StiveMan1/T-RexC) [❌ ❌ 🖥️TUI] - Simple Console Google T-Rex Game.
 * [term-asteroids](https://github.com/NoiseByNorthwest/term-asteroids) [❌ ❌ 🖥️TUI] - An Asteroids-like game, running in a terminal, written in PHP.
 * [terminordle](https://github.com/HP4k1h5/terminordle) [❌ 🌐 🖥️TUI] - Inspired by the popular online game wordle made, you can play a pretty close replica of the original locally or multiplayer over the network.
@@ -2230,7 +2231,7 @@ Command-line tool for managing or interacting with related tasks.
 # git
 [Back to TOC](#📚-contents)
 
-Tools to support and extend the functionalities of the `git` version tracker
+_... description of the category ..._
 ## AlternativeVCS 📁
 Command-line tool for managing or interacting with related tasks.
 * [Git Commit Vanity Hash Solver](https://github.com/trichner/gitc0ffee) [❌ ❌ 🖥️CLI] - Neat tool to find a 'vanity' hash for a given git commit. Make all your commits hashes start with the prefix c0ffee, cafe, badc0de5 or whatever makes you happy!
@@ -2282,11 +2283,11 @@ Command-line tool for managing or interacting with related tasks.
 
 ## GitServerTUI 📁
 Command-line tool for managing or interacting with related tasks.
-* [Soft Serve](https://github.com/charmbracelet/soft-serve) [❌ 🌐 🖥️CLI 🖥️TUI] - Self-hostable Git server for the command line. One distinguished feature is the possibility to create new repositories with a push.
+* [Soft Serve](https://github.com/charmbracelet/soft-serve) [❌ 🌐 🖥️CLI/🖥️TUI] - Self-hostable Git server for the command line. One distinguished feature is the possibility to create new repositories with a push.
 
 ## GitStatistics 📁
 Command-line tool for managing or interacting with related tasks.
-* [fzf-git.sh](https://github.com/junegunn/fzf-git.sh) [❌ ❌ 🖥️CLI 🖥️TUI] - bash and zsh key bindings for Git objects, powered by fzf.
+* [fzf-git.sh](https://github.com/junegunn/fzf-git.sh) [❌ ❌ 🖥️CLI/🖥️TUI] - bash and zsh key bindings for Git objects, powered by fzf.
 * [git-all-branches](https://github.com/zacanger/git-all-branches) [❌ ❌ 🖥️CLI] - Improved visualization of git branches (`git branch -a`).
 * [git-bug](https://github.com/MichaelMure/git-bug) [❌ ❌ 🖥️CLI] - Distributed, offline-first bug tracker embedded in git, with bridges.
 * [git-extras](https://github.com/tj/git-extras) [❌ ❌ 🖥️CLI] - Little git extras like git-ignore, git-setup, git-changelog, git-release, git-effort and more.
@@ -2398,7 +2399,7 @@ Command-line tool for managing or interacting with related tasks.
 Command-line tool for managing or interacting with related tasks.
 * [git absorb](https://github.com/tummychow/git-absorb) [❌ ❌ 🖥️CLI] - git commit --fixup, but automatic.
 * [git-booster-cli](https://github.com/akgondber/git-booster-cli) [❌ ❌ 🖥️CLI] - Improve your git workflow with customizable and runnable blocks.
-* [git-fuzzy](https://github.com/bigH/git-fuzzy) [❌ ❌ 🖥️CLI 🖥️TUI] - Interactive `git` with the help of `fzf`.
+* [git-fuzzy](https://github.com/bigH/git-fuzzy) [❌ ❌ 🖥️CLI/🖥️TUI] - Interactive `git` with the help of `fzf`.
 
 ## git tui 📁
 Command-line tool for managing or interacting with related tasks.
@@ -2431,7 +2432,7 @@ Command-line tool for managing or interacting with related tasks.
 # graphics
 [Back to TOC](#📚-contents)
 
-Applications to process images, colors, and ASCII art
+_... description of the category ..._
 ## BackupAutomationWrapper 📁
 Interfaces or wrappers built around language model APIs.
 * [svgcleaner](https://github.com/RazrFalcon/svgcleaner) [❌ ❌ 🖥️CLI] - Clean up your SVG files from the unnecessary data.
@@ -2529,7 +2530,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## graph visualization 📁
 Command-line tool for managing or interacting with related tasks.
-* [Graphviz](https://graphviz.org/) [❌ ❌ 🖥️CLI 🖥️TUI] - Graphviz is open source graph visualization software. It contains several command line tools to generate and manipulate graphs.
+* [Graphviz](https://graphviz.org/) [❌ ❌ 🖥️CLI/🖥️TUI] - Graphviz is open source graph visualization software. It contains several command line tools to generate and manipulate graphs.
 
 ## image optimizer 📁
 Command-line tool for managing or interacting with related tasks.
@@ -2594,14 +2595,14 @@ Command-line tool for managing or interacting with related tasks.
 # history
 [Back to TOC](#📚-contents)
 
-Programs to replace or improve the management of command line history
+_... description of the category ..._
 ## command-line translator 📁
 Command-line tool for managing or interacting with related tasks.
 * [Bevel](https://github.com/NorfairKing/bevel) [❌ ❌ 🖥️CLI] - Command line history in an SQLite database for effective reuse.
 
 ## history manager 📁
 Command-line tool for managing or interacting with related tasks.
-* [atuin](https://github.com/ellie/atuin) [❌ ❌ 🖥️CLI 🖥️TUI] - Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronization of your history between machines, via an Atuin server.
+* [atuin](https://github.com/ellie/atuin) [❌ ❌ 🖥️CLI/🖥️TUI] - Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronization of your history between machines, via an Atuin server.
 * [hstr](https://github.com/dvorka/hstr) [❌ ❌ 🖥️TUI] - Manage the shell history. It has a powerful visual search and execution of previous commands, and history editing capabilities.
 
 ## productivity 📁
@@ -2611,7 +2612,7 @@ Command-line tool for managing or interacting with related tasks.
 # launcher
 [Back to TOC](#📚-contents)
 
-Applications to launch/execute programs, either interactively, automatically, in parallel, etc.
+_... description of the category ..._
 ## ApplicationLauncherTUI 📁
 Command-line tool for managing or interacting with related tasks.
 * [rofi](https://github.com/davatorium/rofi) [❌ ❌ 🖥️TUI] - A window switcher, application launcher and dmenu replacement.
@@ -2689,7 +2690,7 @@ Command-line tool for managing or interacting with related tasks.
 # ls
 [Back to TOC](#📚-contents)
 
-List directory content and files, with colors or icons; alternatives to `ls`
+_... description of the category ..._
 ## EnhancedLsRewrite 📁
 Command-line tool for managing or interacting with related tasks.
 * [lsd](https://github.com/lsd-rs/lsd) [❌ ❌ 🖥️CLI] - This project is a rewrite of GNU ls with lots of added features like colors, icons, tree-view, more formatting options etc. The project is heavily inspired by the super colorls project.
@@ -2705,7 +2706,7 @@ Command-line tool for managing or interacting with related tasks.
 ## RustLsReplacement 📁
 Command-line tool for managing or interacting with related tasks.
 * [exa](https://the.exa.website/) [❌ ❌ 🖥️CLI] - Replacement for 'ls' written in Rust, with colors and several additional "views". As of today, the README says it is currently unmaintained and the only maintainer is unreachable. See `eza` for a maintained fork. 
-* [nat](https://github.com/willdoescode/nat) [❌ ❌ 🖥️CLI 🖥️TUI] - Complete replacement for the `ls` command.
+* [nat](https://github.com/willdoescode/nat) [❌ ❌ 🖥️CLI/🖥️TUI] - Complete replacement for the `ls` command.
 * [pretty-ls](https://github.com/ix/pretty-ls) [❌ ❌ 🖥️CLI] - Rust ls clone with pretty colors.
 
 ## enhanced cat 📁
@@ -2727,14 +2728,14 @@ Text or file explorers and viewers in the terminal.
 # markdown
 [Back to TOC](#📚-contents)
 
-Utilities to display, convert and reformat Markdown files
+_... description of the category ..._
 ## MarkdownBookBuilder 📁
 Command-line tool for managing or interacting with related tasks.
 * [mdBook](https://github.com/rust-lang/mdBook) [❌ ❌ 🖥️CLI] - Create book from Markdown files.
 
 ## MarkdownTUI 📁
 Command-line tool for managing or interacting with related tasks.
-* [glow](https://github.com/charmbracelet/glow) [❌ 🌐 🖥️CLI 🖥️TUI] - TUI that renders Markdown files, with keybindings similar to `less` and support for styles and cloud encrypted storing
+* [glow](https://github.com/charmbracelet/glow) [❌ 🌐 🖥️CLI/🖥️TUI] - TUI that renders Markdown files, with keybindings similar to `less` and support for styles and cloud encrypted storing
 
 ## MarkdownViewer(GUI/CLI) 📁
 Text or file explorers and viewers in the terminal.
@@ -2768,7 +2769,7 @@ Text or file explorers and viewers in the terminal.
 # monitor
 [Back to TOC](#📚-contents)
 
-Applications to display the usage of system resources: network, memory, power, etc.
+_... description of the category ..._
 ## BenchmarkCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [hyperfine](https://github.com/sharkdp/hyperfine) [❌ ❌ 🖥️CLI] - A command-line benchmarking tool.
@@ -2851,7 +2852,7 @@ Tools that monitor system resources or services from CLI.
 
 ## syscall monitor 📁
 Tools that monitor system resources or services from CLI.
-* [sysdig](https://www.sysdig.org/) [❌ ❌ 🖥️CLI 🖥️TUI] - A TUI for capturing system calls and events from the Linux kernel. Allows you to save, filter, and analyze the data. Like `strace` + `tcpdump` + `htop` + `iftop` + `lsof` + Wireshark for the entire system.
+* [sysdig](https://www.sysdig.org/) [❌ ❌ 🖥️CLI/🖥️TUI] - A TUI for capturing system calls and events from the Linux kernel. Allows you to save, filter, and analyze the data. Like `strace` + `tcpdump` + `htop` + `iftop` + `lsof` + Wireshark for the entire system.
 
 ## system fetcher 📁
 Command-line tool for managing or interacting with related tasks.
@@ -2883,7 +2884,7 @@ Command-line tool for managing or interacting with related tasks.
 # monitor-top
 [Back to TOC](#📚-contents)
 
-Programs to list and monitor currently running processes; alternatives to the `top` command
+_... description of the category ..._
 ## FastFindAlternative 📁
 Command-line tool for managing or interacting with related tasks.
 * [ytop](https://github.com/cjbassi/ytop) [❌ ❌ 🖥️TUI] - TUI system monitor written in Rust.
@@ -2943,7 +2944,7 @@ Command-line tool for managing or interacting with related tasks.
 # music
 [Back to TOC](#📚-contents)
 
-Music players, podcast, synthesizers, downloaders, online radios
+_... description of the category ..._
 ## AudioMixer 📁
 Command-line tool for managing or interacting with related tasks.
 * [Alsamixer](http://www.alsa-project.org/main/index.php/Main_Page) [❌ ❌ 🖥️TUI] - ALSA mixer with curses interfaces.
@@ -2965,11 +2966,11 @@ Command-line tool for managing or interacting with related tasks.
 * [mpg123](http://mpg123.org/) [❌ ❌ 🖥️CLI] - Quick `mp3` sound file player; no visual interface, just a command-line audio file player for `mp3` files.
 * [mps-youtube](https://github.com/mps-youtube/yewtube) [❌ 🌐 🖥️TUI] - A curses player for music tracks from YouTube; it allows searching for songs and playlists; it downloads the video, extracts the audio track and plays it; handles local playlists and many configuration parameters.
 * [MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus) [❌ 🌐 🖥️CLI] - Featureful ncurses based MPD client inspired by ncmpc with integration for Beets, spectrum visualization,Bandcamp/Soundcloud, asciimatics, cantata, and more.
-* [musikcube](https://github.com/clangen/musikcube) [❌ ❌ 🖥️CLI 🖥️TUI] - A cross-platform, terminal-based audio engine, library, player and server written in C++.
+* [musikcube](https://github.com/clangen/musikcube) [❌ ❌ 🖥️CLI/🖥️TUI] - A cross-platform, terminal-based audio engine, library, player and server written in C++.
 * [PyRadio](https://github.com/coderholic/pyradio) [❌ 🌐 🖥️TUI] - Curses based internet radio player.
 * [radio-active](https://github.com/deep5050/radio-active) [❌ 🌐 🖥️TUI] - Internet radio player with 40k+ stations.
 * [Siren](https://www.kariliq.nl/siren/) [❌ ❌ 🖥️TUI] - Siren is a text-based audio player for UNIX-like operating systems.
-* [sonicradio](https://github.com/dancnb/sonicradio) [❌ 🌐 🖥️CLI 🖥️TUI] - A TUI radio player making use of Radio Browser API and Bubbletea.
+* [sonicradio](https://github.com/dancnb/sonicradio) [❌ 🌐 🖥️CLI/🖥️TUI] - A TUI radio player making use of Radio Browser API and Bubbletea.
 * [spotify-player](https://github.com/aome510/spotify-player) [❌ 🌐 🖥️TUI] - spotify-player is a fast, easy to use, and configurable terminal music player having feature parity with the official Spotify application.
 * [termusic](https://github.com/tramhao/termusic) [❌ ❌ 🖥️TUI] - Terminal Music Player written in Rust.
 * [Tizonia](https://github.com/tizonia/tizonia-openmax-il) [❌ 🌐 🖥️CLI] - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
@@ -3042,7 +3043,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## cli music player 📁
 Command-line tool for managing or interacting with related tasks.
-* [Gomu](https://github.com/issadarkthing/gomu) [❌ ❌ 🖥️CLI 🖥️TUI] - Gomu is intuitive, powerful CLI music player. It has embedded scripting language and event hook to enable user to customize their config extensively.
+* [Gomu](https://github.com/issadarkthing/gomu) [❌ ❌ 🖥️CLI/🖥️TUI] - Gomu is intuitive, powerful CLI music player. It has embedded scripting language and event hook to enable user to customize their config extensively.
 
 ## debugging 📁
 Command-line tool for managing or interacting with related tasks.
@@ -3050,7 +3051,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## media control 📁
 Command-line tool for managing or interacting with related tasks.
-* [mpvc](https://github.com/gmt4/mpvc) [❌ ❌ 🖥️CLI 🖥️TUI] - A minimal mpc-like CLI and TUI for controlling mpv from the shell.
+* [mpvc](https://github.com/gmt4/mpvc) [❌ ❌ 🖥️CLI/🖥️TUI] - A minimal mpc-like CLI and TUI for controlling mpv from the shell.
 
 ## music catalog 📁
 Command-line tool for managing or interacting with related tasks.
@@ -3095,14 +3096,14 @@ Command-line tool for managing or interacting with related tasks.
 # networking
 [Back to TOC](#📚-contents)
 
-Networks and communication tools: bandwidth monitoring, packet inspection, remote connection, VPNs, terminal sharing, etc.
+_... description of the category ..._
 ## BluetoothManagerTUI 📁
 Command-line tool for managing or interacting with related tasks.
 * [bluetuith](https://github.com/darkhz/bluetuith) [❌ ❌ 🖥️TUI] - A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman.
 
 ## HTTPSProxyAnalyzer 📁
 Tools for parsing and analyzing code, logs, or content.
-* [mitmproxy](https://mitmproxy.org/) [❌ ❌ 🖥️CLI 🖥️TUI] - An interactive HTTPS proxy.
+* [mitmproxy](https://mitmproxy.org/) [❌ ❌ 🖥️CLI/🖥️TUI] - An interactive HTTPS proxy.
 
 ## ListManagerCLI 📁
 Command-line tool for managing or interacting with related tasks.
@@ -3146,7 +3147,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## cli-to-web 📁
 Command-line tool for managing or interacting with related tasks.
-* [GoTTY](https://github.com/yudai/gotty) [❌ 🌐 🖥️CLI 🖥️TUI] - Turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page.
+* [GoTTY](https://github.com/yudai/gotty) [❌ 🌐 🖥️CLI/🖥️TUI] - Turn CLI tools into web applications; basically, it runs a command and starts a server so that the output can be displayed in a web page.
 
 ## debugging 📁
 Command-line tool for managing or interacting with related tasks.
@@ -3171,12 +3172,12 @@ Command-line tool for managing or interacting with related tasks.
 
 ## grpc client 📁
 Command-line tool for managing or interacting with related tasks.
-* [chiko](https://github.com/felangga/chiko) [❌ 🌐 🖥️CLI 🖥️TUI] - The ultimate beauty gRPC Client on your Terminal: a simple tool to interact with gRPC services using a beautiful terminal interface.
+* [chiko](https://github.com/felangga/chiko) [❌ 🌐 🖥️CLI/🖥️TUI] - The ultimate beauty gRPC Client on your Terminal: a simple tool to interact with gRPC services using a beautiful terminal interface.
 
 ## http client 📁
 Command-line tool for managing or interacting with related tasks.
 * [TReq](https://github.com/talis-fb/TReq) [❌ 🌐 🖥️CLI] - A CLI tool for effortless HTTP requests.
-* [wuzz](https://github.com/asciimoo/wuzz) [❌ ❌ 🖥️CLI 🖥️TUI] - Interactive CLI tool for HTTP inspection.
+* [wuzz](https://github.com/asciimoo/wuzz) [❌ ❌ 🖥️CLI/🖥️TUI] - Interactive CLI tool for HTTP inspection.
 
 ## http proxy 📁
 Command-line tool for managing or interacting with related tasks.
@@ -3200,7 +3201,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## log analyzer 📁
 Tools for parsing and analyzing code, logs, or content.
-* [goaccess](https://github.com/allinurl/goaccess) [❌ 🌐 🖥️CLI 🖥️TUI] - GoAccess is a real-time web log analyzer and interactive viewer, that provides fast and valuable HTTP statistics.
+* [goaccess](https://github.com/allinurl/goaccess) [❌ 🌐 🖥️CLI/🖥️TUI] - GoAccess is a real-time web log analyzer and interactive viewer, that provides fast and valuable HTTP statistics.
 
 ## mock server 📁
 Command-line tool for managing or interacting with related tasks.
@@ -3212,7 +3213,7 @@ Tools that monitor system resources or services from CLI.
 
 ## network diagnostics 📁
 Command-line tool for managing or interacting with related tasks.
-* [trippy](https://github.com/fujiapple852/trippy) [❌ 🌐 🖥️CLI 🖥️TUI] - A network diagnostic tool.
+* [trippy](https://github.com/fujiapple852/trippy) [❌ 🌐 🖥️CLI/🖥️TUI] - A network diagnostic tool.
 
 ## network info 📁
 Command-line tool for managing or interacting with related tasks.
@@ -3224,7 +3225,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## network monitor 📁
 Tools that monitor system resources or services from CLI.
-* [gping](https://github.com/orf/gping) [❌ ❌ 🖥️CLI 🖥️TUI] - Ping, but with a graph.
+* [gping](https://github.com/orf/gping) [❌ ❌ 🖥️CLI/🖥️TUI] - Ping, but with a graph.
 * [mtr](https://github.com/traviscross/mtr) [❌ ❌ 🖥️TUI] - mtr combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 * [Termshark](https://termshark.io/) [❌ ❌ 🖥️TUI] - A terminal UI for tshark, inspired by Wireshark.
 
@@ -3235,7 +3236,7 @@ Command-line tool for managing or interacting with related tasks.
 ## network scanner 📁
 Command-line tool for managing or interacting with related tasks.
 * [havn](https://github.com/mrjackwills/havn) [❌ 🌐 🖥️CLI] - A fast configurable port scanner with reasonable defaults.
-* [netscanner](https://github.com/Chleba/netscanner) [❌ ❌ 🖥️CLI 🖥️TUI] - All-in-one network scanning tool.
+* [netscanner](https://github.com/Chleba/netscanner) [❌ ❌ 🖥️CLI/🖥️TUI] - All-in-one network scanning tool.
 
 ## network tools 📁
 Command-line tool for managing or interacting with related tasks.
@@ -3324,7 +3325,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## terminal API client 📁
 Command-line tool for managing or interacting with related tasks.
-* [ATAC](https://github.com/Julien-cpsn/ATAC) [❌ ❌ 🖥️CLI 🖥️TUI] - Arguably a Terminal API Client. It is based on well-known clients such as Postman, Insomnia, or even Bruno, but inside your terminal without any specific graphical environment needed; free, account-less, and offline for now and forever.
+* [ATAC](https://github.com/Julien-cpsn/ATAC) [❌ ❌ 🖥️CLI/🖥️TUI] - Arguably a Terminal API Client. It is based on well-known clients such as Postman, Insomnia, or even Bruno, but inside your terminal without any specific graphical environment needed; free, account-less, and offline for now and forever.
 
 ## terminal sharing 📁
 Command-line tool for managing or interacting with related tasks.
@@ -3376,7 +3377,7 @@ Command-line tool for managing or interacting with related tasks.
 # note-taking
 [Back to TOC](#📚-contents)
 
-Tools to take, organize and manage notes
+_... description of the category ..._
 ## CLIJournal 📁
 Command-line tool for managing or interacting with related tasks.
 * [dn](https://github.com/tomlockwood/dn) [❌ ❌ 🖥️CLI] - Daily notes command line tool.
@@ -3460,7 +3461,7 @@ Command-line tool for managing or interacting with related tasks.
 # office
 [Back to TOC](#📚-contents)
 
-Programs to manage spreadsheets and to make presentations
+_... description of the category ..._
 ## MarkdownPresenterTUI 📁
 Command-line tool for managing or interacting with related tasks.
 * [mdp](https://github.com/visit1985/mdp) [❌ ❌ 🖥️TUI] - A command-line based Markdown presentation tool.
@@ -3534,7 +3535,7 @@ Command-line tool for managing or interacting with related tasks.
 # online
 [Back to TOC](#📚-contents)
 
-Tools that interact with online resources to provide their services, e.g., searches, wiki, etc.
+_... description of the category ..._
 ## ArchWikiCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [arch-wiki](https://github.com/deadhead420/arch-wiki) [❌ 🌐 🖥️CLI] - Search the Arch Wiki anywhere from the command line.
@@ -3636,7 +3637,7 @@ Command-line tool for managing or interacting with related tasks.
 # option-picker
 [Back to TOC](#📚-contents)
 
-Fuzzy finders and generic option pickers in lists of strings
+_... description of the category ..._
 ## TerminalMenu 📁
 Command-line tool for managing or interacting with related tasks.
 * [pmenu](https://github.com/sgtpep/pmenu) [❌ ❌ 🖥️TUI] - A dynamic terminal-based menu inspired by dmenu.
@@ -3702,7 +3703,7 @@ Command-line tool for managing or interacting with related tasks.
 # organizers
 [Back to TOC](#📚-contents)
 
-Calendar and appointment managers
+_... description of the category ..._
 ## EmailSenderCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [remint](https://sr.ht/~mlaparie/remint/) [❌ ❌ 🖥️CLI] - A simple terminal UI wrapper for D. Skoll's Remind calendar program
@@ -3721,7 +3722,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## caldav calendar 📁
 Command-line tool for managing or interacting with related tasks.
-* [caldr](https://github.com/mrusme/caldr) [❌ 🌐 🖥️CLI 🖥️TUI] - A lightweight CLI / TUI calendar that supports CalDAV.
+* [caldr](https://github.com/mrusme/caldr) [❌ 🌐 🖥️CLI/🖥️TUI] - A lightweight CLI / TUI calendar that supports CalDAV.
 * [khal](https://github.com/pimutils/khal) [❌ 🌐 🖥️TUI] - Calendar that can synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer).
 
 ## calendar 📁
@@ -3744,7 +3745,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## google calendar client 📁
 Command-line tool for managing or interacting with related tasks.
-* [gcalcli](https://github.com/insanum/gcalcli) [❌ 🌐 🖥️CLI 🖥️TUI] - Access Google Calendars; supports the main tasks: create, delete, and list events.
+* [gcalcli](https://github.com/insanum/gcalcli) [❌ 🌐 🖥️CLI/🖥️TUI] - Access Google Calendars; supports the main tasks: create, delete, and list events.
 
 ## knowledge base 📁
 Command-line tool for managing or interacting with related tasks.
@@ -3772,14 +3773,14 @@ Command-line tool for managing or interacting with related tasks.
 
 ## vcard address book 📁
 Command-line tool for managing or interacting with related tasks.
-* [addrb](https://github.com/mrusme/addrb) [❌ 🌐 🖥️CLI 🖥️TUI] - A lightweight CLI / TUI address book that supports CardDAV.
+* [addrb](https://github.com/mrusme/addrb) [❌ 🌐 🖥️CLI/🖥️TUI] - A lightweight CLI / TUI address book that supports CardDAV.
 * [khard](https://github.com/lucc/khard) [❌ 🌐 🖥️CLI] - vCard address book written in Python. Supports CardDAV.
 * [ppl addressbook](http://ppladdressbook.org/) [❌ ❌ 🖥️CLI] - Address book tool that uses the vCard format. Built on top of Ruby and Git
 
 # package-manager
 [Back to TOC](#📚-contents)
 
-Package managers to manage/install/uninstall software packages, as source code or binaries
+_... description of the category ..._
 ## AlternativeVCS 📁
 Command-line tool for managing or interacting with related tasks.
 * [getghrel](https://github.com/kavishgr/getghrel) [❌ 🌐 🖥️CLI] - A user-friendly command-line tool that fetches and installs the latest release assets from GitHub for macOS and Linux; it automatically detects your operating system and architecture, downloads the relevant binary, and unpacks it, ensuring a hassle-free experience.
@@ -3848,7 +3849,7 @@ Command-line tool for managing or interacting with related tasks.
 # password-manager
 [Back to TOC](#📚-contents)
 
-Programs to store and manage collections of passwords and other login/authentication information
+_... description of the category ..._
 ## EncryptedPasswordManager 📁
 Command-line tool for managing or interacting with related tasks.
 * [gopass](https://www.gopass.pw/) [❌ ❌ 🖥️CLI] - gopass is a rewrite of the pass password manager in Go with the aim of making it cross-platform and adding additional features. The target audience are professional developers and sysadmins (and especially teams of those) who are well versed with a command line interface.
@@ -3903,7 +3904,7 @@ Command-line tool for managing or interacting with related tasks.
 # pastebin
 [Back to TOC](#📚-contents)
 
-Services that allows online sharing of text and other content
+_... description of the category ..._
 ## PastebinCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [GoCatGo](https://github.com/vaaleyard/gocatgo) [❌ 🌐 🖥️CLI] - GoCatGo is another pastebin tool with a super focus on transparency.
@@ -3919,7 +3920,7 @@ Command-line tool for managing or interacting with related tasks.
 # productivity
 [Back to TOC](#📚-contents)
 
-Applications for improving own productivity that do not deserve (at the moment) a specific category; e.g., resume generators and mind maps
+_... description of the category ..._
 ## DirectionsQueryCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [gdir](https://github.com/pafoster/gdir) [❌ 🌐 🖥️CLI] - A command line tool which queries Google Directions. The tool displays results as human-readable text.
@@ -3967,7 +3968,7 @@ Command-line tool for managing or interacting with related tasks.
 # programming
 [Back to TOC](#📚-contents)
 
-Tools for developers, including debuggers, testing, line counters, boilerplate and license generators, etc.
+_... description of the category ..._
 ## AlternativeVCS 📁
 Command-line tool for managing or interacting with related tasks.
 * [scons](https://github.com/SCons/scons) [❌ ❌ 🖥️CLI] - Software construction tool.
@@ -4050,7 +4051,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## code bundler 📁
 Command-line tool for managing or interacting with related tasks.
-* [codegrab](https://github.com/epilande/codegrab) [❌ ❌ 🖥️CLI 🖥️TUI] - Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file.
+* [codegrab](https://github.com/epilande/codegrab) [❌ ❌ 🖥️CLI/🖥️TUI] - Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file.
 
 ## code runner 📁
 Command-line tool for managing or interacting with related tasks.
@@ -4076,7 +4077,7 @@ Command-line based intelligent assistants or shell helpers.
 ## debugging 📁
 Command-line tool for managing or interacting with related tasks.
 * [cgdb](https://github.com/cgdb/cgdb) [❌ ❌ 🖥️TUI] - Console front-end to the GNU debugger.
-* [termfu](https://github.com/jvalcher/termfu) [❌ ❌ 🖥️CLI 🖥️TUI] - A multi-language debugger frontend that allows users to create and switch between custom layouts.
+* [termfu](https://github.com/jvalcher/termfu) [❌ ❌ ❌] - A multi-language debugger frontend that allows users to create and switch between custom layouts.
 
 ## dev environment 📁
 Command-line tool for managing or interacting with related tasks.
@@ -4152,7 +4153,7 @@ Command-line tool for managing or interacting with related tasks.
 # programming-boilerplate
 [Back to TOC](#📚-contents)
 
-Utilities that generate licenses, documentation structure (README files), project directories and other boilerplate for software projects
+_... description of the category ..._
 ## AlternativeVCS 📁
 Command-line tool for managing or interacting with related tasks.
 * [kickstart](https://github.com/Keats/kickstart) [❌ ❌ 🖥️CLI] - Scaffolding tool to get new projects up and running quickly.
@@ -4184,7 +4185,8 @@ Command-line tool for managing or interacting with related tasks.
 * [upnup](https://github.com/tomit4/upnup) [❌ ❌ 🖥️CLI] - A command line utility that generates a LICENSE file in the current working directory.
 
 ## project scaffolding  📁
-Command-line tool for managing or interacting with related tasks.
+_... description of the subcategory ..._
+
 * [Cookiecutter](https://github.com/cookiecutter/cookiecutter) [❌ ❌ 🖥️CLI] - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 
 ## readme generators 📁
@@ -4198,7 +4200,7 @@ Command-line tool for managing or interacting with related tasks.
 # prompt
 [Back to TOC](#📚-contents)
 
-Prompts and welcome messages at the command line
+_... description of the category ..._
 ## ShellPromptEnhancer 📁
 Command-line tool for managing or interacting with related tasks.
 * [Starship](https://starship.rs/) [❌ ❌ 🖥️CLI] - The cross-shell prompt for astronauts.
@@ -4242,7 +4244,7 @@ Command-line tool for managing or interacting with related tasks.
 # religion
 [Back to TOC](#📚-contents)
 
-Tools to handle religious material, e.g. reading the Holy Bible
+_... description of the category ..._
 ## bible readers 📁
 Command-line tool for managing or interacting with related tasks.
 * [bible](https://github.com/BibleJS/BibleApp) [❌ ❌ 🖥️CLI] - Read the Holy Bible via the command line.
@@ -4262,7 +4264,7 @@ Command-line tool for managing or interacting with related tasks.
 # rm
 [Back to TOC](#📚-contents)
 
-Tools to manage the deletion of files/directories, often with the support of a trash can, i.e., the ability to restore deleted items
+_... description of the category ..._
 ## DataRecovery 📁
 Command-line tool for managing or interacting with related tasks.
 * [RecoverPy](https://github.com/PabloLec/RecoverPy) [❌ ❌ 🖥️CLI] - Recover deleted files and overwritten data. It scans every block of the partition. You can even find a string in binary files.
@@ -4309,7 +4311,7 @@ Command-line tool for managing or interacting with related tasks.
 # rss
 [Back to TOC](#📚-contents)
 
-RSS feed visualizers, converters, and managers
+_... description of the category ..._
 ## rss 📁
 Command-line tool for managing or interacting with related tasks.
 * [rss-cli](https://github.com/Clortox/rss-cli) [❌ 🌐 🖥️CLI] - A UNIX-inspired CLI application for interacting with RSS feeds.
@@ -4338,7 +4340,7 @@ Command-line tool for managing or interacting with related tasks.
 # science
 [Back to TOC](#📚-contents)
 
-Packages for scientific research and science applications, e.g., bibliography and publication management
+_... description of the category ..._
 ## AcademicDownloaderCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [scholarref](https://adamsgaard.dk/scholarref.html) [❌ 🌐 🖥️CLI] - Tools to never deal with journal webpages again.
@@ -4410,7 +4412,7 @@ Command-line tool for managing or interacting with related tasks.
 # screen-recorder
 [Back to TOC](#📚-contents)
 
-Tools to record the content of the terminal and manage the recording (e.g., converting into animated GIFs)
+_... description of the category ..._
 ## svg generator 📁
 Command-line tool for managing or interacting with related tasks.
 * [terminal-svg-screenshot](https://github.com/suin/terminal-svg-screenshot) [❌ ❌ 🖥️CLI] - A tool for creating beautiful SVG screenshots of terminal output, perfect for documentation and blog posts.
@@ -4437,7 +4439,7 @@ Command-line tool for managing or interacting with related tasks.
 # screensaver
 [Back to TOC](#📚-contents)
 
-Screen savers with animations for the idle times of the computer
+_... description of the category ..._
 ## TerminalScreensaver 📁
 Command-line tool for managing or interacting with related tasks.
 * [termsaver](http://termsaver.brunobraga.net/) [❌ ❌ 🖥️TUI] - termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens.
@@ -4456,13 +4458,14 @@ Command-line tool for managing or interacting with related tasks.
 * [sclocka](https://github.com/mezantrop/sclocka) [❌ ❌ 🖥️TUI] - The real screensaver/lock for terminals.
 
 ## terminal animations  📁
-Command-line tool for managing or interacting with related tasks.
+_... description of the subcategory ..._
+
 * [pipes.sh](https://github.com/pipeseroni/pipes.sh) [❌ ❌ 🖥️TUI] - Animated pipes terminal screensaver.
 
 # security
 [Back to TOC](#📚-contents)
 
-Cryptography, ciphered archive managers, encrypted file-systems
+_... description of the category ..._
 ## EncryptionCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [GnuPG](https://gnupg.org/) [❌ ❌ 🖥️CLI] - GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP).
@@ -4600,7 +4603,7 @@ Text or file explorers and viewers in the terminal.
 # shells
 [Back to TOC](#📚-contents)
 
-Shell programs that enable the interaction through the terminal
+_... description of the category ..._
 ## automation shell 📁
 Command-line tool for managing or interacting with related tasks.
 * [PowerShell](https://microsoft.com/PowerShell) [❌ ❌ 🖥️CLI] - An automation and configuration tool/framework optimized for dealing with structured data, REST APIs, and object models.
@@ -4644,7 +4647,7 @@ Command-line tool for managing or interacting with related tasks.
 # system
 [Back to TOC](#📚-contents)
 
-System management tools, such as for brightness control, dotfile and environment variable management, notifications, etc.
+_... description of the category ..._
 ## CloudSyncManager 📁
 Command-line tool for managing or interacting with related tasks.
 * [chezmoi](https://www.chezmoi.io/) [❌ ❌ 🖥️CLI] - Manage your dotfiles across multiple diverse machines, securely.
@@ -4692,7 +4695,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## console sharing 📁
 Command-line tool for managing or interacting with related tasks.
-* [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) [❌ ❌ 🖥️CLI 🖥️TUI] - Automatic CPU speed and power optimizer for Linux, which allows to dynamically change the settings of the CPU to save energy and extend the battery life on laptops.
+* [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) [❌ ❌ 🖥️CLI/🖥️TUI] - Automatic CPU speed and power optimizer for Linux, which allows to dynamically change the settings of the CPU to save energy and extend the battery life on laptops.
 * [conspy](http://conspy.sourceforge.net/) [❌ ❌ 🖥️CLI] - "Conspy allows a (possibly remote) user to see what is displayed on a Linux virtual console, and send keystrokes to it." 
 
 ## dotfiles manager 📁
@@ -4786,7 +4789,7 @@ Command-line tool for managing or interacting with related tasks.
 # terminal
 [Back to TOC](#📚-contents)
 
-Terminal and terminal multiplexers
+_... description of the category ..._
 ## ProjectNavigatorTUI 📁
 Command-line tool for managing or interacting with related tasks.
 * [mynav](https://github.com/GianlucaP106/mynav) [❌ ❌ 🖥️TUI] - A powerful terminal-based workspace navigator and session manager built in Go, MyNav helps developers organize and manage multiple projects through an intuitive interface, seamlessly integrating with tmux sessions.
@@ -4853,7 +4856,7 @@ Command-line tool for managing or interacting with related tasks.
 # text-processing
 [Back to TOC](#📚-contents)
 
-Text processing utilities to cut or sort lines, find dead links, colorize command output, etc.
+_... description of the category ..._
 ## FileLineDeduperCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [anew](https://github.com/tomnomnom/anew) [❌ ❌ 🖥️CLI] - Tool for adding new lines to files, skipping duplicates.
@@ -5029,7 +5032,7 @@ Command-line tool for managing or interacting with related tasks.
 # text-search
 [Back to TOC](#📚-contents)
 
-Search files and exploring directory trees to look for text or patterns (RegEx) contained in files; alternatives to the `grep` command
+_... description of the category ..._
 ## AdvancedGrepCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) [❌ ❌ 🖥️CLI] - Recursively searches directories for a regex pattern.
@@ -5076,12 +5079,12 @@ CLI tools for searching content, code, or online resources.
 ## text search 📁
 CLI tools for searching content, code, or online resources.
 * [hypergrep](https://github.com/p-ranav/hypergrep) [❌ ❌ 🖥️CLI] - Recursively search directories for a regex pattern using Intel Hypescan.
-* [krep](https://github.com/davidesantangelo/krep) [❌ ❌ 🖥️CLI 🖥️TUI] - Blazingly fast text search tool with multiple algorithms (Boyer-Moore, KMP, Rabin-Karp), SIMD acceleration, multi-threading, and regex support. Outperforms traditional tools with memory-mapped I/O and hardware optimizations for who need rapid pattern matching at scale.
+* [krep](https://github.com/davidesantangelo/krep) [❌ ❌ 🖥️CLI/🖥️TUI] - Blazingly fast text search tool with multiple algorithms (Boyer-Moore, KMP, Rabin-Karp), SIMD acceleration, multi-threading, and regex support. Outperforms traditional tools with memory-mapped I/O and hardware optimizations for who need rapid pattern matching at scale.
 
 # text-search-replace
 [Back to TOC](#📚-contents)
 
-Tools to search text within files and perform operations on it, such as text replacement; alternatives to `sed`
+_... description of the category ..._
 ## CodeReplaceCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [amber](https://github.com/dalance/amber) [❌ ❌ 🖥️CLI] - Code search / replace tool.
@@ -5109,7 +5112,7 @@ Command-line tool for managing or interacting with related tasks.
 # time-tracker
 [Back to TOC](#📚-contents)
 
-Time and habit trackers to measure the amount of time spent on different activities
+_... description of the category ..._
 ## AlternativeVCS 📁
 Command-line tool for managing or interacting with related tasks.
 * [habitctl](https://github.com/blinry/habitctl) [❌ ❌ 🖥️CLI] - Minimalist command line tool you can use to track and examine your habits.
@@ -5184,7 +5187,7 @@ Command-line tool for managing or interacting with related tasks.
 # todo-manager
 [Back to TOC](#📚-contents)
 
-Todo list and task managers
+_... description of the category ..._
 ## ForensicsCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [tsk](https://github.com/kakengloh/tsk) [❌ ❌ 🖥️CLI] - Terminal task management app with an emphasis on simplicity, efficiency and ease of use.
@@ -5214,7 +5217,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## feature-rich todo manager 📁
 Command-line tool for managing or interacting with related tasks.
-* [TaskWarrior](https://taskwarrior.org/) [❌ ❌ 🖥️CLI 🖥️TUI] - Todo manager with advanced features, dedicated synchronization server available, many plugins and related tools, healthy software project.
+* [TaskWarrior](https://taskwarrior.org/) [❌ ❌ 🖥️CLI/🖥️TUI] - Todo manager with advanced features, dedicated synchronization server available, many plugins and related tools, healthy software project.
 
 ## hierarchical todo manager 📁
 Command-line tool for managing or interacting with related tasks.
@@ -5292,7 +5295,7 @@ Command-line tool for managing or interacting with related tasks.
 # torrent
 [Back to TOC](#📚-contents)
 
-Clients and download managers using the BitTorrent protocol
+_... description of the category ..._
 ## AlternativeVCS 📁
 Command-line tool for managing or interacting with related tasks.
 * [Transmission](https://transmissionbt.com/) [❌ 🌐 🖥️CLI] - Fast, easy and free BitTorrent client.
@@ -5307,7 +5310,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## TorrentClient 📁
 Command-line tool for managing or interacting with related tasks.
-* [Deluge](http://deluge-torrent.org/) [❌ 🌐 🖥️CLI 🖥️TUI] - A lightweight, Free Software, cross-platform BitTorrent client; a terminal curses interface, web interface and command line client can connect to a running daemon to manage torrent downloads.
+* [Deluge](http://deluge-torrent.org/) [❌ 🌐 🖥️CLI/🖥️TUI] - A lightweight, Free Software, cross-platform BitTorrent client; a terminal curses interface, web interface and command line client can connect to a running daemon to manage torrent downloads.
 
 ## TorrentClientCLI 📁
 Command-line tool for managing or interacting with related tasks.
@@ -5328,7 +5331,7 @@ Command-line tool for managing or interacting with related tasks.
 # transfer
 [Back to TOC](#📚-contents)
 
-Programs for transferring files and data between different machines
+_... description of the category ..._
 ## ClipboardManagerCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [shcopy](https://github.com/aymanbagabas/shcopy) [❌ ❌ 🖥️CLI] - Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence.
@@ -5402,7 +5405,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## YouTubeSearchPlayerCLI 📁
 CLI tools for searching content, code, or online resources.
-* [ytfzf](https://github.com/pystardust/ytfzf) [❌ 🌐 🖥️CLI 🖥️TUI] - A POSIX script that helps you find YouTube videos (without API) and opens/downloads them using mpv/youtube-dl.
+* [ytfzf](https://github.com/pystardust/ytfzf) [❌ 🌐 🖥️CLI/🖥️TUI] - A POSIX script that helps you find YouTube videos (without API) and opens/downloads them using mpv/youtube-dl.
 
 ## YouTubeToMP3Downloader 📁
 Command-line tool for managing or interacting with related tasks.
@@ -5487,7 +5490,7 @@ Command-line tool for managing or interacting with related tasks.
 # typing
 [Back to TOC](#📚-contents)
 
-Games and utilities to measure and/or improve the typing ability
+_... description of the category ..._
 ## HotkeyManager 📁
 Command-line tool for managing or interacting with related tasks.
 * [kboard](https://github.com/CamiloGarciaLaRotta/kboard) [❌ ❌ 🖥️CLI] - Terminal game to practice keyboard typing.
@@ -5509,7 +5512,8 @@ Command-line tool for managing or interacting with related tasks.
 * [Typon](https://github.com/ihsuy/Typon) [❌ ❌ 🖥️TUI] - A multi-featured typing practice tool which can turn any text file into a typing game.
 
 ## typing practice  📁
-Command-line tool for managing or interacting with related tasks.
+_... description of the subcategory ..._
+
 * [toipe](https://github.com/Samyak2/toipe) [❌ ❌ 🖥️CLI] - Yet another typing test, but crab flavored.
 
 ## typing speed test 📁
@@ -5531,7 +5535,7 @@ Command-line tool for managing or interacting with related tasks.
 # utility
 [Back to TOC](#📚-contents)
 
-Miscellaneous utilities that are not do not fit in other categories and they are not numerous enough that they do not require a dedicated category
+_... description of the category ..._
 ## ClipboardHelperCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [yank](https://github.com/mptre/yank) [❌ ❌ 🖥️TUI] - Reads input from stdin and display a selection interface that allows a field to be selected and copied to the clipboard.
@@ -5610,7 +5614,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## image recognition 📁
 Command-line tool for managing or interacting with related tasks.
-* [sauce](https://github.com/cadecuddy/sauce) [🤖 🌐 🖥️CLI 🖥️TUI] - A novelty CLI tool that identifies an anime from an image and yields key data about it.
+* [sauce](https://github.com/cadecuddy/sauce) [🤖 🌐 🖥️CLI/🖥️TUI] - A novelty CLI tool that identifies an anime from an image and yields key data about it.
 
 ## installer 📁
 Command-line tool for managing or interacting with related tasks.
@@ -5710,7 +5714,7 @@ Command-line tool for managing or interacting with related tasks.
 # versioning
 [Back to TOC](#📚-contents)
 
-Tools for file versioning that are not related to git
+_... description of the category ..._
 ## AlternativeVCS 📁
 Command-line tool for managing or interacting with related tasks.
 * [Bazaar](http://bazaar.canonical.com/en/) [❌ ❌ 🖥️CLI] - Multiplatform version control system supporting different workflows; it is part of the GNU Project, and it is free software sponsored by Canonical.
@@ -5744,7 +5748,7 @@ Command-line tool for managing or interacting with related tasks.
 # video
 [Back to TOC](#📚-contents)
 
-Programs to process and manage video files (downloader, editing, players, etc.)
+_... description of the category ..._
 ## LightweightAudioPlayer 📁
 Command-line tool for managing or interacting with related tasks.
 * [invidtui](https://github.com/darkhz/invidtui) [❌ ❌ 🖥️TUI] - Invidious TUI client, which fetches data from invidious instances and displays a user interface in the terminal, and allows for selecting and playing YouTube audio and video.
@@ -5771,7 +5775,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## downloader 📁
 Command-line tool for managing or interacting with related tasks.
-* [Pyutube](https://github.com/Hetari/pyutube) [❌ 🌐 🖥️CLI 🖥️TUI] - A simple tool to download YouTube video shorts and playlist in just one click.
+* [Pyutube](https://github.com/Hetari/pyutube) [❌ 🌐 🖥️CLI/🖥️TUI] - A simple tool to download YouTube video shorts and playlist in just one click.
 
 ## screen recording 📁
 Command-line tool for managing or interacting with related tasks.
@@ -5804,7 +5808,7 @@ Command-line tool for managing or interacting with related tasks.
 # viewers
 [Back to TOC](#📚-contents)
 
-File viewers for images and other formats (e.g., e-books)
+_... description of the category ..._
 ## ImageViewer(ASCII) 📁
 Text or file explorers and viewers in the terminal.
 * [cacaview](http://caca.zoy.org/wiki/libcaca) [❌ ❌ 🖥️TUI] - A library and a program to display JPG, PNG, GIF or BMP images in the terminal using ASCII characters.
@@ -5904,7 +5908,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## terminal process viewer 📁
 Text or file explorers and viewers in the terminal.
-* [moulti](https://github.com/xavierog/moulti) [❌ ❌ 🖥️CLI 🖥️TUI] - Moulti is a CLI-driven Terminal User Interface (TUI) displaying arbitrary outputs inside visual, collapsible blocks called steps.
+* [moulti](https://github.com/xavierog/moulti) [❌ ❌ 🖥️CLI/🖥️TUI] - Moulti is a CLI-driven Terminal User Interface (TUI) displaying arbitrary outputs inside visual, collapsible blocks called steps.
 
 ## vcs viewer 📁
 Text or file explorers and viewers in the terminal.
@@ -5917,7 +5921,7 @@ Command-line tool for managing or interacting with related tasks.
 # vm
 [Back to TOC](#📚-contents)
 
-Tools to manage virtual machines and/or containers and related utilities
+_... description of the category ..._
 ## QEMU UI 📁
 Command-line tool for managing or interacting with related tasks.
 * [nemu](https://github.com/nemuTUI/nemu) [❌ ❌ 🖥️TUI] - Ncurses UI for QEMU.
@@ -5995,7 +5999,7 @@ Command-line tool for managing or interacting with related tasks.
 # webdev
 [Back to TOC](#📚-contents)
 
-Web development tools, including load test tools, API clients and managers, link checkers and extractors, etc.
+_... description of the category ..._
 ## APIClientCLI 📁
 Command-line tool for managing or interacting with related tasks.
 * [http-tanker](https://github.com/PierreKieffer/http-tanker) [❌ 🌐 🖥️CLI] - Terminal application used for API testing; easily create, manage and execute HTTP requests from the terminal.
@@ -6036,7 +6040,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## api client 📁
 Command-line tool for managing or interacting with related tasks.
-* [posting](https://github.com/darrenburns/posting) [❌ 🌐 🖥️CLI 🖥️TUI] - The modern API client that lives in your terminal, not unlike Postman and Insomnia.
+* [posting](https://github.com/darrenburns/posting) [❌ 🌐 🖥️CLI/🖥️TUI] - The modern API client that lives in your terminal, not unlike Postman and Insomnia.
 
 ## api tool 📁
 Command-line tool for managing or interacting with related tasks.
@@ -6110,7 +6114,7 @@ Command-line tool for managing or interacting with related tasks.
 # writing
 [Back to TOC](#📚-contents)
 
-Tools to assist the writing of text and documents, including translation, spell checking, etc.
+_... description of the category ..._
 ## Translation 📁
 Command-line tool for managing or interacting with related tasks.
 * [Translate Shell](https://www.soimort.org/translate-shell/) [❌ 🌐 🖥️CLI] - Translator using Google Translate, Bing Translator, Yandex.Translate, etc.
@@ -6134,7 +6138,7 @@ Command-line tool for managing or interacting with related tasks.
 
 ## story generator 📁
 Command-line tool for managing or interacting with related tasks.
-* [storycraftr](https://github.com/raestrada/storycraftr) [🤖 ❌ 🖥️CLI 🖥️TUI] - StoryCraftr is an open-source AI-powered tool that helps writers craft stories, generate worldbuilding details, and create book outlines and chapters seamlessly through a simple CLI. Empower your creativity with AI.
+* [storycraftr](https://github.com/raestrada/storycraftr) [🤖 ❌ 🖥️CLI/🖥️TUI] - StoryCraftr is an open-source AI-powered tool that helps writers craft stories, generate worldbuilding details, and create book outlines and chapters seamlessly through a simple CLI. Empower your creativity with AI.
 
 ## terminal sharing 📁
 Command-line tool for managing or interacting with related tasks.
