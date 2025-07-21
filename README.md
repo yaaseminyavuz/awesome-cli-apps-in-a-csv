@@ -18,6 +18,563 @@ Summary:
 # 📚 Contents
 
 Below is a categorized overview of all **1777** tools.
+# 📚 Contents
+
+Below is a categorized overview of all **1777** tools.
+
+### Ai
+- [Chatgpt Cli](#chatgpt-cli): Tools related to chatgpt cli.
+- [Ai Assistant](#ai-assistant): Tools related to ai assistant.
+- [Chatgpt Tools](#chatgpt-tools): Tools related to chatgpt tools.
+- [Terminal Assistant](#terminal-assistant): Tools related to terminal assistant.
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+
+### Animation
+- [Ascii Animation](#ascii-animation): Tools related to ascii animation.
+- [Terminal Animation](#terminal-animation): Tools related to terminal animation.
+- [Asciiterminalanimation](#asciiterminalanimation): Tools related to asciiterminalanimation.
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [Ascii Renderer](#ascii-renderer): Tools related to ascii renderer.
+
+### Backup
+- [Backup Tool](#backup-tool): Tools related to backup tool.
+- [Alternativevcs](#alternativevcs): Tools related to alternativevcs.
+- [Backupautomationwrapper](#backupautomationwrapper): Tools related to backupautomationwrapper.
+- [Cli Tool Backup](#cli-tool-backup): Tools related to cli tool backup.
+- [Encryptedbackupcli Tool](#encryptedbackupcli-tool): Tools related to encryptedbackupcli tool.
+
+### Browser
+- [Terminalwebbrowser](#terminalwebbrowser): Tools related to terminalwebbrowser.
+- [Geminiclienttui](#geminiclienttui): Tools related to geminiclienttui.
+- [Arxivsearcher](#arxivsearcher): Tools related to arxivsearcher.
+- [Fastfindalternative](#fastfindalternative): Tools related to fastfindalternative.
+- [Fuzzyfinderplugin](#fuzzyfinderplugin): Tools related to fuzzyfinderplugin.
+
+### Calc
+- [Calculator](#calculator): Tools related to calculator.
+- [Advancedcalculators](#advancedcalculators): Tools related to advancedcalculators.
+- [Bitwise Tools](#bitwise-tools): Tools related to bitwise tools.
+- [Calculators](#calculators): Tools related to calculators.
+- [Expression Calc](#expression-calc): Tools related to expression calc.
+
+### Cd
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [Shell Utility](#shell-utility): Tools related to shell utility.
+- [Cd Enhancer](#cd-enhancer): Tools related to cd enhancer.
+- [Directory Jumper](#directory-jumper): Tools related to directory jumper.
+- [Directory Jumpers](#directory-jumpers): Tools related to directory jumpers.
+
+### Chat
+- [Matrix Client](#matrix-client): Tools related to matrix client.
+- [Xmpp Client](#xmpp-client): Tools related to xmpp client.
+- [Terminalmessenger](#terminalmessenger): Tools related to terminalmessenger.
+- [Messaging](#messaging): Tools related to messaging.
+- [Irc Client](#irc-client): Tools related to irc client.
+
+### Cheatsheet
+- [Snippet Manager](#snippet-manager): Tools related to snippet manager.
+- [Autocomplete](#autocomplete): Tools related to autocomplete.
+- [Fastfindalternative](#fastfindalternative): Tools related to fastfindalternative.
+- [Aliasgeneratorcli Tool](#aliasgeneratorcli-tool): Tools related to aliasgeneratorcli tool.
+- [Knowledge Base](#knowledge-base): Tools related to knowledge base.
+
+### Conversion
+- [Wordtotextconverter](#wordtotextconverter): Tools related to wordtotextconverter.
+- [Document Converter](#document-converter): Tools related to document converter.
+- [Audio Tools](#audio-tools): Tools related to audio tools.
+- [Css Tools](#css-tools): Tools related to css tools.
+- [Data Automation](#data-automation): Tools related to data automation.
+
+### Copilot
+- [Shell Utility](#shell-utility): Tools related to shell utility.
+- [Ai Assistant](#ai-assistant): Tools related to ai assistant.
+- [Ai Assistant Cli](#ai-assistant-cli): Tools related to ai assistant cli.
+- [Copilot](#copilot): Tools related to copilot.
+- [Gpt Assistant](#gpt-assistant): Tools related to gpt assistant.
+
+### Data-Management
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+- [Apireadercli Tool](#apireadercli-tool): Tools related to apireadercli tool.
+- [Asciichartcli Tool](#asciichartcli-tool): Tools related to asciichartcli tool.
+- [Command Line Translator](#command-line-translator): Tools related to command line translator.
+- [Data Processing](#data-processing): Tools related to data processing.
+
+### Data-Management-Json
+- [Command Line Translator](#command-line-translator): Tools related to command line translator.
+- [Json Tools](#json-tools): Tools related to json tools.
+- [Json Formatter](#json-formatter): Tools related to json formatter.
+- [Json Processing](#json-processing): Tools related to json processing.
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+
+### Data-Management-Tabular
+- [Csv Tools](#csv-tools): Tools related to csv tools.
+- [Sqlclientcli](#sqlclientcli): Tools related to sqlclientcli.
+- [Database Manager](#database-manager): Tools related to database manager.
+- [Csv Viewer](#csv-viewer): Tools related to csv viewer.
+- [Command Line Translator](#command-line-translator): Tools related to command line translator.
+
+### Devops
+- [Aws Cli Tool](#aws-cli-tool): Tools related to aws cli tool.
+- [Cloud Cli Toolents](#cloud-cli-toolents): Tools related to cloud cli toolents.
+- [Devenvironmentmanager](#devenvironmentmanager): Tools related to devenvironmentmanager.
+- [Kubectl Context Switcher](#kubectl-context-switcher): Tools related to kubectl context switcher.
+- [Kubernetes](#kubernetes): Tools related to kubernetes.
+
+### Diff
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [Alternativevcs](#alternativevcs): Tools related to alternativevcs.
+- [Csv Comparison](#csv-comparison): Tools related to csv comparison.
+- [Diff Visualizer](#diff-visualizer): Tools related to diff visualizer.
+- [Directory Diff](#directory-diff): Tools related to directory diff.
+
+### Disk-Analyzer
+- [Stylizeddiskusagereporter](#stylizeddiskusagereporter): Tools related to stylizeddiskusagereporter.
+- [Fastfindalternative](#fastfindalternative): Tools related to fastfindalternative.
+- [Ncursesdiskanalyzer](#ncursesdiskanalyzer): Tools related to ncursesdiskanalyzer.
+- [Diskanalyzertui](#diskanalyzertui): Tools related to diskanalyzertui.
+- [Diskusagehistogram](#diskusagehistogram): Tools related to diskusagehistogram.
+
+### Editors
+- [Gui Easy Editor](#gui-easy-editor): Tools related to gui easy editor.
+- [Text Editor](#text-editor): Tools related to text editor.
+- [Texteditortui](#texteditortui): Tools related to texteditortui.
+- [Terminaltexteditor](#terminaltexteditor): Tools related to terminaltexteditor.
+- [Notetakingtui](#notetakingtui): Tools related to notetakingtui.
+
+### Email
+- [Terminalemailclient](#terminalemailclient): Tools related to terminalemailclient.
+- [Email Client](#email-client): Tools related to email client.
+- [Cli Tool Email](#cli-tool-email): Tools related to cli tool email.
+- [Disposable Email](#disposable-email): Tools related to disposable email.
+- [Email Analyzer](#email-analyzer): Tools related to email analyzer.
+
+### File-Dir-Cleanup
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [Directory Organizer](#directory-organizer): Tools related to directory organizer.
+- [Directoryorganizer](#directoryorganizer): Tools related to directoryorganizer.
+- [File Cleanup](#file-cleanup): Tools related to file cleanup.
+- [File Organizers](#file-organizers): Tools related to file organizers.
+
+### File-Explorer
+- [Modernfilemanager](#modernfilemanager): Tools related to modernfilemanager.
+- [File Manager](#file-manager): Tools related to file manager.
+- [Directory Viewers](#directory-viewers): Tools related to directory viewers.
+- [Directorytreeprinter](#directorytreeprinter): Tools related to directorytreeprinter.
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+
+### File-Handling
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [Archive Manager](#archive-manager): Tools related to archive manager.
+- [Library Browser](#library-browser): Tools related to library browser.
+- [Gui Easy Editor](#gui-easy-editor): Tools related to gui easy editor.
+- [File Utilities](#file-utilities): Tools related to file utilities.
+
+### File-Manager
+- [Modernfilemanager](#modernfilemanager): Tools related to modernfilemanager.
+- [Lightweightfilemanager](#lightweightfilemanager): Tools related to lightweightfilemanager.
+- [File Manager](#file-manager): Tools related to file manager.
+- [Terminal File Manager](#terminal-file-manager): Tools related to terminal file manager.
+- [Dualpanefilemanager](#dualpanefilemanager): Tools related to dualpanefilemanager.
+
+### File-Renamer
+- [Bulkrenamercli](#bulkrenamercli): Tools related to bulkrenamercli.
+- [Gui Easy Editor](#gui-easy-editor): Tools related to gui easy editor.
+- [Bulkrenamer](#bulkrenamer): Tools related to bulkrenamer.
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [File Renamers](#file-renamers): Tools related to file renamers.
+
+### File-System
+- [Filetaggercli Tool](#filetaggercli-tool): Tools related to filetaggercli tool.
+- [Remotefilesystemmounting](#remotefilesystemmounting): Tools related to remotefilesystemmounting.
+- [Tagbasedvirtualfs](#tagbasedvirtualfs): Tools related to tagbasedvirtualfs.
+- [Deployment Tools](#deployment-tools): Tools related to deployment tools.
+
+### File-Watch
+- [Directorywatcher](#directorywatcher): Tools related to directorywatcher.
+- [File Monitor](#file-monitor): Tools related to file monitor.
+- [File Watcher](#file-watcher): Tools related to file watcher.
+- [Filewatchercli](#filewatchercli): Tools related to filewatchercli.
+- [Processmonitortui](#processmonitortui): Tools related to processmonitortui.
+
+### Financial
+- [Accounting](#accounting): Tools related to accounting.
+- [Financecli](#financecli): Tools related to financecli.
+- [Currency Converters](#currency-converters): Tools related to currency converters.
+- [Accountingcli Tool](#accountingcli-tool): Tools related to accountingcli tool.
+- [Bitcoin Cli Tool](#bitcoin-cli-tool): Tools related to bitcoin cli tool.
+
+### Find
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [Fastfindalternative](#fastfindalternative): Tools related to fastfindalternative.
+- [File Finder](#file-finder): Tools related to file finder.
+- [Fuzzy Finders](#fuzzy-finders): Tools related to fuzzy finders.
+- [Grep Alternative](#grep-alternative): Tools related to grep alternative.
+
+### Flashcard
+- [Flashcardtrainertui](#flashcardtrainertui): Tools related to flashcardtrainertui.
+- [Flashcards](#flashcards): Tools related to flashcards.
+- [Anki Tool](#anki-tool): Tools related to anki tool.
+- [Cli Learning Tools](#cli-learning-tools): Tools related to cli learning tools.
+- [Flashcard Tool](#flashcard-tool): Tools related to flashcard tool.
+
+### Font
+- [Font Manager](#font-manager): Tools related to font manager.
+- [Visual Effects Rendering](#visual-effects-rendering): Tools related to visual effects rendering.
+- [Ascii Art](#ascii-art): Tools related to ascii art.
+- [Ascii Text Rendering](#ascii-text-rendering): Tools related to ascii text rendering.
+
+### Funny
+- [Cli Fun](#cli-fun): Tools related to cli fun.
+- [Fun](#fun): Tools related to fun.
+- [Asciispeechgenerato](#asciispeechgenerato): Tools related to asciispeechgenerato.
+- [Asciispeechgenerator](#asciispeechgenerator): Tools related to asciispeechgenerator.
+- [Emojipickercli Tool](#emojipickercli-tool): Tools related to emojipickercli tool.
+
+### Games
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+- [Terminalgame](#terminalgame): Tools related to terminalgame.
+- [Gamecli](#gamecli): Tools related to gamecli.
+- [Game](#game): Tools related to game.
+- [Cli Game](#cli-game): Tools related to cli game.
+
+### Git
+- [Gitstatistics](#gitstatistics): Tools related to gitstatistics.
+- [Git Tools](#git-tools): Tools related to git tools.
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [Git Tool](#git-tool): Tools related to git tool.
+- [Git Helpers](#git-helpers): Tools related to git helpers.
+
+### Graphics
+- [Imageviewer(Ascii)](#imageviewerascii): Tools related to imageviewer(ascii).
+- [Ascii Art](#ascii-art): Tools related to ascii art.
+- [Command Line Translator](#command-line-translator): Tools related to command line translator.
+- [Ai Image Search](#ai-image-search): Tools related to ai image search.
+- [Space Visualizer](#space-visualizer): Tools related to space visualizer.
+
+### History
+- [History Manager](#history-manager): Tools related to history manager.
+- [Command Line Translator](#command-line-translator): Tools related to command line translator.
+- [Productivity](#productivity): Tools related to productivity.
+
+### Launcher
+- [Launcher](#launcher): Tools related to launcher.
+- [Shell Utility](#shell-utility): Tools related to shell utility.
+- [Multicommandrunnertui](#multicommandrunnertui): Tools related to multicommandrunnertui.
+- [Task Runner](#task-runner): Tools related to task runner.
+- [App Launcher](#app-launcher): Tools related to app launcher.
+
+### Ls
+- [Rustlsreplacement](#rustlsreplacement): Tools related to rustlsreplacement.
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [Enhancedlsrewrite](#enhancedlsrewrite): Tools related to enhancedlsrewrite.
+- [Gitstatistics](#gitstatistics): Tools related to gitstatistics.
+- [Ls Color](#ls-color): Tools related to ls color.
+
+### Markdown
+- [Markdown Viewer](#markdown-viewer): Tools related to markdown viewer.
+- [Knowledge Base](#knowledge-base): Tools related to knowledge base.
+- [Markdown Parser](#markdown-parser): Tools related to markdown parser.
+- [Markdown Preview](#markdown-preview): Tools related to markdown preview.
+- [Markdown Tool](#markdown-tool): Tools related to markdown tool.
+
+### Monitor
+- [System Info](#system-info): Tools related to system info.
+- [Resource Monitor](#resource-monitor): Tools related to resource monitor.
+- [System Fetcher](#system-fetcher): Tools related to system fetcher.
+- [Imageviewer(Ascii)](#imageviewerascii): Tools related to imageviewer(ascii).
+- [System Monitor](#system-monitor): Tools related to system monitor.
+
+### Monitor-Top
+- [Resource Monitor](#resource-monitor): Tools related to resource monitor.
+- [System Monitor](#system-monitor): Tools related to system monitor.
+- [Gpu Monitor](#gpu-monitor): Tools related to gpu monitor.
+- [Process Monitor](#process-monitor): Tools related to process monitor.
+- [Process Viewer](#process-viewer): Tools related to process viewer.
+
+### Music
+- [Lightweightaudioplayer](#lightweightaudioplayer): Tools related to lightweightaudioplayer.
+- [Music Player](#music-player): Tools related to music player.
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+- [Audio Player](#audio-player): Tools related to audio player.
+- [Audiomixer](#audiomixer): Tools related to audiomixer.
+
+### Networking
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+- [Shell Utility](#shell-utility): Tools related to shell utility.
+- [Ssh Tools](#ssh-tools): Tools related to ssh tools.
+- [Network Monitor](#network-monitor): Tools related to network monitor.
+- [Xmpp Server](#xmpp-server): Tools related to xmpp server.
+
+### Note-Taking
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+- [Note Taking](#note-taking): Tools related to note taking.
+- [Knowledge Base](#knowledge-base): Tools related to knowledge base.
+- [Notetakingcli](#notetakingcli): Tools related to notetakingcli.
+- [Journal](#journal): Tools related to journal.
+
+### Office
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+- [Pdf Tools](#pdf-tools): Tools related to pdf tools.
+- [Presentation Tools](#presentation-tools): Tools related to presentation tools.
+- [Cli Tool Presentation](#cli-tool-presentation): Tools related to cli tool presentation.
+- [Code Tutorial](#code-tutorial): Tools related to code tutorial.
+
+### Online
+- [Wikipedia Client](#wikipedia-client): Tools related to wikipedia client.
+- [Jira Tools](#jira-tools): Tools related to jira tools.
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+- [Subdomain Finder](#subdomain-finder): Tools related to subdomain finder.
+- [Github Tools](#github-tools): Tools related to github tools.
+
+### Option-Picker
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [Shell Utility](#shell-utility): Tools related to shell utility.
+- [Date Picker](#date-picker): Tools related to date picker.
+- [Fuzzy Selector](#fuzzy-selector): Tools related to fuzzy selector.
+- [Fuzzy Filter](#fuzzy-filter): Tools related to fuzzy filter.
+
+### Organizers
+- [Vcard Address Book](#vcard-address-book): Tools related to vcard address book.
+- [Calendar Tools](#calendar-tools): Tools related to calendar tools.
+- [Calendar](#calendar): Tools related to calendar.
+- [Caldav Calendar](#caldav-calendar): Tools related to caldav calendar.
+- [Scheduler](#scheduler): Tools related to scheduler.
+
+### Package-Manager
+- [Package Manager](#package-manager): Tools related to package manager.
+- [Alternativevcs](#alternativevcs): Tools related to alternativevcs.
+- [Binary Installer](#binary-installer): Tools related to binary installer.
+- [Dev Env Manager](#dev-env-manager): Tools related to dev env manager.
+- [Gitforlargefiles](#gitforlargefiles): Tools related to gitforlargefiles.
+
+### Password-Manager
+- [Password Manager](#password-manager): Tools related to password manager.
+- [Encryptedpasswordmanager](#encryptedpasswordmanager): Tools related to encryptedpasswordmanager.
+- [Bitwarden Cli Tool](#bitwarden-cli-tool): Tools related to bitwarden cli tool.
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [Passwordgeneratorcli Tool](#passwordgeneratorcli-tool): Tools related to passwordgeneratorcli tool.
+
+### Pastebin
+- [Pastebin](#pastebin): Tools related to pastebin.
+- [Pastebincli Tool](#pastebincli-tool): Tools related to pastebincli tool.
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+
+### Productivity
+- [Directionsquerycli Tool](#directionsquerycli-tool): Tools related to directionsquerycli tool.
+- [Googlescrapercli Tool](#googlescrapercli-tool): Tools related to googlescrapercli tool.
+- [Mind‑Mapping](#mindmapping): Tools related to mind‑mapping.
+- [Speed Reading](#speed-reading): Tools related to speed reading.
+- [Time Tools](#time-tools): Tools related to time tools.
+
+### Programming
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [Codestatscli](#codestatscli): Tools related to codestatscli.
+- [Release Automation](#release-automation): Tools related to release automation.
+- [Advanced Grep](#advanced-grep): Tools related to advanced grep.
+- [Staticanalyzercli](#staticanalyzercli): Tools related to staticanalyzercli.
+
+### Programming-Boilerplate
+- [Alternativevcs](#alternativevcs): Tools related to alternativevcs.
+- [License Generators](#license-generators): Tools related to license generators.
+- [Changelog Generators](#changelog-generators): Tools related to changelog generators.
+- [Contributing.Md Generator](#contributingmd-generator): Tools related to contributing.md generator.
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+
+### Prompt
+- [Shell Utility](#shell-utility): Tools related to shell utility.
+- [Custom Prompt](#custom-prompt): Tools related to custom prompt.
+- [Shell Prompt](#shell-prompt): Tools related to shell prompt.
+- [Zsh Prompt](#zsh-prompt): Tools related to zsh prompt.
+- [Bash Tool](#bash-tool): Tools related to bash tool.
+
+### Religion
+- [Bible Readers](#bible-readers): Tools related to bible readers.
+- [Cli Tool Bible Viewer](#cli-tool-bible-viewer): Tools related to cli tool bible viewer.
+- [Command Line Translator](#command-line-translator): Tools related to command line translator.
+- [Text Readers](#text-readers): Tools related to text readers.
+
+### Rm
+- [Safe Delete](#safe-delete): Tools related to safe delete.
+- [File Recovery](#file-recovery): Tools related to file recovery.
+- [Command Line Translator](#command-line-translator): Tools related to command line translator.
+- [Datarecovery](#datarecovery): Tools related to datarecovery.
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+
+### Rss
+- [Rss Reader](#rss-reader): Tools related to rss reader.
+- [Rss](#rss): Tools related to rss.
+- [Rss Parser](#rss-parser): Tools related to rss parser.
+- [Rss Readers](#rss-readers): Tools related to rss readers.
+- [Rss Tool](#rss-tool): Tools related to rss tool.
+
+### Science
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [Knowledge Base](#knowledge-base): Tools related to knowledge base.
+- [Periodic Table](#periodic-table): Tools related to periodic table.
+- [Academicdownloadercli Tool](#academicdownloadercli-tool): Tools related to academicdownloadercli tool.
+- [Alternativevcs](#alternativevcs): Tools related to alternativevcs.
+
+### Screen-Recorder
+- [Terminal Recorder](#terminal-recorder): Tools related to terminal recorder.
+- [Svg Generator](#svg-generator): Tools related to svg generator.
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+- [Terminal Animation](#terminal-animation): Tools related to terminal animation.
+
+### Screensaver
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+- [Screensaver](#screensaver): Tools related to screensaver.
+- [Ascii Aquarium](#ascii-aquarium): Tools related to ascii aquarium.
+- [Ascii Screensaver](#ascii-screensaver): Tools related to ascii screensaver.
+
+### Security
+- [Steganography](#steganography): Tools related to steganography.
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [Encryption](#encryption): Tools related to encryption.
+- [Encrypted Filesystem](#encrypted-filesystem): Tools related to encrypted filesystem.
+- [Secure Backups](#secure-backups): Tools related to secure backups.
+
+### Shells
+- [Shell Utility](#shell-utility): Tools related to shell utility.
+- [Text Based Window Manager](#text-based-window-manager): Tools related to text based window manager.
+
+### System
+- [Shell Utility](#shell-utility): Tools related to shell utility.
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [System Manager](#system-manager): Tools related to system manager.
+- [Dotfiles Manager](#dotfiles-manager): Tools related to dotfiles manager.
+- [Console Sharing](#console-sharing): Tools related to console sharing.
+
+### Terminal
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+- [Terminal Emulator](#terminal-emulator): Tools related to terminal emulator.
+- [Multiplexer](#multiplexer): Tools related to multiplexer.
+- [Tmux Tools](#tmux-tools): Tools related to tmux tools.
+- [Projectnavigatortui](#projectnavigatortui): Tools related to projectnavigatortui.
+
+### Text-Processing
+- [Command Line Translator](#command-line-translator): Tools related to command line translator.
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [Text Transformers](#text-transformers): Tools related to text transformers.
+- [Text Formatter](#text-formatter): Tools related to text formatter.
+- [Terminal Dashboard](#terminal-dashboard): Tools related to terminal dashboard.
+
+### Text-Search
+- [Advancedgrepcli](#advancedgrepcli): Tools related to advancedgrepcli.
+- [Advanced Grep](#advanced-grep): Tools related to advanced grep.
+- [Code Search](#code-search): Tools related to code search.
+- [Text Search](#text-search): Tools related to text search.
+- [Code Analysis](#code-analysis): Tools related to code analysis.
+
+### Text-Search-Replace
+- [Code Refactoring](#code-refactoring): Tools related to code refactoring.
+- [Codereplacecli Tool](#codereplacecli-tool): Tools related to codereplacecli tool.
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+- [Tabular Sql Query](#tabular-sql-query): Tools related to tabular sql query.
+- [Text Replace](#text-replace): Tools related to text replace.
+
+### Time-Tracker
+- [Pomodoro](#pomodoro): Tools related to pomodoro.
+- [Time Tracking](#time-tracking): Tools related to time tracking.
+- [Habit Tracker](#habit-tracker): Tools related to habit tracker.
+- [Time Trackers](#time-trackers): Tools related to time trackers.
+- [Time Tracker](#time-tracker): Tools related to time tracker.
+
+### Todo-Manager
+- [Todo Manager](#todo-manager): Tools related to todo manager.
+- [Knowledge Base](#knowledge-base): Tools related to knowledge base.
+- [Taskmanagercli](#taskmanagercli): Tools related to taskmanagercli.
+- [Command Line Translator](#command-line-translator): Tools related to command line translator.
+- [Task Manager](#task-manager): Tools related to task manager.
+
+### Torrent
+- [Alternativevcs](#alternativevcs): Tools related to alternativevcs.
+- [Rpgcli Toolenttui](#rpgcli-toolenttui): Tools related to rpgcli toolenttui.
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+- [Torrent Streamer](#torrent-streamer): Tools related to torrent streamer.
+- [Torrentcli Toolent](#torrentcli-toolent): Tools related to torrentcli toolent.
+
+### Transfer
+- [Filetransfercli](#filetransfercli): Tools related to filetransfercli.
+- [Cli Downloader](#cli-downloader): Tools related to cli downloader.
+- [File Sharing](#file-sharing): Tools related to file sharing.
+- [Clipboard Sync](#clipboard-sync): Tools related to clipboard sync.
+- [Video Downloader](#video-downloader): Tools related to video downloader.
+
+### Typing
+- [Typing Test](#typing-test): Tools related to typing test.
+- [Typing Game](#typing-game): Tools related to typing game.
+- [Typing Practice](#typing-practice): Tools related to typing practice.
+- [Hotkeymanager](#hotkeymanager): Tools related to hotkeymanager.
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+
+### Utility
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+- [Shell Utility](#shell-utility): Tools related to shell utility.
+- [Weather](#weather): Tools related to weather.
+- [Unicode Tools](#unicode-tools): Tools related to unicode tools.
+- [Performance Tools](#performance-tools): Tools related to performance tools.
+
+### Versioning
+- [Alternativevcs](#alternativevcs): Tools related to alternativevcs.
+- [Fossil Interface](#fossil-interface): Tools related to fossil interface.
+- [Git Manage](#git-manage): Tools related to git manage.
+- [Git Translator](#git-translator): Tools related to git translator.
+- [Repomanagercli Tool](#repomanagercli-tool): Tools related to repomanagercli tool.
+
+### Video
+- [Ascii Video](#ascii-video): Tools related to ascii video.
+- [Audio Translator](#audio-translator): Tools related to audio translator.
+- [Lightweightaudioplayer](#lightweightaudioplayer): Tools related to lightweightaudioplayer.
+- [Mediaconvertercli Tool](#mediaconvertercli-tool): Tools related to mediaconvertercli tool.
+- [Screen Recording](#screen-recording): Tools related to screen recording.
+
+### Viewers
+- [Command Line Translator](#command-line-translator): Tools related to command line translator.
+- [News Reader](#news-reader): Tools related to news reader.
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+- [Videoaudioplayer(Gui/Cli)](#videoaudioplayerguicli): Tools related to videoaudioplayer(gui/cli).
+- [Enhanced Cat Clone](#enhanced-cat-clone): Tools related to enhanced cat clone.
+
+### Vm
+- [Container](#container): Tools related to container.
+- [Docker Management](#docker-management): Tools related to docker management.
+- [Container Manager](#container-manager): Tools related to container manager.
+- [Qemu Ui](#qemu-ui): Tools related to qemu ui.
+- [Dev Environment](#dev-environment): Tools related to dev environment.
+
+### Webdev
+- [Staticsitegenerator](#staticsitegenerator): Tools related to staticsitegenerator.
+- [Load Testing](#load-testing): Tools related to load testing.
+- [Api Client Or Wrapper](#api-client-or-wrapper): Tools related to api client or wrapper.
+- [Pentest Suite](#pentest-suite): Tools related to pentest suite.
+- [Deployment Tools](#deployment-tools): Tools related to deployment tools.
+
+### Writing
+- [Dictionary](#dictionary): Tools related to dictionary.
+- [Command Line Translator](#command-line-translator): Tools related to command line translator.
+- [Grammar Checker](#grammar-checker): Tools related to grammar checker.
+- [Story Generator](#story-generator): Tools related to story generator.
+- [Terminal Based Tool](#terminal-based-tool): Tools related to terminal based tool.
+
+# Awesome Command Line (CLI/TUI) Programs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+This repository - to the best of my knowledge - contains the largest collection of command line (CLI/TUI) tools available in the form of awesome list.
+With source information maintained in a handy CSV file.
+
+To contribute, see the [contribution section](#contribute).
+Read the instructions before rushing at changing the README file: you must edit the CSV files, not the README!
+
+Some links are available to [related resources](#resources).
+
+Summary:
+
+* Apps/tools: **1777**
+* Categories: **78**
+* Subcategories: **1081**
+
+# 📚 Contents
+
+Below is a categorized overview of all **1777** tools.
 
 - **[ai](#ai-)** (37 tools): [AI assistant](#ai-assistant-), [AI terminal assistant](#ai-terminal-assistant-), [ai assistant](#ai-assistant-), [ai chatbot](#ai-chatbot-), [ai cli](#ai-cli-), [ai toolkit](#ai-toolkit-), [ai workflow engine](#ai-workflow-engine-), [alibaba scraper](#alibaba-scraper-), [autonomous agent](#autonomous-agent-), [chatgpt cli](#chatgpt-cli-), [chatgpt client](#chatgpt-client-), [chatgpt tools](#chatgpt-tools-), [chatgpt](#chatgpt-), [cli assistant](#cli-assistant-), [git tool](#git-tool-), [gpt-powered parser](#gpt-powered-parser-), [http tools](#http-tools-), [llm runner](#llm-runner-), [natural language](#natural-language-), [ollama client](#ollama-client-), [pipeable ai chat](#pipeable-ai-chat-), [team knowledge AI](#team-knowledge-ai-), [terminal assistant](#terminal-assistant-), [terminal ui](#terminal-ui-)
 - **[animation](#animation-)** (33 tools): [AsciiTerminalAnimation](#asciiterminalanimation-), [EducationalCryptoVisualizer](#educationalcryptovisualizer-), [ImageViewer(ASCII)](#imageviewerascii-), [SpinnerCLI](#spinnercli-), [ascii animation](#ascii-animation-), [ascii art](#ascii-art-), [ascii effects](#ascii-effects-), [ascii renderer](#ascii-renderer-), [ascii tree generator](#ascii-tree-generator-), [cli clocks](#cli-clocks-), [enhanced cat](#enhanced-cat-), [maze generator](#maze-generator-), [simulation](#simulation-), [terminal animation](#terminal-animation-), [terminal fun](#terminal-fun-), [text effects](#text-effects-)
