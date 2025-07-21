@@ -19,7 +19,7 @@ Some links are available to [related resources](#related-resources).
 
 ## Contents
 
-- **ai** (36 tools, 6 subcategories)
+- [ai](#ai) (36 tools, 6 subcategories)
   - 📁 Other Ai (18 tools): Tools related to other ai.
   - 📁 Terminal-Based Tool (2 tools): Tools related to terminal based tool.
   - 📁 Ai Assistant (6 tools): Tools related to ai assistant.
@@ -27,7 +27,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Chatgpt Tools (3 tools): Tools related to chatgpt tools.
   - 📁 Terminal Assistant (2 tools): Tools related to terminal assistant.
 
-- **animation** (33 tools, 6 subcategories)
+- [animation](#animation) (33 tools, 6 subcategories)
   - 📁 Asciiterminalanimation (5 tools): Tools related to asciiterminalanimation.
   - 📁 Enhanced Cat Clone (3 tools): Tools related to enhanced cat clone.
   - 📁 Other Animation (10 tools): Tools related to other animation.
@@ -35,7 +35,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Ascii Renderer (3 tools): Tools related to ascii renderer.
   - 📁 Terminal Animation (6 tools): Tools related to terminal animation.
 
-- **backup** (19 tools, 6 subcategories)
+- [backup](#backup) (19 tools, 6 subcategories)
   - 📁 Alternativevcs (2 tools): Tools related to alternativevcs.
   - 📁 Backupautomationwrapper (1 tools): Tools related to backupautomationwrapper.
   - 📁 Encryptedbackuptool (1 tools): Tools related to encryptedbackuptool.
@@ -43,7 +43,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Other Backup (11 tools): Tools related to other backup.
   - 📁 Backup Tool (3 tools): Tools related to backup tool.
 
-- **browser** (19 tools, 6 subcategories)
+- [browser](#browser) (19 tools, 6 subcategories)
   - 📁 Arxivsearcher (1 tools): Tools related to arxivsearcher.
   - 📁 Geminiclienttui (2 tools): Tools related to geminiclienttui.
   - 📁 Other Browser (10 tools): Tools related to other browser.
@@ -51,7 +51,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Textbasedwebbrowser (1 tools): Tools related to textbasedwebbrowser.
   - 📁 Websearchcli Tool (1 tools): Tools related to websearchcli tool.
 
-- **calc** (18 tools, 6 subcategories)
+- [calc](#calc) (18 tools, 6 subcategories)
   - 📁 Advancedcalculators (1 tools): Tools related to advancedcalculators.
   - 📁 Other Calc (6 tools): Tools related to other calc.
   - 📁 Storagecalculatorcli Tool (1 tools): Tools related to storagecalculatorcli tool.
@@ -59,7 +59,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Timediffcalculatorcli Tool (1 tools): Tools related to timediffcalculatorcli tool.
   - 📁 Calculator (8 tools): Tools related to calculator.
 
-- **cd** (23 tools, 6 subcategories)
+- [cd](#cd) (23 tools, 6 subcategories)
   - 📁 Enhanced Cat Clone (3 tools): Tools related to enhanced cat clone.
   - 📁 Other Cd (11 tools): Tools related to other cd.
   - 📁 Shell Utility (3 tools): Tools related to shell utility.
@@ -67,7 +67,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Directory Jumper (2 tools): Tools related to directory jumper.
   - 📁 Directory Jumpers (2 tools): Tools related to directory jumpers.
 
-- **chat** (36 tools, 6 subcategories)
+- [chat](#chat) (36 tools, 6 subcategories)
   - 📁 Other Chat (20 tools): Tools related to other chat.
   - 📁 Terminalmessenger (3 tools): Tools related to terminalmessenger.
   - 📁 Irc Client (2 tools): Tools related to irc client.
@@ -75,7 +75,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Messaging (2 tools): Tools related to messaging.
   - 📁 Xmpp Client (4 tools): Tools related to xmpp client.
 
-- **cheatsheet** (26 tools, 6 subcategories)
+- [cheatsheet](#cheatsheet) (26 tools, 6 subcategories)
   - 📁 Enhanced Cat Clone (1 tools): Tools related to enhanced cat clone.
   - 📁 Fastfindalternative (2 tools): Tools related to fastfindalternative.
   - 📁 Interactivecheatsheetcli Tool (1 tools): Tools related to interactivecheatsheetcli tool.
@@ -83,7 +83,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Autocomplete (2 tools): Tools related to autocomplete.
   - 📁 Snippet Manager (4 tools): Tools related to snippet manager.
 
-- **conversion** (16 tools, 6 subcategories)
+- [conversion](#conversion) (16 tools, 6 subcategories)
   - 📁 Dataformatconvertercli Tool (1 tools): Tools related to dataformatconvertercli tool.
   - 📁 Multiformatdocumentconverter (1 tools): Tools related to multiformatdocumentconverter.
   - 📁 Other Conversion (9 tools): Tools related to other conversion.
@@ -91,7 +91,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Wordtotextconverter (2 tools): Tools related to wordtotextconverter.
   - 📁 Document Converter (2 tools): Tools related to document converter.
 
-- **copilot** (11 tools, 6 subcategories)
+- [copilot](#copilot) (11 tools, 6 subcategories)
   - 📁 Copilot (1 tools): Tools related to copilot.
   - 📁 Other Copilot (5 tools): Tools related to other copilot.
   - 📁 Shell Utility (2 tools): Tools related to shell utility.
@@ -99,7 +99,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Chatgpt (1 tools): Tools related to chatgpt.
   - 📁 Chatgpt Cli (1 tools): Tools related to chatgpt cli.
 
-- **data-management** (16 tools, 6 subcategories)
+- [data-management](#data-management) (16 tools, 6 subcategories)
   - 📁 Command-Line Translator (1 tools): Tools related to command line translator.
   - 📁 Datetimeprocessingcli Tool (1 tools): Tools related to datetimeprocessingcli tool.
   - 📁 Enhanced Cat Clone (1 tools): Tools related to enhanced cat clone.
@@ -107,7 +107,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Terminal-Based Tool (2 tools): Tools related to terminal based tool.
   - 📁 Textdatabasecli Tool (1 tools): Tools related to textdatabasecli tool.
 
-- **data-management-json** (42 tools, 6 subcategories)
+- [data-management-json](#data-management-json) (42 tools, 6 subcategories)
   - 📁 Command-Line Translator (5 tools): Tools related to command line translator.
   - 📁 Other Data-Management-Json (27 tools): Tools related to other data management json.
   - 📁 Json Editor (2 tools): Tools related to json editor.
@@ -115,7 +115,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Json Tools (3 tools): Tools related to json tools.
   - 📁 Json-Processing (2 tools): Tools related to json processing.
 
-- **data-management-tabular** (30 tools, 6 subcategories)
+- [data-management-tabular](#data-management-tabular) (30 tools, 6 subcategories)
   - 📁 Command-Line Translator (2 tools): Tools related to command line translator.
   - 📁 Other Data-Management-Tabular (18 tools): Tools related to other data management tabular.
   - 📁 Sqlclientcli (3 tools): Tools related to sqlclientcli.
@@ -123,7 +123,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Csv Viewer (2 tools): Tools related to csv viewer.
   - 📁 Database Manager (2 tools): Tools related to database manager.
 
-- **devops** (8 tools, 6 subcategories)
+- [devops](#devops) (8 tools, 6 subcategories)
   - 📁 Aws Cli Tool (1 tools): Tools related to aws cli tool.
   - 📁 Cloud Cli Toolents (1 tools): Tools related to cloud cli toolents.
   - 📁 Devenvironmentmanager (1 tools): Tools related to devenvironmentmanager.
@@ -131,7 +131,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Other Devops (3 tools): Tools related to other devops.
   - 📁 Unikernel (1 tools): Tools related to unikernel.
 
-- **diff** (11 tools, 6 subcategories)
+- [diff](#diff) (11 tools, 6 subcategories)
   - 📁 Alternativevcs (1 tools): Tools related to alternativevcs.
   - 📁 Enhanced Cat Clone (3 tools): Tools related to enhanced cat clone.
   - 📁 Gitstatistics (1 tools): Tools related to gitstatistics.
@@ -139,14 +139,14 @@ Some links are available to [related resources](#related-resources).
   - 📁 Pdfdifftool (1 tools): Tools related to pdfdifftool.
   - 📁 String Distance (1 tools): Tools related to string distance.
 
-- **disk-analyzer** (12 tools, 5 subcategories)
+- [disk-analyzer](#disk-analyzer) (12 tools, 5 subcategories)
   - 📁 Diskanalyzertui (1 tools): Tools related to diskanalyzertui.
   - 📁 Diskusagehistogram (1 tools): Tools related to diskusagehistogram.
   - 📁 Fastfindalternative (2 tools): Tools related to fastfindalternative.
   - 📁 Ncursesdiskanalyzer (2 tools): Tools related to ncursesdiskanalyzer.
   - 📁 Stylizeddiskusagereporter (6 tools): Tools related to stylizeddiskusagereporter.
 
-- **editors** (27 tools, 6 subcategories)
+- [editors](#editors) (27 tools, 6 subcategories)
   - 📁 Minimalist-Writing (1 tools): Tools related to minimalist writing.
   - 📁 Other Editors (14 tools): Tools related to other editors.
   - 📁 Terminaltexteditor (2 tools): Tools related to terminaltexteditor.
@@ -154,7 +154,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Gui-Easy-Editor (5 tools): Tools related to gui easy editor.
   - 📁 Text Editor (3 tools): Tools related to text editor.
 
-- **email** (18 tools, 6 subcategories)
+- [email](#email) (18 tools, 6 subcategories)
   - 📁 Emailgeneratorcli Tool (1 tools): Tools related to emailgeneratorcli tool.
   - 📁 Mailsynctool (1 tools): Tools related to mailsynctool.
   - 📁 Other Email (7 tools): Tools related to other email.
@@ -162,7 +162,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Terminalemailclient (5 tools): Tools related to terminalemailclient.
   - 📁 Email Client (3 tools): Tools related to email client.
 
-- **file-dir-cleanup** (13 tools, 6 subcategories)
+- [file-dir-cleanup](#file-dir-cleanup) (13 tools, 6 subcategories)
   - 📁 Directoryorganizer (1 tools): Tools related to directoryorganizer.
   - 📁 Enhanced Cat Clone (4 tools): Tools related to enhanced cat clone.
   - 📁 Filenamesanitizer (1 tools): Tools related to filenamesanitizer.
@@ -170,7 +170,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Modernfilemanager (1 tools): Tools related to modernfilemanager.
   - 📁 Other File-Dir-Cleanup (5 tools): Tools related to other file dir cleanup.
 
-- **file-explorer** (11 tools, 6 subcategories)
+- [file-explorer](#file-explorer) (11 tools, 6 subcategories)
   - 📁 Directorytreeprinter (1 tools): Tools related to directorytreeprinter.
   - 📁 Enhanced Cat Clone (1 tools): Tools related to enhanced cat clone.
   - 📁 Modernfilemanager (2 tools): Tools related to modernfilemanager.
@@ -178,7 +178,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Terminal-Based Tool (1 tools): Tools related to terminal based tool.
   - 📁 File Manager (2 tools): Tools related to file manager.
 
-- **file-handling** (28 tools, 6 subcategories)
+- [file-handling](#file-handling) (28 tools, 6 subcategories)
   - 📁 Copy Progress Monitor (1 tools): Tools related to copy progress monitor.
   - 📁 Directory Visualizer (1 tools): Tools related to directory visualizer.
   - 📁 Enhanced Cat Clone (2 tools): Tools related to enhanced cat clone.
@@ -186,7 +186,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Symlink Tools (1 tools): Tools related to symlink tools.
   - 📁 Vcs Cli Toolent (1 tools): Tools related to vcs cli toolent.
 
-- **file-manager** (22 tools, 6 subcategories)
+- [file-manager](#file-manager) (22 tools, 6 subcategories)
   - 📁 Dualpanefilemanager (1 tools): Tools related to dualpanefilemanager.
   - 📁 Lightweightfilemanager (2 tools): Tools related to lightweightfilemanager.
   - 📁 Modernfilemanager (8 tools): Tools related to modernfilemanager.
@@ -194,7 +194,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 File Manager (2 tools): Tools related to file manager.
   - 📁 Terminal File Manager (2 tools): Tools related to terminal file manager.
 
-- **file-renamer** (14 tools, 6 subcategories)
+- [file-renamer](#file-renamer) (14 tools, 6 subcategories)
   - 📁 Bulkrenamercli (2 tools): Tools related to bulkrenamercli.
   - 📁 Bulkrenamer (1 tools): Tools related to bulkrenamer.
   - 📁 Interactiverenamer (1 tools): Tools related to interactiverenamer.
@@ -202,13 +202,13 @@ Some links are available to [related resources](#related-resources).
   - 📁 Translation (1 tools): Tools related to translation.
   - 📁 Gui-Easy-Editor (2 tools): Tools related to gui easy editor.
 
-- **file-system** (4 tools, 4 subcategories)
+- [file-system](#file-system) (4 tools, 4 subcategories)
   - 📁 Filetaggercli Tool (1 tools): Tools related to filetaggercli tool.
   - 📁 Remotefilesystemmounting (1 tools): Tools related to remotefilesystemmounting.
   - 📁 Tagbasedvirtualfs (1 tools): Tools related to tagbasedvirtualfs.
   - 📁 Deployment Tools (1 tools): Tools related to deployment tools.
 
-- **file-watch** (7 tools, 6 subcategories)
+- [file-watch](#file-watch) (7 tools, 6 subcategories)
   - 📁 Directorywatcher (1 tools): Tools related to directorywatcher.
   - 📁 Filewatcher (1 tools): Tools related to filewatcher.
   - 📁 Other File-Watch (2 tools): Tools related to other file watch.
@@ -216,7 +216,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Shellsyncbackup (1 tools): Tools related to shellsyncbackup.
   - 📁 File Watchers (1 tools): Tools related to file watchers.
 
-- **financial** (17 tools, 6 subcategories)
+- [financial](#financial) (17 tools, 6 subcategories)
   - 📁 Accounting (2 tools): Tools related to accounting.
   - 📁 Cryptotui (1 tools): Tools related to cryptotui.
   - 📁 Financecli (1 tools): Tools related to financecli.
@@ -224,7 +224,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Terminal-Based Tool (1 tools): Tools related to terminal based tool.
   - 📁 Currency Converters (2 tools): Tools related to currency converters.
 
-- **find** (8 tools, 6 subcategories)
+- [find](#find) (8 tools, 6 subcategories)
   - 📁 Enhanced Cat Clone (2 tools): Tools related to enhanced cat clone.
   - 📁 Fastfindalternative (1 tools): Tools related to fastfindalternative.
   - 📁 Fuzzy Finders (1 tools): Tools related to fuzzy finders.
@@ -232,7 +232,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Other Find (2 tools): Tools related to other find.
   - 📁 Fuzzy‑Search (1 tools): Tools related to fuzzy‑search.
 
-- **flashcard** (10 tools, 6 subcategories)
+- [flashcard](#flashcard) (10 tools, 6 subcategories)
   - 📁 Anki Tool (1 tools): Tools related to anki tool.
   - 📁 Cli Learning Tools (1 tools): Tools related to cli learning tools.
   - 📁 Flashcardtrainertui (2 tools): Tools related to flashcardtrainertui.
@@ -240,13 +240,13 @@ Some links are available to [related resources](#related-resources).
   - 📁 Other Flashcard (3 tools): Tools related to other flashcard.
   - 📁 Flashcards (2 tools): Tools related to flashcards.
 
-- **font** (4 tools, 4 subcategories)
+- [font](#font) (4 tools, 4 subcategories)
   - 📁 Font Manager (1 tools): Tools related to font manager.
   - 📁 Visual-Effects-Rendering (1 tools): Tools related to visual effects rendering.
   - 📁 Ascii Art (1 tools): Tools related to ascii art.
   - 📁 Ascii-Text-Rendering (1 tools): Tools related to ascii text rendering.
 
-- **funny** (18 tools, 6 subcategories)
+- [funny](#funny) (18 tools, 6 subcategories)
   - 📁 Asciispeechgenerato (1 tools): Tools related to asciispeechgenerato.
   - 📁 Asciispeechgenerator (1 tools): Tools related to asciispeechgenerator.
   - 📁 Other Funny (11 tools): Tools related to other funny.
@@ -254,7 +254,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Cli Fun (2 tools): Tools related to cli fun.
   - 📁 Fun (2 tools): Tools related to fun.
 
-- **games** (62 tools, 6 subcategories)
+- [games](#games) (62 tools, 6 subcategories)
   - 📁 Gamecli (3 tools): Tools related to gamecli.
   - 📁 Other Games (26 tools): Tools related to other games.
   - 📁 Terminal-Based Tool (21 tools): Tools related to terminal based tool.
@@ -262,7 +262,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Game (4 tools): Tools related to game.
   - 📁 Terminal Games (3 tools): Tools related to terminal games.
 
-- **git** (62 tools, 6 subcategories)
+- [git](#git) (62 tools, 6 subcategories)
   - 📁 Enhanced Cat Clone (3 tools): Tools related to enhanced cat clone.
   - 📁 Gitinterface (2 tools): Tools related to gitinterface.
   - 📁 Gitstatistics (9 tools): Tools related to gitstatistics.
@@ -270,7 +270,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Git Tool (2 tools): Tools related to git tool.
   - 📁 Git Tools (3 tools): Tools related to git tools.
 
-- **graphics** (45 tools, 6 subcategories)
+- [graphics](#graphics) (45 tools, 6 subcategories)
   - 📁 Command-Line Translator (2 tools): Tools related to command line translator.
   - 📁 Imageeditingconversion (1 tools): Tools related to imageeditingconversion.
   - 📁 Imageviewer (2 tools): Tools related to imageviewer.
@@ -278,12 +278,12 @@ Some links are available to [related resources](#related-resources).
   - 📁 Other Graphics (34 tools): Tools related to other graphics.
   - 📁 Ascii Art (2 tools): Tools related to ascii art.
 
-- **history** (4 tools, 3 subcategories)
+- [history](#history) (4 tools, 3 subcategories)
   - 📁 Command-Line Translator (1 tools): Tools related to command line translator.
   - 📁 History Manager (2 tools): Tools related to history manager.
   - 📁 Productivity (1 tools): Tools related to productivity.
 
-- **launcher** (23 tools, 6 subcategories)
+- [launcher](#launcher) (23 tools, 6 subcategories)
   - 📁 Batch Queue (1 tools): Tools related to batch queue.
   - 📁 Multicommandrunner (2 tools): Tools related to multicommandrunner.
   - 📁 Other Launcher (11 tools): Tools related to other launcher.
@@ -291,7 +291,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Launcher (4 tools): Tools related to launcher.
   - 📁 Task Runner (2 tools): Tools related to task runner.
 
-- **ls** (10 tools, 6 subcategories)
+- [ls](#ls) (10 tools, 6 subcategories)
   - 📁 Enhanced Cat Clone (1 tools): Tools related to enhanced cat clone.
   - 📁 Enhancedlsrewrite (1 tools): Tools related to enhancedlsrewrite.
   - 📁 Gitstatistics (1 tools): Tools related to gitstatistics.
@@ -299,7 +299,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Other Ls (3 tools): Tools related to other ls.
   - 📁 Rustlsreplacement (3 tools): Tools related to rustlsreplacement.
 
-- **markdown** (10 tools, 6 subcategories)
+- [markdown](#markdown) (10 tools, 6 subcategories)
   - 📁 Markdownviewer (1 tools): Tools related to markdownviewer.
   - 📁 Markdownbookbuilder (1 tools): Tools related to markdownbookbuilder.
   - 📁 Markdowntui (1 tools): Tools related to markdowntui.
@@ -307,7 +307,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Markdown Tools (1 tools): Tools related to markdown tools.
   - 📁 Markdown Viewer (2 tools): Tools related to markdown viewer.
 
-- **monitor** (36 tools, 6 subcategories)
+- [monitor](#monitor) (36 tools, 6 subcategories)
   - 📁 Imageviewer(Ascii) (2 tools): Tools related to imageviewer(ascii).
   - 📁 Other Monitor (20 tools): Tools related to other monitor.
   - 📁 Resource Monitor (4 tools): Tools related to resource monitor.
@@ -315,7 +315,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 System Info (5 tools): Tools related to system info.
   - 📁 System Monitor (2 tools): Tools related to system monitor.
 
-- **monitor-top** (26 tools, 6 subcategories)
+- [monitor-top](#monitor-top) (26 tools, 6 subcategories)
   - 📁 Other Monitor-Top (5 tools): Tools related to other monitor top.
   - 📁 Resource Monitor (7 tools): Tools related to resource monitor.
   - 📁 Gpu Monitor (4 tools): Tools related to gpu monitor.
@@ -323,7 +323,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Process Viewer (2 tools): Tools related to process viewer.
   - 📁 System Monitor (6 tools): Tools related to system monitor.
 
-- **music** (55 tools, 6 subcategories)
+- [music](#music) (55 tools, 6 subcategories)
   - 📁 Lightweightaudioplayer (19 tools): Tools related to lightweightaudioplayer.
   - 📁 Music Theory (1 tools): Tools related to music theory.
   - 📁 Other Music (23 tools): Tools related to other music.
@@ -331,7 +331,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Audio Player (3 tools): Tools related to audio player.
   - 📁 Music Player (5 tools): Tools related to music player.
 
-- **networking** (82 tools, 6 subcategories)
+- [networking](#networking) (82 tools, 6 subcategories)
   - 📁 Other Networking (65 tools): Tools related to other networking.
   - 📁 Shell Utility (3 tools): Tools related to shell utility.
   - 📁 Terminal-Based Tool (6 tools): Tools related to terminal based tool.
@@ -339,7 +339,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Ssh Tools (3 tools): Tools related to ssh tools.
   - 📁 Vpn Tools (2 tools): Tools related to vpn tools.
 
-- **note-taking** (28 tools, 6 subcategories)
+- [note-taking](#note-taking) (28 tools, 6 subcategories)
   - 📁 Knowledge Base (4 tools): Tools related to knowledge base.
   - 📁 Notetakingcli (3 tools): Tools related to notetakingcli.
   - 📁 Other Note-Taking (10 tools): Tools related to other note taking.
@@ -347,7 +347,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Journal (2 tools): Tools related to journal.
   - 📁 Note-Taking (4 tools): Tools related to note taking.
 
-- **office** (19 tools, 6 subcategories)
+- [office](#office) (19 tools, 6 subcategories)
   - 📁 Markdownpresentertui (1 tools): Tools related to markdownpresentertui.
   - 📁 Other Office (10 tools): Tools related to other office.
   - 📁 Spreadsheet Calculator (1 tools): Tools related to spreadsheet calculator.
@@ -355,7 +355,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Pdf Tools (2 tools): Tools related to pdf tools.
   - 📁 Presentation Tools (2 tools): Tools related to presentation tools.
 
-- **online** (26 tools, 6 subcategories)
+- [online](#online) (26 tools, 6 subcategories)
   - 📁 Archwikicli Tool (1 tools): Tools related to archwikicli tool.
   - 📁 Other Online (18 tools): Tools related to other online.
   - 📁 Terminal-Based Tool (2 tools): Tools related to terminal based tool.
@@ -363,7 +363,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Jira Tools (2 tools): Tools related to jira tools.
   - 📁 Wikipedia Client (2 tools): Tools related to wikipedia client.
 
-- **option-picker** (17 tools, 6 subcategories)
+- [option-picker](#option-picker) (17 tools, 6 subcategories)
   - 📁 Enhanced Cat Clone (2 tools): Tools related to enhanced cat clone.
   - 📁 Fuzzy-Filter (1 tools): Tools related to fuzzy filter.
   - 📁 Other Option-Picker (10 tools): Tools related to other option picker.
@@ -371,7 +371,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Fuzzy‑Search (1 tools): Tools related to fuzzy‑search.
   - 📁 Interactive-Line-Select (1 tools): Tools related to interactive line select.
 
-- **organizers** (22 tools, 6 subcategories)
+- [organizers](#organizers) (22 tools, 6 subcategories)
   - 📁 Google Calendar Cli Toolent (1 tools): Tools related to google calendar cli toolent.
   - 📁 Other Organizers (12 tools): Tools related to other organizers.
   - 📁 Caldav Calendar (2 tools): Tools related to caldav calendar.
@@ -379,7 +379,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Calendar Tools (2 tools): Tools related to calendar tools.
   - 📁 Vcard Address Book (3 tools): Tools related to vcard address book.
 
-- **package-manager** (20 tools, 6 subcategories)
+- [package-manager](#package-manager) (20 tools, 6 subcategories)
   - 📁 Gitforlargefiles (1 tools): Tools related to gitforlargefiles.
   - 📁 Knowledge Base (1 tools): Tools related to knowledge base.
   - 📁 Other Package-Manager (10 tools): Tools related to other package manager.
@@ -387,7 +387,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Pypisearchercli Tool (1 tools): Tools related to pypisearchercli tool.
   - 📁 Package Manager (6 tools): Tools related to package manager.
 
-- **password-manager** (21 tools, 6 subcategories)
+- [password-manager](#password-manager) (21 tools, 6 subcategories)
   - 📁 Encryptedpasswordmanager (5 tools): Tools related to encryptedpasswordmanager.
   - 📁 Enhanced Cat Clone (1 tools): Tools related to enhanced cat clone.
   - 📁 Other Password-Manager (5 tools): Tools related to other password manager.
@@ -395,12 +395,12 @@ Some links are available to [related resources](#related-resources).
   - 📁 Secure Archive Manager (1 tools): Tools related to secure archive manager.
   - 📁 Password Manager (8 tools): Tools related to password manager.
 
-- **pastebin** (3 tools, 3 subcategories)
+- [pastebin](#pastebin) (3 tools, 3 subcategories)
   - 📁 Pastebin (1 tools): Tools related to pastebin.
   - 📁 Pastebincli Tool (1 tools): Tools related to pastebincli tool.
   - 📁 Terminal-Based Tool (1 tools): Tools related to terminal based tool.
 
-- **productivity** (11 tools, 6 subcategories)
+- [productivity](#productivity) (11 tools, 6 subcategories)
   - 📁 Directionsquerycli Tool (1 tools): Tools related to directionsquerycli tool.
   - 📁 Googlescrapercli Tool (1 tools): Tools related to googlescrapercli tool.
   - 📁 Mind‑Mapping (1 tools): Tools related to mind‑mapping.
@@ -408,7 +408,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Notifications (1 tools): Tools related to notifications.
   - 📁 Terminal Dashboard (1 tools): Tools related to terminal dashboard.
 
-- **programming** (52 tools, 6 subcategories)
+- [programming](#programming) (52 tools, 6 subcategories)
   - 📁 Codestatscli (3 tools): Tools related to codestatscli.
   - 📁 Command-Line Translator (2 tools): Tools related to command line translator.
   - 📁 Enhanced Cat Clone (3 tools): Tools related to enhanced cat clone.
@@ -416,7 +416,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Staticanalyzercli (2 tools): Tools related to staticanalyzercli.
   - 📁 Release Automation (2 tools): Tools related to release automation.
 
-- **programming-boilerplate** (12 tools, 6 subcategories)
+- [programming-boilerplate](#programming-boilerplate) (12 tools, 6 subcategories)
   - 📁 Alternativevcs (2 tools): Tools related to alternativevcs.
   - 📁 Changelog Generators (1 tools): Tools related to changelog generators.
   - 📁 Enhanced Cat Clone (1 tools): Tools related to enhanced cat clone.
@@ -424,7 +424,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Readme Generators (1 tools): Tools related to readme generators.
   - 📁 License Generators (2 tools): Tools related to license generators.
 
-- **prompt** (13 tools, 6 subcategories)
+- [prompt](#prompt) (13 tools, 6 subcategories)
   - 📁 Other Prompt (2 tools): Tools related to other prompt.
   - 📁 Shell Utility (4 tools): Tools related to shell utility.
   - 📁 Terminal-Based Tool (1 tools): Tools related to terminal based tool.
@@ -432,13 +432,13 @@ Some links are available to [related resources](#related-resources).
   - 📁 Shell Prompt (2 tools): Tools related to shell prompt.
   - 📁 Zsh Prompt (2 tools): Tools related to zsh prompt.
 
-- **religion** (4 tools, 4 subcategories)
+- [religion](#religion) (4 tools, 4 subcategories)
   - 📁 Bible Readers (1 tools): Tools related to bible readers.
   - 📁 Cli Tool Bible Viewer (1 tools): Tools related to cli tool bible viewer.
   - 📁 Command-Line Translator (1 tools): Tools related to command line translator.
   - 📁 Text Readers (1 tools): Tools related to text readers.
 
-- **rm** (13 tools, 6 subcategories)
+- [rm](#rm) (13 tools, 6 subcategories)
   - 📁 Datarecovery (1 tools): Tools related to datarecovery.
   - 📁 Enhanced Cat Clone (1 tools): Tools related to enhanced cat clone.
   - 📁 Filedeletiontool (1 tools): Tools related to filedeletiontool.
@@ -446,14 +446,14 @@ Some links are available to [related resources](#related-resources).
   - 📁 File Recovery (2 tools): Tools related to file recovery.
   - 📁 Safe Delete (3 tools): Tools related to safe delete.
 
-- **rss** (10 tools, 5 subcategories)
+- [rss](#rss) (10 tools, 5 subcategories)
   - 📁 Rss (1 tools): Tools related to rss.
   - 📁 Rss Parser (1 tools): Tools related to rss parser.
   - 📁 Rss Readers (1 tools): Tools related to rss readers.
   - 📁 Rss Tool (1 tools): Tools related to rss tool.
   - 📁 Rss Reader (6 tools): Tools related to rss reader.
 
-- **science** (20 tools, 6 subcategories)
+- [science](#science) (20 tools, 6 subcategories)
   - 📁 Academicdownloadercli Tool (1 tools): Tools related to academicdownloadercli tool.
   - 📁 Conferencetrackercli Tool (1 tools): Tools related to conferencetrackercli tool.
   - 📁 Enhanced Cat Clone (3 tools): Tools related to enhanced cat clone.
@@ -461,19 +461,19 @@ Some links are available to [related resources](#related-resources).
   - 📁 Other Science (10 tools): Tools related to other science.
   - 📁 Periodic Table (2 tools): Tools related to periodic table.
 
-- **screen-recorder** (11 tools, 4 subcategories)
+- [screen-recorder](#screen-recorder) (11 tools, 4 subcategories)
   - 📁 Svg Generator (1 tools): Tools related to svg generator.
   - 📁 Terminal-Based Tool (1 tools): Tools related to terminal based tool.
   - 📁 Terminal Animation (1 tools): Tools related to terminal animation.
   - 📁 Terminal Recorder (8 tools): Tools related to terminal recorder.
 
-- **screensaver** (6 tools, 4 subcategories)
+- [screensaver](#screensaver) (6 tools, 4 subcategories)
   - 📁 Ascii Aquarium (1 tools): Tools related to ascii aquarium.
   - 📁 Ascii Screensaver (1 tools): Tools related to ascii screensaver.
   - 📁 Terminal-Based Tool (2 tools): Tools related to terminal based tool.
   - 📁 Screensaver (2 tools): Tools related to screensaver.
 
-- **security** (38 tools, 6 subcategories)
+- [security](#security) (38 tools, 6 subcategories)
   - 📁 Encryption Module (1 tools): Tools related to encryption module.
   - 📁 Enhanced Cat Clone (2 tools): Tools related to enhanced cat clone.
   - 📁 Other Security (26 tools): Tools related to other security.
@@ -481,11 +481,11 @@ Some links are available to [related resources](#related-resources).
   - 📁 Encryption (2 tools): Tools related to encryption.
   - 📁 Steganography (5 tools): Tools related to steganography.
 
-- **shells** (25 tools, 2 subcategories)
+- [shells](#shells) (25 tools, 2 subcategories)
   - 📁 Shell Utility (24 tools): Tools related to shell utility.
   - 📁 Text-Based Window Manager (1 tools): Tools related to text based window manager.
 
-- **system** (39 tools, 6 subcategories)
+- [system](#system) (39 tools, 6 subcategories)
   - 📁 Enhanced Cat Clone (3 tools): Tools related to enhanced cat clone.
   - 📁 Other System (27 tools): Tools related to other system.
   - 📁 Shell Utility (3 tools): Tools related to shell utility.
@@ -493,7 +493,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Console Sharing (2 tools): Tools related to console sharing.
   - 📁 System Manager (2 tools): Tools related to system manager.
 
-- **terminal** (24 tools, 6 subcategories)
+- [terminal](#terminal) (24 tools, 6 subcategories)
   - 📁 Other Terminal (3 tools): Tools related to other terminal.
   - 📁 Terminal-Based Tool (10 tools): Tools related to terminal based tool.
   - 📁 Window-Manager (1 tools): Tools related to window manager.
@@ -501,7 +501,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Terminal Emulator (5 tools): Tools related to terminal emulator.
   - 📁 Tmux Tools (2 tools): Tools related to tmux tools.
 
-- **text-processing** (52 tools, 6 subcategories)
+- [text-processing](#text-processing) (52 tools, 6 subcategories)
   - 📁 Command-Line Translator (5 tools): Tools related to command line translator.
   - 📁 Enhanced Cat Clone (3 tools): Tools related to enhanced cat clone.
   - 📁 Other Text-Processing (38 tools): Tools related to other text processing.
@@ -509,7 +509,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Terminal Dashboard (2 tools): Tools related to terminal dashboard.
   - 📁 Text Transformers (2 tools): Tools related to text transformers.
 
-- **text-search** (15 tools, 6 subcategories)
+- [text-search](#text-search) (15 tools, 6 subcategories)
   - 📁 Advancedgrepcli (2 tools): Tools related to advancedgrepcli.
   - 📁 Fastfindalternative (1 tools): Tools related to fastfindalternative.
   - 📁 Other Text-Search (6 tools): Tools related to other text search.
@@ -517,7 +517,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Code Search (2 tools): Tools related to code search.
   - 📁 Text Search (2 tools): Tools related to text search.
 
-- **text-search-replace** (6 tools, 6 subcategories)
+- [text-search-replace](#text-search-replace) (6 tools, 6 subcategories)
   - 📁 Code Refactoring (1 tools): Tools related to code refactoring.
   - 📁 Codereplacecli Tool (1 tools): Tools related to codereplacecli tool.
   - 📁 Enhanced Cat Clone (1 tools): Tools related to enhanced cat clone.
@@ -525,7 +525,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Tabular-Sql-Query (1 tools): Tools related to tabular sql query.
   - 📁 Text Replace (1 tools): Tools related to text replace.
 
-- **time-tracker** (23 tools, 6 subcategories)
+- [time-tracker](#time-tracker) (23 tools, 6 subcategories)
   - 📁 Other Time-Tracker (11 tools): Tools related to other time tracker.
   - 📁 Habit Tracker (2 tools): Tools related to habit tracker.
   - 📁 Pomodoro (3 tools): Tools related to pomodoro.
@@ -533,7 +533,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Time Tracking (3 tools): Tools related to time tracking.
   - 📁 Time-Tracker (2 tools): Tools related to time tracker.
 
-- **todo-manager** (35 tools, 6 subcategories)
+- [todo-manager](#todo-manager) (35 tools, 6 subcategories)
   - 📁 Knowledge Base (3 tools): Tools related to knowledge base.
   - 📁 Other Todo-Manager (19 tools): Tools related to other todo manager.
   - 📁 Taskmanagercli (3 tools): Tools related to taskmanagercli.
@@ -541,7 +541,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Task Manager (2 tools): Tools related to task manager.
   - 📁 Todo Manager (6 tools): Tools related to todo manager.
 
-- **torrent** (8 tools, 6 subcategories)
+- [torrent](#torrent) (8 tools, 6 subcategories)
   - 📁 Alternativevcs (1 tools): Tools related to alternativevcs.
   - 📁 Other Torrent (3 tools): Tools related to other torrent.
   - 📁 Rpgcli Toolenttui (1 tools): Tools related to rpgcli toolenttui.
@@ -549,7 +549,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Torrentcli Toolent (1 tools): Tools related to torrentcli toolent.
   - 📁 Tuibittorrentcli Toolent (1 tools): Tools related to tuibittorrentcli toolent.
 
-- **transfer** (44 tools, 6 subcategories)
+- [transfer](#transfer) (44 tools, 6 subcategories)
   - 📁 Cli Downloader (3 tools): Tools related to cli downloader.
   - 📁 Filetransfercli (4 tools): Tools related to filetransfercli.
   - 📁 Other Transfer (30 tools): Tools related to other transfer.
@@ -557,7 +557,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 File Sharing (3 tools): Tools related to file sharing.
   - 📁 Video Downloader (2 tools): Tools related to video downloader.
 
-- **typing** (16 tools, 6 subcategories)
+- [typing](#typing) (16 tools, 6 subcategories)
   - 📁 Other Typing (3 tools): Tools related to other typing.
   - 📁 Terminal-Based Tool (1 tools): Tools related to terminal based tool.
   - 📁 Typing Practice (1 tools): Tools related to typing practice.
@@ -565,7 +565,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Typing Practice (3 tools): Tools related to typing practice.
   - 📁 Typing Test (5 tools): Tools related to typing test.
 
-- **utility** (46 tools, 6 subcategories)
+- [utility](#utility) (46 tools, 6 subcategories)
   - 📁 Language Learning (1 tools): Tools related to language learning.
   - 📁 Other Utility (33 tools): Tools related to other utility.
   - 📁 Shell Utility (4 tools): Tools related to shell utility.
@@ -573,7 +573,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Wellness (1 tools): Tools related to wellness.
   - 📁 Weather (2 tools): Tools related to weather.
 
-- **versioning** (9 tools, 6 subcategories)
+- [versioning](#versioning) (9 tools, 6 subcategories)
   - 📁 Alternativevcs (3 tools): Tools related to alternativevcs.
   - 📁 Fossil Interface (1 tools): Tools related to fossil interface.
   - 📁 Other Versioning (2 tools): Tools related to other versioning.
@@ -581,7 +581,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Terminal-Based Tool (1 tools): Tools related to terminal based tool.
   - 📁 Version Control (1 tools): Tools related to version control.
 
-- **video** (14 tools, 6 subcategories)
+- [video](#video) (14 tools, 6 subcategories)
   - 📁 Lightweightaudioplayer (1 tools): Tools related to lightweightaudioplayer.
   - 📁 Mediaconvertercli Tool (1 tools): Tools related to mediaconvertercli tool.
   - 📁 Other Video (9 tools): Tools related to other video.
@@ -589,7 +589,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Videoeditorcli Tool (1 tools): Tools related to videoeditorcli tool.
   - 📁 Youtubeaudiosplitter (1 tools): Tools related to youtubeaudiosplitter.
 
-- **viewers** (34 tools, 6 subcategories)
+- [viewers](#viewers) (34 tools, 6 subcategories)
   - 📁 Command-Line Translator (4 tools): Tools related to command line translator.
   - 📁 Enhanced Cat Clone (2 tools): Tools related to enhanced cat clone.
   - 📁 Other Viewers (20 tools): Tools related to other viewers.
@@ -597,7 +597,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Videoaudioplayer (2 tools): Tools related to videoaudioplayer.
   - 📁 News Reader (3 tools): Tools related to news reader.
 
-- **vm** (23 tools, 6 subcategories)
+- [vm](#vm) (23 tools, 6 subcategories)
   - 📁 Docker Manager (1 tools): Tools related to docker manager.
   - 📁 Other Vm (12 tools): Tools related to other vm.
   - 📁 Virtualization (1 tools): Tools related to virtualization.
@@ -605,7 +605,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Container Manager (2 tools): Tools related to container manager.
   - 📁 Docker Management (2 tools): Tools related to docker management.
 
-- **webdev** (30 tools, 6 subcategories)
+- [webdev](#webdev) (30 tools, 6 subcategories)
   - 📁 Cleanup Tools (1 tools): Tools related to cleanup tools.
   - 📁 Other Webdev (22 tools): Tools related to other webdev.
   - 📁 Staticsitegenerator (3 tools): Tools related to staticsitegenerator.
@@ -613,7 +613,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Load Testing (2 tools): Tools related to load testing.
   - 📁 Screenshot Tools (1 tools): Tools related to screenshot tools.
 
-- **writing** (11 tools, 6 subcategories)
+- [writing](#writing) (11 tools, 6 subcategories)
   - 📁 Command-Line Translator (1 tools): Tools related to command line translator.
   - 📁 Other Writing (5 tools): Tools related to other writing.
   - 📁 Terminal-Based Tool (1 tools): Tools related to terminal based tool.
