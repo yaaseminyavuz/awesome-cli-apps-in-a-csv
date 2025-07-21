@@ -619,7 +619,7 @@ Some links are available to [related resources](#related-resources).
   - 📁 Dictionary (2 tools): Tools related to dictionary.
 
 
-# Ai
+# AI
 
 ## 📁 Chatgpt Tools
 - [chatgpt](https://github.com/mglantz/chatgpt) [AI ✅ 🌐 ✅ 🖥️CLI] - Simple command line integration to ChatGPT.
