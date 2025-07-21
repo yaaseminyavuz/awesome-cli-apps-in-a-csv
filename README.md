@@ -3517,25 +3517,89 @@ Please contribute by editing the CSV files. Do not directly edit the README.md.
 - [gdict](https://github.com/Lodobo/gdict) [AI ❌ 🌐 ❌ 🖥️CLI] - An offline CLI dictionary written in go, using data from wiktionary.
 
 
-## Related resources
+# <a name="resources"></a>Related resources
 
 A list of some online resources that contribute interesting links to apps and info.
 
-- [](https://robot.unipv.it/clipedia/) - Blog with information on CLI apps, screenshots and other details (license, author, etc.).
-- [](https://github.com/jlevy/the-art-of-command-line) - A wonderful summary from Joshua Levy regarding command line (Bash in particular) tools, programs, tips, and tricks; contains many pointers to resources and repositories, in the form of "to do this you must know that", which gives great pointers but requires further investigation from different sources; translated in many languages.
-- [](https://inconsolation.wordpress.com/) - "Adventures with lightweight and minimalist software for Linux": reviews of many command-line programs; many programs reviewed (400+, at least), with screenshots and animated GIFs; the style of presentation is ironic and funny, but requires some effort to figure out the real contribution of a program.
-- [](https://kkovacs.eu/cool-but-obscure-unix-tools) - "Some are little-known, some are just too useful to miss, some are pure obscure..." from Kristof Kovacs; nice list with screenshot; mostly oriented to system administration; unfortunately there are no clickable links.
-- [](https://github.com/alebcay/awesome-shell) - Focused on UNIX shell tools.
-- [](https://github.com/aharris88/awesome-cli-apps) - Nice list of tools; somehow too much JavaScript/Node.js-centered for my tastes.
-- [](https://github.com/herrbischoff/awesome-command-line-apps) - Nice up-to-date list of useful tools.
-- [](https://github.com/sintaxi/awesome-cli) - Relatively short list with short descriptions; with some original entries.
-- [](https://ligurio.github.io/awesome-ttygames/) - Large awesome list of terminal games. The collection is maintained in a YAML format. Each item contains a description and an optional screencast.
-- [](https://jamstack.org/generators/) - A comprehensive list of Static Site Generators.
-- [](https://github.com/stevemao/awesome-git-addons) - A curated list of add-ons that extend/enhance the git CLI.
-- [](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
-- [](https://github.com/orangekame3/awesome-terminal-recorder) - Curated list of outstanding terminal Recorder that make your day brighter! Each item is associated with an animated GIF that shows some examples of usage.
-- [](https://www.commandlinefu.com/commands/browse) - The place to record those command-line gems that you return to again and again. That way others can gain from your CLI wisdom and you from theirs too.
-- [](https://cli.club/) - A collection of the best CLI/ncurses software covering a wide range of categories from messaging, music, text editing and more.
-- [](https://texteditors.org/cgi-bin/wiki.pl?search=HomePage) - A huge collection of links to resources on text editor. It contains references to non-CLI programs.
-- [](https://terminaltrove.com/) - Collection of terminal CLI/TUI programs, with one page per program, nice screenshots and animated GIFs.
-- [](https://termui.sh/) - List of all (known) terminals.
+[Toolleeo’s CLIpedia](https://robot.unipv.it/clipedia/) - Blog with information on CLI apps, screenshots and other details (license, author, etc.).
+
+[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - A wonderful summary from Joshua Levy regarding command line (Bash in particular) tools, programs, tips, and tricks; contains many pointers to resources and repositories, in the form of "to do this you must know that", which gives great pointers but requires further investigation from different sources; translated in many languages.
+
+[Inconsolation blog](https://inconsolation.wordpress.com/) - "Adventures with lightweight and minimalist software for Linux": reviews of many command-line programs; many programs reviewed (400+, at least), with screenshots and animated GIFs; the style of presentation is ironic and funny, but requires some effort to figure out the real contribution of a program.
+
+[A little collection of cool unix terminal/console/curses tools](https://kkovacs.eu/cool-but-obscure-unix-tools) - "Some are little-known, some are just too useful to miss, some are pure obscure..." from Kristof Kovacs; nice list with screenshot; mostly oriented to system administration; unfortunately there are no clickable links.
+
+[Caleb Xu shell awesome](https://github.com/alebcay/awesome-shell) - Focused on UNIX shell tools.
+
+[Adam Harris awesome CLI apps](https://github.com/aharris88/awesome-cli-apps) - Nice list of tools; somehow too much JavaScript/Node.js-centered for my tastes.
+
+[Marcel Bischoff awesome commandd line apps](https://github.com/herrbischoff/awesome-command-line-apps) - Nice up-to-date list of useful tools.
+
+[Awesome CLI by sintaxi](https://github.com/sintaxi/awesome-cli) - Relatively short list with short descriptions; with some original entries.
+
+[awesome-ttygames](https://ligurio.github.io/awesome-ttygames/) - Large awesome list of terminal games. The collection is maintained in a YAML format. Each item contains a description and an optional screencast.
+
+[Site Generators](https://jamstack.org/generators/) - A comprehensive list of Static Site Generators.
+
+[Awesome git addons](https://github.com/stevemao/awesome-git-addons) - A curated list of add-ons that extend/enhance the git CLI.
+
+[Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+
+[Awesome Terminal Recorder](https://github.com/orangekame3/awesome-terminal-recorder) - Curated list of outstanding terminal Recorder that make your day brighter! Each item is associated with an animated GIF that shows some examples of usage.
+
+[commandlinefu.com](https://www.commandlinefu.com/commands/browse) - The place to record those command-line gems that you return to again and again. That way others can gain from your CLI wisdom and you from theirs too.
+
+[cli.club](https://cli.club/) - A collection of the best CLI/ncurses software covering a wide range of categories from messaging, music, text editing and more.
+
+[texteditors.org](https://texteditors.org/cgi-bin/wiki.pl?search=HomePage) - A huge collection of links to resources on text editor. It contains references to non-CLI programs.
+
+[Terminal Trove](https://terminaltrove.com/) - Collection of terminal CLI/TUI programs, with one page per program, nice screenshots and animated GIFs.
+
+[Terminal Directory](https://termui.sh/) - List of all (known) terminals.
+
+
+
+# <a name="contribute"></a>How to contribute
+
+If you have any suggestion or want your project to be included in the list, you can contribute in the following ways.
+
+As a follower of the 0-inbox approach for emails, I strive to maintain a 0-length list of pull requests for new contributions.
+
+## Open an issue
+
+To suggest a new program, check the existence of the program in the list.
+If it is not present, you can open an issue including the following items:
+
+- `name`: Name of the program
+- `homepage`: URL of the homepage (if it exists)
+- `git`: URL of a clonable git repository (if it exists)
+- `description`: Text with the description of the program
+
+At least one of the two items `homepage` and `git` must be present.
+
+## Pull request on `data/apps.csv`
+
+The peculiarity of this repository is that the source of information is structured into CSV files with a simple structure.
+See the `data/` directory.
+
+If you want to contribute using a pull request, add the new entry to `data/apps.csv`.
+In the CSV file, the `git` field refers to a **clonable git URL**.
+
+Please make changes **to the CSV file only**, **not to the README file**.
+I will review the request and, upon acceptance, I will take care of generating the README and updating the list.
+
+## Contribution via email
+
+If you prefer an email, contact me at `toolleeo@gmail.com` by sending the same information required for the "open an issue" method.
+
+# Generation of the README file
+
+If necessary, this `README` file can be (re-)generated from the CSV files.
+To build `README.md` run:
+
+```
+make
+```
+
+`python3` is required for building. And `make`, of course. :-)
+
