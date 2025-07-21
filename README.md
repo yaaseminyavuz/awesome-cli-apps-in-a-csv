@@ -1,24 +1,5 @@
 # Awesome Command Line (CLI/TUI) Programs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository - to the best of my knowledge - contains the largest collection of command line (CLI/TUI) tools available in the form of awesome list.
-With source information maintained in a handy CSV file.
-
-To contribute, see the [contribution section](#contribute).
-Read the instructions before rushing at changing the README file: you must edit the CSV files, not the README!
-
-Some links are available to [related resources](#resources).
-
-Summary:
-
-* Apps/tools: **1777**
-* Categories: **78**
-* Subcategories: **1081**
-
-# 📚 Contents
-
-Below is a categorized overview of all **1777** tools.
-# Awesome Command Line (CLI/TUI) Programs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 This repository - to the best of my knowledge - contains the largest collection of command line (CLI/TUI) tools available in the form of awesome list.  
 With source information maintained in a handy CSV file.
 
@@ -26,6 +7,554 @@ To contribute, see the [Contribute](#contribute) section.
 Read the instructions before rushing at changing the README file: you must edit the CSV files, not the README!
 
 Some links are available in the [Resources](#resources) section.
+
+---
+
+### Summary:
+
+* Apps/tools: **1777**
+* Categories: **78**
+* Subcategories: **1081**
+
+---
+## Contents
+
+- [Ai](#ai)
+  - [chatgpt-cli](#chatgpt-cli)
+  - [ai-assistant](#ai-assistant)
+  - [chatgpt-tools](#chatgpt-tools)
+  - [terminal-assistant](#terminal-assistant)
+  - [terminal-based-tool](#terminal-based-tool)
+
+- [Animation](#animation)
+  - [ascii-animation](#ascii-animation)
+  - [terminal-animation](#terminal-animation)
+  - [asciiterminalanimation](#asciiterminalanimation)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [ascii-renderer](#ascii-renderer)
+
+- [Backup](#backup)
+  - [backup-tool](#backup-tool)
+  - [alternativevcs](#alternativevcs)
+  - [backupautomationwrapper](#backupautomationwrapper)
+  - [cli-tool-backup](#cli-tool-backup)
+  - [encryptedbackupcli-tool](#encryptedbackupcli-tool)
+
+- [Browser](#browser)
+  - [terminalwebbrowser](#terminalwebbrowser)
+  - [geminiclienttui](#geminiclienttui)
+  - [arxivsearcher](#arxivsearcher)
+  - [fastfindalternative](#fastfindalternative)
+  - [fuzzyfinderplugin](#fuzzyfinderplugin)
+
+- [Calc](#calc)
+  - [calculator](#calculator)
+  - [advancedcalculators](#advancedcalculators)
+  - [bitwise-tools](#bitwise-tools)
+  - [calculators](#calculators)
+  - [expression-calc](#expression-calc)
+
+- [Cd](#cd)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [shell-utility](#shell-utility)
+  - [cd-enhancer](#cd-enhancer)
+  - [directory-jumper](#directory-jumper)
+  - [directory-jumpers](#directory-jumpers)
+
+- [Chat](#chat)
+  - [matrix-client](#matrix-client)
+  - [xmpp-client](#xmpp-client)
+  - [terminalmessenger](#terminalmessenger)
+  - [messaging](#messaging)
+  - [irc-client](#irc-client)
+
+- [Cheatsheet](#cheatsheet)
+  - [snippet-manager](#snippet-manager)
+  - [autocomplete](#autocomplete)
+  - [fastfindalternative](#fastfindalternative)
+  - [aliasgeneratorcli-tool](#aliasgeneratorcli-tool)
+  - [knowledge-base](#knowledge-base)
+
+- [Conversion](#conversion)
+  - [wordtotextconverter](#wordtotextconverter)
+  - [document-converter](#document-converter)
+  - [audio-tools](#audio-tools)
+  - [css-tools](#css-tools)
+  - [data-automation](#data-automation)
+
+- [Copilot](#copilot)
+  - [shell-utility](#shell-utility)
+  - [ai-assistant](#ai-assistant)
+  - [ai-assistant-cli](#ai-assistant-cli)
+  - [copilot](#copilot)
+  - [gpt-assistant](#gpt-assistant)
+
+- [Data-Management](#data-management)
+  - [terminal-based-tool](#terminal-based-tool)
+  - [apireadercli-tool](#apireadercli-tool)
+  - [asciichartcli-tool](#asciichartcli-tool)
+  - [command-line-translator](#command-line-translator)
+  - [data-processing](#data-processing)
+
+- [Data-Management-Json](#data-management-json)
+  - [command-line-translator](#command-line-translator)
+  - [json-tools](#json-tools)
+  - [json-formatter](#json-formatter)
+  - [json-processing](#json-processing)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+
+- [Data-Management-Tabular](#data-management-tabular)
+  - [csv-tools](#csv-tools)
+  - [sqlclientcli](#sqlclientcli)
+  - [database-manager](#database-manager)
+  - [csv-viewer](#csv-viewer)
+  - [command-line-translator](#command-line-translator)
+
+- [Devops](#devops)
+  - [aws-cli-tool](#aws-cli-tool)
+  - [cloud-cli-toolents](#cloud-cli-toolents)
+  - [devenvironmentmanager](#devenvironmentmanager)
+  - [kubectl-context-switcher](#kubectl-context-switcher)
+  - [kubernetes](#kubernetes)
+
+- [Diff](#diff)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [alternativevcs](#alternativevcs)
+  - [csv-comparison](#csv-comparison)
+  - [diff-visualizer](#diff-visualizer)
+  - [directory-diff](#directory-diff)
+
+- [Disk-Analyzer](#disk-analyzer)
+  - [stylizeddiskusagereporter](#stylizeddiskusagereporter)
+  - [fastfindalternative](#fastfindalternative)
+  - [ncursesdiskanalyzer](#ncursesdiskanalyzer)
+  - [diskanalyzertui](#diskanalyzertui)
+  - [diskusagehistogram](#diskusagehistogram)
+
+- [Editors](#editors)
+  - [gui-easy-editor](#gui-easy-editor)
+  - [text-editor](#text-editor)
+  - [texteditortui](#texteditortui)
+  - [terminaltexteditor](#terminaltexteditor)
+  - [notetakingtui](#notetakingtui)
+
+- [Email](#email)
+  - [terminalemailclient](#terminalemailclient)
+  - [email-client](#email-client)
+  - [cli-tool-email](#cli-tool-email)
+  - [disposable-email](#disposable-email)
+  - [email-analyzer](#email-analyzer)
+
+- [File-Dir-Cleanup](#file-dir-cleanup)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [directory-organizer](#directory-organizer)
+  - [directoryorganizer](#directoryorganizer)
+  - [file-cleanup](#file-cleanup)
+  - [file-organizers](#file-organizers)
+
+- [File-Explorer](#file-explorer)
+  - [modernfilemanager](#modernfilemanager)
+  - [file-manager](#file-manager)
+  - [directory-viewers](#directory-viewers)
+  - [directorytreeprinter](#directorytreeprinter)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+
+- [File-Handling](#file-handling)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [archive-manager](#archive-manager)
+  - [library-browser](#library-browser)
+  - [gui-easy-editor](#gui-easy-editor)
+  - [file-utilities](#file-utilities)
+
+- [File-Manager](#file-manager)
+  - [modernfilemanager](#modernfilemanager)
+  - [lightweightfilemanager](#lightweightfilemanager)
+  - [file-manager](#file-manager)
+  - [terminal-file-manager](#terminal-file-manager)
+  - [dualpanefilemanager](#dualpanefilemanager)
+
+- [File-Renamer](#file-renamer)
+  - [bulkrenamercli](#bulkrenamercli)
+  - [gui-easy-editor](#gui-easy-editor)
+  - [bulkrenamer](#bulkrenamer)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [file-renamers](#file-renamers)
+
+- [File-System](#file-system)
+  - [filetaggercli-tool](#filetaggercli-tool)
+  - [remotefilesystemmounting](#remotefilesystemmounting)
+  - [tagbasedvirtualfs](#tagbasedvirtualfs)
+  - [deployment-tools](#deployment-tools)
+
+- [File-Watch](#file-watch)
+  - [directorywatcher](#directorywatcher)
+  - [file-monitor](#file-monitor)
+  - [file-watcher](#file-watcher)
+  - [filewatchercli](#filewatchercli)
+  - [processmonitortui](#processmonitortui)
+
+- [Financial](#financial)
+  - [accounting](#accounting)
+  - [financecli](#financecli)
+  - [currency-converters](#currency-converters)
+  - [accountingcli-tool](#accountingcli-tool)
+  - [bitcoin-cli-tool](#bitcoin-cli-tool)
+
+- [Find](#find)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [fastfindalternative](#fastfindalternative)
+  - [file-finder](#file-finder)
+  - [fuzzy-finders](#fuzzy-finders)
+  - [grep-alternative](#grep-alternative)
+
+- [Flashcard](#flashcard)
+  - [flashcardtrainertui](#flashcardtrainertui)
+  - [flashcards](#flashcards)
+  - [anki-tool](#anki-tool)
+  - [cli-learning-tools](#cli-learning-tools)
+  - [flashcard-tool](#flashcard-tool)
+
+- [Font](#font)
+  - [font-manager](#font-manager)
+  - [visual-effects-rendering](#visual-effects-rendering)
+  - [ascii-art](#ascii-art)
+  - [ascii-text-rendering](#ascii-text-rendering)
+
+- [Funny](#funny)
+  - [cli-fun](#cli-fun)
+  - [fun](#fun)
+  - [asciispeechgenerato](#asciispeechgenerato)
+  - [asciispeechgenerator](#asciispeechgenerator)
+  - [emojipickercli-tool](#emojipickercli-tool)
+
+- [Games](#games)
+  - [terminal-based-tool](#terminal-based-tool)
+  - [terminalgame](#terminalgame)
+  - [gamecli](#gamecli)
+  - [game](#game)
+  - [cli-game](#cli-game)
+
+- [Git](#git)
+  - [gitstatistics](#gitstatistics)
+  - [git-tools](#git-tools)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [git-tool](#git-tool)
+  - [git-helpers](#git-helpers)
+
+- [Graphics](#graphics)
+  - [imageviewer(ascii)](#imageviewer(ascii))
+  - [ascii-art](#ascii-art)
+  - [command-line-translator](#command-line-translator)
+  - [ai-image-search](#ai-image-search)
+  - [space-visualizer](#space-visualizer)
+
+- [History](#history)
+  - [history-manager](#history-manager)
+  - [command-line-translator](#command-line-translator)
+  - [productivity](#productivity)
+
+- [Launcher](#launcher)
+  - [launcher](#launcher)
+  - [shell-utility](#shell-utility)
+  - [multicommandrunnertui](#multicommandrunnertui)
+  - [task-runner](#task-runner)
+  - [app-launcher](#app-launcher)
+
+- [Ls](#ls)
+  - [rustlsreplacement](#rustlsreplacement)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [enhancedlsrewrite](#enhancedlsrewrite)
+  - [gitstatistics](#gitstatistics)
+  - [ls-color](#ls-color)
+
+- [Markdown](#markdown)
+  - [markdown-viewer](#markdown-viewer)
+  - [knowledge-base](#knowledge-base)
+  - [markdown-parser](#markdown-parser)
+  - [markdown-preview](#markdown-preview)
+  - [markdown-tool](#markdown-tool)
+
+- [Monitor](#monitor)
+  - [system-info](#system-info)
+  - [resource-monitor](#resource-monitor)
+  - [system-fetcher](#system-fetcher)
+  - [imageviewer(ascii)](#imageviewer(ascii))
+  - [system-monitor](#system-monitor)
+
+- [Monitor-Top](#monitor-top)
+  - [resource-monitor](#resource-monitor)
+  - [system-monitor](#system-monitor)
+  - [gpu-monitor](#gpu-monitor)
+  - [process-monitor](#process-monitor)
+  - [process-viewer](#process-viewer)
+
+- [Music](#music)
+  - [lightweightaudioplayer](#lightweightaudioplayer)
+  - [music-player](#music-player)
+  - [terminal-based-tool](#terminal-based-tool)
+  - [audio-player](#audio-player)
+  - [audiomixer](#audiomixer)
+
+- [Networking](#networking)
+  - [terminal-based-tool](#terminal-based-tool)
+  - [shell-utility](#shell-utility)
+  - [ssh-tools](#ssh-tools)
+  - [network-monitor](#network-monitor)
+  - [xmpp-server](#xmpp-server)
+
+- [Note-Taking](#note-taking)
+  - [terminal-based-tool](#terminal-based-tool)
+  - [note-taking](#note-taking)
+  - [knowledge-base](#knowledge-base)
+  - [notetakingcli](#notetakingcli)
+  - [journal](#journal)
+
+- [Office](#office)
+  - [terminal-based-tool](#terminal-based-tool)
+  - [pdf-tools](#pdf-tools)
+  - [presentation-tools](#presentation-tools)
+  - [cli-tool-presentation](#cli-tool-presentation)
+  - [code-tutorial](#code-tutorial)
+
+- [Online](#online)
+  - [wikipedia-client](#wikipedia-client)
+  - [jira-tools](#jira-tools)
+  - [terminal-based-tool](#terminal-based-tool)
+  - [subdomain-finder](#subdomain-finder)
+  - [github-tools](#github-tools)
+
+- [Option-Picker](#option-picker)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [shell-utility](#shell-utility)
+  - [date-picker](#date-picker)
+  - [fuzzy-selector](#fuzzy-selector)
+  - [fuzzy-filter](#fuzzy-filter)
+
+- [Organizers](#organizers)
+  - [vcard-address-book](#vcard-address-book)
+  - [calendar-tools](#calendar-tools)
+  - [calendar](#calendar)
+  - [caldav-calendar](#caldav-calendar)
+  - [scheduler](#scheduler)
+
+- [Package-Manager](#package-manager)
+  - [package-manager](#package-manager)
+  - [alternativevcs](#alternativevcs)
+  - [binary-installer](#binary-installer)
+  - [dev-env-manager](#dev-env-manager)
+  - [gitforlargefiles](#gitforlargefiles)
+
+- [Password-Manager](#password-manager)
+  - [password-manager](#password-manager)
+  - [encryptedpasswordmanager](#encryptedpasswordmanager)
+  - [bitwarden-cli-tool](#bitwarden-cli-tool)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [passwordgeneratorcli-tool](#passwordgeneratorcli-tool)
+
+- [Pastebin](#pastebin)
+  - [pastebin](#pastebin)
+  - [pastebincli-tool](#pastebincli-tool)
+  - [terminal-based-tool](#terminal-based-tool)
+
+- [Productivity](#productivity)
+  - [directionsquerycli-tool](#directionsquerycli-tool)
+  - [googlescrapercli-tool](#googlescrapercli-tool)
+  - [mind‑mapping](#mind‑mapping)
+  - [speed-reading](#speed-reading)
+  - [time-tools](#time-tools)
+
+- [Programming](#programming)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [codestatscli](#codestatscli)
+  - [release-automation](#release-automation)
+  - [advanced-grep](#advanced-grep)
+  - [staticanalyzercli](#staticanalyzercli)
+
+- [Programming-Boilerplate](#programming-boilerplate)
+  - [alternativevcs](#alternativevcs)
+  - [license-generators](#license-generators)
+  - [changelog-generators](#changelog-generators)
+  - [contributing.md-generator](#contributing.md-generator)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+
+- [Prompt](#prompt)
+  - [shell-utility](#shell-utility)
+  - [custom-prompt](#custom-prompt)
+  - [shell-prompt](#shell-prompt)
+  - [zsh-prompt](#zsh-prompt)
+  - [bash-tool](#bash-tool)
+
+- [Religion](#religion)
+  - [bible-readers](#bible-readers)
+  - [cli-tool-bible-viewer](#cli-tool-bible-viewer)
+  - [command-line-translator](#command-line-translator)
+  - [text-readers](#text-readers)
+
+- [Rm](#rm)
+  - [safe-delete](#safe-delete)
+  - [file-recovery](#file-recovery)
+  - [command-line-translator](#command-line-translator)
+  - [datarecovery](#datarecovery)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+
+- [Rss](#rss)
+  - [rss-reader](#rss-reader)
+  - [rss](#rss)
+  - [rss-parser](#rss-parser)
+  - [rss-readers](#rss-readers)
+  - [rss-tool](#rss-tool)
+
+- [Science](#science)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [knowledge-base](#knowledge-base)
+  - [periodic-table](#periodic-table)
+  - [academicdownloadercli-tool](#academicdownloadercli-tool)
+  - [alternativevcs](#alternativevcs)
+
+- [Screen-Recorder](#screen-recorder)
+  - [terminal-recorder](#terminal-recorder)
+  - [svg-generator](#svg-generator)
+  - [terminal-based-tool](#terminal-based-tool)
+  - [terminal-animation](#terminal-animation)
+
+- [Screensaver](#screensaver)
+  - [terminal-based-tool](#terminal-based-tool)
+  - [screensaver](#screensaver)
+  - [ascii-aquarium](#ascii-aquarium)
+  - [ascii-screensaver](#ascii-screensaver)
+
+- [Security](#security)
+  - [steganography](#steganography)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [encryption](#encryption)
+  - [encrypted-filesystem](#encrypted-filesystem)
+  - [secure-backups](#secure-backups)
+
+- [Shells](#shells)
+  - [shell-utility](#shell-utility)
+  - [text-based-window-manager](#text-based-window-manager)
+
+- [System](#system)
+  - [shell-utility](#shell-utility)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [system-manager](#system-manager)
+  - [dotfiles-manager](#dotfiles-manager)
+  - [console-sharing](#console-sharing)
+
+- [Terminal](#terminal)
+  - [terminal-based-tool](#terminal-based-tool)
+  - [terminal-emulator](#terminal-emulator)
+  - [multiplexer](#multiplexer)
+  - [tmux-tools](#tmux-tools)
+  - [projectnavigatortui](#projectnavigatortui)
+
+- [Text-Processing](#text-processing)
+  - [command-line-translator](#command-line-translator)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [text-transformers](#text-transformers)
+  - [text-formatter](#text-formatter)
+  - [terminal-dashboard](#terminal-dashboard)
+
+- [Text-Search](#text-search)
+  - [advancedgrepcli](#advancedgrepcli)
+  - [advanced-grep](#advanced-grep)
+  - [code-search](#code-search)
+  - [text-search](#text-search)
+  - [code-analysis](#code-analysis)
+
+- [Text-Search-Replace](#text-search-replace)
+  - [code-refactoring](#code-refactoring)
+  - [codereplacecli-tool](#codereplacecli-tool)
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+  - [tabular-sql-query](#tabular-sql-query)
+  - [text-replace](#text-replace)
+
+- [Time-Tracker](#time-tracker)
+  - [pomodoro](#pomodoro)
+  - [time-tracking](#time-tracking)
+  - [habit-tracker](#habit-tracker)
+  - [time-trackers](#time-trackers)
+  - [time-tracker](#time-tracker)
+
+- [Todo-Manager](#todo-manager)
+  - [todo-manager](#todo-manager)
+  - [knowledge-base](#knowledge-base)
+  - [taskmanagercli](#taskmanagercli)
+  - [command-line-translator](#command-line-translator)
+  - [task-manager](#task-manager)
+
+- [Torrent](#torrent)
+  - [alternativevcs](#alternativevcs)
+  - [rpgcli-toolenttui](#rpgcli-toolenttui)
+  - [terminal-based-tool](#terminal-based-tool)
+  - [torrent-streamer](#torrent-streamer)
+  - [torrentcli-toolent](#torrentcli-toolent)
+
+- [Transfer](#transfer)
+  - [filetransfercli](#filetransfercli)
+  - [cli-downloader](#cli-downloader)
+  - [file-sharing](#file-sharing)
+  - [clipboard-sync](#clipboard-sync)
+  - [video-downloader](#video-downloader)
+
+- [Typing](#typing)
+  - [typing-test](#typing-test)
+  - [typing-game](#typing-game)
+  - [typing-practice](#typing-practice)
+  - [hotkeymanager](#hotkeymanager)
+  - [terminal-based-tool](#terminal-based-tool)
+
+- [Utility](#utility)
+  - [terminal-based-tool](#terminal-based-tool)
+  - [shell-utility](#shell-utility)
+  - [weather](#weather)
+  - [unicode-tools](#unicode-tools)
+  - [performance-tools](#performance-tools)
+
+- [Versioning](#versioning)
+  - [alternativevcs](#alternativevcs)
+  - [fossil-interface](#fossil-interface)
+  - [git-manage](#git-manage)
+  - [git-translator](#git-translator)
+  - [repomanagercli-tool](#repomanagercli-tool)
+
+- [Video](#video)
+  - [ascii-video](#ascii-video)
+  - [audio-translator](#audio-translator)
+  - [lightweightaudioplayer](#lightweightaudioplayer)
+  - [mediaconvertercli-tool](#mediaconvertercli-tool)
+  - [screen-recording](#screen-recording)
+
+- [Viewers](#viewers)
+  - [command-line-translator](#command-line-translator)
+  - [news-reader](#news-reader)
+  - [terminal-based-tool](#terminal-based-tool)
+  - [videoaudioplayer(gui/cli)](#videoaudioplayer(gui/cli))
+  - [enhanced-cat-clone](#enhanced-cat-clone)
+
+- [Vm](#vm)
+  - [container](#container)
+  - [docker-management](#docker-management)
+  - [container-manager](#container-manager)
+  - [qemu-ui](#qemu-ui)
+  - [dev-environment](#dev-environment)
+
+- [Webdev](#webdev)
+  - [staticsitegenerator](#staticsitegenerator)
+  - [load-testing](#load-testing)
+  - [api-client-or-wrapper](#api-client-or-wrapper)
+  - [pentest-suite](#pentest-suite)
+  - [deployment-tools](#deployment-tools)
+
+- [Writing](#writing)
+  - [dictionary](#dictionary)
+  - [command-line-translator](#command-line-translator)
+  - [grammar-checker](#grammar-checker)
+  - [story-generator](#story-generator)
+  - [terminal-based-tool](#terminal-based-tool)
+
+
+
 
 # ai
 
