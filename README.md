@@ -16,13 +16,13 @@ Some links are available to [related resources](#related-resources).
 
 ## Contents
 
-- [ai](#ai) (36 tools, 6 subcategories)
-  - 📁 Other Ai (18 tools): Tools related to other ai.
-  - 📁 Terminal-Based Tool (2 tools): Tools related to terminal based tool.
-  - 📁 Ai Assistant (6 tools): Tools related to ai assistant.
-  - 📁 Chatgpt Cli (6 tools): Tools related to chatgpt cli.
-  - 📁 Chatgpt Tools (3 tools): Tools related to chatgpt tools.
-  - 📁 Terminal Assistant (2 tools): Tools related to terminal assistant.
+- [AI](#ai) (**36 tools**, 6 subcategories)
+  - 📁 **Other AI** — *18 tools* — _Tools related to other AI._
+  - 📁 **Terminal-Based Tool** — *2 tools* — _Tools related to terminal-based tools._
+  - 📁 **AI Assistant** — *6 tools* — _Tools related to AI assistant._
+  - 📁 **ChatGPT CLI** — *6 tools* — _Tools related to ChatGPT CLI._
+  - 📁 **ChatGPT Tools** — *3 tools* — _Tools related to ChatGPT tools._
+  - 📁 **Terminal Assistant** — *2 tools* — _Tools related to terminal assistant._
 
 - [animation](#animation) (33 tools, 6 subcategories)
   - 📁 Asciiterminalanimation (5 tools): Tools related to asciiterminalanimation.
