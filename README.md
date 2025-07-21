@@ -8,12 +8,6 @@ Read the instructions before rushing at changing the README file: you must edit 
 
 Some links are available to [related resources](#related-resources).
 
-
-## Contribute
-
-Please contribute by editing the CSV files. Do not directly edit the README.md.
-
-
 ## Summary
 
 * Apps/tools: **1803**
