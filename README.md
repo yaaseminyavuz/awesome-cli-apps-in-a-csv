@@ -97,7 +97,7 @@ Some links are available to [related resources](#related-resources).
 - 📂 [webdev](#webdev) (**30 tools**, 27 subcategories)
 - 📂 [writing](#writing) (**11 tools**, 10 subcategories)
 
-# 🤖 ai
+# ai
 
 
 ### 📁 chatgpt tools
@@ -198,7 +198,7 @@ _Tools related to ai toolkit._
 - [wtg](https://github.com/brylee10/wtg) 🤖 - What The GPT (wtg), a CLI to chat with your program logs.
 
 
-# 🎞️ animation
+# animation
 
 
 ### 📁 asciiterminalanimation
@@ -271,7 +271,7 @@ _Tools related to text effects._
 - [chaftrix](https://gitlab.com/christosangel/chaftrix) - C program that will render the matrix effect in the terminal window in the background, while rendering an image in the foreground, allowing animation of this image in one or two dimensions.
 
 
-# 💾 backup
+# backup
 
 
 ### 📁 encryptedbackuptool
@@ -346,7 +346,7 @@ _Tools related to git backup._
 - [backhub](https://github.com/Tanq16/backhub) 🌐 - Backhub helps maintain backups of multiple GitHub repos as full local mirrors.
 
 
-# 🌐 browser
+# browser
 
 
 ### 📁 terminalwebbrowser
@@ -409,7 +409,7 @@ _Tools related to text browser._
 - [Chawan](https://sr.ht/~bptato/chawan/) 🌐 - A text-mode web browser. It displays websites in your terminal and allows you to navigate on them. It can also be used as a terminal pager.
 
 
-# 🧮 calc
+# calc
 
 - [Qalculate](https://qalculate.github.io/) - Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI).
 
@@ -463,7 +463,7 @@ _Tools related to expression calc._
 - [Speedcrunch](https://heldercorreia.bitbucket.io/speedcrunch) - SpeedCrunch is a high-precision scientific calculator featuring a fast, keyboard-driven user interface.
 
 
-# 📂 cd
+# cd
 
 
 ### 📁 fastcdtool
@@ -534,7 +534,7 @@ _Tools related to cd enhancer._
 - [navita](https://github.com/CodesOfRishi/navita) - A command-line tool for fast directory navigation in Bash & Zsh, ranking directories by frequency and recency. It enables quick fuzzy searches, recent history access, and smooth directory switching for efficient terminal workflows.
 
 
-# 💬 chat
+# chat
 
 
 ### 📁 terminalmessenger
@@ -662,7 +662,7 @@ _Tools related to chat._
 - [cli_chat_app](https://github.com/Johnkhk/cli_chat_app) 🤖 🌐 👨‍💻 - A end-to-end encrypted chat application.
 
 
-# 📋 cheatsheet
+# cheatsheet
 
 
 ### 📁 interactivecheatsheetcli tool
@@ -741,7 +741,7 @@ _Tools related to script launcher._
 - [snip](https://github.com/marcopaganini/snip) - A snippet manager for bash, mostly written in pure bash.
 
 
-# 🔁 conversion
+# conversion
 
 
 ### 📁 wordtotextconverter
@@ -813,7 +813,7 @@ _Tools related to pdf converter._
 - [markdrop](https://github.com/shoryasethia/markdrop) 👨‍💻 - Converts PDFs to markdown while extracting images and tables, generating descriptive text descriptions for extracted tables/images using several LLM clients.
 
 
-# 🧭 copilot
+# copilot
 
 
 ### 📁 chatgpt cli
@@ -860,7 +860,7 @@ _Tools related to ai assistant cli._
 - [shy-sh](https://github.com/mceck/shy-sh) 🤖 🌐 👨‍💻 - Shell AI copilot.
 
 
-# 📊 data-management
+# data-management
 
 
 ### 📁 datetimeprocessingcli tool
@@ -916,7 +916,7 @@ _Tools related to database cli toolent._
 - [redis_tui](https://github.com/mat2cc/redis_tui) 🌐 - Redis terminal browser application.
 
 
-# 🧾 data-management-json
+# data-management-json
 
 - [jq](https://stedolan.github.io/jq/) - (JSON Query?) - sed-like processor for JSON data; can be used to process JSON files and data streams and perform operations such as those allowed by `cat`, `sed`, `grep` and `awk` on regular text files.
 
@@ -1052,7 +1052,7 @@ _Tools related to json viewer._
 - [jnv](https://github.com/ynqa/jnv) 👨‍💻 - Interactive JSON filter using jq.
 
 
-# 📑 data-management-tabular
+# data-management-tabular
 
 
 ### 📁 sql-on-csv
@@ -1166,7 +1166,7 @@ _Tools related to csv tool._
 - [csvsuite](https://github.com/wiluite/csvsuite) - A suite of tools to process CSV files, written in C++.
 
 
-# ⚙️ devops
+# devops
 
 
 ### 📁 devenvironmentmanager
@@ -1206,7 +1206,7 @@ _Tools related to kubernetes log viewer._
 - [stern](https://github.com/stern/stern) 👨‍💻 - Multi pod and container log tailing for Kubernetes.
 
 
-# ➕➖ diff
+# diff
 
 - [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output.
 - [ydiff](https://github.com/ymattw/ydiff) - View colored, incremental diff.
@@ -1245,7 +1245,7 @@ _Tools related to diff visualizer._
 - [sesdiff](https://github.com/proycon/sesdiff) 👨‍💻 - Generates a shortest edit script (Myers' diff algorithm) to indicate how to get from the strings in column A to the strings in column B. Also provides the edit distance (levenshtein).
 
 
-# 💽 disk-analyzer
+# disk-analyzer
 
 
 ### 📁 diskusagehistogram
@@ -1277,7 +1277,7 @@ _Tools related to diskanalyzertui._
 - [erdtree](https://github.com/solidiquis/erdtree) - A multithreaded file-tree visualizer and disk usage analyzer.
 
 
-# ✏️ editors
+# editors
 
 
 ### 📁 advanced-extensible
@@ -1368,7 +1368,7 @@ _Tools related to text editor._
 - [edit](https://github.com/microsoft/edit) - This editor pays homage to the classic MS-DOS Editor, but with a modern interface and input controls similar to VS Code.
 
 
-# ✉️ email
+# email
 
 
 ### 📁 terminalemailclient
@@ -1430,7 +1430,7 @@ _Tools related to email analyzer._
 - [maildir-rank-addr](https://github.com/ferdinandyb/maildir-rank-addr) - Creates a ranked list of email addresses from local email files, which can be used for address completion for example in aerc.
 
 
-# 🧹 file-dir-cleanup
+# file-dir-cleanup
 
 - [classifier](https://github.com/bhrigu123/classifier) - Organize files in your current directory, by classifying them into folders of music, PDFs, images, etc.
 
@@ -1475,7 +1475,7 @@ _Tools related to folder organizer._
 - [duple](https://github.com/dbruce-ae05/duple) - Find and remove duplicate files.
 
 
-# 🗂️ file-explorer
+# file-explorer
 
 
 ### 📁 directorytreeprinter
@@ -1510,7 +1510,7 @@ _Tools related to file browser._
 - [kupo](https://github.com/darrenburns/kupo) 🌐 👨‍💻 - A terminal file browser, kupo!
 
 
-# 📁 file-handling
+# file-handling
 
 
 ### 📁 copy progress monitor
@@ -1618,7 +1618,7 @@ _Tools related to file deployer._
 - [dotbins](https://github.com/basnijholt/dotbins) - Keep updated binaries in your dotfiles.
 
 
-# 🗄️ file-manager
+# file-manager
 
 
 ### 📁 dualpanefilemanager
@@ -1676,7 +1676,7 @@ _Tools related to project manager._
 - [fzfm](https://github.com/ashish0kumar/fzfm) 👨‍💻 - A command-line fuzzy finder file manager.
 
 
-# 🏷️ file-renamer
+# file-renamer
 
 
 ### 📁 bulkrenamer
@@ -1722,7 +1722,7 @@ _Tools related to image renamer._
 - [Ren](https://github.com/robenkleene/ren-find) - Ren is a command-line utility that takes find-formatted lines via standard input, and batch renames them.
 
 
-# 🧱 file-system
+# file-system
 
 
 ### 📁 remotefilesystemmounting
@@ -1742,7 +1742,7 @@ _Tools related to filetaggercli tool._
 - [ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) 🌐 - Zero-Config CLI to Deploy Static Websites to IPFS [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System).
 
 
-# ⏱️ file-watch
+# file-watch
 
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
 - [wfh](https://github.com/kzys/wfh) 🌐 - Continuously watches your local directories and rsync them against a remote host.
@@ -1769,7 +1769,7 @@ _Tools related to file watcher._
 - [reflex](https://github.com/cespare/reflex) - Reflex is a small tool to watch a directory and rerun a command when certain files change.
 
 
-# 💰 financial
+# financial
 
 
 ### 📁 accounting
@@ -1830,7 +1830,7 @@ _Tools related to cli accounting tool._
 - [beancount](https://beancount.github.io/) 🌐 - Double-entry bookkeeping computer language that lets you define financial transaction records in a text file, read them in memory, generate a variety of reports from them, and provides a web interface.
 
 
-# 🔍 find
+# find
 
 - [fd](https://github.com/sharkdp/fd) - A simple, fast, and user-friendly alternative to find. Written in Rust.
 - [plocate](https://plocate.sesse.net/) - A much faster locate; plocate is a locate based on posting lists, completely replacing mlocate with a much faster (and smaller) index.
@@ -1854,7 +1854,7 @@ _Tools related to file finder._
 - [rawhide](https://github.com/raforg/rawhide) - File finder that uses C expressions to specify the filenames.
 
 
-# 🃏 flashcard
+# flashcard
 
 
 ### 📁 flashcardtrainertui
@@ -1900,7 +1900,7 @@ _Tools related to flashcard tool._
 - [GoCard](https://github.com/DavidMiserak/GoCard) - A lightweight file-based spaced repetition system (SRS) that uses plain Markdown files for flashcards. Perfect for developers who prefer text files, Git version control, and keyboard-driven interfaces.
 
 
-# 🔤 font
+# font
 
 - [FIGlet](http://www.figlet.org/) - Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available.
 
@@ -1916,7 +1916,7 @@ _Tools related to font manager._
 - [fnt](https://github.com/alexmyczko/fnt) 🌐 - apt for fonts, the missing font manager for macOS/Linux.
 
 
-# 🤣 funny
+# funny
 
 
 ### 📁 asciispeechgenerato
@@ -1990,7 +1990,7 @@ _Tools related to shell alias helper._
 - [clouddrift](https://github.com/thrly/clouddrift) 🌐 👨‍💻 - Soft clouds drifting across your terminal.
 
 
-# 🎮 games
+# games
 
 - [bastet](http://fph.altervista.org/prog/bastet.html) 👨‍💻 - (Bastard Tetris) implements the classical Tetris but with a logic to generate the next block which maximizes the difficulty for the player.
 - [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) 👨‍💻 - Open source turn-based survival RPG development project.
@@ -2140,7 +2140,7 @@ _Tools related to game editor._
 - [Maze of Me](https://github.com/bakill3/maze-of-me) 🤖 - A deeply personal psychological game powered by AI and real user data.
 
 
-# 🌱 git
+# git
 
 
 ### 📁 distributedversioncontrol
@@ -2354,7 +2354,7 @@ _Tools related to git assistant._
 - [giq](https://github.com/doganarif/giq) 🤖 - Git CLI with AI-powered commit messages and insights; it is a drop-in replacement for git with the same commands.
 
 
-# 🖼️ graphics
+# graphics
 
 
 ### 📁 imageeditingconversion
@@ -2531,7 +2531,7 @@ _Tools related to terrain generator._
 - [TerrainGenerator](https://github.com/NM711/TerrainGenerator) 👨‍💻 - 2D Terrain Generator to create procedural 2D worlds and maps.
 
 
-# 📜 history
+# history
 
 
 ### 📁 history manager
@@ -2618,7 +2618,7 @@ _Tools related to app launcher._
 - [menu.sh](https://github.com/iandennismiller/menu.sh) 👨‍💻 - A lightweight menu and launcher for text-mode consoles. Menus are described with YAML and sub-menus are supported.
 
 
-# 📄 ls
+# ls
 
 
 ### 📁 rustlsreplacement
@@ -2660,7 +2660,7 @@ _Tools related to ls color tool._
 - [lscoltui](https://github.com/breynard0/lscoltui) 👨‍💻 - A TUI tool for changing the colours of ls.
 
 
-# 📝 markdown
+# markdown
 
 
 ### 📁 markdowntui
@@ -2694,7 +2694,7 @@ _Tools related to markdown tool._
 - [mdformat](https://github.com/executablebooks/mdformat) - Mdformat is an opinionated Markdown formatter that can be used to enforce a consistent style in Markdown files.
 
 
-# 📡 monitor
+# monitor
 
 - [glances](https://nicolargo.github.io/glances/) 👨‍💻 - A comprehensive and detailed system monitor; monitored parameters include: CPU, memory, load, process list, network interfaces, disk I/O, sensors, filesystems, docker, system info, uptime.
 - [inxi](http://smxi.org/docs/inxi.htm) - A comprehensive system information script; provides information about CPU, graphics, audio and network devices, drives and partitions, sensors; implemented as a Bash script.
@@ -2790,7 +2790,7 @@ _Tools related to battery monitor._
 - [senzu](https://github.com/Hakky54/senzu) - CLI tool to get the battery percentage.
 
 
-# 📊 monitor-top
+# monitor-top
 
 
 ### 📁 system monitor
@@ -2844,7 +2844,7 @@ _Tools related to gpu monitor._
 - [zenith](https://github.com/bvaisvil/zenith) 👨‍💻 - Sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 
 
-# 🎵 music
+# music
 
 - [ncmpcpp](https://rybczak.net/ncmpcpp/) 🌐 👨‍💻 - NCurses Music Player Client (Plus Plus) - featureful ncurses based MPD client inspired by ncmpc. Relevant features: tag editor, playlist editor, easy to use search engine, media library, music visualizer, ability to fetch artist info from [last.fm](https://www.last.fm/), new display mode, alternative user interface, ability to browse and add files from outside of MPD music directory.
 
@@ -2979,7 +2979,7 @@ _Tools related to podcast ui for newsboat._
 - [cli-viz](https://github.com/sam1am/cli-viz) 👨‍💻 - An audio visualizer that runs in the linux terminal and reacts to the microphone.
 
 
-# 🌐 networking
+# networking
 
 
 ### 📁 subnetting tools
@@ -3285,7 +3285,7 @@ _Tools related to oauth manager._
 - [oama](https://github.com/pdobsan/oama) - OAuth credential Manager.
 
 
-# 🗒️ note-taking
+# note-taking
 
 - [kb](https://github.com/gnebbia/kb) - A minimalist knowledge base manager.
 
@@ -3354,7 +3354,7 @@ _Tools related to calendar & notes._
 - [FuzPad](https://github.com/JianZcar/FuzPad) 🤖 👨‍💻 - A minimalistic note management solution, powered by fzf.
 
 
-# 🏢 office
+# office
 
 - [Teapot](https://www.syntax-k.de/projekte/teapot/) 👨‍💻 - Compact ncurses-based spreadsheet with original syntax, 3D-style and built-in functions.
 
@@ -3425,7 +3425,7 @@ _Tools related to form sharing._
 - [bashform](https://github.com/devmegablaster/bashform) 🌐 👨‍💻 - Create and share forms in the terminal over SSH.
 
 
-# 💻 online
+# online
 
 
 ### 📁 archwikicli tool
@@ -3527,7 +3527,7 @@ _Tools related to vcs performance._
 - [is-fast](https://github.com/Magic-JD/is-fast) 🌐 👨‍💻 - A TUI tool designed for quick and efficient internet searches directly from the terminal, ideal for environments where you don't have easy access to a browser.
 
 
-# 🎯 option-picker
+# option-picker
 
 
 ### 📁 fuzzy‑search
@@ -3588,7 +3588,7 @@ _Tools related to fuzzy finder._
 - [television](https://github.com/alexpasmantier/television) 👨‍💻 - Blazing fast general purpose fuzzy finder TUI.
 
 
-# 🗃️ organizers
+# organizers
 
 
 ### 📁 google calendar cli toolent
@@ -3666,7 +3666,7 @@ _Tools related to contact manager._
 - [pbook](https://github.com/proh14/pbook) 👨‍💻 - A simple phonebook manager for TUI lovers.
 
 
-# 📦 package-manager
+# package-manager
 
 
 ### 📁 gitforlargefiles
@@ -3787,7 +3787,7 @@ _Tools related to secrets manager._
 - [teller](https://github.com/tellerops/teller) 🌐 - Cloud native secrets management for developers - never leave your command line for secrets.
 
 
-# 📋 pastebin
+# pastebin
 
 
 ### 📁 pastebincli tool
@@ -3802,7 +3802,7 @@ _Tools related to pastebin._
 - [paste69](https://github.com/watzon/paste69) 🌐 - Simple CURL-able pastebin.
 
 
-# ⚡ productivity
+# productivity
 
 
 ### 📁 mind‑mapping
@@ -3845,7 +3845,7 @@ _Tools related to tui utils._
 - [gtt](https://github.com/eeeXun/gtt) 🌐 👨‍💻 - Google Translate TUI (Originally), now supporting Apertium, Argos, Bing, ChatGPT, DeepL, DeepLX, Google, Reverso.
 
 
-# 💻 programming
+# programming
 
 
 ### 📁 debugging
@@ -4029,7 +4029,7 @@ _Tools related to live reloader._
 - [mush](https://github.com/javanile/mush) - Mush, a build system for shell.
 
 
-# 📄 programming-boilerplate
+# programming-boilerplate
 
 - [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
 - [kickstart](https://github.com/Keats/kickstart) - Scaffolding tool to get new projects up and running quickly.
@@ -4077,7 +4077,7 @@ _Tools related to contributing.md generator._
 - [contributing-generator](https://github.com/friedrith/contributing-generator) 👨‍💻 - A generator for the CONTRIBUTING.md, README.md, LICENSE, etc.
 
 
-# 🖥️ prompt
+# prompt
 
 - [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [Starship](https://starship.rs/) - The cross-shell prompt for astronauts.
@@ -4114,7 +4114,7 @@ _Tools related to custom prompt._
 - [blaze](https://github.com/danieltodor/blaze) 👨‍💻 - A customizable and informative prompt for bash, zsh, fish, on linux distributions.
 
 
-# 🛐 religion
+# religion
 
 
 ### 📁 text readers
@@ -4134,7 +4134,7 @@ _Tools related to cli tool bible viewer._
 - [The Rock](https://gitlab.com/NoahJelen/the-rock) - Command line King James bible viewer for Linux systems modeled after Debian's bible-kjv, but with extra features.
 
 
-# 🗑️ rm
+# rm
 
 - [rip](https://github.com/nivekuil/rip) - Move and restore items from the graveyard (by default, `/tmp/graveyard-$USER` if $XDG_DATA_HOME is not set and `$XDG_DATA_HOME/graveyard` otherwise)
 
@@ -4175,7 +4175,7 @@ _Tools related to trash management._
 - [trashbhuwan](https://github.com/tribhuwan-kumar/trashbhuwan) 👨‍💻 - Trashing CLI application for Linux distros, written in C.
 
 
-# 📰 rss
+# rss
 
 
 ### 📁 rss readers
@@ -4205,7 +4205,7 @@ _Tools related to rss tool._
 - [feedln](https://github.com/xqtr/feedln) 🌐 👨‍💻 - A simple terminal RSS reader.
 
 
-# 🔬 science
+# science
 
 
 ### 📁 academicdownloadercli tool
@@ -4265,7 +4265,7 @@ _Tools related to game._
 - [periodic-table-cli-py](https://github.com/spirometaxas/periodic-table-cli-py) - An interactive Periodic Table of Elements app for the console.
 
 
-# 🎥 screen-recorder
+# screen-recorder
 
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
 
@@ -4292,7 +4292,7 @@ _Tools related to svg generator._
 - [terminal-svg-screenshot](https://github.com/suin/terminal-svg-screenshot) - A tool for creating beautiful SVG screenshots of terminal output, perfect for documentation and blog posts.
 
 
-# 🖼️ screensaver
+# screensaver
 
 - [termsaver](http://termsaver.brunobraga.net/) 👨‍💻 - termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens.
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) 👨‍💻 - Animated pipes terminal screensaver.
@@ -4314,7 +4314,7 @@ _Tools related to ascii aquarium._
 - [lifecycler](https://github.com/cxreiff/lifecycler) 👨‍💻 - An aquarium that runs in your terminal.
 
 
-# 🔒 security
+# security
 
 
 ### 📁 encryption module
@@ -4468,7 +4468,7 @@ _Tools related to code signer._
 - [quill](https://anchore.com/opensource/) - Simple mac binary signing from any platform.
 
 
-# 🐚 shells
+# shells
 
 - [Bash](https://www.gnu.org/software/bash/) - (Bourne Again SHell) The most widespread system shell to date.
 - [Fish](https://fishshell.com/) - "A command line shell for the 90s"; focused on user-friendliness, with powerful autosuggestions, colors, "sane scripting" (w.r.t. to Bash).
@@ -4501,7 +4501,7 @@ _Tools related to text-based window manager._
 - [arsh](https://github.com/sekiguchi-nagisa/arsh) - A statically typed scripting language with shell-like features.
 
 
-# 🧠 system
+# system
 
 
 ### 📁 console sharing
@@ -4648,7 +4648,7 @@ _Tools related to vcs benchmark._
 - [empiriqa](https://github.com/ynqa/empiriqa) - empiriqa (command name is epiq) is a tool for interactively manipulating UNIX pipelines.
 
 
-# 🖥️ terminal
+# terminal
 
 
 ### 📁 window-manager
@@ -4704,7 +4704,7 @@ _Tools related to terminal emulator._
 - [ghostty](https://github.com/ghostty-org/ghostty/) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 
-# ✂️ text-processing
+# text-processing
 
 
 ### 📁 syntax highlighting
@@ -4896,7 +4896,7 @@ _Tools related to data extractor._
 - [seaq](https://github.com/nt54hamnghi/seaq) 🌐 - seaq (pronounced "seek") allows you to extract text data from the web and process it with your favorite prompt and LLM model, all from your terminal.
 
 
-# 🔎 text-search
+# text-search
 
 
 ### 📁 code search
@@ -4959,7 +4959,7 @@ _Tools related to file search._
 - [krep](https://github.com/davidesantangelo/krep) - Blazingly fast text search tool with multiple algorithms (Boyer-Moore, KMP, Rabin-Karp), SIMD acceleration, multi-threading, and regex support. Outperforms traditional tools with memory-mapped I/O and hardware optimizations for who need rapid pattern matching at scale.
 
 
-# 📝 text-search-replace
+# text-search-replace
 
 - [sd](https://github.com/chmln/sd) - s[earch] & d[isplace] - An intuitive find & replace CLI a possible replacement for sed.
 
@@ -4989,7 +4989,7 @@ _Tools related to search tools._
 - [Rep](https://github.com/robenkleene/rep-grep) - Rep is a command-line utility that takes grep-formatted lines via standard input, and performs a find-and-replace on them.
 
 
-# ⏳ time-tracker
+# time-tracker
 
 
 ### 📁 automatic time tracker
@@ -5068,7 +5068,7 @@ _Tools related to pomodoro tracker._
 - [aimssh](https://github.com/sairash/aimssh) 👨‍💻 - SSH Pomodoro app.
 
 
-# ✅ todo-manager
+# todo-manager
 
 
 ### 📁 python todo manager
@@ -5183,7 +5183,7 @@ _Tools related to interactive todo.txt._
 - [cursedtodo](https://github.com/FLchs/cursedtodo) 👨‍💻 - A minimalist, terminal base todo manager storing tasks as .ics files for storage.
 
 
-# 🧲 torrent
+# torrent
 
 
 ### 📁 torrentcli toolent
@@ -5219,7 +5219,7 @@ _Tools related to torrent streamer._
 - [toru](https://github.com/sweetbbak/toru) 🌐 - BitTorrent streaming CLI tool to stream anime torrents in real-time with no waiting for downloads.
 
 
-# 📤 transfer
+# transfer
 
 
 ### 📁 cloudsyncmanager
@@ -5391,7 +5391,7 @@ _Tools related to file sharing tool._
 - [Froop](https://github.com/happer64bit/froop) 🌐 - Share file across network seamlessly and securely.
 
 
-# ⌨️ typing
+# typing
 
 - [Typespeed](http://typespeed.sourceforge.net/) 👨‍💻 - Type words that are flying by from left to right as fast as you can; features different word sets, e.g., UNIX commands, English words, Non-English words.
 
@@ -5435,7 +5435,7 @@ _Tools related to typing speed test._
 - [chimp-type](https://github.com/NewstellerBot/chimp-type) 👨‍💻 - A minimal typing test for terminal written in go.
 
 
-# 🧰 utility
+# utility
 
 
 ### 📁 wellness
@@ -5625,7 +5625,7 @@ _Tools related to checksum tool._
 - [volgo](https://github.com/elliot40404/volgo) 🌐 - A cross-platform CLI app written in Go for controlling system volume from the terminal. Use simple commands or a beautiful interactive TUI—even over SSH.
 
 
-# 📌 versioning
+# versioning
 
 - [Mercurial](https://www.mercurial-scm.org/) - Free, distributed source control management tool.
 - [Bazaar](http://bazaar.canonical.com/en/) - Multiplatform version control system supporting different workflows; it is part of the GNU Project, and it is free software sponsored by Canonical.
@@ -5658,7 +5658,7 @@ _Tools related to git translator._
 - [cocommit](https://github.com/andrewromanenco/cocommit) - Cocommit is a command-line tool that works with your HEAD commit and leverages an LLM of your choice to enhance commit quality.
 
 
-# 🎬 video
+# video
 
 
 ### 📁 youtubeaudiosplitter
@@ -5728,7 +5728,7 @@ _Tools related to audio translator._
 - [subauto](https://github.com/ricjuanflores/subauto) 🤖 🌐 - CLI tool for transcribing, translating, and embedding subtitles in videos using Gemini AI.
 
 
-# 🔎 viewers
+# viewers
 
 - [ccat](https://github.com/owenthereal/ccat) - `cat` with colorized output.
 
@@ -5846,7 +5846,7 @@ _Tools related to media viewer._
 - [timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 
 
-# 📀 vm
+# vm
 
 
 ### 📁 container
@@ -5941,7 +5941,7 @@ _Tools related to docker tool._
 - [ocui](https://github.com/fishinthecalculator/ocui) 👨‍💻 - Simple text based UI for managing containers.
 
 
-# 🌍 webdev
+# webdev
 
 
 ### 📁 staticsitegenerator
@@ -6079,7 +6079,7 @@ _Tools related to api client or wrapper._
 - [qwicket](https://github.com/hardfau1t/qwicket) 👨‍💻 - Commandline API development ecosystem.
 
 
-# ✍️ writing
+# writing
 
 
 ### 📁 command-line translator
