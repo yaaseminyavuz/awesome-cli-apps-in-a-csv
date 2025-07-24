@@ -97,8 +97,6 @@ Some links are available to [related resources](#related-resources).
 - 📂 [webdev](#webdev) (**30 tools**, 27 subcategories)
 - 📂 [writing](#writing) (**11 tools**, 10 subcategories)
 
-# ai
-
 # 🤖 ai
 
 
