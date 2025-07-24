@@ -99,6 +99,11 @@ Some links are available to [related resources](#related-resources).
 
 # ai
 
+
+
+<!-- Subcategory: chatgpt tools | Tools related to chatgpt tools. -->
+- [chatgpt](https://github.com/mglantz/chatgpt) 🤖 🌐 - Simple command line integration to ChatGPT.
+- 
 ## 📁 AI assistant — 🟢 *1 tools* — _Tools related to ai assistant._
 - [gemini-cli](https://github.com/reugn/gemini-cli) [🤖 ✅ 🌐 ✅ 🖥️CLI] - A command-line interface (CLI) for Google Gemini.
 
