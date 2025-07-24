@@ -100,6 +100,20 @@ Some links are available to [related resources](#related-resources).
 # ai
 
 
+# 🛠️ ai
+
+### 📁 chatgpt tools
+_Tools related to chatgpt tools._
+
+- [chatgpt](https://github.com/mglantz/chatgpt) 🤖 🌐 - Simple command line integration to ChatGPT.
+### 📁 chatgpt tools
+_Tools related to chatgpt tools._
+
+- [ata](https://github.com/transformrs/ata) 🌐 - Ask the Terminal Anything: OpenAI GPT in the terminal.
+### 📁 chatgpt tools
+_Tools related to chatgpt tools._
+
+
 
 <!-- Subcategory: chatgpt tools | Tools related to chatgpt tools. -->
 - [chatgpt](https://github.com/mglantz/chatgpt) 🤖 🌐 - Simple command line integration to ChatGPT.
